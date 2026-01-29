@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/6959d9279f1b381eb27284ed?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697b77f11136d179eeeef890?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Jan 29 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697b6e281136d179eeeef044?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Jan 29 |
 | **[OneStream Software](https://www.onestream.com)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Liquidnet](http://www.liquidnet.com)** | **[Business Management & Analytics Intern, Liquidnet](https://jobright.ai/jobs/info/695c37c8aa05c26e7ab5879c?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 29 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern Business Summer 2026](https://jobright.ai/jobs/info/695f05240badca5763af7c6b?utm_campaign=1067&utm_source=git)** | Collierville, TN | On Site | Jan 28 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Jan 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697a8e1b8dbbf73badc7bda0?utm_campaign=1067&utm_source=git)** | Denver, CO, US | On Site | Jan 28 |
 | ↳ | **[Transit Business Analyst Intern (Summer 2026](https://jobright.ai/jobs/info/697a94888dbbf73badc7cb74?utm_campaign=1067&utm_source=git)** | Ambler, PA, US | On Site | Jan 28 |
-| **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/697a8c4ef6fc293b0a2c668d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 28 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern - Woodland Hills CA](https://jobright.ai/jobs/info/697a5400b4589b4ee87c9ea5?utm_campaign=1067&utm_source=git)** | United States-California-Woodland Hills | On Site | Jan 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a6b60f6fc293b0a2c3b76?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Jan 28 |
 | ↳ | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
@@ -114,7 +116,8 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - Business Operations](https://jobright.ai/jobs/info/6979503a88e2b47213bd88ad?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jan 26 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/697803cc88e2b47213bc0e00?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fcaa52f3c27ec6443685?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| ↳ | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
+| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
+| **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/6977d58a88e2b47213bbcda6?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977c56488e2b47213bbbacb?utm_campaign=1067&utm_source=git)** | 300 West Lime Street, Suite 300 Lakeland, Florida 33815 | On Site | Jan 26 |
 | ↳ | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977c2f5fdeb8243a27aaf2d?utm_campaign=1067&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
@@ -139,7 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d215bc8e722e7b18a1aa?utm_campaign=1067&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6973be24206da320f49db9d5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| **[Waters Corporation](http://www.waters.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 23 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
+| **[AperioHub](https://aperiohub.com)** | **[Business Intern  - Feb 26](https://jobright.ai/jobs/info/697b6de71423772304eb95c0?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | ↳ | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
