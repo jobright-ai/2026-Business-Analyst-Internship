@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | ↳ | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
 | **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
-| **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6972e59b1d55d64a2053492b?utm_campaign=1067&utm_source=git)** | Auto Division - Livonia, 12600 Stark Rd., Livonia, Michigan, United States of America | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
