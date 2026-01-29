@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697baf1b1423772304ebda5e?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 29 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697bd3981423772304ec044f?utm_campaign=1067&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 29 |
+| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/697bc76e1423772304ebf451?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697bbb4c1423772304ebe696?utm_campaign=1067&utm_source=git)** | Conyers, GA | On Site | Jan 29 |
+| **[American Lending Center Holdings Inc.](http://usa-rc.com/)** | **[Business Internship (Loan Department)](https://jobright.ai/jobs/info/697bc6c60b88cc7d64229371?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[Austin Community College](http://austincc.edu)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/697ba02b1423772304ebc5dc?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 29 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697b96f41423772304ebb514?utm_campaign=1067&utm_source=git)** | OH-MASON, 4361 IRWIN SIMPSON RD | On Site | Jan 29 |
 | ↳ | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697b96cf1423772304ebb4ef?utm_campaign=1067&utm_source=git)** | VA-NORFOLK, 5800 NORTHAMPTON BLVD | On Site | Jan 29 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/697b84610b88cc7d64224a79?utm_campaign=1067&utm_source=git)** | Highland Campus | On Site | Jan 29 |
 | **[Chloé](http://www.chloe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697b82781423772304eba5f4?utm_campaign=1067&utm_source=git)** | BELLEVUE | On Site | Jan 29 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/6959d9279f1b381eb27284ed?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
-| **[OneStream Software](https://www.onestream.com)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Liquidnet](http://www.liquidnet.com)** | **[Business Management & Analytics Intern, Liquidnet](https://jobright.ai/jobs/info/695c37c8aa05c26e7ab5879c?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 29 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern Business Summer 2026](https://jobright.ai/jobs/info/695f05240badca5763af7c6b?utm_campaign=1067&utm_source=git)** | Collierville, TN | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 28 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a47f1a5b9804527e018ec?utm_campaign=1067&utm_source=git)** | Corporate - Atlanta | On Site | Jan 28 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
-| **[Yes Energy](https://www.yesenergy.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979d641a5b9804527df975f?utm_campaign=1067&utm_source=git)** | Boulder, CO | Hybrid | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Jan 28 |
 | **[Ebara Technologies](https://www.ebaratech.com/)** | **[Business Process Analyst Internship (30854)](https://jobright.ai/jobs/info/6979db63a8de441ca734fbff?utm_campaign=1067&utm_source=git)** | Sacramento, CA - Sacramento, CA 95838 | On Site | Jan 27 |
 | **[College Works Painting](https://www.collegeworks.com/)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6979a580ca92cf0d6a82f3c0?utm_campaign=1067&utm_source=git)** | Prairie Village, KS | On Site | Jan 27 |
