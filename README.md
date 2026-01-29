@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parspec](https://parspec.io)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697adafac532c4768fe09132?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Jan 28 |
+| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/697ad968c532c4768fe08f65?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Intern](https://jobright.ai/jobs/info/697ab75df6fc293b0a2caf08?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/697acf7a9d60e431a16c7621?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa71b9d60e431a16c3f26?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 28 |
@@ -142,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6972e59b1d55d64a2053492b?utm_campaign=1067&utm_source=git)** | Auto Division - Livonia, 12600 Stark Rd., Livonia, Michigan, United States of America | On Site | Jan 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 22 |
-| **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
