@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 28 |
 | **[Parspec](https://parspec.io)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697adafac532c4768fe09132?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Jan 28 |
 | **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/697ad968c532c4768fe08f65?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697ae6811423772304ead06c?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Intern](https://jobright.ai/jobs/info/697ab75df6fc293b0a2caf08?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 28 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697ae6791423772304ead05f?utm_campaign=1067&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/697acf7a9d60e431a16c7621?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697aa71b9d60e431a16c3f26?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 28 |
 | ↳ | **[Transit Business Analyst Intern (Summer 2026](https://jobright.ai/jobs/info/697aa0b1f6fc293b0a2c8813?utm_campaign=1067&utm_source=git)** | Ambler, PA | On Site | Jan 28 |
