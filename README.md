@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneStream Software](https://www.onestream.com)** | **[Solution Network Business Analyst Intern](https://jobright.ai/jobs/info/690916cbbcccf20de59d6e89?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
+| **[Liquidnet](http://www.liquidnet.com)** | **[Business Management & Analytics Intern, Liquidnet](https://jobright.ai/jobs/info/695c37c8aa05c26e7ab5879c?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 29 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern Business Summer 2026](https://jobright.ai/jobs/info/695f05240badca5763af7c6b?utm_campaign=1067&utm_source=git)** | Collierville, TN | On Site | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 28 |
 | **[Parspec](https://parspec.io)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697adafac532c4768fe09132?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Jan 28 |
@@ -137,6 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d215bc8e722e7b18a1aa?utm_campaign=1067&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6973be24206da320f49db9d5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/697b551b0b88cc7d64221013?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Jan 23 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972d47e0488fd59f7d5cd3c?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Jan 22 |
 | ↳ | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/6972ae279b83b424830eb682?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Jan 22 |
