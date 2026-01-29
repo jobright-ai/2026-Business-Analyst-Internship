@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 28 |
 | **[Parspec](https://parspec.io)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697adafac532c4768fe09132?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Jan 28 |
-| **[PathQuest](https://www.linkedin.com/company/88472978)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/697ad968c532c4768fe08f65?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697ae6811423772304ead06c?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Intern](https://jobright.ai/jobs/info/697ab75df6fc293b0a2caf08?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Jan 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/697ae6791423772304ead05f?utm_campaign=1067&utm_source=git)** | Wilmington, Delaware, United States | Hybrid | Jan 28 |
@@ -68,7 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Transit Business Analyst Intern (Summer 2026](https://jobright.ai/jobs/info/697aa0b1f6fc293b0a2c8813?utm_campaign=1067&utm_source=git)** | Ambler, PA | On Site | Jan 28 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a81079d60e431a16c01a0?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Jan 28 |
 | ↳ | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Jan 28 |
-| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/697a97839d60e431a16c2d90?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Jan 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/697a8e1b8dbbf73badc7bda0?utm_campaign=1067&utm_source=git)** | Denver, CO, US | On Site | Jan 28 |
 | ↳ | **[Transit Business Analyst Intern (Summer 2026](https://jobright.ai/jobs/info/697a94888dbbf73badc7cb74?utm_campaign=1067&utm_source=git)** | Ambler, PA, US | On Site | Jan 28 |
 | **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/697a8c4ef6fc293b0a2c668d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 28 |
@@ -114,8 +112,7 @@ For a complete list, click the following sortable link below:
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - Business Operations](https://jobright.ai/jobs/info/6979503a88e2b47213bd88ad?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jan 26 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/697803cc88e2b47213bc0e00?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fcaa52f3c27ec6443685?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
-| **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
+| ↳ | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/6977d58a88e2b47213bbcda6?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977c56488e2b47213bbbacb?utm_campaign=1067&utm_source=git)** | 300 West Lime Street, Suite 300 Lakeland, Florida 33815 | On Site | Jan 26 |
 | ↳ | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977c2f5fdeb8243a27aaf2d?utm_campaign=1067&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
@@ -146,5 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Toshiba America Electronic Components, Inc.](https://toshiba.semicon-storage.com)** | **[5036 Business Analyst Intern](https://jobright.ai/jobs/info/6973d0eb37785856350da385?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[PADNOS](http://padnos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6972e59b1d55d64a2053492b?utm_campaign=1067&utm_source=git)** | Auto Division - Livonia, 12600 Stark Rd., Livonia, Michigan, United States of America | On Site | Jan 22 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 22 |
-| **[GlobalFoundries](https://gf.com/)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6966a67e5ad3a93f8231f59c?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
