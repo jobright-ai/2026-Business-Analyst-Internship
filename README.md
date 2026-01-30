@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst , Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697d23a3727747250d57dce9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d1ebd137a05102566172d?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d24de727747250d57df8c?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Jan 30 |
 | **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b8137a05102565ebf1?utm_campaign=1067&utm_source=git)** | Remote - Oklahoma, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b4137a05102565ebe6?utm_campaign=1067&utm_source=git)** | Remote - North Dakota, USA | Remote | Jan 30 |
@@ -101,14 +104,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9f5137a05102565d242?utm_campaign=1067&utm_source=git)** | Remote - New Mexico, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9d4137a05102565d216?utm_campaign=1067&utm_source=git)** | Remote - Alabama, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce99e137a05102565d1a1?utm_campaign=1067&utm_source=git)** | Remote - South Dakota, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2663f57a3356966aabc?utm_campaign=1067&utm_source=git)** | Remote - Massachusetts, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3223f57a3356966adb0?utm_campaign=1067&utm_source=git)** | Remote - Oregon, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2ba137a05102565ef27?utm_campaign=1067&utm_source=git)** | Remote - Texas, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3883f57a3356966af4f?utm_campaign=1067&utm_source=git)** | Remote - Pennsylvania, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3223f57a3356966adb0?utm_campaign=1067&utm_source=git)** | Remote - Oregon, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2663f57a3356966aabc?utm_campaign=1067&utm_source=git)** | Remote - Massachusetts, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf34a3f57a3356966ae7d?utm_campaign=1067&utm_source=git)** | Remote - South Carolina, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3883f57a3356966af4f?utm_campaign=1067&utm_source=git)** | Remote - Pennsylvania, USA | Remote | Jan 30 |
 | **[Blush + Bounce](www.blushandbounce.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697cf9e8137a05102565f3fe?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Jan 30 |
 | **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/697c91593f57a33569664b1b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Jan 30 |
 | **[Commvault](https://www.commvault.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/697c68d2727747250d571be9?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Taylor Corporation](http://www.taylorcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979669e52f3c27ec645dcda?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Jan 27 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[AI Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69795f8152f3c27ec645d758?utm_campaign=1067&utm_source=git)** | Elkhart, IN | On Site | Jan 27 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Business Analyst Intern- Summer 2026 Internship](https://jobright.ai/jobs/info/6974135837785856350df773?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 27 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979539e52f3c27ec645b612?utm_campaign=1067&utm_source=git)** | Byron, MN - Taylor Print & Visual Impressions Inc. | On Site | Jan 27 |
-| **[Parspec](https://parspec.io)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697abed29d60e431a16c67bb?utm_campaign=1067&utm_source=git)** | San Mateo, California | Hybrid | Jan 27 |
-| **[Smart Data Solutions](https://sdata.us/)** | **[Business Process and Systems Analyst, Intern](https://jobright.ai/jobs/info/697942c188e2b47213bd77af?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
