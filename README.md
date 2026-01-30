@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/697c91593f57a33569664b1b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Jan 30 |
 | **[Commvault](https://www.commvault.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/697c68d2727747250d571be9?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695f88f2a1bbea1d9a7a487c?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
@@ -147,8 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 23 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6973ec52bc8e722e7b18cd61?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Jan 23 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Business Systems Intern – May 2026 – 8 Months - 5290 Orbitor Dr, Mississauga, ON, L4W 4Z5](https://jobright.ai/jobs/info/6973e3af37785856350db474?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario - Canada | Hybrid | Jan 23 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d37e37785856350da62a?utm_campaign=1067&utm_source=git)** | 01757 | On Site | Jan 23 |
-| ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973d215bc8e722e7b18a1aa?utm_campaign=1067&utm_source=git)** | Milford, MA, US | On Site | Jan 23 |
-| ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
-| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6973be24206da320f49db9d5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
