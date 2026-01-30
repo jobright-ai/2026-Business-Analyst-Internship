@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978e9e152f3c27ec64525fe?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[Smart Data Solutions](https://sdata.us/)** | **[Business Process and Systems Analyst, Intern](https://jobright.ai/jobs/info/6979068a88e2b47213bd192b?utm_campaign=1067&utm_source=git)** | Plano, TX, US | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978d2ac39f7f96cc6d130fe?utm_campaign=1067&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
+| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6978ddbf52f3c27ec6451fee?utm_campaign=1067&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Business Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695beed8f1f8465b79f1f06f?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
@@ -144,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[AXA XL](https://axaxl.com)** | **[Energy Underwriting Intern, Large Commercial](https://jobright.ai/jobs/info/6974357ebc8e722e7b192a67?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr Business Analyst Intern - MBA](https://jobright.ai/jobs/info/69742d50206da320f49e4f9e?utm_campaign=1067&utm_source=git)** | 4810 Eastgate Mall, San Diego, CALIFORNIA, United States | Hybrid | Jan 23 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/6974150e206da320f49e206e?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Jan 23 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971244c587dfa0bb55ead4f?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
