@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluecrest Partners](bluecrestpartners.us)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/697c551e137a051025654758?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695f88f2a1bbea1d9a7a487c?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697c2a190b88cc7d64232dad?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Jan 29 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697bd3981423772304ec044f?utm_campaign=1067&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Supply Chain Business Analyst Intern](https://jobright.ai/jobs/info/697bc76e1423772304ebf451?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697bbb4c1423772304ebe696?utm_campaign=1067&utm_source=git)** | Conyers, GA | On Site | Jan 29 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697bde581423772304ec19cd?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 29 |
 | **[WellSky](https://wellsky.com)** | **[Business Intern - Summer 2026](https://jobright.ai/jobs/info/697bd5590b88cc7d6422a930?utm_campaign=1067&utm_source=git)** | Overland Park, KS | On Site | Jan 29 |
 | **[American Lending Center Holdings Inc.](http://usa-rc.com/)** | **[Business Internship (Loan Department)](https://jobright.ai/jobs/info/697bc6c60b88cc7d64229371?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Jan 29 |
 | **[Austin Community College](http://austincc.edu)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/697ba02b1423772304ebc5dc?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 29 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Jan 28 |
 | **[BGIS](https://www.bgis.com)** | **[Summer Intern, Business Analyst](https://jobright.ai/jobs/info/695df5f8821f2713684b28f8?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Jan 28 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/697c60503f57a33569660cb0?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 | **[Ebara Technologies](https://www.ebaratech.com/)** | **[Business Process Analyst Internship (30854)](https://jobright.ai/jobs/info/6979db63a8de441ca734fbff?utm_campaign=1067&utm_source=git)** | Sacramento, CA - Sacramento, CA 95838 | On Site | Jan 27 |
 | **[College Works Painting](https://www.collegeworks.com/)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6979a580ca92cf0d6a82f3c0?utm_campaign=1067&utm_source=git)** | Prairie Village, KS | On Site | Jan 27 |
 | **[Taylor Corporation](https://taylor.taylor.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6979669e52f3c27ec645dcda?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Jan 27 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/69790cb088e2b47213bd29e5?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978e9e152f3c27ec64525fe?utm_campaign=1067&utm_source=git)** | Portland, ME | On Site | Jan 27 |
 | **[Smart Data Solutions](https://sdata.us/)** | **[Business Process and Systems Analyst, Intern](https://jobright.ai/jobs/info/6979068a88e2b47213bd192b?utm_campaign=1067&utm_source=git)** | Plano, TX, US | On Site | Jan 27 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Business Management Analyst Intern/Co-op](https://jobright.ai/jobs/info/6978fec552f3c27ec6454b6b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/6978d2ac39f7f96cc6d130fe?utm_campaign=1067&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6978ddbf52f3c27ec6451fee?utm_campaign=1067&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/692294077795cd460c836469?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 27 |
@@ -125,8 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Jan 26 |
 | **[AM General LLC](http://www.amgeneral.com)** | **[Internship - Business Operations](https://jobright.ai/jobs/info/6979503a88e2b47213bd88ad?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6977fcaa52f3c27ec6443685?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
-| **[Tecovas](http://tecovas.com)** | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
+| ↳ | **[Business Technology Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978132752f3c27ec6444108?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Central Business Services](https://jobright.ai/jobs/info/6977d58a88e2b47213bbcda6?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977c56488e2b47213bbbacb?utm_campaign=1067&utm_source=git)** | 300 West Lime Street, Suite 300 Lakeland, Florida 33815 | On Site | Jan 26 |
 | ↳ | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6977c2f5fdeb8243a27aaf2d?utm_campaign=1067&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
