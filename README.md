@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ceac83f57a33569669091?utm_campaign=1067&utm_source=git)** | Remote - Montana, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cea65137a05102565d321?utm_campaign=1067&utm_source=git)** | Remote - Ohio, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9f5137a05102565d242?utm_campaign=1067&utm_source=git)** | Remote - New Mexico, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9d4137a05102565d216?utm_campaign=1067&utm_source=git)** | Remote - Alabama, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce99e137a05102565d1a1?utm_campaign=1067&utm_source=git)** | Remote - South Dakota, USA | Remote | Jan 30 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697cdc753f57a335696688dd?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Jan 30 |
 | **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/697c91593f57a33569664b1b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Jan 30 |
 | **[Commvault](https://www.commvault.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/697c68d2727747250d571be9?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
@@ -144,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer-Fall 2026 Co-op Intern - Business Analyst, Global Business Growth and Automation](https://jobright.ai/jobs/info/6974366f206da320f49e565b?utm_campaign=1067&utm_source=git)** | Indiana - Indianapolis | On Site | Jan 23 |
 | **[AXA XL](https://axaxl.com)** | **[Energy Underwriting Intern, Large Commercial](https://jobright.ai/jobs/info/6974357ebc8e722e7b192a67?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jan 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Sr Business Analyst Intern - MBA](https://jobright.ai/jobs/info/69742d50206da320f49e4f9e?utm_campaign=1067&utm_source=git)** | 4810 Eastgate Mall, San Diego, CALIFORNIA, United States | Hybrid | Jan 23 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/6974150e206da320f49e206e?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
