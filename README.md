@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69693f13639b452fb57f09af?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696032f0a1bbea1d9a7b0ada?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Jan 29 |
 | **[Vicki's Amish Traditions](https://vickisamishtraditions.com/)** | **[Business Management Intern/Apprentice](https://jobright.ai/jobs/info/697bdf900b88cc7d6422be30?utm_campaign=1067&utm_source=git)** | Millbrook, AL | On Site | Jan 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697bd3981423772304ec044f?utm_campaign=1067&utm_source=git)** | Dorval, Québec, CA, H4S 1Y9 | Hybrid | Jan 29 |
@@ -149,5 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/6973c461206da320f49dbc22?utm_campaign=1067&utm_source=git)** | US-MA-Milford | On Site | Jan 23 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6973be24206da320f49db9d5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | On Site | Jan 23 |
 | **[Waters Corporation](http://www.waters.com)** | **[IT Intern, SAP Finance - Business System Analyst](https://jobright.ai/jobs/info/696f91373ed06875134a82a0?utm_campaign=1067&utm_source=git)** | Milford, MA | On Site | Jan 23 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
