@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697f6b53abff4c399a9e1561?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 01 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/697f1608abff4c399a9dbcf7?utm_campaign=1067&utm_source=git)** | Wallingford, CT | On Site | Feb 01 |
 | ↳ | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/697f0fa87f40342e15d7c97e?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Feb 01 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/697eca7e7f40342e15d77aac?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Jan 31 |
@@ -82,8 +81,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/697d2d083f57a3356966f2cf?utm_campaign=1067&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d302c727747250d57fcb4?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2f9a137a05102566399b?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d24de727747250d57df8c?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Jan 30 |
 | **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
@@ -129,19 +128,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9f5137a05102565d242?utm_campaign=1067&utm_source=git)** | Remote - New Mexico, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9d4137a05102565d216?utm_campaign=1067&utm_source=git)** | Remote - Alabama, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce99e137a05102565d1a1?utm_campaign=1067&utm_source=git)** | Remote - South Dakota, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3223f57a3356966adb0?utm_campaign=1067&utm_source=git)** | Remote - Oregon, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf34a3f57a3356966ae7d?utm_campaign=1067&utm_source=git)** | Remote - South Carolina, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3883f57a3356966af4f?utm_campaign=1067&utm_source=git)** | Remote - Pennsylvania, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2663f57a3356966aabc?utm_campaign=1067&utm_source=git)** | Remote - Massachusetts, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf34a3f57a3356966ae7d?utm_campaign=1067&utm_source=git)** | Remote - South Carolina, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2ba137a05102565ef27?utm_campaign=1067&utm_source=git)** | Remote - Texas, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3223f57a3356966adb0?utm_campaign=1067&utm_source=git)** | Remote - Oregon, USA | Remote | Jan 30 |
 | **[Blush + Bounce](www.blushandbounce.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697cf9e8137a05102565f3fe?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Jan 30 |
 | **[Absa Group](http://absa.co.za/)** | **[Intern (M) - Business](https://jobright.ai/jobs/info/697c91593f57a33569664b1b?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Jan 30 |
 | **[Commvault](https://www.commvault.com)** | **[Business Technology Intern](https://jobright.ai/jobs/info/697c68d2727747250d571be9?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695f88f2a1bbea1d9a7a487c?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Jan 29 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697c2a190b88cc7d64232dad?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Jan 29 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69693f13639b452fb57f09af?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Jan 29 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/697ecd95abff4c399a9d6ac6?utm_campaign=1067&utm_source=git)** | United States | Remote | Jan 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697b96cf1423772304ebb4ef?utm_campaign=1067&utm_source=git)** | VA-NORFOLK, 5800 NORTHAMPTON BLVD | On Site | Jan 29 |
 | ↳ | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697b958e0b88cc7d64225402?utm_campaign=1067&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | On Site | Jan 29 |
 | ↳ | **[Pharmacy Business Analytics Internship – Summer 2026](https://jobright.ai/jobs/info/697b932c1136d179eeef0b97?utm_campaign=1067&utm_source=git)** | CT-WALLINGFORD, 108 LEIGUS RD | On Site | Jan 29 |
+| **[Austin Community College](http://austincc.edu)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/697b84610b88cc7d64224a79?utm_campaign=1067&utm_source=git)** | Highland Campus | On Site | Jan 29 |
+| **[Chloé](http://www.chloe.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/697b82781423772304eba5f4?utm_campaign=1067&utm_source=git)** | BELLEVUE | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
