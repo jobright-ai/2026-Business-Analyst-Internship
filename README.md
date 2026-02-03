@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/698189beabff4c399aa0aae6?utm_campaign=1067&utm_source=git)** | Melville, NY | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/698158b449964d25b5e44c9c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698154987f40342e15da56ad?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Feb 02 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9f5137a05102565d242?utm_campaign=1067&utm_source=git)** | Remote - New Mexico, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9d4137a05102565d216?utm_campaign=1067&utm_source=git)** | Remote - Alabama, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce99e137a05102565d1a1?utm_campaign=1067&utm_source=git)** | Remote - South Dakota, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3883f57a3356966af4f?utm_campaign=1067&utm_source=git)** | Remote - Pennsylvania, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf34a3f57a3356966ae7d?utm_campaign=1067&utm_source=git)** | Remote - South Carolina, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3223f57a3356966adb0?utm_campaign=1067&utm_source=git)** | Remote - Oregon, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2663f57a3356966aabc?utm_campaign=1067&utm_source=git)** | Remote - Massachusetts, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3883f57a3356966af4f?utm_campaign=1067&utm_source=git)** | Remote - Pennsylvania, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2ba137a05102565ef27?utm_campaign=1067&utm_source=git)** | Remote - Texas, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
