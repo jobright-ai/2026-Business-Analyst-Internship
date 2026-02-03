@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wits Solutions Inc.](http://www.witssolutions.com/)** | **[Business Intern / Junior Business Analyst](https://jobright.ai/jobs/info/698230eaa314e7636905912c?utm_campaign=1067&utm_source=git)** | Ashburn, VA | On Site | Feb 03 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Internship](https://jobright.ai/jobs/info/6982302ac3101f1400c3d9a5?utm_campaign=1067&utm_source=git)** | USA VA Sterling | On Site | Feb 03 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Feb 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 03 |
 | **[Chloé](http://www.chloe.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981dea7a314e76369053ea2?utm_campaign=1067&utm_source=git)** | BELLEVUE | On Site | Feb 03 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9f5137a05102565d242?utm_campaign=1067&utm_source=git)** | Remote - New Mexico, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9d4137a05102565d216?utm_campaign=1067&utm_source=git)** | Remote - Alabama, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce99e137a05102565d1a1?utm_campaign=1067&utm_source=git)** | Remote - South Dakota, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf32d3f57a3356966add4?utm_campaign=1067&utm_source=git)** | Remote - Alaska, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2663f57a3356966aabc?utm_campaign=1067&utm_source=git)** | Remote - Massachusetts, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2ba137a05102565ef27?utm_campaign=1067&utm_source=git)** | Remote - Texas, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf3883f57a3356966af4f?utm_campaign=1067&utm_source=git)** | Remote - Pennsylvania, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf34a3f57a3356966ae7d?utm_campaign=1067&utm_source=git)** | Remote - South Carolina, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
