@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/6977b76ffdeb8243a27aa2d4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 03 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/69824206c3101f1400c3f243?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 03 |
 | ↳ | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/698264500f6f7e7a2cdb8e2d?utm_campaign=1067&utm_source=git)** | 800 East 96th Street, Suite 200 , Indianapolis, IN, 46240, US | On Site | Feb 03 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9f5137a05102565d242?utm_campaign=1067&utm_source=git)** | Remote - New Mexico, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce9d4137a05102565d216?utm_campaign=1067&utm_source=git)** | Remote - Alabama, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ce99e137a05102565d1a1?utm_campaign=1067&utm_source=git)** | Remote - South Dakota, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf227727747250d57abb3?utm_campaign=1067&utm_source=git)** | Remote - Illinois, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf24c727747250d57ac4b?utm_campaign=1067&utm_source=git)** | Remote - Florida, USA | Remote | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf2663f57a3356966aabc?utm_campaign=1067&utm_source=git)** | Remote - Massachusetts, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
