@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/6983181f348f733a5c363818?utm_campaign=1067&utm_source=git)** | Wallingford, CT | On Site | Feb 04 |
+| **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/69831a8d348f733a5c36394b?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 04 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern - Innovation](https://jobright.ai/jobs/info/69828dd20f6f7e7a2cdbce5a?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | **[TradeUP Securities Inc.](https://tradeup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69828a4e0a9e07331f8da4a2?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Feb 03 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/6977b76ffdeb8243a27aa2d4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cebf8727747250d579630?utm_campaign=1067&utm_source=git)** | Remote - Minnesota, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cebd8727747250d5795d0?utm_campaign=1067&utm_source=git)** | Remote - Arizona, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ceb9b3f57a335696692e9?utm_campaign=1067&utm_source=git)** | Remote - Maryland, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ceac83f57a33569669091?utm_campaign=1067&utm_source=git)** | Remote - Montana, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cea65137a05102565d321?utm_campaign=1067&utm_source=git)** | Remote - Ohio, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
