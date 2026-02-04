@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/6983181f348f733a5c363818?utm_campaign=1067&utm_source=git)** | Wallingford, CT | On Site | Feb 04 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[Business Analyst Intern - Logistics & Transportation](https://jobright.ai/jobs/info/69831a8d348f733a5c36394b?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 04 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern - Innovation](https://jobright.ai/jobs/info/69828dd20f6f7e7a2cdbce5a?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cec79137a05102565d8de?utm_campaign=1067&utm_source=git)** | Remote - Kansas, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cebf8727747250d579630?utm_campaign=1067&utm_source=git)** | Remote - Minnesota, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cebd8727747250d5795d0?utm_campaign=1067&utm_source=git)** | Remote - Arizona, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ceb9b3f57a335696692e9?utm_campaign=1067&utm_source=git)** | Remote - Maryland, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
