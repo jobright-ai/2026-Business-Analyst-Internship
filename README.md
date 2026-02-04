@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Analyst Intern - Logistics Operations](https://jobright.ai/jobs/info/6983677f01214b4cdacb126c?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 04 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/694b99235d73121134702e04?utm_campaign=1067&utm_source=git)** | Arlington, TX | Hybrid | Feb 04 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Operations Intern](https://jobright.ai/jobs/info/698373a601214b4cdacb1ae1?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Feb 04 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Business Architecture](https://jobright.ai/jobs/info/692f401cef4b48533d143a76?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Feb 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Business Analyst, Care Model ID and Stratification](https://jobright.ai/jobs/info/69834b9a01214b4cdacaefe3?utm_campaign=1067&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
@@ -97,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Intern, Advisory Business Analyst - May 2026](https://jobright.ai/jobs/info/6980da8d7f40342e15d9a16b?utm_campaign=1067&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/6980dbfa49964d25b5e395a9?utm_campaign=1067&utm_source=git)** | Mason, OH | On Site | Feb 02 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697ec6b77f40342e15d77608?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Feb 02 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6983704a01214b4cdacb1813?utm_campaign=1067&utm_source=git)** | Lexington, Ohio | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/698078a77f40342e15d94d50?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Pharmacy Business Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69806a6a7f40342e15d93fb2?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Feb 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/697d2d083f57a3356966f2cf?utm_campaign=1067&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d302c727747250d57fcb4?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2f9a137a05102566399b?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d24de727747250d57df8c?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Jan 30 |
 | **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cecc0727747250d5798ea?utm_campaign=1067&utm_source=git)** | Remote - Rhode Island, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cec97727747250d579875?utm_campaign=1067&utm_source=git)** | Remote - Iowa, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cec8b3f57a33569669622?utm_campaign=1067&utm_source=git)** | Remote - Mississippi, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cec7b137a05102565d91a?utm_campaign=1067&utm_source=git)** | Remote - New York, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cec79137a05102565d8de?utm_campaign=1067&utm_source=git)** | Remote - Kansas, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
