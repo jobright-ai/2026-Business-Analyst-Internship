@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/697d2d083f57a3356966f2cf?utm_campaign=1067&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d302c727747250d57fcb4?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
 | **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b8137a05102565ebf1?utm_campaign=1067&utm_source=git)** | Remote - Oklahoma, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b4137a05102565ebe6?utm_campaign=1067&utm_source=git)** | Remote - North Dakota, USA | Remote | Jan 30 |
