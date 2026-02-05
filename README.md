@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6983f8790f6f7e7a2cddf7ff?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 04 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Business Optimization Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69841e7a348f733a5c37f08e?utm_campaign=1067&utm_source=git)** | Denver, CO | Hybrid | Feb 04 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Business](https://jobright.ai/jobs/info/6983ff2b01214b4cdacc507c?utm_campaign=1067&utm_source=git)** | Nashville, TN, US | On Site | Feb 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/6983ff380f6f7e7a2cde061c?utm_campaign=1067&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Feb 04 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 04 |
@@ -83,15 +84,15 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
 | **[Cincinnati Reds](https://reds.mlb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698306900f6f7e7a2cdc7326?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/698189beabff4c399aa0aae6?utm_campaign=1067&utm_source=git)** | Melville, NY | On Site | Feb 02 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/698422e78da7a612045e215e?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 02 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981c99149964d25b5e4e1e7?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Feb 02 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/698158b449964d25b5e44c9c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698154987f40342e15da56ad?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Feb 02 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/69815af649964d25b5e44f45?utm_campaign=1067&utm_source=git)** | 68 South Service Road, Suite 300, Melville, NY, 11747, US | On Site | Feb 02 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
-| ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981680749964d25b5e45dfc?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Feb 02 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
+| ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Business Operations AI Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698138347f40342e15da2a27?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | ↳ | **[Global Business Operations AI Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69813119abff4c399aa01810?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Advisory Business Analyst - May 2026](https://jobright.ai/jobs/info/698149b77f40342e15da3d7c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/697d2d083f57a3356966f2cf?utm_campaign=1067&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d302c727747250d57fcb4?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2f9a137a05102566399b?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Jan 30 |
 | **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b8137a05102565ebf1?utm_campaign=1067&utm_source=git)** | Remote - Oklahoma, USA | Remote | Jan 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ced4d727747250d579a52?utm_campaign=1067&utm_source=git)** | Remote - Hawaii, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ced213f57a335696697f8?utm_campaign=1067&utm_source=git)** | Remote - Washington, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ced103f57a335696697c7?utm_campaign=1067&utm_source=git)** | Remote - Idaho, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cece13f57a3356966972e?utm_campaign=1067&utm_source=git)** | Remote - Nevada, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
