@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6984d16d8da7a612045f1101?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 05 |
-| **[Arvento A](arventoa.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6984c78c0f6f7e7a2cdf38ee?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Feb 05 |
+| **[Canterbury Park](https://www.canterburypark.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6984faf50f6f7e7a2cdf7352?utm_campaign=1067&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
+| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6984245e0f6f7e7a2cde55a6?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Feb 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Technical Process Intern – Proposal & Scoping Support](https://jobright.ai/jobs/info/6984692d8da7a612045e8e69?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern-Business](https://jobright.ai/jobs/info/6983ff2b01214b4cdacc507c?utm_campaign=1067&utm_source=git)** | Nashville, TN, US | On Site | Feb 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/6983ff380f6f7e7a2cde061c?utm_campaign=1067&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Feb 04 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/69815af649964d25b5e44f45?utm_campaign=1067&utm_source=git)** | 68 South Service Road, Suite 300, Melville, NY, 11747, US | On Site | Feb 02 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
-| ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
+| ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Business Operations AI Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698138347f40342e15da2a27?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | ↳ | **[Global Business Operations AI Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69813119abff4c399aa01810?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Advisory Business Analyst - May 2026](https://jobright.ai/jobs/info/698149b77f40342e15da3d7c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
