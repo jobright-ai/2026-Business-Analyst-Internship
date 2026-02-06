@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Business Control Analyst (Summer 2026)](https://jobright.ai/jobs/info/6985202d8da7a612045f7a64?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69850f53348f733a5c392f08?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
-| **[Orbient 24](orbient24.us)** | **[Business Analyst Intership Program](https://jobright.ai/jobs/info/6985173a8da7a612045f7022?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/6984fea8348f733a5c391a5c?utm_campaign=1067&utm_source=git)** | IL - Chicago | Hybrid | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6984faf50f6f7e7a2cdf7352?utm_campaign=1067&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6984245e0f6f7e7a2cde55a6?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Feb 05 |
