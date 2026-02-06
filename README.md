@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Intern](https://jobright.ai/jobs/info/6986065b0f6f7e7a2ce0e7ec?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Feb 06 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 06 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 02 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/69815af649964d25b5e44f45?utm_campaign=1067&utm_source=git)** | 68 South Service Road, Suite 300, Melville, NY, 11747, US | On Site | Feb 02 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
-| ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
+| ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Business Operations AI Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/698138347f40342e15da2a27?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | ↳ | **[Global Business Operations AI Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/69813119abff4c399aa01810?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 02 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Advisory Business Analyst - May 2026](https://jobright.ai/jobs/info/698149b77f40342e15da3d7c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 02 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/69624a5a2cbf4e44756c411a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Jan 31 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Information Sciences, Business Analyst (CRM)](https://jobright.ai/jobs/info/697d70b3727747250d585974?utm_campaign=1067&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
-| ↳ | **[Intern, Information Sciences, Business Analyst (CRM)](https://jobright.ai/jobs/info/697d58453f57a335696738e5?utm_campaign=1067&utm_source=git)** | Redwood City, California, United States | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
