@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Intern](https://jobright.ai/jobs/info/6986065b0f6f7e7a2ce0e7ec?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Feb 06 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69862fc60f6f7e7a2ce110bf?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 06 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 06 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/697785ea52f3c27ec6439319?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Feb 06 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/69616c13e7ed9a5731ba30d7?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Jan 31 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/69624a5a2cbf4e44756c411a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Jan 31 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Information Sciences, Business Analyst (CRM)](https://jobright.ai/jobs/info/697d70b3727747250d585974?utm_campaign=1067&utm_source=git)** | San Francisco Bay Area | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
