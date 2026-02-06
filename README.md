@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2025 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6985260c348f733a5c3954a5?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Feb 05 |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/6968a392639b452fb57e691e?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Feb 05 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Business Control Analyst (Summer 2026)](https://jobright.ai/jobs/info/6985202d8da7a612045f7a64?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Feb 05 |
+| **[Phoenix Contact USA](https://www.phoenixcontact.com/en-us/)** | **[Business/Data Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6985390d8da7a612045fa3a1?utm_campaign=1067&utm_source=git)** | Harrisburg, PA | Hybrid | Feb 05 |
+| ↳ | **[Business/Data Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/69853b9a8da7a612045fa935?utm_campaign=1067&utm_source=git)** | Middletown, Pennslyvania | Hybrid | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69850f53348f733a5c392f08?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Feb 05 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/6984fea8348f733a5c391a5c?utm_campaign=1067&utm_source=git)** | IL - Chicago | Hybrid | Feb 05 |
 | **[Canterbury Park](https://www.canterburypark.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6984faf50f6f7e7a2cdf7352?utm_campaign=1067&utm_source=git)** | Shakopee, Minnesota, United States | On Site | Feb 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ceea5137a05102565e039?utm_campaign=1067&utm_source=git)** | Remote - Tennessee, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cee62137a05102565df53?utm_campaign=1067&utm_source=git)** | Remote - Colorado, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cee1c727747250d579cbc?utm_campaign=1067&utm_source=git)** | Remote - Kentucky, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cedd1727747250d579bfb?utm_campaign=1067&utm_source=git)** | Remote - California, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cedbc137a05102565dd93?utm_campaign=1067&utm_source=git)** | Remote - Indiana, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ced89137a05102565dce9?utm_campaign=1067&utm_source=git)** | Remote - Delaware, USA | Remote | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697ced4f727747250d579a82?utm_campaign=1067&utm_source=git)** | Remote - Arkansas, USA | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
