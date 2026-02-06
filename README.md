@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - Summer 2026 candidate](https://jobright.ai/jobs/info/6930bd4cfa28370be26b31c3?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 05 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 Business Operations Internship (Tapestry)](https://jobright.ai/jobs/info/6985649d8da7a612045ff492?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
 | **[Atria Management Company](http://AtriaCareers.com)** | **[Business Optimization Intern](https://jobright.ai/jobs/info/698563760f6f7e7a2ce01fc7?utm_campaign=1067&utm_source=git)** | Louisville, KY | On Site | Feb 05 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2025 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6985260c348f733a5c3954a5?utm_campaign=1067&utm_source=git)** | REMOTE/TELETRAVAIL, ON, CAN | Remote | Feb 05 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/6977b76ffdeb8243a27aa2d4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 03 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/69824206c3101f1400c3f243?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 03 |
 | ↳ | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/698264500f6f7e7a2cdb8e2d?utm_campaign=1067&utm_source=git)** | 800 East 96th Street, Suite 200 , Indianapolis, IN, 46240, US | On Site | Feb 03 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/698464e5348f733a5c3864a3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 03 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Feb 03 |
 | **[Chloé](http://www.chloe.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981dea7a314e76369053ea2?utm_campaign=1067&utm_source=git)** | BELLEVUE | On Site | Feb 03 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/697d2d083f57a3356966f2cf?utm_campaign=1067&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d302c727747250d57fcb4?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
+| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
 | **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b8137a05102565ebf1?utm_campaign=1067&utm_source=git)** | Remote - Oklahoma, USA | Remote | Jan 30 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697cf1b4137a05102565ebe6?utm_campaign=1067&utm_source=git)** | Remote - North Dakota, USA | Remote | Jan 30 |
