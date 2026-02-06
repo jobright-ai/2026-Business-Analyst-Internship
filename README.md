@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6986477a0f6f7e7a2ce129c3?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Feb 06 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 06 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/69863c810f6f7e7a2ce11ee6?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69862fc60f6f7e7a2ce110bf?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 06 |
+| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69863e650f6f7e7a2ce1201c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 06 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/697785ea52f3c27ec6439319?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Feb 06 |
@@ -106,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/698158b449964d25b5e44c9c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698154987f40342e15da56ad?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Feb 02 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 02 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 02 |
 | **[CBIZ](http://www.cbiz.com)** | **[Business Transformation and Innovation Intern / Summer 2026](https://jobright.ai/jobs/info/69815af649964d25b5e44f45?utm_campaign=1067&utm_source=git)** | 68 South Service Road, Suite 300, Melville, NY, 11747, US | On Site | Feb 02 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981626e7f40342e15da656e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 02 |
 | ↳ | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/69816d0fabff4c399aa06c70?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 02 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Middlesex Savings Bank](http://www.middlesexbank.com)** | **[Business Process Management Intern](https://jobright.ai/jobs/info/6980fc3149964d25b5e3c780?utm_campaign=1067&utm_source=git)** | Westborough, MA, US | On Site | Feb 02 |
 | **[LifeNet Health](https://www.lifenethealth.org/)** | **[2026 Summer Internship- IS](https://jobright.ai/jobs/info/6980f951abff4c399a9fc639?utm_campaign=1067&utm_source=git)** | Virginia Beach, Virginia | On Site | Feb 02 |
 | **[Ad Astra](http://aais.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6980e0597f40342e15d9a76e?utm_campaign=1067&utm_source=git)** | Overland Park, KS, US | On Site | Feb 02 |
-| **[Accenture](https://www.accenture.com)** | **[Intern, Advisory Business Analyst - May 2026](https://jobright.ai/jobs/info/6980da8d7f40342e15d9a16b?utm_campaign=1067&utm_source=git)** | Toronto, 40 King St W., Corp | On Site | Feb 02 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697ec6b77f40342e15d77608?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Feb 02 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6983704a01214b4cdacb1813?utm_campaign=1067&utm_source=git)** | Lexington, Ohio | On Site | Feb 02 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[IT Business Services Intern (2026 Semester 1) – Generation H](https://jobright.ai/jobs/info/698078a77f40342e15d94d50?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 02 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[Volvo Cars](https://www.volvocars.com/intl/)** | **[Business Intern](https://jobright.ai/jobs/info/69616c13e7ed9a5731ba30d7?utm_campaign=1067&utm_source=git)** | Ridgeville, SC | On Site | Jan 31 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Intern Post Graduate](https://jobright.ai/jobs/info/69624a5a2cbf4e44756c411a?utm_campaign=1067&utm_source=git)** | Northfield, IL | Hybrid | Jan 31 |
-| **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
