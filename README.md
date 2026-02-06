@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/697785ea52f3c27ec6439319?utm_campaign=1067&utm_source=git)** | Nashville, TN | Hybrid | Feb 06 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 06 |
 | **[Bay FC](https://bayfc.com)** | **[Business Insights and Analytics Intern](https://jobright.ai/jobs/info/6985a61d348f733a5c3a299e?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - Summer 2026 candidate](https://jobright.ai/jobs/info/6930bd4cfa28370be26b31c3?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 05 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Business Enablement Internship Program](https://jobright.ai/jobs/info/6985a0e1348f733a5c3a22e7?utm_campaign=1067&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
@@ -134,8 +136,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst , Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697d23a3727747250d57dce9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 30 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d12a1137a051025660819?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Jan 30 |
 | **[Compugen Inc](http://www.compugen.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/697d2d083f57a3356966f2cf?utm_campaign=1067&utm_source=git)** | Richmond Hill, Ontario, Canada | Hybrid | Jan 30 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d302c727747250d57fcb4?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Jan 30 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Jan 30 |
-| **[BMO](http://www.bmo.com)** | **[Business  Analyst , Summer 2026  (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697cfc4b3f57a3356966b4d3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
