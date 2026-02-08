@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern](https://jobright.ai/jobs/info/69888db58da7a6120463ad55?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Feb 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978485b52f3c27ec6448942?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Technical Process Intern - Proposal & Scoping Support](https://jobright.ai/jobs/info/698850110f6f7e7a2ce39106?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Business Analytics Master&amp;#8217;s Intern](https://jobright.ai/jobs/info/6987e73a0f6f7e7a2ce3088a?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
@@ -64,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (Co-op)](https://jobright.ai/jobs/info/6986bc098ca8121a3a692806?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986aa5b0f6f7e7a2ce1b810?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 06 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship/Co-op Summer 2026 (8 months)-Toronto, ON](https://jobright.ai/jobs/info/6986a9688da7a61204618c21?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986b9b80f6f7e7a2ce1d443?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986ade68ca8121a3a690aa8?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986ade68ca8121a3a690aa8?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986b9b80f6f7e7a2ce1d443?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship/Co-op Summer 2026 (8 months)-Toronto, ON](https://jobright.ai/jobs/info/698699ef8da7a612046173df?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | Hybrid | Feb 06 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Business Solutions-Intern](https://jobright.ai/jobs/info/69867f168da7a61204614dc0?utm_campaign=1067&utm_source=git)** | Winter Haven, FL | Remote | Feb 06 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/698264500f6f7e7a2cdb8e2d?utm_campaign=1067&utm_source=git)** | 800 East 96th Street, Suite 200 , Indianapolis, IN, 46240, US | On Site | Feb 03 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 03 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Feb 03 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 03 |
 | **[Chloé](http://www.chloe.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981dea7a314e76369053ea2?utm_campaign=1067&utm_source=git)** | BELLEVUE | On Site | Feb 03 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 03 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
