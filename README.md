@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MTX Group](https://www.mtxb2b.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698a302047434001cc686796?utm_campaign=1067&utm_source=git)** | Frisco, TX | On Site | Feb 09 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Feb 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698a274b0f6f7e7a2ce53e79?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 09 |
+| **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 09 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/69778497fdeb8243a27a5d83?utm_campaign=1067&utm_source=git)** | Century City, CA | Hybrid | Feb 09 |
 | **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/697780c088e2b47213bb63d6?utm_campaign=1067&utm_source=git)** | Encino, CA | Hybrid | Feb 08 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
@@ -66,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (Co-op)](https://jobright.ai/jobs/info/6986bc098ca8121a3a692806?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986aa5b0f6f7e7a2ce1b810?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 06 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship/Co-op Summer 2026 (8 months)-Toronto, ON](https://jobright.ai/jobs/info/6986a9688da7a61204618c21?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986ade68ca8121a3a690aa8?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986b9b80f6f7e7a2ce1d443?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986b9b80f6f7e7a2ce1d443?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern-Business Analysis  & Operations](https://jobright.ai/jobs/info/6986ade68ca8121a3a690aa8?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship/Co-op Summer 2026 (8 months)-Toronto, ON](https://jobright.ai/jobs/info/698699ef8da7a612046173df?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | Hybrid | Feb 06 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Business Solutions-Intern](https://jobright.ai/jobs/info/69867f168da7a61204614dc0?utm_campaign=1067&utm_source=git)** | Winter Haven, FL | Remote | Feb 06 |
@@ -77,12 +81,12 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Business Solutions-Intern](https://jobright.ai/jobs/info/698681558ca8121a3a68cf74?utm_campaign=1067&utm_source=git)** | Remote Opportunity - VA, NC, SC, GA,  FL, AL, TX, & CO | Remote | Feb 06 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/69863c810f6f7e7a2ce11ee6?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
-| ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
-| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69866b688da7a61204612dd1?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
-| ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69867d988ca8121a3a68ca0a?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
+| ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
+| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
+| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69867d988ca8121a3a68ca0a?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
+| ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69866b688da7a61204612dd1?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69863e650f6f7e7a2ce1201c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Georgia-Pacific LLC](http://www.gp.com/)** | **[GPXpress Business Support Internship - Summer 2026](https://jobright.ai/jobs/info/6960726a7ebc25398eb66878?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 06 |
@@ -125,7 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 03 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
 | **[Cincinnati Reds](https://reds.mlb.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698306900f6f7e7a2cdc7326?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 02 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/698422e78da7a612045e215e?utm_campaign=1067&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Feb 02 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981c99149964d25b5e4e1e7?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Feb 02 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/698158b449964d25b5e44c9c?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
