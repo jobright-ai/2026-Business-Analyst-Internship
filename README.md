@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/697784fbfdeb8243a27a5e09?utm_campaign=1067&utm_source=git)** | White Plains, NY | Hybrid | Feb 09 |
+| **[MGK](https://www.mgk.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/698a7d5a4db8972cecffd027?utm_campaign=1067&utm_source=git)** | Brooklyn Park | On Site | Feb 09 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698a64060f6f7e7a2ce585e4?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 09 |
 | **[MTX Group](https://www.mtxb2b.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698a302047434001cc686796?utm_campaign=1067&utm_source=git)** | Frisco, TX | On Site | Feb 09 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Process Analytics - Technology Delivery Team](https://jobright.ai/jobs/info/698a4cd80f6f7e7a2ce55df7?utm_campaign=1067&utm_source=git)** | Suwanee, GA | On Site | Feb 09 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698a49994db8972cecff88cb?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 09 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/698a415247434001cc687688?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Feb 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698a274b0f6f7e7a2ce53e79?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 09 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Analyst Intern](https://jobright.ai/jobs/info/69863c810f6f7e7a2ce11ee6?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
 | ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
-| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
+| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69867d988ca8121a3a68ca0a?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
 | ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69866b688da7a61204612dd1?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
@@ -130,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Feb 03 |
 | **[Chloé](http://www.chloe.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6981dea7a314e76369053ea2?utm_campaign=1067&utm_source=git)** | BELLEVUE | On Site | Feb 03 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 03 |
-| **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
