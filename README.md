@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orvanta](orvanta.us)** | **[Business Operation Intern](https://jobright.ai/jobs/info/698c78b70f6f7e7a2ce83174?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Feb 11 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698c5c14f64d441a164e4d89?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | On Site | Feb 11 |
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698c5bb778b4502f12a2e144?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6984245e0f6f7e7a2cde55a6?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Feb 10 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Business Solutions-Intern](https://jobright.ai/jobs/info/698681558ca8121a3a68cf74?utm_campaign=1067&utm_source=git)** | Remote Opportunity - VA, NC, SC, GA,  FL, AL, TX, & CO | Remote | Feb 06 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
 | ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
-| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
+| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69867d988ca8121a3a68ca0a?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
 | ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69866b688da7a61204612dd1?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
@@ -127,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Technical Process Intern – Proposal & Scoping Support](https://jobright.ai/jobs/info/6984692d8da7a612045e8e69?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 05 |
 | **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698596fc0f6f7e7a2ce076fd?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/6983ff380f6f7e7a2cde061c?utm_campaign=1067&utm_source=git)** | La Crosse WI 2213 S 20th 12, La Crosse, Wisconsin, United States | Hybrid | Feb 04 |
-| **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
