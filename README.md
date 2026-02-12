@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Business Solutions-Intern](https://jobright.ai/jobs/info/698681558ca8121a3a68cf74?utm_campaign=1067&utm_source=git)** | Remote Opportunity - VA, NC, SC, GA,  FL, AL, TX, & CO | Remote | Feb 06 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
 | ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
-| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
+| ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69866b688da7a61204612dd1?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Feb 06 |
 | ↳ | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69867d988ca8121a3a68ca0a?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 06 |
