@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698dc7f078b4502f12a48a15?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 12 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Internship](https://jobright.ai/jobs/info/698dbe730f6f7e7a2ce9baf8?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Feb 12 |
 | **[Veltrana Group](veltranagroup.us)** | **[Internship Business](https://jobright.ai/jobs/info/698dd3140f6f7e7a2ce9d462?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 12 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698d6cc20f6f7e7a2ce9455a?utm_campaign=1067&utm_source=git)** | Nashville, TN, United States | On Site | Feb 11 |
@@ -129,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/6986668e0f6f7e7a2ce15709?utm_campaign=1067&utm_source=git)** | Lenexa, KS | On Site | Feb 06 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Junior Business Analyst (NYC)](https://jobright.ai/jobs/info/6981490a49964d25b5e42bdb?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Business Solutions-Intern](https://jobright.ai/jobs/info/698681558ca8121a3a68cf74?utm_campaign=1067&utm_source=git)** | Remote Opportunity - VA, NC, SC, GA,  FL, AL, TX, & CO | Remote | Feb 06 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
-| ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/69866d3f0f6f7e7a2ce1648b?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 06 |
+| ↳ | **[Intern, IT Business Analyst](https://jobright.ai/jobs/info/698661f18ca8121a3a689f2a?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/698663cb0f6f7e7a2ce15167?utm_campaign=1067&utm_source=git)** | US-TN-Cordova | Remote | Feb 06 |
 | ↳ | **[IT Intern: Business Analysis  & Operations](https://jobright.ai/jobs/info/69865c8e8ca8121a3a6896b3?utm_campaign=1067&utm_source=git)** | Cordova, TN, US | Remote | Feb 06 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69867d988ca8121a3a68ca0a?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Feb 06 |
@@ -143,5 +142,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 06 |
 | **[ABB](https://global.abb/group/en)** | **[IS Business Analyst Intern - Summer 2026 candidate](https://jobright.ai/jobs/info/6930bd4cfa28370be26b31c3?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 05 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 Business Operations Internship (Tapestry)](https://jobright.ai/jobs/info/6985649d8da7a612045ff492?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Feb 05 |
-| **[Oceaneering](http://www.oceaneering.com/)** | **[Business Analyst – IT SCM Solutions Intern](https://jobright.ai/jobs/info/6968a392639b452fb57e691e?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
