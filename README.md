@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Business Intern](https://jobright.ai/jobs/info/698f859d6ea51a7610f1e0ff?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Summer 2026)](https://jobright.ai/jobs/info/69735bf137785856350d329e?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Feb 13 |
+| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698f86cd0cc8ea15f1da158a?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/697ec6b77f40342e15d77608?utm_campaign=1067&utm_source=git)** | KC Metro Area | Hybrid | Feb 13 |
 | **[Veltrana Group](veltranagroup.us)** | **[Internship Business](https://jobright.ai/jobs/info/698f60ec0cc8ea15f1d9e437?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 13 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/698f36d20f6f7e7a2ceb54f8?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bec78c5761b521a9b872d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Summer Intern](https://jobright.ai/jobs/info/698c28eb91fdda424d5902ae?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 10 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bfd870f6f7e7a2ce78cee?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 10 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfdd891fdda424d58bc8d?utm_campaign=1067&utm_source=git)** | US, DC, Washington | On Site | Feb 10 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfcf60f6f7e7a2ce78c62?utm_campaign=1067&utm_source=git)** | US, CA, Santa Clara | On Site | Feb 10 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfcf60f6f7e7a2ce78c62?utm_campaign=1067&utm_source=git)** | US, CA, Santa Clara | On Site | Feb 10 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfdd891fdda424d58bc8d?utm_campaign=1067&utm_source=git)** | US, DC, Washington | On Site | Feb 10 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Feb 10 |
 | **[PROPWR](www.PROPWR.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698bda780f6f7e7a2ce750e0?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/698ba6380f6f7e7a2ce72084?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 10 |
@@ -133,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978485b52f3c27ec6448942?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Feb 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Technical Process Intern - Proposal & Scoping Support](https://jobright.ai/jobs/info/698850110f6f7e7a2ce39106?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 08 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Analytics Master's Intern](https://jobright.ai/jobs/info/6987811b0f6f7e7a2ce2c6bb?utm_campaign=1067&utm_source=git)** | Oakland, CA | Remote | Feb 07 |
-| **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (Co-op)](https://jobright.ai/jobs/info/6986bc098ca8121a3a692806?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
