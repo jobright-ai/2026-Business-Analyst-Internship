@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canterbury Park](https://www.canterburypark.com)** | **[Seasonal Business Analyst Intern](https://jobright.ai/jobs/info/69850f53348f733a5c392f08?utm_campaign=1067&utm_source=git)** | Shakopee, MN | On Site | Feb 13 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Wealth Investment Management National Office Intern/Co-Op (Summer 2026)](https://jobright.ai/jobs/info/698f13b80cc8ea15f1d96b1c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/698ebdab78b4502f12a59ab6?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 12 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/698ed1d678b4502f12a5aa2b?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Feb 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/698eceeb78b4502f12a5a76f?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Feb 12 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sector Business Analyst Intern](https://jobright.ai/jobs/info/698e7cd20f6f7e7a2cea969e?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Resmed](https://www.resmed.com.au)** | **[AI Business Analyst Intern](https://jobright.ai/jobs/info/698d1a9ff64d441a164f0576?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Feb 11 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698d0efa0f6f7e7a2ce8c13b?utm_campaign=1067&utm_source=git)** | Greater Houston | On Site | Feb 11 |
-| **[Willow Bridge Property Company](https://www.willowbridgepc.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/698d1ae378b4502f12a3a096?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 11 |
 | **[PowerSouth Energy Cooperative](https://www.powersouth.com/)** | **[Business Intern (Member Services Department)](https://jobright.ai/jobs/info/698d0c6378b4502f12a38360?utm_campaign=1067&utm_source=git)** | Andalusia, AL | On Site | Feb 11 |
 | **[Halton Region](https://www.halton.ca)** | **[Intern - Business Transformation](https://jobright.ai/jobs/info/698d10e00f6f7e7a2ce8c3b0?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Feb 11 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/698ba6380f6f7e7a2ce72084?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 10 |
 | **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/698bdae5c5761b521a9b6ae5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a6b60f6fc293b0a2c3b76?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Feb 10 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698b663fc5761b521a9ae07c?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Feb 10 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698b663fc5761b521a9ae07c?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Feb 10 |
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6977882688e2b47213bb6bdd?utm_campaign=1067&utm_source=git)** | Encino, CA | Hybrid | Feb 10 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/698b40704db8972cec00b757?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 | **[ISG](https://is-grp.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/698a6ea74db8972cecffbe34?utm_campaign=1067&utm_source=git)** | Mankato, MN | On Site | Feb 10 |
