@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Corporate Information Services Intern - Summer 2026](https://jobright.ai/jobs/info/698fd2bf6ea51a7610f23b49?utm_campaign=1067&utm_source=git)** | Wellesley, MA | Hybrid | Feb 13 |
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Business Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/698fc7530cc8ea15f1da65c8?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | On Site | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fbe450f6f7e7a2cec0a5d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698f9bcf6ea51a7610f20122?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
+| **[DraftKings Inc.](https://www.draftkings.com)** | **[Business Operations Intern, Third-Party Data & Automation (Summer 2026)](https://jobright.ai/jobs/info/698fd31c0cc8ea15f1da6d4f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Business Intern](https://jobright.ai/jobs/info/698f859d6ea51a7610f1e0ff?utm_campaign=1067&utm_source=git)** | Cambridge, MA | On Site | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fabc60cc8ea15f1da468b?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fad990f6f7e7a2cebf998?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
