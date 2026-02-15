@@ -123,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bec78c5761b521a9b872d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Summer Intern](https://jobright.ai/jobs/info/698c28eb91fdda424d5902ae?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 10 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bfd870f6f7e7a2ce78cee?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 10 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfdd891fdda424d58bc8d?utm_campaign=1067&utm_source=git)** | US, DC, Washington | On Site | Feb 10 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfcf60f6f7e7a2ce78c62?utm_campaign=1067&utm_source=git)** | US, CA, Santa Clara | On Site | Feb 10 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfcf60f6f7e7a2ce78c62?utm_campaign=1067&utm_source=git)** | US, CA, Santa Clara | On Site | Feb 10 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfdd891fdda424d58bc8d?utm_campaign=1067&utm_source=git)** | US, DC, Washington | On Site | Feb 10 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Feb 10 |
 | **[PROPWR](www.PROPWR.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698bda780f6f7e7a2ce750e0?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/698ba6380f6f7e7a2ce72084?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 10 |
@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/69778497fdeb8243a27a5d83?utm_campaign=1067&utm_source=git)** | Century City, CA | Hybrid | Feb 09 |
 | **[Charter Wire](http://charterautomotive.com)** | **[Business Analytics Intern - Summer](https://jobright.ai/jobs/info/68deeb3b44d32141e0c03e1e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | Hybrid | Feb 09 |
 | **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/697780c088e2b47213bb63d6?utm_campaign=1067&utm_source=git)** | Encino, CA | Hybrid | Feb 08 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
