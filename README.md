@@ -144,5 +144,4 @@ For a complete list, click the following sortable link below:
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/698a415247434001cc687688?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Feb 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698a274b0f6f7e7a2ce53e79?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 09 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/69778497fdeb8243a27a5d83?utm_campaign=1067&utm_source=git)** | Century City, CA | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
