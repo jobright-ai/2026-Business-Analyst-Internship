@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NexaCore Consulting](nexacoreconsulting.us)** | **[Business Internship](https://jobright.ai/jobs/info/69931f22e0bddb6acac1719a?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Feb 16 |
+| **[Loyalty Juggernaut](https://www.lji.io)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69931d1181476f6176aac705?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Project Management Business Analyst Intern](https://jobright.ai/jobs/info/6992fbb3ce78e77b4fd6cdad?utm_campaign=1067&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/6992edb1ce78e77b4fd6b738?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Feb 16 |
-| **[Veltrana Group](veltranagroup.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6992e19be0bddb6acac11a1b?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Systems](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[Business Services Intern / Part-time Temporary](https://jobright.ai/jobs/info/699226a90f6f7e7a2cee47df?utm_campaign=1067&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Business Dev & Proposal Mgmt, Onsite](https://jobright.ai/jobs/info/698e662078b4502f12a52e15?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Feb 15 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Business Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/698fc7530cc8ea15f1da65c8?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | On Site | Feb 13 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
-| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fbe450f6f7e7a2cec0a5d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
@@ -142,7 +143,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698eb17b0f6f7e7a2cead049?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 09 |
 | **[Escalade Sports](https://www.escaladesports.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698ba4e00f6f7e7a2ce71ef1?utm_campaign=1067&utm_source=git)** | Evansville, IN | On Site | Feb 09 |
 | **[MGK](https://www.mgk.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/698e2815f64d441a16506349?utm_campaign=1067&utm_source=git)** | Brooklyn Park | On Site | Feb 09 |
-| **[MTX Group](https://www.mtxb2b.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698a302047434001cc686796?utm_campaign=1067&utm_source=git)** | Frisco, TX | On Site | Feb 09 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698e5d5a78b4502f12a52546?utm_campaign=1067&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Feb 09 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Process Analytics - Technology Delivery Team](https://jobright.ai/jobs/info/698a4cd80f6f7e7a2ce55df7?utm_campaign=1067&utm_source=git)** | Suwanee, GA | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
