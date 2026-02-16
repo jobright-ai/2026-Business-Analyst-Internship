@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
-| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fbe450f6f7e7a2cec0a5d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
