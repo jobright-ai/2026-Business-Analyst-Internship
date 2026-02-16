@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sound Credit Union](https://www.soundcu.com)** | **[Project Management Business Analyst Intern](https://jobright.ai/jobs/info/6992fbb3ce78e77b4fd6cdad?utm_campaign=1067&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/6992edb1ce78e77b4fd6b738?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Feb 16 |
 | **[Veltrana Group](veltranagroup.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6992e19be0bddb6acac11a1b?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Systems](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Internship – Operations](https://jobright.ai/jobs/info/6992dacfe0bddb6acac116f2?utm_campaign=1067&utm_source=git)** | Illinois, United States | Remote | Feb 16 |
@@ -145,6 +147,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698e5d5a78b4502f12a52546?utm_campaign=1067&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Feb 09 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Process Analytics - Technology Delivery Team](https://jobright.ai/jobs/info/698a4cd80f6f7e7a2ce55df7?utm_campaign=1067&utm_source=git)** | Suwanee, GA | On Site | Feb 09 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/698a415247434001cc687688?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Feb 09 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Feb 09 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698a274b0f6f7e7a2ce53e79?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
