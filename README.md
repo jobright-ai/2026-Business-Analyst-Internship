@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NexaCore Consulting](nexacoreconsulting.us)** | **[Business Internship](https://jobright.ai/jobs/info/69931f22e0bddb6acac1719a?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Feb 16 |
+| **[Orvanta](orvanta.us)** | **[Business operation Intern](https://jobright.ai/jobs/info/699353e8ce78e77b4fd72074?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Remote | Feb 16 |
 | **[Loyalty Juggernaut](https://www.lji.io)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69931d1181476f6176aac705?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Project Management Business Analyst Intern](https://jobright.ai/jobs/info/6992fbb3ce78e77b4fd6cdad?utm_campaign=1067&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Systems](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Business Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/698fc7530cc8ea15f1da65c8?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | On Site | Feb 13 |
 | **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
 | ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
@@ -126,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bec78c5761b521a9b872d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Summer Intern](https://jobright.ai/jobs/info/698c28eb91fdda424d5902ae?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 10 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bfd870f6f7e7a2ce78cee?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 10 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfcf60f6f7e7a2ce78c62?utm_campaign=1067&utm_source=git)** | US, CA, Santa Clara | On Site | Feb 10 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfdd891fdda424d58bc8d?utm_campaign=1067&utm_source=git)** | US, DC, Washington | On Site | Feb 10 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfdd891fdda424d58bc8d?utm_campaign=1067&utm_source=git)** | US, DC, Washington | On Site | Feb 10 |
+| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698bfcf60f6f7e7a2ce78c62?utm_campaign=1067&utm_source=git)** | US, CA, Santa Clara | On Site | Feb 10 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Feb 10 |
 | **[PROPWR](www.PROPWR.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698bda780f6f7e7a2ce750e0?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Process Intern (2026 Sumer Internship)](https://jobright.ai/jobs/info/698ba6380f6f7e7a2ce72084?utm_campaign=1067&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 10 |
