@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[NexaCore Consulting](nexacoreconsulting.us)** | **[Business Internship](https://jobright.ai/jobs/info/69931f22e0bddb6acac1719a?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Feb 16 |
 | **[Loyalty Juggernaut](https://www.lji.io)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69931d1181476f6176aac705?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Sound Credit Union](https://www.soundcu.com)** | **[Project Management Business Analyst Intern](https://jobright.ai/jobs/info/6992fbb3ce78e77b4fd6cdad?utm_campaign=1067&utm_source=git)** | Tacoma, WA | Hybrid | Feb 16 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/6992edb1ce78e77b4fd6b738?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Feb 16 |
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Systems](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[Business Services Intern / Part-time Temporary](https://jobright.ai/jobs/info/699226a90f6f7e7a2cee47df?utm_campaign=1067&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Business Dev & Proposal Mgmt, Onsite](https://jobright.ai/jobs/info/698e662078b4502f12a52e15?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Feb 15 |
@@ -141,6 +140,4 @@ For a complete list, click the following sortable link below:
 | **[ISG](https://is-grp.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/698a6ea74db8972cecffbe34?utm_campaign=1067&utm_source=git)** | Mankato, MN | On Site | Feb 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698aaa7cc5761b521a99f187?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Feb 09 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698eb17b0f6f7e7a2cead049?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 09 |
-| **[Escalade Sports](https://www.escaladesports.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698ba4e00f6f7e7a2ce71ef1?utm_campaign=1067&utm_source=git)** | Evansville, IN | On Site | Feb 09 |
-| **[MGK](https://www.mgk.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/698e2815f64d441a16506349?utm_campaign=1067&utm_source=git)** | Brooklyn Park | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
