@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6994856781476f6176ac4a83?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Feb 17 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Internship](https://jobright.ai/jobs/info/69949a47ce78e77b4fd89abf?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6994721ce0bddb6acac2ddcd?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Novelis](http://novelis.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/69784c6c52f3c27ec6449a28?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Feb 17 |
