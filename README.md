@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AperioHub](https://aperiohub.com)** | **[Business Intern](https://jobright.ai/jobs/info/6993e24bce78e77b4fd7b6c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6993d78be0bddb6acac21e0e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Value Alpha](https://valuealpha.ai)** | **[Business Analyst  AI & Finance](https://jobright.ai/jobs/info/6993ae17ce78e77b4fd78212?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6993d14d81476f6176ab6ca5?utm_campaign=1067&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
