@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CADAR Fine Jewelry](http://www.cadar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6994b02f81476f6176ac73d1?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Internship](https://jobright.ai/jobs/info/69949a47ce78e77b4fd89abf?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 17 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6994721ce0bddb6acac2ddcd?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 17 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
-| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fbe450f6f7e7a2cec0a5d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
@@ -130,5 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698c5bb778b4502f12a2e144?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 | **[NYC Department of Environmental Protection (NYC DEP)](http://nyc.gov/dep)** | **[2026-ODHR-002-Business Analyst Intern](https://jobright.ai/jobs/info/698ed4cb0f6f7e7a2ceaf33a?utm_campaign=1067&utm_source=git)** | Queens, NY | On Site | Feb 10 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Summer 2026](https://jobright.ai/jobs/info/698c329a0f6f7e7a2ce7e725?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[IT Business Systems Analyst Intern - Summer, 2026](https://jobright.ai/jobs/info/698bec78c5761b521a9b872d?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
