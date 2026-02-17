@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AperioHub](https://aperiohub.com)** | **[Business Intern](https://jobright.ai/jobs/info/6993e24bce78e77b4fd7b6c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6993d78be0bddb6acac21e0e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 16 |
 | **[Value Alpha](https://valuealpha.ai)** | **[Business Analyst  AI & Finance](https://jobright.ai/jobs/info/6993ae17ce78e77b4fd78212?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6993d14d81476f6176ab6ca5?utm_campaign=1067&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
@@ -138,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/698bdae5c5761b521a9b6ae5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 10 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/697a6b60f6fc293b0a2c3b76?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Feb 10 |
 | **[Taylor Corporation](https://www.taylor.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698b663fc5761b521a9ae07c?utm_campaign=1067&utm_source=git)** | Byron, MN | On Site | Feb 10 |
-| **[Focus Financial Partners](http://focusfinancialpartners.com)** | **[Business Management Intern](https://jobright.ai/jobs/info/6977882688e2b47213bb6bdd?utm_campaign=1067&utm_source=git)** | Encino, CA | Hybrid | Feb 10 |
-| **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/698b40704db8972cec00b757?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
