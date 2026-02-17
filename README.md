@@ -58,9 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 17 |
+| ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
-| **[Orbient 24](orbient24.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6994dac981476f6176acae73?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Feb 17 |
-| **[Brother USA](https://brother-usa.com)** | **[Business Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695beed8f1f8465b79f1f06f?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | Hybrid | Feb 17 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Feb 17 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Summer - Business Dev & Proposal Mgmt, Onsite](https://jobright.ai/jobs/info/698e662078b4502f12a52e15?utm_campaign=1067&utm_source=git)** | Albuquerque, NM | On Site | Feb 17 |
 | **[CAI](http://www.compaid.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6994c5fbe0bddb6acac33ee4?utm_campaign=1067&utm_source=git)** | PA-CLIENT-STATE | Remote | Feb 17 |
