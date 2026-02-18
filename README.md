@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Feb 18 |
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69955fbf81476f6176ad4db1?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Feb 17 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/69951fa5ce78e77b4fd93731?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 17 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/69952f12e0bddb6acac3b6fe?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | On Site | Feb 17 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
-| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
+| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[DraftKings Inc.](https://www.draftkings.com)** | **[Business Operations Intern, Third-Party Data & Automation (Summer 2026)](https://jobright.ai/jobs/info/698fd31c0cc8ea15f1da6d4f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 13 |
@@ -130,7 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sector Business Analyst Intern](https://jobright.ai/jobs/info/698e7cd20f6f7e7a2cea969e?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Resmed](https://www.resmed.com.au)** | **[AI Business Analyst Intern](https://jobright.ai/jobs/info/698d1a9ff64d441a164f0576?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Feb 11 |
 | **[Talen Energy](https://www.talenenergy.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698d0efa0f6f7e7a2ce8c13b?utm_campaign=1067&utm_source=git)** | Greater Houston | On Site | Feb 11 |
-| **[Halton Region](https://www.halton.ca)** | **[Intern - Business Transformation](https://jobright.ai/jobs/info/698d10e00f6f7e7a2ce8c3b0?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Feb 11 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/698d073c0f6f7e7a2ce8b6d2?utm_campaign=1067&utm_source=git)** | Canonsburg, PA, US | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
