@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Business Analytics](https://jobright.ai/jobs/info/6995ba71e0bddb6acac439c7?utm_campaign=1067&utm_source=git)** | Grand Prairie, TX | On Site | Feb 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Feb 18 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6995bfd3ce78e77b4fd9cf9f?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/6995ac50ce78e77b4fd9c4cd?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Feb 18 |
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69955fbf81476f6176ad4db1?utm_campaign=1067&utm_source=git)** | San Francisco, California | On Site | Feb 17 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/69951fa5ce78e77b4fd93731?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 17 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69911ced0f6f7e7a2ced67b1?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Feb 11 |
 | **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Business Management Intern](https://jobright.ai/jobs/info/698d4969f64d441a164f5098?utm_campaign=1067&utm_source=git)** | Plymouth, MN, US | On Site | Feb 11 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sector Business Analyst Intern](https://jobright.ai/jobs/info/698e7cd20f6f7e7a2cea969e?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
-| **[Resmed](https://www.resmed.com.au)** | **[AI Business Analyst Intern](https://jobright.ai/jobs/info/698d1a9ff64d441a164f0576?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
