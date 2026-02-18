@@ -61,8 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/699500dd81476f6176acdd34?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 17 |
 | ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
-| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
+| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fbe450f6f7e7a2cec0a5d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/698d073c0f6f7e7a2ce8b6d2?utm_campaign=1067&utm_source=git)** | Canonsburg, PA, US | On Site | Feb 11 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf9db78b4502f12a36d18?utm_campaign=1067&utm_source=git)** | Chicago | On Site | Feb 11 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer Business 2026 Internship](https://jobright.ai/jobs/info/68cd43111ad6b16f02897354?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 11 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698c5c14f64d441a164e4d89?utm_campaign=1067&utm_source=git)** | DC-Baltimore Area | On Site | Feb 11 |
-| ↳ | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/698c5bb778b4502f12a2e144?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
