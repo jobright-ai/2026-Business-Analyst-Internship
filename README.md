@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/69951fa5ce78e77b4fd93731?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 17 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Business Analytics](https://jobright.ai/jobs/info/6994fca7e0bddb6acac3829c?utm_campaign=1067&utm_source=git)** | Grand Prairie, TX | On Site | Feb 17 |
 | **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fbe450f6f7e7a2cec0a5d?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698f9bcf6ea51a7610f20122?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[DraftKings Inc.](https://www.draftkings.com)** | **[Business Operations Intern, Third-Party Data & Automation (Summer 2026)](https://jobright.ai/jobs/info/698fd31c0cc8ea15f1da6d4f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fabc60cc8ea15f1da468b?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
