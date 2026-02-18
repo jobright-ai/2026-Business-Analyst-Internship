@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Business Analytics](https://jobright.ai/jobs/info/6994fca7e0bddb6acac3829c?utm_campaign=1067&utm_source=git)** | Grand Prairie, TX | On Site | Feb 17 |
+| **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
+| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/699500dd81476f6176acdd34?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 17 |
 | ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
@@ -116,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/69894bc047434001cc676a0e?utm_campaign=1067&utm_source=git)** | McKinney, TX | On Site | Feb 11 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/6986d50c8ca8121a3a6956e0?utm_campaign=1067&utm_source=git)** | McKinney, TX | On Site | Feb 11 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ddd77f64d441a16500e63?utm_campaign=1067&utm_source=git)** | Nashville, TN, United States | On Site | Feb 11 |
-| **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Fleet Business Analyst Intern](https://jobright.ai/jobs/info/699153a96ea51a7610f3a1aa?utm_campaign=1067&utm_source=git)** | McKinney, TX | On Site | Feb 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern - Monetization Strategy & Operations - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698d4f3a78b4502f12a3f536?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Feb 11 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/698d3ae778b4502f12a3d449?utm_campaign=1067&utm_source=git)** | Canonsburg, PA | On Site | Feb 11 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69911ced0f6f7e7a2ced67b1?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Feb 11 |
