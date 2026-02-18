@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Recite (SAP S/4HANA) Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
 | **[Novelis](http://novelis.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/69784c6c52f3c27ec6449a28?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Feb 17 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6993d78be0bddb6acac21e0e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 16 |
-| **[Value Alpha](https://valuealpha.ai)** | **[Business Analyst  AI & Finance](https://jobright.ai/jobs/info/6993ae17ce78e77b4fd78212?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 16 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6993d14d81476f6176ab6ca5?utm_campaign=1067&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
 | **[Resmed](https://www.resmed.com.au)** | **[AI Business Analyst Intern](https://jobright.ai/jobs/info/698d3e2bf64d441a164f4332?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Feb 16 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Business Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69936666e0bddb6acac1ae57?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | On Site | Feb 16 |
@@ -97,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[Okta for Developers](https://developer.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/699103ec0cc8ea15f1dba430?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Feb 13 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698f9bcf6ea51a7610f20122?utm_campaign=1067&utm_source=git)** | Plano, TX | Hybrid | Feb 13 |
 | **[DraftKings Inc.](https://www.draftkings.com)** | **[Business Operations Intern, Third-Party Data & Automation (Summer 2026)](https://jobright.ai/jobs/info/698fd31c0cc8ea15f1da6d4f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fabc60cc8ea15f1da468b?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
 | **[Sally Beauty Holdings](https://www.linkedin.com/company/105659941)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fad990f6f7e7a2cebf998?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
@@ -135,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Halton Region](https://www.halton.ca)** | **[Intern - Business Transformation](https://jobright.ai/jobs/info/698d10e00f6f7e7a2ce8c3b0?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Feb 11 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/698d073c0f6f7e7a2ce8b6d2?utm_campaign=1067&utm_source=git)** | Canonsburg, PA, US | On Site | Feb 11 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf9db78b4502f12a36d18?utm_campaign=1067&utm_source=git)** | Chicago | On Site | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
