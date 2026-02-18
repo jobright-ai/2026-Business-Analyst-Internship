@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/6979318f39f7f96cc6d19553?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Feb 18 |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Business Analytics](https://jobright.ai/jobs/info/6995ba71e0bddb6acac439c7?utm_campaign=1067&utm_source=git)** | Grand Prairie, TX | On Site | Feb 18 |
 | **[Orvanta](orvanta.us)** | **[Internship Business](https://jobright.ai/jobs/info/6995d932e0bddb6acac44a5f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 18 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69794ce539f7f96cc6d1c4d8?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Feb 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Feb 18 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6995bfd3ce78e77b4fd9cf9f?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/6995ac50ce78e77b4fd9c4cd?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Feb 18 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/699500dd81476f6176acdd34?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 17 |
 | ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/698ebdab78b4502f12a59ab6?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 12 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/698ed1d678b4502f12a5aa2b?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Feb 12 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e87e60f6f7e7a2ceaa7de?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 12 |
-| **[ASML](https://www.asml.com)** | **[Internship - Contract & Operational Strategy Data Analyst](https://jobright.ai/jobs/info/698e783e78b4502f12a54b1f?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 12 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[Business Services Intern / Part-time Temporary](https://jobright.ai/jobs/info/69911adc0cc8ea15f1dbb69f?utm_campaign=1067&utm_source=git)** | Greenville,SC,US | On Site | Feb 12 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69863e650f6f7e7a2ce1201c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/698ea4e478b4502f12a57f4f?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Feb 12 |
@@ -130,7 +131,4 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ddd77f64d441a16500e63?utm_campaign=1067&utm_source=git)** | Nashville, TN, United States | On Site | Feb 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern - Monetization Strategy & Operations - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698d4f3a78b4502f12a3f536?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Feb 11 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/698d3ae778b4502f12a3d449?utm_campaign=1067&utm_source=git)** | Canonsburg, PA | On Site | Feb 11 |
-| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69911ced0f6f7e7a2ced67b1?utm_campaign=1067&utm_source=git)** | Culver City, CA | Hybrid | Feb 11 |
-| **[TruStone Financial Credit Union](http://www.trustonefinancial.org)** | **[Business Management Intern](https://jobright.ai/jobs/info/698d4969f64d441a164f5098?utm_campaign=1067&utm_source=git)** | Plymouth, MN, US | On Site | Feb 11 |
-| **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sector Business Analyst Intern](https://jobright.ai/jobs/info/698e7cd20f6f7e7a2cea969e?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
