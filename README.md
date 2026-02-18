@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Business Analytics](https://jobright.ai/jobs/info/6995ba71e0bddb6acac439c7?utm_campaign=1067&utm_source=git)** | Grand Prairie, TX | On Site | Feb 18 |
+| **[Orvanta](orvanta.us)** | **[Internship Business](https://jobright.ai/jobs/info/6995d932e0bddb6acac44a5f?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Feb 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Feb 18 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6995bfd3ce78e77b4fd9cf9f?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/6995ac50ce78e77b4fd9c4cd?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Feb 18 |
