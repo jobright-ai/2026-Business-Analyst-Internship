@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[AI Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/699417c9ce78e77b4fd80ccf?utm_campaign=1067&utm_source=git)** | Elkhart, IN | On Site | Feb 18 |
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6995e83fe0bddb6acac45449?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/699628cbe0bddb6acac487ec?utm_campaign=1067&utm_source=git)** | Eau Claire-Menomonie | On Site | Feb 18 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/699500dd81476f6176acdd34?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 17 |
 | ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Summer 2026 Intern - CPX Systems](https://jobright.ai/jobs/info/697723b852f3c27ec64321ca?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[Business Services Intern / Part-time Temporary](https://jobright.ai/jobs/info/699226a90f6f7e7a2cee47df?utm_campaign=1067&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69911eaf6ea51a7610f378a4?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Feb 14 |
-| **[AXA XL](https://axaxl.com)** | **[Energy Underwriting Intern, Large Commercial](https://jobright.ai/jobs/info/6974357ebc8e722e7b192a67?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Feb 14 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, IT Enterprise Platforms](https://jobright.ai/jobs/info/6957ed41f1f8465b79ee8ba5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[Amica Insurance](http://www.amica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699003666ea51a7610f272c0?utm_campaign=1067&utm_source=git)** | Rhode Island, United States | Hybrid | Feb 13 |
 | **[Lincoln Avenue Communities](https://www.lincolnavenue.com/)** | **[Business Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/699381dbce78e77b4fd753a2?utm_campaign=1067&utm_source=git)** | Santa Monica, California, United States | On Site | Feb 13 |
