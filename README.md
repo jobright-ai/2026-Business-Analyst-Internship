@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6996505381476f6176ae16a1?utm_campaign=1067&utm_source=git)** | US - CO, Westminster | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 18 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[AI Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/699417c9ce78e77b4fd80ccf?utm_campaign=1067&utm_source=git)** | Elkhart, IN | On Site | Feb 18 |
 | **[Okta](http://www.okta.com)** | **[Business Systems Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6995e83fe0bddb6acac45449?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/699628cbe0bddb6acac487ec?utm_campaign=1067&utm_source=git)** | Eau Claire-Menomonie | On Site | Feb 18 |
@@ -75,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 12 months](https://jobright.ai/jobs/info/699500dd81476f6176acdd34?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 17 |
 | ↳ | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 13 |
 | **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698fcbaa0cc8ea15f1da6852?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff4c80f6f7e7a2cec3a23?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Feb 13 |
-| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
-| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| **[KGPCo](http://www.kgpco.com/)** | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/69900aac0f6f7e7a2cec5cd4?utm_campaign=1067&utm_source=git)** | US-KS-Lenexa | On Site | Feb 13 |
+| ↳ | **[Summer Intern, IT Business Analyst](https://jobright.ai/jobs/info/699004486ea51a7610f27354?utm_campaign=1067&utm_source=git)** | Lenexa, KS, US | On Site | Feb 13 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Business Analyst - Project Control Intern](https://jobright.ai/jobs/info/698ff8296ea51a7610f25b27?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 13 |
 | **[DraftKings Inc.](https://www.draftkings.com)** | **[Business Operations Intern, Third-Party Data & Automation (Summer 2026)](https://jobright.ai/jobs/info/698fd31c0cc8ea15f1da6d4f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 13 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/698fabc60cc8ea15f1da468b?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 13 |
@@ -120,9 +122,9 @@ For a complete list, click the following sortable link below:
 | **[Greenville Water](https://www.greenvillewater.com/)** | **[Business Services Intern / Part-time Temporary](https://jobright.ai/jobs/info/69911adc0cc8ea15f1dbb69f?utm_campaign=1067&utm_source=git)** | Greenville,SC,US | On Site | Feb 12 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/69863e650f6f7e7a2ce1201c?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 12 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/698ea4e478b4502f12a57f4f?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Feb 12 |
+| **[ASML](https://www.asml.com)** | **[Internship - Contract & Operational Strategy Data Analyst](https://jobright.ai/jobs/info/69965a03ce78e77b4fda611f?utm_campaign=1067&utm_source=git)** | San Diego, CA, USA | On Site | Feb 12 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/698e6dbff64d441a1650ab0b?utm_campaign=1067&utm_source=git)** | Tempe, AZ | On Site | Feb 12 |
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | On Site | Feb 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/698dff030f6f7e7a2cea0c94?utm_campaign=1067&utm_source=git)** | Minnesota - Maple Grove | On Site | Feb 12 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Feb 12 |
-| **[femtoAI](https://femto.ai/)** | **[Technical Business Operations Intern](https://jobright.ai/jobs/info/698f22f90cc8ea15f1d989c3?utm_campaign=1067&utm_source=git)** | San Bruno, CA | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
