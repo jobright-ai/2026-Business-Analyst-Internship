@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/6999eb7ae0bddb6acac928fa?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Feb 21 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999e486e0bddb6acac90f41?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Feb 21 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999e2c3e0bddb6acac90ed6?utm_campaign=1067&utm_source=git)** | New York, NY | Remote | Feb 21 |
+| **[McCain Foods](http://www.mccain.com)** | **[Global Business Management Internship](https://jobright.ai/jobs/info/6986cdf80f6f7e7a2ce1f6c5?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Feb 21 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999dc8d81476f6176b28b57?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Feb 21 |
 | **[NexaCore Consulting](nexacoreconsulting.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999d76fce78e77b4fdeb2c0?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Remote | Feb 21 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999d32ae0bddb6acac90b0e?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 21 |
@@ -153,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novelis](http://novelis.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/69784c6c52f3c27ec6449a28?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Feb 17 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6993d14d81476f6176ab6ca5?utm_campaign=1067&utm_source=git)** | Corporate_Cove | On Site | Feb 16 |
 | **[Resmed](https://www.resmed.com.au)** | **[AI Business Analyst Intern](https://jobright.ai/jobs/info/698d3e2bf64d441a164f4332?utm_campaign=1067&utm_source=git)** | San Diego, CA | Hybrid | Feb 16 |
-| **[Loyalty Juggernaut](https://www.lji.io)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69931d1181476f6176aac705?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 16 |
-| **[Greenville Water](https://www.greenvillewater.com/)** | **[Business Services Intern / Part-time Temporary](https://jobright.ai/jobs/info/699226a90f6f7e7a2cee47df?utm_campaign=1067&utm_source=git)** | Greenville, SC | On Site | Feb 15 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69911eaf6ea51a7610f378a4?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
