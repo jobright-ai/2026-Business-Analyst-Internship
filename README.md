@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/6998d99be0bddb6acac7c4be?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
+| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998c358ce78e77b4fdd55ea?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
+| **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
+| **[Arvento A](arventoa.com)** | **[Business Analyst Intern – Commercial Strategy](https://jobright.ai/jobs/info/6998d19ace78e77b4fdd624f?utm_campaign=1067&utm_source=git)** | Rochester, NY | On Site | Feb 20 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/698820ce8da7a61204633beb?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
-| **[Dynareon](dynareon.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/6998908ace78e77b4fdd332e?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 20 |
-| **[Arvento A](arventoa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699893c181476f6176b0fa52?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 20 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696032f0a1bbea1d9a7b0ada?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 20 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 20 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
@@ -99,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699695a8ce78e77b4fdab50f?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/69969e5fe0bddb6acac52c89?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Feb 18 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6996505381476f6176ae16a1?utm_campaign=1067&utm_source=git)** | US - CO, Westminster | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 18 |
