@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brixenta](brixenta.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699b214e81476f6176b3a689?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Feb 22 |
+| **[Arvento A](arventoa.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699b1b0381476f6176b3a5db?utm_campaign=1067&utm_source=git)** | Newport News, VA | Remote | Feb 22 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699af144ce78e77b4fdfae30?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Feb 22 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699ae05be0bddb6acaca01be?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Sterling Bridge](https://www.linkedin.com/company/108601841)** | **[Business Intern](https://jobright.ai/jobs/info/699ad9fb81476f6176b37fb1?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
 | **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998fc9581476f6176b16db7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 20 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
-| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
+| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
+| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[SHI International Corp.](http://www.shi.com)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/69953539e0bddb6acac3bcdd?utm_campaign=1067&utm_source=git)** | Piscataway, NJ USA | On Site | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Feb 17 |
