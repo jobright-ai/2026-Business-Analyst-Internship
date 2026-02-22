@@ -57,11 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Orvanta](orvanta.us)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/699a14d2ce78e77b4fdedc35?utm_campaign=1067&utm_source=git)** | Alexandria, VA | Remote | Feb 21 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/6999eb7ae0bddb6acac928fa?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Global Business Management Internship](https://jobright.ai/jobs/info/6986cdf80f6f7e7a2ce1f6c5?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Feb 21 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999dc8d81476f6176b28b57?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Feb 21 |
-| **[Horizon Lane](horizonlane.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6999d32ae0bddb6acac90b0e?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 21 |
 | **[Arvento A](arventoa.com)** | **[Business Intern](https://jobright.ai/jobs/info/6999cfd1ce78e77b4fdeaff1?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Feb 21 |
 | **[Staples](http://www.staples.com)** | **[Business Analyst Intern - June 2026](https://jobright.ai/jobs/info/6999c95be0bddb6acac9084f?utm_campaign=1067&utm_source=git)** | Framingham, MA | On Site | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Business Analyst) - Las Vegas](https://jobright.ai/jobs/info/697d3911727747250d58087a?utm_campaign=1067&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
@@ -115,18 +113,17 @@ For a complete list, click the following sortable link below:
 | **[Savvas Learning Company](https://www.savvas.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996be38ce78e77b4fdafabf?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 18 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699686c2ce78e77b4fda9b48?utm_campaign=1067&utm_source=git)** | Frisco, TX | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/69968585ce78e77b4fda9985?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Feb 18 |
-| **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69966b0e81476f6176ae3c04?utm_campaign=1067&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699667bace78e77b4fda739d?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996645f81476f6176ae355d?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Gorilla Commerce](https://gorillacommerce.co/)** | **[Business Technology Analyst Intern](https://jobright.ai/jobs/info/69978ddf81476f6176afa414?utm_campaign=1067&utm_source=git)** | Norwalk, CT | Hybrid | Feb 18 |
-| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69968d7fe0bddb6acac50d23?utm_campaign=1067&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 18 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996931381476f6176ae7598?utm_campaign=1067&utm_source=git)** | US-Virtual Office | Remote | Feb 18 |
+| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996931381476f6176ae7598?utm_campaign=1067&utm_source=git)** | US-Virtual Office | Remote | Feb 18 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69968d7fe0bddb6acac50d23?utm_campaign=1067&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 18 |
 | **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69967ce281476f6176ae550e?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699695a8ce78e77b4fdab50f?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/69969e5fe0bddb6acac52c89?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Feb 18 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6996505381476f6176ae16a1?utm_campaign=1067&utm_source=git)** | US - CO, Westminster | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 18 |
@@ -145,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Aplus Consultant](https://consultantaplus.com/)** | **[Non-Paid Internship: Business Research Intern](https://jobright.ai/jobs/info/69950c3781476f6176aceaf0?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Feb 17 |
