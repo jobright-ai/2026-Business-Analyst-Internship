@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elucid](http://elucid.com)** | **[Business Intern: Summer 2026](https://jobright.ai/jobs/info/699ccee1ce78e77b4fe18b28?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
+| **[Truist](https://www.truist.com)** | **[2026 Financial Services Enterprise Internship](https://jobright.ai/jobs/info/699ccc66ce78e77b4fe18946?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Feb 23 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb576e0bddb6acacbc5a2?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb04cce78e77b4fe170f4?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Feb 23 |
 | **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699cc56a81476f6176b557d5?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699695a8ce78e77b4fdab50f?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/69969e5fe0bddb6acac52c89?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Feb 18 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6996505381476f6176ae16a1?utm_campaign=1067&utm_source=git)** | US - CO, Westminster | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 18 |
@@ -148,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[SHI International Corp.](http://www.shi.com)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/69953539e0bddb6acac3bcdd?utm_campaign=1067&utm_source=git)** | Piscataway, NJ USA | On Site | Feb 17 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 17 |
-| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
-| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6995042f81476f6176ace125?utm_campaign=1067&utm_source=git)** | United States-California-Redondo Beach | On Site | Feb 17 |
+| ↳ | **[2026 Business Management Intern](https://jobright.ai/jobs/info/6994fb82e0bddb6acac380e6?utm_campaign=1067&utm_source=git)** | United States-California-El Segundo | On Site | Feb 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994ecdace78e77b4fd8fff9?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 17 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/697ee163abff4c399a9d902e?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 17 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Enablement Intern](https://jobright.ai/jobs/info/696814e5639b452fb57da356?utm_campaign=1067&utm_source=git)** | Del Mar, CA | Hybrid | Feb 17 |
 | **[CAI](http://www.compaid.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6994c5fbe0bddb6acac33ee4?utm_campaign=1067&utm_source=git)** | PA-CLIENT-STATE | Remote | Feb 17 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69972bd7e0bddb6acac5e274?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 17 |
-| **[Novelis](http://novelis.com)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/69784c6c52f3c27ec6449a28?utm_campaign=1067&utm_source=git)** | Kennesaw, GA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
