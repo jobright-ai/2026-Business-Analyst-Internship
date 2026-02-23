@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb576e0bddb6acacbc5a2?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
+| **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb04cce78e77b4fe170f4?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Feb 23 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699cc56a81476f6176b557d5?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 23 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/699c9a4581476f6176b53483?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 23 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c97a4ce78e77b4fe15fec?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c973f81476f6176b53275?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL, US | Hybrid | Feb 23 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/69968585ce78e77b4fda9985?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Feb 23 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699686c2ce78e77b4fda9b48?utm_campaign=1067&utm_source=git)** | Frisco, TX | On Site | Feb 23 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c5e47e0bddb6acacb6a7c?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | Hybrid | Feb 23 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699c27d081476f6176b4911c?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Remote | Feb 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/699bce97e0bddb6acaca9eea?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Feb 21 |
 | **[McCain Foods](http://www.mccain.com)** | **[Global Business Management Internship](https://jobright.ai/jobs/info/6986cdf80f6f7e7a2ce1f6c5?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Feb 21 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Credit Acceptance](http://www.creditacceptance.com/)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/69990da181476f6176b182e1?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
 | ↳ | **[Process Analyst Intern](https://jobright.ai/jobs/info/69991c56ce78e77b4fddc225?utm_campaign=1067&utm_source=git)** | USA – Remote | Remote | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6998fc99ce78e77b4fdd9777?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 20 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/6998d99be0bddb6acac7c4be?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 20 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6998f00f81476f6176b158bb?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6998eadc81476f6176b1512f?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998c358ce78e77b4fdd55ea?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
@@ -91,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
 | **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998fc9581476f6176b16db7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 20 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
-| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
+| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
+| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6994c6c0ce78e77b4fd8d14f?utm_campaign=1067&utm_source=git)** | Toronto | On Site | Feb 20 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
 | ↳ | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69693f13639b452fb57f09af?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
-| **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern](https://jobright.ai/jobs/info/69980ab1ce78e77b4fdcb3cb?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 19 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69991a4ce0bddb6acac8172d?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Feb 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/6997e1e0e0bddb6acac6ba6b?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
 | **[Velera](https://www.velera.com)** | **[Delinquency Management Reporting and Data Analysis Intern](https://jobright.ai/jobs/info/6997db17e0bddb6acac6ab96?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 19 |
