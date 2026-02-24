@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699df48081476f6176b6e7cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699df22d81476f6176b6e5d8?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Feb 24 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/699de31ee0bddb6acacd3c73?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
 | **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/699dda36ce78e77b4fe2ec5d?utm_campaign=1067&utm_source=git)** | Statewide, MA | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd960e0bddb6acacd3657?utm_campaign=1067&utm_source=git)** | Statewide, PA | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd8cee0bddb6acacd3610?utm_campaign=1067&utm_source=git)** | Statewide, VT | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd8b981476f6176b6b9fc?utm_campaign=1067&utm_source=git)** | Statewide, MO | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd862ce78e77b4fe2eaec?utm_campaign=1067&utm_source=git)** | Statewide, DE | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd830e0bddb6acacd3596?utm_campaign=1067&utm_source=git)** | Washington, DC | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd81d81476f6176b6b99c?utm_campaign=1067&utm_source=git)** | Statewide, ND | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd81d81476f6176b6b99d?utm_campaign=1067&utm_source=git)** | Statewide, CA | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd81d81476f6176b6b99c?utm_campaign=1067&utm_source=git)** | Statewide, ND | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd812e0bddb6acacd357a?utm_campaign=1067&utm_source=git)** | Statewide, AZ | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd803ce78e77b4fe2eaa1?utm_campaign=1067&utm_source=git)** | Statewide, GA | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd7e7ce78e77b4fe2ea83?utm_campaign=1067&utm_source=git)** | Statewide, AK | Remote | Feb 24 |
@@ -78,35 +82,41 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd62481476f6176b6b908?utm_campaign=1067&utm_source=git)** | Statewide, NE | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd622ce78e77b4fe2e98d?utm_campaign=1067&utm_source=git)** | Statewide, UT | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dd61081476f6176b6b903?utm_campaign=1067&utm_source=git)** | Statewide, WV | Remote | Feb 24 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699dd4c2e0bddb6acacd337e?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Feb 24 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699df394ce78e77b4fe317f0?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 24 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699dd10de0bddb6acacd301e?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Remote | Feb 24 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699dcb41e0bddb6acacd27b8?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Feb 24 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Intern - Business](https://jobright.ai/jobs/info/699dca0be0bddb6acacd266d?utm_campaign=1067&utm_source=git)** | Smithfield, VA | On Site | Feb 24 |
-| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd9881476f6176b6be21?utm_campaign=1067&utm_source=git)** | Statewide, IA | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddce1ce78e77b4fe2eeb3?utm_campaign=1067&utm_source=git)** | Statewide, SC | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd6c81476f6176b6bdf9?utm_campaign=1067&utm_source=git)** | Statewide, NC | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd43ce78e77b4fe2ef00?utm_campaign=1067&utm_source=git)** | Statewide, LA | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde0dce78e77b4fe2efa5?utm_campaign=1067&utm_source=git)** | Statewide, WI | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd19e0bddb6acacd3838?utm_campaign=1067&utm_source=git)** | Statewide, OH | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dddc5e0bddb6acacd38cb?utm_campaign=1067&utm_source=git)** | Statewide, KS | Remote | Feb 24 |
+| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/699dddc5e0bddb6acacd38cb?utm_campaign=1067&utm_source=git)** | Statewide, KS | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddbabce78e77b4fe2ed9a?utm_campaign=1067&utm_source=git)** | Statewide, AR | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde0c81476f6176b6bea1?utm_campaign=1067&utm_source=git)** | Statewide, CO | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde13e0bddb6acacd38fe?utm_campaign=1067&utm_source=git)** | Statewide, RI | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddbcb81476f6176b6bc65?utm_campaign=1067&utm_source=git)** | Statewide, TX | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddbda81476f6176b6bc71?utm_campaign=1067&utm_source=git)** | Statewide, MI | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699de0c4e0bddb6acacd3b2c?utm_campaign=1067&utm_source=git)** | Statewide, KY | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddb2fce78e77b4fe2ed2b?utm_campaign=1067&utm_source=git)** | Statewide, NV | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dda88e0bddb6acacd36bc?utm_campaign=1067&utm_source=git)** | Statewide, ME | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddaf7e0bddb6acacd36ef?utm_campaign=1067&utm_source=git)** | Statewide, NY | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddacbe0bddb6acacd36dc?utm_campaign=1067&utm_source=git)** | Statewide, OK | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dddadce78e77b4fe2ef52?utm_campaign=1067&utm_source=git)** | Statewide, NH | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dda55e0bddb6acacd36ae?utm_campaign=1067&utm_source=git)** | Statewide, WA | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddaf7e0bddb6acacd36ef?utm_campaign=1067&utm_source=git)** | Statewide, NY | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddbda81476f6176b6bc71?utm_campaign=1067&utm_source=git)** | Statewide, MI | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd6c81476f6176b6bdf9?utm_campaign=1067&utm_source=git)** | Statewide, NC | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde0dce78e77b4fe2efa5?utm_campaign=1067&utm_source=git)** | Statewide, WI | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddbcb81476f6176b6bc65?utm_campaign=1067&utm_source=git)** | Statewide, TX | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dda88e0bddb6acacd36bc?utm_campaign=1067&utm_source=git)** | Statewide, ME | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699de022e0bddb6acacd3aa7?utm_campaign=1067&utm_source=git)** | Statewide, DC | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd9881476f6176b6be21?utm_campaign=1067&utm_source=git)** | Statewide, IA | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddf38ce78e77b4fe2f097?utm_campaign=1067&utm_source=git)** | Statewide, SD | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde4bce78e77b4fe2efdd?utm_campaign=1067&utm_source=git)** | Statewide, FL | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddf1ace78e77b4fe2f07b?utm_campaign=1067&utm_source=git)** | Statewide, MD | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddfbee0bddb6acacd3a56?utm_campaign=1067&utm_source=git)** | Statewide, VA | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd19e0bddb6acacd3838?utm_campaign=1067&utm_source=git)** | Statewide, OH | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd43ce78e77b4fe2ef00?utm_campaign=1067&utm_source=git)** | Statewide, LA | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddce1ce78e77b4fe2eeb3?utm_campaign=1067&utm_source=git)** | Statewide, SC | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddf9381476f6176b6c006?utm_campaign=1067&utm_source=git)** | Statewide, NJ | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde13e0bddb6acacd38fe?utm_campaign=1067&utm_source=git)** | Statewide, RI | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde0c81476f6176b6bea1?utm_campaign=1067&utm_source=git)** | Statewide, CO | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddacbe0bddb6acacd36dc?utm_campaign=1067&utm_source=git)** | Statewide, OK | Remote | Feb 24 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddce081476f6176b6bd73?utm_campaign=1067&utm_source=git)** | Statewide, MN | Remote | Feb 24 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dda55e0bddb6acacd36ae?utm_campaign=1067&utm_source=git)** | Statewide, WA | Remote | Feb 24 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science - Procurement Business Optimization Internship](https://jobright.ai/jobs/info/698122557f40342e15da0042?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | On Site | Feb 24 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 24 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/6992be79ce78e77b4fd6946f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
-| **[VertoTech](vertotech.us)** | **[Business Intern](https://jobright.ai/jobs/info/699d904fe0bddb6acaccea28?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Feb 24 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69656548a112b40266133e8e?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Feb 24 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699d8d96ce78e77b4fe29c2a?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Hybrid | Feb 24 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699d4ba3e0bddb6acacca05a?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 23 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/6986b86d8ca8121a3a691b9e?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Feb 21 |
 | ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Feb 21 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/6986dbd10f6f7e7a2ce2176f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Feb 21 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6998fc99ce78e77b4fdd9777?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 20 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6998f00f81476f6176b158bb?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998c358ce78e77b4fdd55ea?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
-| **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998fc9581476f6176b16db7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 20 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
-| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
