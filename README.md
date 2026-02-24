@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699d4ba3e0bddb6acacca05a?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 23 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699d35cece78e77b4fe21e0b?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Remote | Feb 23 |
+| **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - REMOTE](https://jobright.ai/jobs/info/699d3996e0bddb6acacc7919?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Feb 23 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699d13f2ce78e77b4fe1e452?utm_campaign=1067&utm_source=git)** | Peoria, IL | On Site | Feb 23 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Feb 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/699cf3e1ce78e77b4fe1acc2?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
@@ -134,14 +137,14 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699667bace78e77b4fda739d?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 18 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996645f81476f6176ae355d?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Gorilla Commerce](https://gorillacommerce.co/)** | **[Business Technology Analyst Intern](https://jobright.ai/jobs/info/69978ddf81476f6176afa414?utm_campaign=1067&utm_source=git)** | Norwalk, CT | Hybrid | Feb 18 |
-| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69968d7fe0bddb6acac50d23?utm_campaign=1067&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 18 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996931381476f6176ae7598?utm_campaign=1067&utm_source=git)** | US-Virtual Office | Remote | Feb 18 |
+| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996931381476f6176ae7598?utm_campaign=1067&utm_source=git)** | US-Virtual Office | Remote | Feb 18 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69968d7fe0bddb6acac50d23?utm_campaign=1067&utm_source=git)** | Virtual Office, UNAVAILABLE, US | Remote | Feb 18 |
 | **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69967ce281476f6176ae550e?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699695a8ce78e77b4fdab50f?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/69969e5fe0bddb6acac52c89?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Feb 18 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6996505381476f6176ae16a1?utm_campaign=1067&utm_source=git)** | US - CO, Westminster | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/6995ac50ce78e77b4fd9c4cd?utm_campaign=1067&utm_source=git)** | Pensacola, FL | Hybrid | Feb 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Optimization)](https://jobright.ai/jobs/info/69951fa5ce78e77b4fd93731?utm_campaign=1067&utm_source=git)** | 5510 Heritage Oaks Dr, Pensacola, FL, 32526, US | On Site | Feb 17 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/69952f12e0bddb6acac3b6fe?utm_campaign=1067&utm_source=git)** | Piscataway, NJ | On Site | Feb 17 |
-| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Business Analytics](https://jobright.ai/jobs/info/6994fca7e0bddb6acac3829c?utm_campaign=1067&utm_source=git)** | Grand Prairie, TX | On Site | Feb 17 |
-| **[SHI International Corp.](http://www.shi.com)** | **[Business Process Analyst - Intern](https://jobright.ai/jobs/info/69953539e0bddb6acac3bcdd?utm_campaign=1067&utm_source=git)** | Piscataway, NJ USA | On Site | Feb 17 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
