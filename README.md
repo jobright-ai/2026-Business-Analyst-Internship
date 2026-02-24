@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science - Procurement Business Optimization Internship](https://jobright.ai/jobs/info/698122557f40342e15da0042?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | On Site | Feb 24 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 24 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699da62fce78e77b4fe2c212?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Feb 24 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/6992be79ce78e77b4fd6946f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Business Acumen Intern](https://jobright.ai/jobs/info/69967ce281476f6176ae550e?utm_campaign=1067&utm_source=git)** | Beverly Hills, CA | On Site | Feb 18 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Business Systems Intern](https://jobright.ai/jobs/info/699695a8ce78e77b4fdab50f?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/69969e5fe0bddb6acac52c89?utm_campaign=1067&utm_source=git)** | Parsippany, NJ | On Site | Feb 18 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
+| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699683dbce78e77b4fda964e?utm_campaign=1067&utm_source=git)** | Bellevue, Washington | On Site | Feb 18 |
 | ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699682a481476f6176ae5b7f?utm_campaign=1067&utm_source=git)** | Frisco, Texas | On Site | Feb 18 |
-| ↳ | **[Summer 2026 Business Analyst Internship](https://jobright.ai/jobs/info/699676cde0bddb6acac4f027?utm_campaign=1067&utm_source=git)** | Overland Park, Kansas | On Site | Feb 18 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6996505381476f6176ae16a1?utm_campaign=1067&utm_source=git)** | US - CO, Westminster | On Site | Feb 18 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69963e8be0bddb6acac4a2a6?utm_campaign=1067&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | Hybrid | Feb 18 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Feb 18 |
-| **[Royal Credit Union](https://www.rcu.org)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/699628cbe0bddb6acac487ec?utm_campaign=1067&utm_source=git)** | Eau Claire-Menomonie | On Site | Feb 18 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/6979318f39f7f96cc6d19553?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
