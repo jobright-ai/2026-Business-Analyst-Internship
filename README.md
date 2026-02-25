@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/699f42c8ce78e77b4fe51555?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Feb 25 |
+| **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699f5dd1ce78e77b4fe52682?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Feb 25 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699f2a2194ef206f184e4c34?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Feb 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/699f23d8ce78e77b4fe4eb00?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Feb 25 |
 | **[Vicki's Amish Traditions](https://vickisamishtraditions.com/)** | **[Business Management Intern/Apprentice](https://jobright.ai/jobs/info/699f15aa81476f6176b8ae84?utm_campaign=1067&utm_source=git)** | Millbrook, AL | On Site | Feb 25 |
@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/699e8df481476f6176b7c60a?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Feb 24 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/699e8915e0bddb6acace3bfa?utm_campaign=1067&utm_source=git)** | Covington,LA,US | On Site | Feb 24 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/699e8c46e0bddb6acace3f74?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Feb 24 |
-| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/699f5566ce78e77b4fe5216b?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Feb 24 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Feb 24 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699df48081476f6176b6e7cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
@@ -79,16 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/69824206c3101f1400c3f243?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 24 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Intern - Business](https://jobright.ai/jobs/info/699dca0be0bddb6acacd266d?utm_campaign=1067&utm_source=git)** | Smithfield, VA | On Site | Feb 24 |
-| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd9881476f6176b6be21?utm_campaign=1067&utm_source=git)** | Statewide, IA | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde0c81476f6176b6bea1?utm_campaign=1067&utm_source=git)** | Statewide, CO | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde4bce78e77b4fe2efdd?utm_campaign=1067&utm_source=git)** | Statewide, FL | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddf1ace78e77b4fe2f07b?utm_campaign=1067&utm_source=git)** | Statewide, MD | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699dde13e0bddb6acacd38fe?utm_campaign=1067&utm_source=git)** | Statewide, RI | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699de0c4e0bddb6acacd3b2c?utm_campaign=1067&utm_source=git)** | Statewide, KY | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699de022e0bddb6acacd3aa7?utm_campaign=1067&utm_source=git)** | Statewide, DC | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddaf7e0bddb6acacd36ef?utm_campaign=1067&utm_source=git)** | Statewide, NY | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddce1ce78e77b4fe2eeb3?utm_campaign=1067&utm_source=git)** | Statewide, SC | Remote | Feb 24 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/699ddd6c81476f6176b6bdf9?utm_campaign=1067&utm_source=git)** | Statewide, NC | Remote | Feb 24 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science - Procurement Business Optimization Internship](https://jobright.ai/jobs/info/698122557f40342e15da0042?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | On Site | Feb 24 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Clinical Trial Business Operations Intern](https://jobright.ai/jobs/info/69655f9ea112b4026613373c?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 24 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
@@ -118,16 +107,10 @@ For a complete list, click the following sortable link below:
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/699c813ce0bddb6acacb89cf?utm_campaign=1067&utm_source=git)** | Fairfield, NJ | On Site | Feb 23 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c5e47e0bddb6acacb6a7c?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | Hybrid | Feb 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/699bce97e0bddb6acaca9eea?utm_campaign=1067&utm_source=git)** | Dover, DE | On Site | Feb 21 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Global Business Management Internship](https://jobright.ai/jobs/info/6986cdf80f6f7e7a2ce1f6c5?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Feb 21 |
 | **[Staples](http://www.staples.com)** | **[Business Analyst Intern - June 2026](https://jobright.ai/jobs/info/6999c95be0bddb6acac9084f?utm_campaign=1067&utm_source=git)** | Framingham, MA | On Site | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Business Analyst) - Las Vegas](https://jobright.ai/jobs/info/697d3911727747250d58087a?utm_campaign=1067&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 21 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/6986db498ca8121a3a696247?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 21 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d330c727747250d580453?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 21 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/6986b86d8ca8121a3a691b9e?utm_campaign=1067&utm_source=git)** | Hartford, CT | On Site | Feb 21 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/697d2e67727747250d57f7d7?utm_campaign=1067&utm_source=git)** | Juneau, AK | On Site | Feb 21 |
-| ↳ | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/6986dbd10f6f7e7a2ce2176f?utm_campaign=1067&utm_source=git)** | Little Rock, AR | On Site | Feb 21 |
 | **[Naval Systems, Inc. (NSI)](https://n-s-i.us)** | **[Operations Research Analyst- Intern with Security Clearance](https://jobright.ai/jobs/info/699e9555e0bddb6acace51f8?utm_campaign=1067&utm_source=git)** | Lexington Park, MD | On Site | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6998fc99ce78e77b4fdd9777?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 20 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6998f00f81476f6176b158bb?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
@@ -135,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
 | **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998fc9581476f6176b16db7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 20 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
-| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
+| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
+| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
@@ -157,4 +140,10 @@ For a complete list, click the following sortable link below:
 | **[Western Aircraft](http://westair.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6997740781476f6176af9206?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Feb 19 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69976a9cce78e77b4fdbc2e7?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 19 |
 | ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 19 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6997b124e0bddb6acac66d84?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Feb 19 |
+| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Feb 19 |
+| **[Dexter](https://www.dexteraxle.com/)** | **[AI Business Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/699c5c22ce78e77b4fe1184d?utm_campaign=1067&utm_source=git)** | Elkhart, IN | On Site | Feb 19 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Feb 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Feb 19 |
+| **[University of California Office of the President](https://www.ucop.edu)** | **[BUSINESS ANALYST INTERN, UCPATH](https://jobright.ai/jobs/info/6996bf12e0bddb6acac56135?utm_campaign=1067&utm_source=git)** | Riverside, CA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
