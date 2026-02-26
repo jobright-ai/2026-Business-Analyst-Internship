@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a06b5481476f6176baa761?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[Dynareon](dynareon.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a062c70836fe79d8615017?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 26 |
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a062535218a816767179c4?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Intern](https://jobright.ai/jobs/info/69a057ca0836fe79d8613ae9?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Feb 26 |
