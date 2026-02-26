@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a09bae0836fe79d861a002?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 26 |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69a0941e81476f6176bae756?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a06b5481476f6176baa761?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
-| **[Dynareon](dynareon.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a062c70836fe79d8615017?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 26 |
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a062535218a816767179c4?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Intern](https://jobright.ai/jobs/info/69a057ca0836fe79d8613ae9?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Feb 26 |
-| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a07bfc0836fe79d86176eb?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Feb 26 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Operational Assurance](https://jobright.ai/jobs/info/699fcd08ce78e77b4fe5b680?utm_campaign=1067&utm_source=git)** | Richland, WA | On Site | Feb 25 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699fa437d643757b0e451813?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[Cla-Val](http://cla-val.com)** | **[Business Internship-WR](https://jobright.ai/jobs/info/699ff1af81476f6176b9d0db?utm_campaign=1067&utm_source=git)** | Griswold Industries - 1701 Placentia Ave, 1701 Placentia Ave, Costa Mesa, California, United States of America | On Site | Feb 25 |
@@ -79,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Feb 24 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699df48081476f6176b6e7cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
-| ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e2562ce78e77b4fe337f7?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 24 |
-| ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e302481476f6176b70fce?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 24 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/69824206c3101f1400c3f243?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 24 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Intern - Business](https://jobright.ai/jobs/info/699dca0be0bddb6acacd266d?utm_campaign=1067&utm_source=git)** | Smithfield, VA | On Site | Feb 24 |
@@ -122,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
 | **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998fc9581476f6176b16db7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 20 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
-| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
+| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
+| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
@@ -132,6 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69693f13639b452fb57f09af?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69991a4ce0bddb6acac8172d?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Feb 19 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/6997e1e0e0bddb6acac6ba6b?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d31d381476f6176b5ed61?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Feb 19 |
-| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, AI Business Process Analyst](https://jobright.ai/jobs/info/699e7993e0bddb6acace1ae5?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
