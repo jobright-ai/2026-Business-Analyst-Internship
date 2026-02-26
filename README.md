@@ -57,11 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699f5dd1ce78e77b4fe52682?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Feb 25 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699f2a2194ef206f184e4c34?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Feb 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/699f23d8ce78e77b4fe4eb00?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Feb 25 |
 | **[Vicki's Amish Traditions](https://vickisamishtraditions.com/)** | **[Business Management Intern/Apprentice](https://jobright.ai/jobs/info/699f15aa81476f6176b8ae84?utm_campaign=1067&utm_source=git)** | Millbrook, AL | On Site | Feb 25 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/699f3e0294ef206f184e5ff7?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Feb 25 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern - Innovation](https://jobright.ai/jobs/info/69828dd20f6f7e7a2cdbce5a?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 25 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Feb 25 |
@@ -73,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Feb 24 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699df48081476f6176b6e7cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
-| ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e2562ce78e77b4fe337f7?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 24 |
 | ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e302481476f6176b70fce?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 24 |
+| ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e2562ce78e77b4fe337f7?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 24 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/69824206c3101f1400c3f243?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 24 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Intern - Business](https://jobright.ai/jobs/info/699dca0be0bddb6acacd266d?utm_campaign=1067&utm_source=git)** | Smithfield, VA | On Site | Feb 24 |
@@ -118,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
 | **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998fc9581476f6176b16db7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | Feb 20 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
-| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
+| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998e7a981476f6176b14c98?utm_campaign=1067&utm_source=git)** | 225 Pictoria Dr, Cincinnati, OH 45246, USA | On Site | Feb 20 |
+| ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
