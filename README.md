@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a0c0ea0836fe79d861c19b?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Feb 26 |
 | **[Banner Engineering Careers](https://www.bannerengineering.com/us/en/company/careers.html)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a0baf45218a8167671e5f9?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Feb 26 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a0a9db0836fe79d861ab57?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Remote | Feb 26 |
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Intern](https://jobright.ai/jobs/info/69a0a38e81476f6176baf29d?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 26 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69a0941e81476f6176bae756?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a06b5481476f6176baa761?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
-| **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a062535218a816767179c4?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Feb 26 |
-| **[Horizon Lane](horizonlane.net)** | **[Business Intern](https://jobright.ai/jobs/info/69a057ca0836fe79d8613ae9?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Feb 26 |
+| ↳ | **[Business Intern](https://jobright.ai/jobs/info/69a057ca0836fe79d8613ae9?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Feb 26 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Operational Assurance](https://jobright.ai/jobs/info/699fcd08ce78e77b4fe5b680?utm_campaign=1067&utm_source=git)** | Richland, WA | On Site | Feb 25 |
 | **[Cla-Val](http://cla-val.com)** | **[Business Internship-WR](https://jobright.ai/jobs/info/699ff1af81476f6176b9d0db?utm_campaign=1067&utm_source=git)** | Griswold Industries - 1701 Placentia Ave, 1701 Placentia Ave, Costa Mesa, California, United States of America | On Site | Feb 25 |
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/699fe69e53d97f23ee6573ba?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 25 |
@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/696032f0a1bbea1d9a7b0ada?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 20 |
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
 | ↳ | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69693f13639b452fb57f09af?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
-| **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69991a4ce0bddb6acac8172d?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
