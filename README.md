@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Feb 24 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69825613348f733a5c352508?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 24 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699df48081476f6176b6e7cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 24 |
-| ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e2562ce78e77b4fe337f7?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 24 |
 | ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e302481476f6176b70fce?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 24 |
+| ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/699e2562ce78e77b4fe337f7?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Feb 24 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Business Analyst Intern- Summer 2026 (Indianapolis, IN)](https://jobright.ai/jobs/info/69824206c3101f1400c3f243?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Feb 24 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Intern - Business](https://jobright.ai/jobs/info/699dca0be0bddb6acacd266d?utm_campaign=1067&utm_source=git)** | Smithfield, VA | On Site | Feb 24 |
@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69976a9cce78e77b4fdbc2e7?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 19 |
 | ↳ | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6997b124e0bddb6acac66d84?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Feb 19 |
-| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
