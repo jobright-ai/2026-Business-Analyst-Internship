@@ -58,13 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a09bae0836fe79d861a002?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 26 |
+| **[Velastra](velastra.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a0a62981476f6176baf4e1?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Feb 26 |
+| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Intern](https://jobright.ai/jobs/info/69a0a38e81476f6176baf29d?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 26 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69a0941e81476f6176bae756?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a06b5481476f6176baa761?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a062535218a816767179c4?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Intern](https://jobright.ai/jobs/info/69a057ca0836fe79d8613ae9?utm_campaign=1067&utm_source=git)** | Boston, MA | Remote | Feb 26 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Operational Assurance](https://jobright.ai/jobs/info/699fcd08ce78e77b4fe5b680?utm_campaign=1067&utm_source=git)** | Richland, WA | On Site | Feb 25 |
-| **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699fa437d643757b0e451813?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 25 |
 | **[Cla-Val](http://cla-val.com)** | **[Business Internship-WR](https://jobright.ai/jobs/info/699ff1af81476f6176b9d0db?utm_campaign=1067&utm_source=git)** | Griswold Industries - 1701 Placentia Ave, 1701 Placentia Ave, Costa Mesa, California, United States of America | On Site | Feb 25 |
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/699fe69e53d97f23ee6573ba?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/699f23d8ce78e77b4fe4eb00?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Feb 25 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Vantage Data Centers](https://vantage-dc.com)** | **[Business Analyst Intern, Operations Process Excellence, NA](https://jobright.ai/jobs/info/6968264e639b452fb57db688?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
 | ↳ | **[Business Analyst Intern, Operations PMO, NA](https://jobright.ai/jobs/info/69693f13639b452fb57f09af?utm_campaign=1067&utm_source=git)** | Denver, CO | On Site | Feb 20 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69991a4ce0bddb6acac8172d?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Feb 19 |
-| **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/6997e1e0e0bddb6acac6ba6b?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
