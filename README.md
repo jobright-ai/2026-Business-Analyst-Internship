@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a1237d6b458d060735dbba?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 26 |
+| **[Dollar Tree Stores](http://dollartree.com)** | **[Supply Chain Finance & Data Analytics Intern](https://jobright.ai/jobs/info/69a12c155218a816767265e8?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Feb 26 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sector Business Analyst Intern](https://jobright.ai/jobs/info/69a0f3b55218a81676722f1c?utm_campaign=1067&utm_source=git)** | New York,NY,US | Hybrid | Feb 26 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Business Systems Analyst, MarTech](https://jobright.ai/jobs/info/69a113866b458d060735c8fd?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Feb 26 |
 | **[Taiho Oncology, Inc.](https://www.taihooncology.com)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/69a0caa181476f6176bb156d?utm_campaign=1067&utm_source=git)** | Princeton, NJ | Hybrid | Feb 26 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Staples](http://www.staples.com)** | **[Business Analyst Intern - June 2026](https://jobright.ai/jobs/info/6999c95be0bddb6acac9084f?utm_campaign=1067&utm_source=git)** | Framingham, MA | On Site | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Business Analyst) - Las Vegas](https://jobright.ai/jobs/info/697d3911727747250d58087a?utm_campaign=1067&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 21 |
-| **[Naval Systems, Inc. (NSI)](https://n-s-i.us)** | **[Operations Research Analyst- Intern with Security Clearance](https://jobright.ai/jobs/info/699e9555e0bddb6acace51f8?utm_campaign=1067&utm_source=git)** | Lexington Park, MD | On Site | Feb 20 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/699ff9aace78e77b4fe60a88?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 20 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6998fc99ce78e77b4fdd9777?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 20 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6998f00f81476f6176b158bb?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
@@ -130,5 +129,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6998efe8e0bddb6acac7dcdf?utm_campaign=1067&utm_source=git)** | 4221 N 203rd St, Elkhorn, NE 68022, USA | On Site | Feb 20 |
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998de8ace78e77b4fdd6e57?utm_campaign=1067&utm_source=git)** | Glen Allen, Virginia, United States | Hybrid | Feb 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 20 |
-| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
