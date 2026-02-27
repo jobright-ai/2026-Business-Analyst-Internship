@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 27 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 | **[Valorantum](valorantum.us)** | **[Business Intern](https://jobright.ai/jobs/info/69a1ce97b600907a96282b18?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a1c22c359fe034b1cd148c?utm_campaign=1067&utm_source=git)** | CORP Evansville Head Division Office IN  | On Site | Feb 27 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a1bf88359fe034b1cd1320?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 27 |
-| **[Arvento A](arventoa.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a1bd89359fe034b1cd118b?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
 | **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a1b213b600907a962816c7?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Feb 27 |
 | **[Crest Vale](crestvale.us)** | **[Business Internship](https://jobright.ai/jobs/info/69a1b1f1359fe034b1cd0895?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Internship](https://jobright.ai/jobs/info/69a1c62cb600907a96282619?utm_campaign=1067&utm_source=git)** | San Francisco Bay Area | Remote | Feb 27 |
