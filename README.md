@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a1881b359fe034b1cce860?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Feb 27 |
 | **[AperioHub](https://aperiohub.com)** | **[Business Intern (March cohort)](https://jobright.ai/jobs/info/69a15fa2359fe034b1cca033?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Business Systems, Maximo (Fall 2026)](https://jobright.ai/jobs/info/69a15b84b600907a9627b240?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Vector Solutions](https://www.vectorsolutions.com/)** | **[Sector Business Analyst Intern](https://jobright.ai/jobs/info/69a0f3b55218a81676722f1c?utm_campaign=1067&utm_source=git)** | New York,NY,US | Hybrid | Feb 26 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Business Systems Analyst Intern - REMOTE](https://jobright.ai/jobs/info/69a0d0ac5218a8167671fc06?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Feb 26 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69a0d6bd81476f6176bb2416?utm_campaign=1067&utm_source=git)** | Covington, LA | On Site | Feb 26 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69a0e1620836fe79d861e975?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Feb 26 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a0a9db0836fe79d861ab57?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Remote | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 26 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69a0941e81476f6176bae756?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 26 |
 | **[Horizon Lane](horizonlane.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a06b5481476f6176baa761?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
@@ -119,9 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Business Analyst) - Las Vegas](https://jobright.ai/jobs/info/697d3911727747250d58087a?utm_campaign=1067&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 21 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/699ff9aace78e77b4fe60a88?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 20 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6998fc99ce78e77b4fdd9777?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 20 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6998f00f81476f6176b158bb?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 20 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Business Line Intelligence Analyst) Hybrid Schedule](https://jobright.ai/jobs/info/6998c358ce78e77b4fdd55ea?utm_campaign=1067&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6998e4f9e0bddb6acac7cf18?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 20 |
-| **[Worldwide Window Fashions](https://www.worldwidewindowfashions.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6998beef81476f6176b12b3e?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
