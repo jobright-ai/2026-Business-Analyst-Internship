@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X, The Moonshot Factory](https://x.company)** | **[2026 Business Operations Internship (Tapestry)](https://jobright.ai/jobs/info/6985649d8da7a612045ff492?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a19b2ab600907a962802ee?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Feb 27 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a1881b359fe034b1cce860?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Feb 27 |
 | **[AperioHub](https://aperiohub.com)** | **[Business Intern (March cohort)](https://jobright.ai/jobs/info/69a15fa2359fe034b1cca033?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 27 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Business Systems, Maximo (Fall 2026)](https://jobright.ai/jobs/info/69a15b84b600907a9627b240?utm_campaign=1067&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
