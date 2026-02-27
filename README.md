@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a1b213b600907a962816c7?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Feb 27 |
+| **[Crest Vale](crestvale.us)** | **[Business Internship](https://jobright.ai/jobs/info/69a1b1f1359fe034b1cd0895?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 Business Operations Internship (Tapestry)](https://jobright.ai/jobs/info/6985649d8da7a612045ff492?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a19b2ab600907a962802ee?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Feb 27 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a1881b359fe034b1cce860?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Feb 27 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69a0e1620836fe79d861e975?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 26 |
 | **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69a0941e81476f6176bae756?utm_campaign=1067&utm_source=git)** | Green Bay, WI | On Site | Feb 26 |
-| **[Horizon Lane](horizonlane.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a06b5481476f6176baa761?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 26 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[Undergraduate Business Intern - Operational Assurance](https://jobright.ai/jobs/info/699fcd08ce78e77b4fe5b680?utm_campaign=1067&utm_source=git)** | Richland, WA | On Site | Feb 25 |
 | **[Cla-Val](http://cla-val.com)** | **[Business Internship-WR](https://jobright.ai/jobs/info/699ff1af81476f6176b9d0db?utm_campaign=1067&utm_source=git)** | Griswold Industries - 1701 Placentia Ave, 1701 Placentia Ave, Costa Mesa, California, United States of America | On Site | Feb 25 |
 | **[Seaspan Corporation](http://www.seaspancorp.com/index.php)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/699fe69e53d97f23ee6573ba?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 25 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c5e47e0bddb6acacb6a7c?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | Hybrid | Feb 23 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69616d2cf3f4cd13250663e7?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 22 |
 | **[McCain Foods](http://www.mccain.com)** | **[Global Business Management Internship](https://jobright.ai/jobs/info/6986cdf80f6f7e7a2ce1f6c5?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL | On Site | Feb 21 |
-| **[Staples](http://www.staples.com)** | **[Business Analyst Intern - June 2026](https://jobright.ai/jobs/info/6999c95be0bddb6acac9084f?utm_campaign=1067&utm_source=git)** | Framingham, MA | On Site | Feb 21 |
 | **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Enterprise Project Management Office Internship (Business Analyst) - Las Vegas](https://jobright.ai/jobs/info/697d3911727747250d58087a?utm_campaign=1067&utm_source=git)** | Las Vegas, NV | On Site | Feb 21 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 21 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/699ff9aace78e77b4fe60a88?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Feb 20 |
