@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/69a20a77359fe034b1cd4962?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
+| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/69a201af359fe034b1cd406c?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Feb 27 |
+| **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Multiple U.S Locations - Business Analyst Intern (BA-I) - Summer 2026](https://jobright.ai/jobs/info/69a1ff390da45516f16b4802?utm_campaign=1067&utm_source=git)** | Mableton, GA | On Site | Feb 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 | **[Novalyft Media](novalyftmedia.us)** | **[Business Internship](https://jobright.ai/jobs/info/69a1fc0f0da45516f16b453d?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
 | **[Orvanta](joinorvanta.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a1fb98b600907a962849b0?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Feb 27 |
-| **[Valorantum](valorantum.us)** | **[Business Intern](https://jobright.ai/jobs/info/69a1ce97b600907a96282b18?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a1c22c359fe034b1cd148c?utm_campaign=1067&utm_source=git)** | CORP Evansville Head Division Office IN  | On Site | Feb 27 |
 | **[Crest Vale](crestvale.us)** | **[Business Internship](https://jobright.ai/jobs/info/69a1b1f1359fe034b1cd0895?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Remote | Feb 27 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Internship](https://jobright.ai/jobs/info/69a1c62cb600907a96282619?utm_campaign=1067&utm_source=git)** | San Francisco Bay Area | Remote | Feb 27 |
