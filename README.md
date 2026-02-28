@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valorantum](valorantum.us)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a24b91b600907a962895be?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Feb 27 |
+| **[Tacoma Public Utilities](https://www.mytpu.org/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a24a540da45516f16b9091?utm_campaign=1067&utm_source=git)** | Tacoma, WA | On Site | Feb 27 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/691c072315b41563671954b6?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Feb 27 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a21beb0da45516f16b64bb?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a217120da45516f16b6037?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/69a20a77359fe034b1cd4962?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a227cf359fe034b1cd6545?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Feb 27 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/699cf3e1ce78e77b4fe1acc2?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 27 |
+| **[telMAX Inc.](https://telmax.com)** | **[Process Improvement Analyst Co-op](https://jobright.ai/jobs/info/699d5e8ee0bddb6acaccb217?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 27 |
 | **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Multiple U.S Locations - Business Analyst Intern (BA-I) - Summer 2026](https://jobright.ai/jobs/info/69a1ff390da45516f16b4802?utm_campaign=1067&utm_source=git)** | Mableton, GA | On Site | Feb 27 |
 | **[Orbient 24](orbient24.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a21a280da45516f16b630a?utm_campaign=1067&utm_source=git)** | Youngstown, OH | Remote | Feb 27 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a232270da45516f16b7aaf?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a216800da45516f16b5fb5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a23515b600907a96288149?utm_campaign=1067&utm_source=git)** | Texas | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a2171e359fe034b1cd5523?utm_campaign=1067&utm_source=git)** | New York | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a228f1359fe034b1cd666c?utm_campaign=1067&utm_source=git)** | Colorado | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a219c4b600907a96286664?utm_campaign=1067&utm_source=git)** | Florida | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a23515b600907a96288149?utm_campaign=1067&utm_source=git)** | Texas | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a216800da45516f16b5fb5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a232270da45516f16b7aaf?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a22f5f0da45516f16b77cf?utm_campaign=1067&utm_source=git)** | Draper, UT | On Site | Feb 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699cda29e0bddb6acacbe2c6?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Feb 23 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb576e0bddb6acacbc5a2?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb04cce78e77b4fe170f4?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Feb 23 |
-| **[telMAX Inc.](https://telmax.com)** | **[Process Improvement Analyst Co-op](https://jobright.ai/jobs/info/699d5e8ee0bddb6acaccb217?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 23 |
 | **[Enlyte](https://www.enlyte.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/699c9a4581476f6176b53483?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 23 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c97a4ce78e77b4fe15fec?utm_campaign=1067&utm_source=git)** | United States | Remote | Feb 23 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c973f81476f6176b53275?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL, US | Hybrid | Feb 23 |
