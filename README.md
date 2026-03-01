@@ -58,10 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a374dcb600907a962996f2?utm_campaign=1067&utm_source=git)** | Akron, OH | Remote | Feb 28 |
-| **[Orvanta](joinorvanta.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a34431359fe034b1ce767a?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Feb 28 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Business Process Optimization Bachelor's Intern](https://jobright.ai/jobs/info/69a3350db600907a96297d40?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Admin Bachelor's Intern](https://jobright.ai/jobs/info/69a330d40da45516f16c7747?utm_campaign=1067&utm_source=git)** | Pasadena, CA | Hybrid | Feb 28 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a31c68b600907a9629706e?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Feb 28 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern - Innovation](https://jobright.ai/jobs/info/69a318cd359fe034b1ce61d5?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Feb 28 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Data Analyst Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f200b600907a9629527d?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 28 |
@@ -83,13 +81,13 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/699cf3e1ce78e77b4fe1acc2?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 27 |
 | **[telMAX Inc.](https://telmax.com)** | **[Process Improvement Analyst Co-op](https://jobright.ai/jobs/info/699d5e8ee0bddb6acaccb217?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 27 |
 | **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Multiple U.S Locations - Business Analyst Intern (BA-I) - Summer 2026](https://jobright.ai/jobs/info/69a1ff390da45516f16b4802?utm_campaign=1067&utm_source=git)** | Mableton, GA | On Site | Feb 27 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a2171e359fe034b1cd5523?utm_campaign=1067&utm_source=git)** | New York | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a23515b600907a96288149?utm_campaign=1067&utm_source=git)** | Texas | On Site | Feb 27 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a22f5f0da45516f16b77cf?utm_campaign=1067&utm_source=git)** | Draper, UT | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a228f1359fe034b1cd666c?utm_campaign=1067&utm_source=git)** | Colorado | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a22f5f0da45516f16b77cf?utm_campaign=1067&utm_source=git)** | Draper, UT | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a232270da45516f16b7aaf?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a216800da45516f16b5fb5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a219c4b600907a96286664?utm_campaign=1067&utm_source=git)** | Florida | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a2171e359fe034b1cd5523?utm_campaign=1067&utm_source=git)** | New York | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a23515b600907a96288149?utm_campaign=1067&utm_source=git)** | Texas | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a216800da45516f16b5fb5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | On Site | Feb 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/696967c3639b452fb57f3a14?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Feb 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a1c22c359fe034b1cd148c?utm_campaign=1067&utm_source=git)** | CORP Evansville Head Division Office IN  | On Site | Feb 27 |
@@ -142,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Enovis](https://enovis.com)** | **[Base Business Internship](https://jobright.ai/jobs/info/699c90ace0bddb6acacbaa90?utm_campaign=1067&utm_source=git)** | USA, Texas, Austin | On Site | Feb 23 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Transactional Services](https://jobright.ai/jobs/info/699c813ce0bddb6acacb89cf?utm_campaign=1067&utm_source=git)** | Fairfield, NJ | On Site | Feb 23 |
 | **[Bankers Financial Corporation](http://www.bankersfinancialcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699c5e47e0bddb6acacb6a7c?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL | Hybrid | Feb 23 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst (Intern) - United States](https://jobright.ai/jobs/info/69a2b707359fe034b1ce12e8?utm_campaign=1067&utm_source=git)** | Birmingham, AL | On Site | Feb 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
