@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Innovation Analyst Intern](https://jobright.ai/jobs/info/69a5798db600907a962b2a8f?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 02 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a56776359fe034b1d00e38?utm_campaign=1067&utm_source=git)** | Newport News, VA | Remote | Mar 02 |
 | **[Dynareon](dynareon.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a55f14b600907a962b1347?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Mar 02 |
 | **[Clyvra](clyvra.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a55e32b600907a962b0f14?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Mar 02 |
-| **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/699cf3e1ce78e77b4fe1acc2?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/69a57ef50da45516f16e2ca3?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/699cf3e1ce78e77b4fe1acc2?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47225359fe034b1cf3c9f?utm_campaign=1067&utm_source=git)** | BASIN PARK 1160, Pittsford, NY, US | Hybrid | Mar 01 |
 | **[ePS](https://www.eps-one.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a470a4359fe034b1cf3bb7?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 01 |
@@ -87,12 +89,12 @@ For a complete list, click the following sortable link below:
 | **[telMAX Inc.](https://telmax.com)** | **[Process Improvement Analyst Co-op](https://jobright.ai/jobs/info/699d5e8ee0bddb6acaccb217?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 27 |
 | **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Multiple U.S Locations - Business Analyst Intern (BA-I) - Summer 2026](https://jobright.ai/jobs/info/69a1ff390da45516f16b4802?utm_campaign=1067&utm_source=git)** | Mableton, GA | On Site | Feb 27 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a2171e359fe034b1cd5523?utm_campaign=1067&utm_source=git)** | New York | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a22f5f0da45516f16b77cf?utm_campaign=1067&utm_source=git)** | Draper, UT | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a228f1359fe034b1cd666c?utm_campaign=1067&utm_source=git)** | Colorado | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a232270da45516f16b7aaf?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a23515b600907a96288149?utm_campaign=1067&utm_source=git)** | Texas | On Site | Feb 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a216800da45516f16b5fb5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | On Site | Feb 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a219c4b600907a96286664?utm_campaign=1067&utm_source=git)** | Florida | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a216800da45516f16b5fb5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a228f1359fe034b1cd666c?utm_campaign=1067&utm_source=git)** | Colorado | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a23515b600907a96288149?utm_campaign=1067&utm_source=git)** | Texas | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a22f5f0da45516f16b77cf?utm_campaign=1067&utm_source=git)** | Draper, UT | On Site | Feb 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a232270da45516f16b7aaf?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a1c22c359fe034b1cd148c?utm_campaign=1067&utm_source=git)** | CORP Evansville Head Division Office IN  | On Site | Feb 27 |
 | **[X, The Moonshot Factory](https://x.company)** | **[2026 Business Operations Internship (Tapestry)](https://jobright.ai/jobs/info/6985649d8da7a612045ff492?utm_campaign=1067&utm_source=git)** | Mountain View, CA | On Site | Feb 27 |
@@ -122,18 +124,13 @@ For a complete list, click the following sortable link below:
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Feb 24 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Intern - Business](https://jobright.ai/jobs/info/699dca0be0bddb6acacd266d?utm_campaign=1067&utm_source=git)** | Smithfield, VA | On Site | Feb 24 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern (Automotive Business Group)](https://jobright.ai/jobs/info/69796ea1ca92cf0d6a829243?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Feb 24 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern – Information Technology](https://jobright.ai/jobs/info/6992be79ce78e77b4fd6946f?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Business Transformation Intern](https://jobright.ai/jobs/info/699d00f4e0bddb6acacc1761?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 24 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699d4ba3e0bddb6acacca05a?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 23 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699d4ba3e0bddb6acacca05a?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 23 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/699d4a87ce78e77b4fe25007?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Feb 23 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - REMOTE](https://jobright.ai/jobs/info/699d3996e0bddb6acacc7919?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Feb 23 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Feb 23 |
-| **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/699d0875e0bddb6acacc246a?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/699d0875e0bddb6acacc246a?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - REMOTE](https://jobright.ai/jobs/info/699d2268e0bddb6acacc45d2?utm_campaign=1067&utm_source=git)** | USA, California, Santa Ana | Remote | Feb 23 |
 | **[Elucid](http://elucid.com)** | **[Business Intern: Summer 2026](https://jobright.ai/jobs/info/699ccee1ce78e77b4fe18b28?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Feb 23 |
 | **[Aqua Finance, Inc.](https://www.aquafinance.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/699cf27cce78e77b4fe1aac9?utm_campaign=1067&utm_source=git)** | Wausau, WI | On Site | Feb 23 |
-| **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Business Transformation Intern](https://jobright.ai/jobs/info/699ce8e281476f6176b571fb?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Feb 23 |
-| **[Enovis](https://enovis.com)** | **[Base Business Internship](https://jobright.ai/jobs/info/699cf02c81476f6176b57add?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Feb 23 |
-| **[Banner Engineering](https://www.bannerengineering.com/us/en.html)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/699cda29e0bddb6acacbe2c6?utm_campaign=1067&utm_source=git)** | Minneapolis, MN | On Site | Feb 23 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/699cb576e0bddb6acacbc5a2?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
