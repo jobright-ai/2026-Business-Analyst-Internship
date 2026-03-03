@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Reviora](reviora.co)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a6d5972672cb0acb4b40e8?utm_campaign=1067&utm_source=git)** | Norfolk, VA | On Site | Mar 03 |
-| **[Next Drift Solutions](https://www.linkedin.com/company/106285198)** | **[Business Analyst](https://jobright.ai/jobs/info/69a6c8051fc3d83b78091f0d?utm_campaign=1067&utm_source=git)** | Canton, OH | Remote | Mar 03 |
+| **[Fyntrix One](fyntrixone.com)** | **[Business Internship](https://jobright.ai/jobs/info/69a701bb76bbe83d3afa51c0?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | Mar 03 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a6c23876bbe83d3afa231a?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 03 |
 | **[Bluecrest Partners](bluecrestpartners.net)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/69a6b06f76bbe83d3afa1085?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | On Site | Mar 03 |
 | **[Alaska Marine Lines](https://www.lynden.com/aml)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69a68f8b1a944544ef6335fa?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
@@ -78,14 +77,12 @@ For a complete list, click the following sortable link below:
 | **[Manatee County Government, Work That Matters](https://www.mymanatee.org)** | **[2026 Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69a6181f0da45516f16efa26?utm_campaign=1067&utm_source=git)** | Bradenton, FL | On Site | Mar 01 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47225359fe034b1cf3c9f?utm_campaign=1067&utm_source=git)** | BASIN PARK 1160, Pittsford, NY, US | Hybrid | Mar 01 |
-| **[ePS](https://www.eps-one.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a470a4359fe034b1cf3bb7?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978485b52f3c27ec6448942?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Business Process Optimization Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a6565d2c0d8b0f5cd0707f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Feb 28 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Business Process Optimization Bachelor's Intern](https://jobright.ai/jobs/info/69a3350db600907a96297d40?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Admin Bachelor's Intern](https://jobright.ai/jobs/info/69a330d40da45516f16c7747?utm_campaign=1067&utm_source=git)** | Pasadena, CA | Hybrid | Feb 28 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Data Analyst Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f200b600907a9629527d?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Feb 28 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a6e76476bbe83d3afa3bf6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a2a980b600907a96290e95?utm_campaign=1067&utm_source=git)** | Evansville, IN | On Site | Feb 27 |
 | **[Tacoma Public Utilities](https://www.mytpu.org/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a51d830da45516f16dbcf5?utm_campaign=1067&utm_source=git)** | Tacoma, WA | On Site | Feb 27 |
@@ -111,7 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Feb 25 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a65073019f50a4fe57c04?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Feb 25 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science - Procurement Business Optimization Internship](https://jobright.ai/jobs/info/69a69ae01a944544ef63461a?utm_campaign=1067&utm_source=git)** | Bridgewater, NJ | On Site | Feb 24 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/699e8df481476f6176b7c60a?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Feb 24 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/699e8c46e0bddb6acace3f74?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | Feb 24 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Performance Analytics, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/699e8c5bce78e77b4fe3f444?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
