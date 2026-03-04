@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brilyon Ventures](brilyonventures.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8389d1dfc787e9aa34e7b?utm_campaign=1067&utm_source=git)** | Alexandria, VA | Remote | Mar 03 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
