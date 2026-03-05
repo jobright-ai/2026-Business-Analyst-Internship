@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 04 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8d20a79f3f4037f435762?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8cf637ac93962b708a437?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[Reviora](reviora.co)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a8bb6e7ac93962b70882b1?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 04 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8af0e2580d3183f00b602?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a89e6c2580d3183f00a0ea?utm_campaign=1067&utm_source=git)** | CAN, ON, Mississauga | Hybrid | Mar 04 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 02 |
 | **[Veolia](http://www.veolia.com/en/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a60fd2359fe034b1d0df2b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[GBLI | Global Indemnity](https://gbli.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69a60eaf0da45516f16eeb8f?utm_campaign=1067&utm_source=git)** | Bala-Cynwyd, PA | On Site | Mar 02 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 02 |
 | **[Veolia](http://www.veolia.com/en/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a606d70da45516f16eded5?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Mar 02 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/69a692e2708b430a607af7d7?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Mar 02 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC](http://www.fafltd.com)** | **[Business Systems Analyst Intern - REMOTE](https://jobright.ai/jobs/info/69a0d0ac5218a8167671fc06?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Feb 26 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69a0e1620836fe79d861e975?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Feb 26 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Feb 26 |
-| **[NetApp Learning Services](https://www.netapp.com/us/services-support/university/index.aspx)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a2d419b600907a96293eae?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
