@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Intern](https://jobright.ai/jobs/info/69a9a57f2ebd316bece1381a?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9a5669ca4e908ec64e1ca?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9a5521f59c56275e2653a?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
+| **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9a5441f59c56275e26522?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 05 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9991d7f9271426f8873a0?utm_campaign=1067&utm_source=git)** | Newport News, VA | On Site | Mar 05 |
 | **[Orvanta](joinorvanta.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a97c38f6c22f2e36866513?utm_campaign=1067&utm_source=git)** | Alexandria City County, VA | On Site | Mar 05 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a97521f6c22f2e36865bd6?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
