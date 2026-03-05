@@ -57,23 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Business Research Intern](https://jobright.ai/jobs/info/69a920172580d3183f01538f?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 04 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Intern](https://jobright.ai/jobs/info/69a9051d79f3f4037f43b1ba?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 04 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Business Analyst Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69a8ef0f2580d3183f011923?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Mar 04 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 04 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8d20a79f3f4037f435762?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8cf637ac93962b708a437?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
-| **[Reviora](reviora.co)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a8bb6e7ac93962b70882b1?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 04 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8af0e2580d3183f00b602?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a89e6c2580d3183f00a0ea?utm_campaign=1067&utm_source=git)** | CAN, ON, Mississauga | Hybrid | Mar 04 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8bc092580d3183f00c94e?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69a8b93c7ac93962b7087f9f?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6996645f81476f6176ae355d?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 04 |
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89e347ac93962b7085ad8?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Mar 04 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a8925279f3f4037f427e1e?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 04 |
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a886d02580d3183f008d2a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
-| **[CGI](https://www.cgi.com)** | **[Health Information Sciences Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69a90e917ac93962b70900b0?utm_campaign=1067&utm_source=git)** | Victoria, British Columbia, Canada | On Site | Mar 03 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
