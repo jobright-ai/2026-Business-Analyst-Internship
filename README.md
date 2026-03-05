@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8d20a79f3f4037f435762?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[Reviora](reviora.co)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a8bb6e7ac93962b70882b1?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 04 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8af0e2580d3183f00b602?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a89e6c2580d3183f00a0ea?utm_campaign=1067&utm_source=git)** | CAN, ON, Mississauga | Hybrid | Mar 04 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89e347ac93962b7085ad8?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Mar 04 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a8925279f3f4037f427e1e?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 04 |
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
-| **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Business Innovation Analyst Intern](https://jobright.ai/jobs/info/69a856337ac93962b70827d8?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 04 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a886d02580d3183f008d2a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
