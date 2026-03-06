@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dollar Tree Stores](http://dollartree.com)** | **[Supply Chain Finance & Data Analytics Intern](https://jobright.ai/jobs/info/69aa91f834184204e44916ec?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Mar 06 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa8ad29ca4e908ec65f3a1?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 06 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69aa7f631f59c56275e35360?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa42b09ca4e908ec659acb?utm_campaign=1067&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 05 |
