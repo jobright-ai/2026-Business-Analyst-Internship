@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orbient 24](orbient24.com)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/69aa4e5d2ebd316bece211ba?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Mar 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa42b09ca4e908ec659acb?utm_campaign=1067&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 05 |
 | ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 05 |
-| **[Brilyon Ventures](brilyonventures.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa3eaa9ca4e908ec65950a?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
 | **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69aa3e952ebd316bece201b3?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Mar 05 |
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa357a2ebd316bece1f9de?utm_campaign=1067&utm_source=git)** | Chandler, AZ | Hybrid | Mar 05 |
 | **[Atec, Inc.](http://atec.com)** | **[Business Intern](https://jobright.ai/jobs/info/69aa33dc1f59c56275e30c23?utm_campaign=1067&utm_source=git)** | Stafford, TX | On Site | Mar 05 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/69aa30db1f59c56275e3082e?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 05 |
+| ↳ | **[Business Services Intern](https://jobright.ai/jobs/info/69aa4e499ca4e908ec65a703?utm_campaign=1067&utm_source=git)** | SLC Metro Area | Hybrid | Mar 05 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa2ba59ca4e908ec657390?utm_campaign=1067&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69aa1e7e2ebd316bece1d9f6?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9fc159ca4e908ec654b19?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Mar 05 |
