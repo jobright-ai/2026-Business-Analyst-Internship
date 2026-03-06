@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa42b09ca4e908ec659acb?utm_campaign=1067&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 05 |
+| ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 05 |
+| **[Brilyon Ventures](brilyonventures.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa3eaa9ca4e908ec65950a?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 05 |
+| **[Brixenta](brixenta.net)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69aa3e952ebd316bece201b3?utm_campaign=1067&utm_source=git)** | Akron, OH | On Site | Mar 05 |
+| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa357a2ebd316bece1f9de?utm_campaign=1067&utm_source=git)** | Chandler, AZ | Hybrid | Mar 05 |
+| **[Atec, Inc.](http://atec.com)** | **[Business Intern](https://jobright.ai/jobs/info/69aa33dc1f59c56275e30c23?utm_campaign=1067&utm_source=git)** | Stafford, TX | On Site | Mar 05 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/69aa30db1f59c56275e3082e?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 05 |
+| **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa2ba59ca4e908ec657390?utm_campaign=1067&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69aa1e7e2ebd316bece1d9f6?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9fc159ca4e908ec654b19?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Mar 05 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Business Solution Analyst (Fall 2026)](https://jobright.ai/jobs/info/69aa278c9ca4e908ec656eeb?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
 | ↳ | **[Intern:  Business Solution Analyst (Summer 2026)](https://jobright.ai/jobs/info/69a9f7de9ca4e908ec6544c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9f6ea2ebd316bece1b1c7?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Mar 05 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa267b9ca4e908ec656db6?utm_campaign=1067&utm_source=git)** | Houston, TX | Remote | Mar 05 |
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Systems Business Analyst Intern](https://jobright.ai/jobs/info/69a9d8082ebd316bece1626b?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69a9f7f41f59c56275e2c93c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
@@ -119,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst Intern](https://jobright.ai/jobs/info/68f35d139a63986de7571c6d?utm_campaign=1067&utm_source=git)** | Charlotte, NC | On Site | Mar 01 |
 | **[Canandaigua National Bank](http://cnbank.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a47225359fe034b1cf3c9f?utm_campaign=1067&utm_source=git)** | BASIN PARK 1160, Pittsford, NY, US | Hybrid | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978485b52f3c27ec6448942?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 01 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Business Process Optimization Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/69a93fd379f3f4037f441cb0?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Feb 28 |
 | **[Kaiser Permanente Northwest](http://www.kp.org)** | **[Business Process Optimization Bachelor's Intern](https://jobright.ai/jobs/info/69a3350db600907a96297d40?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Feb 28 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Business Admin Bachelor's Intern](https://jobright.ai/jobs/info/69a330d40da45516f16c7747?utm_campaign=1067&utm_source=git)** | Pasadena, CA | Hybrid | Feb 28 |
 | **[Minnesota Department of Human Services](http://mn.gov/dhs)** | **[Executive Pathways Data Analyst Intern - Management Analyst 1](https://jobright.ai/jobs/info/69a2f200b600907a9629527d?utm_campaign=1067&utm_source=git)** | St Paul, MN | Hybrid | Feb 28 |
