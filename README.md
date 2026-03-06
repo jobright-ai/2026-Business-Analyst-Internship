@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
+| **[ASML](https://www.asml.com)** | **[Internship - Contract & Operational Strategy Data Analyst](https://jobright.ai/jobs/info/6997ea37ce78e77b4fdc6d19?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
+| **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 06 |
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ec9c378b4502f12a5a2a2?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 06 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 06 |
@@ -80,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a9b6a82ebd316bece1465b?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 05 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business  internship](https://jobright.ai/jobs/info/69a9fafe9ca4e908ec654712?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Mar 05 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a97521f6c22f2e36865bd6?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern - Monetization Strategy & Operations - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698d4f3a78b4502f12a3f536?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698d6a6178b4502f12a4137b?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 05 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[EVRAZ North America](http://www.evrazna.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89e347ac93962b7085ad8?utm_campaign=1067&utm_source=git)** | Pueblo, CO, USA | On Site | Mar 04 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a8925279f3f4037f427e1e?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 04 |
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a886d02580d3183f008d2a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
