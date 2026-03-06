@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ec9c378b4502f12a5a2a2?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 06 |
+| **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa8ad29ca4e908ec65f3a1?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 06 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69aa7f631f59c56275e35360?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa42b09ca4e908ec659acb?utm_campaign=1067&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 05 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Systems Business Analyst Intern](https://jobright.ai/jobs/info/69a9d8082ebd316bece1626b?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69a9f7f41f59c56275e2c93c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa25b11f59c56275e2f12d?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Mar 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a9b6a82ebd316bece1465b?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 05 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business  internship](https://jobright.ai/jobs/info/69a9fafe9ca4e908ec654712?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Mar 05 |
