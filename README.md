@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ab46347e1fab39d382e000?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 06 |
+| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ab46337e1fab39d382dffe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 06 |
+| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/69ab429d2747003c3d50f0ff?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 06 |
+| **[Sentara Health](http://www.sentara.com)** | **[Business Analyst (Epic/Radient/Cupid) Internship - Summer 2026 Remote](https://jobright.ai/jobs/info/69ab32552747003c3d50ddcc?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Remote | Mar 06 |
+| **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
+| **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
+| ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[ASML](https://www.asml.com)** | **[Internship - Contract & Operational Strategy Data Analyst](https://jobright.ai/jobs/info/6997ea37ce78e77b4fdc6d19?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
@@ -67,12 +73,9 @@ For a complete list, click the following sortable link below:
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ec9c378b4502f12a5a2a2?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 06 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2026 Summer Internship - Analyst](https://jobright.ai/jobs/info/68e54280b99ec3563b0f1f0d?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Mar 06 |
-| **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa8ad29ca4e908ec65f3a1?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 06 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69aa7f631f59c56275e35360?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa42b09ca4e908ec659acb?utm_campaign=1067&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 05 |
 | ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 05 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 05 |
-| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aa357a2ebd316bece1f9de?utm_campaign=1067&utm_source=git)** | Chandler, AZ | Hybrid | Mar 05 |
 | **[Atec, Inc.](http://atec.com)** | **[Business Intern](https://jobright.ai/jobs/info/69aa33dc1f59c56275e30c23?utm_campaign=1067&utm_source=git)** | Stafford, TX | On Site | Mar 05 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/69aa30db1f59c56275e3082e?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | Hybrid | Mar 05 |
 | ↳ | **[Business Services Intern](https://jobright.ai/jobs/info/69aa4e499ca4e908ec65a703?utm_campaign=1067&utm_source=git)** | SLC Metro Area | Hybrid | Mar 05 |
@@ -81,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9fc159ca4e908ec654b19?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Mar 05 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Business Solution Analyst (Fall 2026)](https://jobright.ai/jobs/info/69aa278c9ca4e908ec656eeb?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
 | ↳ | **[Intern:  Business Solution Analyst (Summer 2026)](https://jobright.ai/jobs/info/69a9f7de9ca4e908ec6544c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
-| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9f6ea2ebd316bece1b1c7?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Mar 05 |
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Systems Business Analyst Intern](https://jobright.ai/jobs/info/69a9d8082ebd316bece1626b?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69a9f7f41f59c56275e2c93c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
