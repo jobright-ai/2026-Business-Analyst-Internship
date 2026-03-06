@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9fc159ca4e908ec654b19?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Mar 05 |
+| **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern:  Business Solution Analyst (Summer 2026)](https://jobright.ai/jobs/info/69a9f7de9ca4e908ec6544c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
+| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9f6ea2ebd316bece1b1c7?utm_campaign=1067&utm_source=git)** | Chandler, Arizona, United States Of America | Hybrid | Mar 05 |
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Systems Business Analyst Intern](https://jobright.ai/jobs/info/69a9d8082ebd316bece1626b?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | Mar 05 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69a9f7f41f59c56275e2c93c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[Stackora](https://www.linkedin.com/company/83497455)** | **[Business Intern](https://jobright.ai/jobs/info/69a9c7901f59c56275e27b03?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a9b6a82ebd316bece1465b?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 05 |
 | **[Valorantum](valorantum.net)** | **[Business Analyst Innovative Intern](https://jobright.ai/jobs/info/69a9a9db9ca4e908ec64e485?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 05 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business  internship](https://jobright.ai/jobs/info/69a9fafe9ca4e908ec654712?utm_campaign=1067&utm_source=git)** | Richmond, VA | Remote | Mar 05 |
 | **[Arvento A](arventoa.com)** | **[Business Analyst Innovation Intern](https://jobright.ai/jobs/info/69a9db181f59c56275e29452?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Remote | Mar 05 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a97521f6c22f2e36865bd6?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/69a98712f6c22f2e368677fd?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 05 |
@@ -99,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698aaa7cc5761b521a99f187?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Mar 03 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69a6603fe567421f425769d4?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 03 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a721fb2672cb0acb4b8ee3?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Mar 03 |
-| **[Radiant Digital](https://www.radiant.digital/)** | **[Business Intern](https://jobright.ai/jobs/info/69a93a1479f3f4037f440870?utm_campaign=1067&utm_source=git)** | Vienna, VA | On Site | Mar 03 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698eb17b0f6f7e7a2cead049?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 03 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, IT Business Analyst Intern](https://jobright.ai/jobs/info/69a664ec2c0d8b0f5cd08714?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 02 |
