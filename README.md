@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollar Tree Stores](http://dollartree.com)** | **[Supply Chain Finance & Data Analytics Intern](https://jobright.ai/jobs/info/69aa91f834184204e44916ec?utm_campaign=1067&utm_source=git)** | Chesapeake, VA | On Site | Mar 06 |
+| **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa8ad29ca4e908ec65f3a1?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 06 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69aa7f631f59c56275e35360?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 05 |
-| **[Orbient 24](orbient24.com)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/69aa4e5d2ebd316bece211ba?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA | Remote | Mar 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa42b09ca4e908ec659acb?utm_campaign=1067&utm_source=git)** | Chicago, IL, US, 60606 | Hybrid | Mar 05 |
 | ↳ | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 05 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 05 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a886d02580d3183f008d2a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
-| **[Lennar](http://lennar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a955f47f9271426f883903?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Mar 04 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Global Business Strategy Development Intern - Summer 2026](https://jobright.ai/jobs/info/69a7abb6637232443f64f55c?utm_campaign=1067&utm_source=git)** | US - Indiana - Fort Wayne | On Site | Mar 03 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Business Performance Intern - Full Time 2026](https://jobright.ai/jobs/info/69aa82192ebd316bece23cfc?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Feb 27 |
 | **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Multiple U.S Locations - Business Analyst Intern (BA-I) - Summer 2026](https://jobright.ai/jobs/info/69a1ff390da45516f16b4802?utm_campaign=1067&utm_source=git)** | Mableton, GA | On Site | Feb 27 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
