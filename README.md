@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sentara Health](http://www.sentara.com)** | **[Business Analyst (Epic/Radient/Cupid) Internship - Summer 2026 Remote](https://jobright.ai/jobs/info/69ab65487e1fab39d382eb00?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Remote | Mar 06 |
+| **[Arizona Public Service - APS](http://www.aps.com)** | **[2026 Summer Internship - Process Improvement](https://jobright.ai/jobs/info/69a769a52672cb0acb4bdf46?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 06 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ab46347e1fab39d382e000?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 06 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ab46337e1fab39d382dffe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 06 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/69ab429d2747003c3d50f0ff?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 06 |
-| **[Sentara Health](http://www.sentara.com)** | **[Business Analyst (Epic/Radient/Cupid) Internship - Summer 2026 Remote](https://jobright.ai/jobs/info/69ab32552747003c3d50ddcc?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Remote | Mar 06 |
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[GPC Beverage](https://www.gillettepepsicola.com)** | **[Business Intern](https://jobright.ai/jobs/info/69a7a208637232443f64e39c?utm_campaign=1067&utm_source=git)** | La Crosse,WI,US | On Site | Mar 03 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a2a980b600907a96290e95?utm_campaign=1067&utm_source=git)** | Evansville, IN | On Site | Mar 03 |
-| **[Arizona Public Service - APS](http://www.aps.com)** | **[2026 Summer Internship - Process Improvement](https://jobright.ai/jobs/info/69a769a52672cb0acb4bdf46?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 03 |
 | **[Lennar](http://lennar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8b17279f3f4037f430b0c?utm_campaign=1067&utm_source=git)** | Sacramento CA - Virtual | On Site | Mar 03 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/698aaa7cc5761b521a99f187?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Mar 03 |
