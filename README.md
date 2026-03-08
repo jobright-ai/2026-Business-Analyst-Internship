@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Services Intern](https://jobright.ai/jobs/info/69aa4e499ca4e908ec65a703?utm_campaign=1067&utm_source=git)** | SLC Metro Area | Hybrid | Mar 05 |
 | **[Five Guys](http://Www.fiveguys.com)** | **[Business Process Intern – AI & Automation](https://jobright.ai/jobs/info/69aa2ba59ca4e908ec657390?utm_campaign=1067&utm_source=git)** | Alexandria, Virginia, United States | On Site | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69aa1e7e2ebd316bece1d9f6?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
-| **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a9fc159ca4e908ec654b19?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Mar 05 |
 | **[Volvo Financial Services](http://www.vfsco.com)** | **[Intern: Business Solution Analyst (Fall 2026)](https://jobright.ai/jobs/info/69aa278c9ca4e908ec656eeb?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
 | ↳ | **[Intern:  Business Solution Analyst (Summer 2026)](https://jobright.ai/jobs/info/69a9f7de9ca4e908ec6544c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
 | **[Corpay](https://payments.corpay.com)** | **[Enterprise Systems Business Analyst Intern](https://jobright.ai/jobs/info/69a9d8082ebd316bece1626b?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | Mar 05 |
