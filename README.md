@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SUPPLIFLEX](https://suppliflex.tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ac8f2b142d5b4265fdd1b9?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a8043f1fc3d83b780966bd?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Mar 07 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/69ac1b46142d5b4265fd819e?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 07 |
