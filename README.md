@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Mar 02 |
 | **[GreenStone Farm Credit Services](http://greenstonefcs.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/69a692e2708b430a607af7d7?utm_campaign=1067&utm_source=git)** | East Lansing, MI | On Site | Mar 02 |
 | **[telMAX Inc.](https://telmax.com)** | **[Process Improvement Analyst Co-op](https://jobright.ai/jobs/info/699d5e8ee0bddb6acaccb217?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 02 |
-| **[Canandaigua National Bank](http://cnbank.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69abf99d142d5b4265fd75d0?utm_campaign=1067&utm_source=git)** | Pittsford, NY | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
