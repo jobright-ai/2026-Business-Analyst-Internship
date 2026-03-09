@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stuller, Inc.](http://stuller.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aefe206b21de023e60161d?utm_campaign=1067&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 09 |
 | **[Okta](http://www.okta.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/698fcf8a0f6f7e7a2cec1af5?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 07 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a8043f1fc3d83b780966bd?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Mar 07 |
 | **[Airbus](https://us.airbus.com)** | **[Summer Internship - Business Improvement](https://jobright.ai/jobs/info/69ac1b46142d5b4265fd819e?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 07 |
@@ -65,14 +66,15 @@ For a complete list, click the following sortable link below:
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 06 |
 | **[Sentara Health](http://www.sentara.com)** | **[Business Analyst (Epic/Radient/Cupid) Internship - Summer 2026 Remote](https://jobright.ai/jobs/info/69ab65487e1fab39d382eb00?utm_campaign=1067&utm_source=git)** | Norfolk, VA | Remote | Mar 06 |
 | **[Arizona Public Service - APS](http://www.aps.com)** | **[2026 Summer Internship - Process Improvement](https://jobright.ai/jobs/info/69a769a52672cb0acb4bdf46?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 06 |
+| **[Hearst](http://www.hearst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aef7f3dfaeda6ff596fe93?utm_campaign=1067&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 06 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Milwaukee, WI)](https://jobright.ai/jobs/info/69aba3602747003c3d513281?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Mar 06 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ab46347e1fab39d382e000?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 06 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ab46337e1fab39d382dffe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Mar 06 |
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[ASML](https://www.asml.com)** | **[Internship - Contract & Operational Strategy Data Analyst](https://jobright.ai/jobs/info/6997ea37ce78e77b4fdc6d19?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
@@ -103,8 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Lennar](http://lennar.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ad0f9a2747003c3d529dc9?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Mar 04 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Business Analyst Intern (Charlotte, Summer 26, Hybrid)](https://jobright.ai/jobs/info/69a8ef0f2580d3183f011923?utm_campaign=1067&utm_source=git)** | Charlotte, NC | Hybrid | Mar 04 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 04 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8d20a79f3f4037f435762?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8cf637ac93962b708a437?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8af0e2580d3183f00b602?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a89e6c2580d3183f00a0ea?utm_campaign=1067&utm_source=git)** | CAN, ON, Mississauga | Hybrid | Mar 04 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a8bc092580d3183f00c94e?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 04 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a8925279f3f4037f427e1e?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 04 |
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69aee6126b21de023e600034?utm_campaign=1067&utm_source=git)** | Sacramento, CA | Hybrid | Mar 04 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Global Business Strategy Development Intern - Summer 2026](https://jobright.ai/jobs/info/69a7abb6637232443f64f55c?utm_campaign=1067&utm_source=git)** | US - Indiana - Fort Wayne | On Site | Mar 03 |
@@ -127,6 +126,4 @@ For a complete list, click the following sortable link below:
 | **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698eb17b0f6f7e7a2cead049?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 03 |
 | **[Hoosac Valley Farmer's Exchange](https://hoosacvalleyfarmers.com/)** | **[Agricultural Business Internship or Full/Part time Position](https://jobright.ai/jobs/info/69aaca1e2747003c3d506db2?utm_campaign=1067&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Mar 02 |
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, IT Business Analyst Intern](https://jobright.ai/jobs/info/69a664ec2c0d8b0f5cd08714?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 02 |
-| **[Lynden](https://www.lynden.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ae85714f6bcc182809c7b9?utm_campaign=1067&utm_source=git)** | 5615 W Marginal Wy SW, Seattle, WA 98106, USA | On Site | Mar 02 |
-| **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
