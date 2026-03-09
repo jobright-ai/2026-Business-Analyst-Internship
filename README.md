@@ -136,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a60fd2359fe034b1d0df2b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
 | **[GBLI | Global Indemnity](https://gbli.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69a60eaf0da45516f16eeb8f?utm_campaign=1067&utm_source=git)** | Bala-Cynwyd, PA | On Site | Mar 02 |
 | **[Veolia](http://www.veolia.com/en/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a606d70da45516f16eded5?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
