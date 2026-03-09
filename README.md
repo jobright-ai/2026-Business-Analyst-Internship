@@ -116,7 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a8925279f3f4037f427e1e?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 04 |
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69aecdaabd1a716b431057fa?utm_campaign=1067&utm_source=git)** | Reno, NV | Hybrid | Mar 04 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69aed00d5224a240f103cdfd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Mar 04 |
+| ↳ | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69aecdaabd1a716b431057fa?utm_campaign=1067&utm_source=git)** | Reno, NV | Hybrid | Mar 04 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Lending Operations)](https://jobright.ai/jobs/info/69acf16b142d5b4265fe190d?utm_campaign=1067&utm_source=git)** | Pensacola, FL | On Site | Mar 03 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
@@ -133,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[OdysseyRe](http://www.odysseyre.com/)** | **[2026, IT Business Analyst Intern](https://jobright.ai/jobs/info/69a664ec2c0d8b0f5cd08714?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Lynden](https://www.lynden.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ae85714f6bcc182809c7b9?utm_campaign=1067&utm_source=git)** | 5615 W Marginal Wy SW, Seattle, WA 98106, USA | On Site | Mar 02 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 02 |
-| **[Veolia](http://www.veolia.com/en/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a60fd2359fe034b1d0df2b?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 02 |
-| **[GBLI | Global Indemnity](https://gbli.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69a60eaf0da45516f16eeb8f?utm_campaign=1067&utm_source=git)** | Bala-Cynwyd, PA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
