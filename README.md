@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Arizona Public Service - APS](http://www.aps.com)** | **[2026 Summer Internship - Process Improvement](https://jobright.ai/jobs/info/69a769a52672cb0acb4bdf46?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 09 |
 | **[NetApp](http://netapp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69af3f09dfaeda6ff5976131?utm_campaign=1067&utm_source=git)** | Morrisville, NC | Hybrid | Mar 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69af32bc6b21de023e605d59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 09 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69af3098749500645093abe0?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 09 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af2dd46b21de023e6054ff?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69af269bdfaeda6ff5973a4d?utm_campaign=1067&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 09 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69af1fbb7495006450938b71?utm_campaign=1067&utm_source=git)** | Canonsburg, Pennsylvania, United States | Hybrid | Mar 09 |
@@ -79,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 06 |
