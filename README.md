@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69a6603fe567421f425769d4?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 03 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a721fb2672cb0acb4b8ee3?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Mar 03 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698eb17b0f6f7e7a2cead049?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
