@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
+| **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis, Business Analyst / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69af92eb6b21de023e60cfc3?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Mar 09 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 09 |
 | **[Ixion (part of Shaw Trust)](http://www.ixionholdings.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/69af7defdfaeda6ff597a458?utm_campaign=1067&utm_source=git)** | Stafford, VA | On Site | Mar 09 |
@@ -117,9 +117,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, Ontario, Canada | On Site | Mar 04 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 04 |
 | **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69a7a54c637232443f64e702?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Mar 03 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
+| **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[Franklin Electric Fueling Systems](http://franklinfueling.com)** | **[Global Business Strategy Development Intern - Summer 2026](https://jobright.ai/jobs/info/69a7abb6637232443f64f55c?utm_campaign=1067&utm_source=git)** | US - Indiana - Fort Wayne | On Site | Mar 03 |
 | **[GPC Beverage](https://www.gillettepepsicola.com)** | **[Business Intern](https://jobright.ai/jobs/info/69a7a208637232443f64e39c?utm_campaign=1067&utm_source=git)** | La Crosse,WI,US | On Site | Mar 03 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
+| **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/69a2a980b600907a96290e95?utm_campaign=1067&utm_source=git)** | Evansville, IN | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
