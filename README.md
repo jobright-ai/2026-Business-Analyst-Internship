@@ -63,14 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern, Business Insurance](https://jobright.ai/jobs/info/69b09d81749500645097467f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0953274950064509722e8?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b094d0dfaeda6ff59ab6a3?utm_campaign=1067&utm_source=git)** | Torrance, CA | On Site | Mar 10 |
-| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970181?utm_campaign=1067&utm_source=git)** | North Dakota, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970185?utm_campaign=1067&utm_source=git)** | Orange, CT | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970184?utm_campaign=1067&utm_source=git)** | Albany, NY | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970180?utm_campaign=1067&utm_source=git)** | Baldwin Park, CA | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970182?utm_campaign=1067&utm_source=git)** | New Mexico, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970186?utm_campaign=1067&utm_source=git)** | Colorado, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0fd3adfaeda6ff59bd9fe?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0a43b74950064509754a2?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123 | On Site | Mar 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0a43b74950064509754a2?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123 | On Site | Mar 10 |
+| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/69b113037495006450985e12?utm_campaign=1067&utm_source=git)** | New Jersey, United States | Hybrid | Mar 10 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Intern, Business Insurance](https://jobright.ai/jobs/info/69b07716dfaeda6ff59a5675?utm_campaign=1067&utm_source=git)** | Boston - Huntington | On Site | Mar 10 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b082020b2db6275c0498bb?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69b0a362749500645097519f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Mar 10 |
@@ -97,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
