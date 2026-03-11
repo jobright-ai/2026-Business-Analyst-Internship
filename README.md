@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern - Monetization Strategy & Operations - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698d4f3a78b4502f12a3f536?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 05 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698d6a6178b4502f12a4137b?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 05 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/69a9523e7f9271426f883289?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 04 |
-| **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Business Research Intern](https://jobright.ai/jobs/info/69a920172580d3183f01538f?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
