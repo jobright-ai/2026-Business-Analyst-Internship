@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/6979318f39f7f96cc6d19553?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Mar 11 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Alpha - Business Analyst Summer Internship 2026](https://jobright.ai/jobs/info/69b17bf7548f140066e75769?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Mar 11 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69adaeca7e1fab39d384fad0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 11 |
