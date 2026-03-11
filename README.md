@@ -57,33 +57,34 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69b0d914749500645097e07b?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Intern, Business Insurance](https://jobright.ai/jobs/info/69b09d81749500645097467f?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 10 |
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0953274950064509722e8?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b094d0dfaeda6ff59ab6a3?utm_campaign=1067&utm_source=git)** | Torrance, CA | On Site | Mar 10 |
-| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903d?utm_campaign=1067&utm_source=git)** | New Hampshire, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903e?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903c?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Hybrid | Mar 10 |
+| **[American Red Cross](http://redcross.org)** | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903c?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903d?utm_campaign=1067&utm_source=git)** | New Hampshire, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903b?utm_campaign=1067&utm_source=git)** | Hinds County, MS | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b08a00dfaeda6ff59a903e?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970181?utm_campaign=1067&utm_source=git)** | North Dakota, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970180?utm_campaign=1067&utm_source=git)** | Baldwin Park, CA | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970185?utm_campaign=1067&utm_source=git)** | Orange, CT | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f5749500645097017f?utm_campaign=1067&utm_source=git)** | South Dakota, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970183?utm_campaign=1067&utm_source=git)** | Kentucky, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f5749500645097017e?utm_campaign=1067&utm_source=git)** | Oregon, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970184?utm_campaign=1067&utm_source=git)** | Albany, NY | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970182?utm_campaign=1067&utm_source=git)** | New Mexico, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970186?utm_campaign=1067&utm_source=git)** | Colorado, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970180?utm_campaign=1067&utm_source=git)** | Baldwin Park, CA | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970184?utm_campaign=1067&utm_source=git)** | Albany, NY | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f5749500645097017e?utm_campaign=1067&utm_source=git)** | Oregon, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970183?utm_campaign=1067&utm_source=git)** | Kentucky, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970185?utm_campaign=1067&utm_source=git)** | Orange, CT | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b089f57495006450970181?utm_campaign=1067&utm_source=git)** | North Dakota, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab7?utm_campaign=1067&utm_source=git)** | Michigan, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab1?utm_campaign=1067&utm_source=git)** | Maryland, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab6?utm_campaign=1067&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab0?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab3?utm_campaign=1067&utm_source=git)** | Florida, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab4?utm_campaign=1067&utm_source=git)** | Providence County, RI | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab5?utm_campaign=1067&utm_source=git)** | Apex, NC | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab3?utm_campaign=1067&utm_source=git)** | Florida, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab0?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab7?utm_campaign=1067&utm_source=git)** | Michigan, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab6?utm_campaign=1067&utm_source=git)** | Massachusetts, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b0847d0b2db6275c049ab1?utm_campaign=1067&utm_source=git)** | Maryland, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b084730b2db6275c049aa0?utm_campaign=1067&utm_source=git)** | Arizona, United States | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b084730b2db6275c049aa2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 10 |
-| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b084730b2db6275c049aa1?utm_campaign=1067&utm_source=git)** | Indiana, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b084730b2db6275c049a9f?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b084730b2db6275c049aa1?utm_campaign=1067&utm_source=git)** | Indiana, United States | Hybrid | Mar 10 |
+| ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b084730b2db6275c049aa2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b07efd749500645096da7d?utm_campaign=1067&utm_source=git)** | New Jersey, United States | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b07efd749500645096da7e?utm_campaign=1067&utm_source=git)** | Davis County, UT | Hybrid | Mar 10 |
 | ↳ | **[Business Planning Intern](https://jobright.ai/jobs/info/69b07efd749500645096da7c?utm_campaign=1067&utm_source=git)** | Montana, United States | Remote | Mar 10 |
