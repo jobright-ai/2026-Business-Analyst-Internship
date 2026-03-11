@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b1c741548f140066e7966d?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
+| **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69b1c0f6548f140066e784fb?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Mar 11 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69b1b72f65de58104c70b666?utm_campaign=1067&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
@@ -74,13 +76,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b094d0dfaeda6ff59ab6a3?utm_campaign=1067&utm_source=git)** | Torrance, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0a43b74950064509754a2?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123 | On Site | Mar 10 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Intern, Business Insurance](https://jobright.ai/jobs/info/69b07716dfaeda6ff59a5675?utm_campaign=1067&utm_source=git)** | Boston - Huntington | On Site | Mar 10 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Intern - Miami Industrial Team](https://jobright.ai/jobs/info/69b1c20d65de58104c70bdf9?utm_campaign=1067&utm_source=git)** | Miami, Florida, USA | On Site | Mar 10 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b082020b2db6275c0498bb?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69b0a362749500645097519f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Mar 10 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/69b06fcf0b2db6275c045a85?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 10 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis, Business Analyst / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69af92eb6b21de023e60cfc3?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Mar 09 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 09 |
-| **[Ixion (part of Shaw Trust)](http://www.ixionholdings.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/69af7defdfaeda6ff597a458?utm_campaign=1067&utm_source=git)** | Stafford, VA | On Site | Mar 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69af32bc6b21de023e605d59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 09 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af2dd46b21de023e6054ff?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69af269bdfaeda6ff5973a4d?utm_campaign=1067&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 09 |
