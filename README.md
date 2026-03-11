@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Business Insights & Operations Analyst Intern: Summer 2026](https://jobright.ai/jobs/info/699652d8e0bddb6acac4c11f?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Mar 11 |
+| **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69b1b72f65de58104c70b666?utm_campaign=1067&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/6979318f39f7f96cc6d19553?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Mar 11 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Alpha - Business Analyst Summer Internship 2026](https://jobright.ai/jobs/info/69b17bf7548f140066e75769?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Mar 11 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69adaeca7e1fab39d384fad0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 11 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis, Business Analyst / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69af92eb6b21de023e60cfc3?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Mar 09 |
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 09 |
 | **[Ixion (part of Shaw Trust)](http://www.ixionholdings.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/69af7defdfaeda6ff597a458?utm_campaign=1067&utm_source=git)** | Stafford, VA | On Site | Mar 09 |
-| **[Arizona Public Service - APS](http://www.aps.com)** | **[2026 Summer Internship - Process Improvement](https://jobright.ai/jobs/info/69a769a52672cb0acb4bdf46?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69af32bc6b21de023e605d59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 09 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af2dd46b21de023e6054ff?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
 | **[Crown Castle](https://www.crowncastle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69af269bdfaeda6ff5973a4d?utm_campaign=1067&utm_source=git)** | Canonsburg, PA | Hybrid | Mar 09 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698d6a6178b4502f12a4137b?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 05 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/69a9523e7f9271426f883289?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 04 |
 | **[KPFF Consulting Engineers](http://www.kpff.com)** | **[Business Research Intern](https://jobright.ai/jobs/info/69a920172580d3183f01538f?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 04 |
-| **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
