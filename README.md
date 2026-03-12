@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AperioHub](https://aperiohub.com)** | **[Business Analyst Intern (April cohort)](https://jobright.ai/jobs/info/69b23903a8ac8e70ff660e58?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Business Admin. / AI Innovation Intern- Summer Internship](https://jobright.ai/jobs/info/69b2285c548f140066e86649?utm_campaign=1067&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026, (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69b1fa97d04c69566c749c53?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b1c741548f140066e7966d?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
@@ -122,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a9b6a82ebd316bece1465b?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 05 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
-| **[UVA Health](https://www.uvahealth.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a97521f6c22f2e36865bd6?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
