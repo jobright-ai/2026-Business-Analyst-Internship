@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a97521f6c22f2e36865bd6?utm_campaign=1067&utm_source=git)** | Virginia, United States | On Site | Mar 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern - Monetization Strategy & Operations - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698d4f3a78b4502f12a3f536?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 05 |
-| **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698d6a6178b4502f12a4137b?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
