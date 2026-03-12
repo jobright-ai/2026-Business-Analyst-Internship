@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AperioHub](https://aperiohub.com)** | **[Business Analyst Intern (April cohort)](https://jobright.ai/jobs/info/69b23903a8ac8e70ff660e58?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Business Admin. / AI Innovation Intern- Summer Internship](https://jobright.ai/jobs/info/69b2285c548f140066e86649?utm_campaign=1067&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026, (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69b1fa97d04c69566c749c53?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b1c741548f140066e7966d?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
@@ -101,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
@@ -120,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern:  Business Solution Analyst (Summer 2026)](https://jobright.ai/jobs/info/69a9f7de9ca4e908ec6544c3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Mar 05 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Supply Chain Planning Analyst Intern - Applied AI](https://jobright.ai/jobs/info/69a9f7f41f59c56275e2c93c?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA | On Site | Mar 05 |
 | **[Canadian Strategic Missions Corporation (CSMC)](https://csmc-scms.ca)** | **[Business Intern](https://jobright.ai/jobs/info/69a9e67e9ca4e908ec652aeb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 05 |
-| **[McKesson](http://www.mckesson.com)** | **[Jr. Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69a9b6a82ebd316bece1465b?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
