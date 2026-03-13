@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a7c0be637232443f6516cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
+| **[Jaris Technologies](https://jaristechnologies.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/69b442e006c1ba00c54578a0?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
+| **[C1](http://www.spanlink.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
+| **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a40919359fe034b1cf01ca?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Mar 13 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Business Intern](https://jobright.ai/jobs/info/69b37e08a8ac8e70ff67c545?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Mar 12 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
@@ -90,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0953274950064509722e8?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b094d0dfaeda6ff59ab6a3?utm_campaign=1067&utm_source=git)** | Torrance, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0a43b74950064509754a2?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123 | On Site | Mar 10 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Intern, Business Insurance](https://jobright.ai/jobs/info/69b07716dfaeda6ff59a5675?utm_campaign=1067&utm_source=git)** | Boston - Huntington | On Site | Mar 10 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b082020b2db6275c0498bb?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69b0a362749500645097519f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Mar 10 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/69b06fcf0b2db6275c045a85?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 10 |
