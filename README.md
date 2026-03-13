@@ -63,7 +63,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3268ba8ac8e70ff676046?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3189da8ac8e70ff6734d3?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
 | ↳ | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b31898a8ac8e70ff6734b0?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
-| **[Northeast Shared Services](https://www.northeastgrocery.com/)** | **[Pharmacy Business Analyst Intern](https://jobright.ai/jobs/info/69b31ab4ae2a534885ea68d1?utm_campaign=1067&utm_source=git)** | Schenectady, NY | On Site | Mar 12 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Operations & Delivery Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69b2e7fead360c0340a7f89f?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 12 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
@@ -117,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
-| **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
