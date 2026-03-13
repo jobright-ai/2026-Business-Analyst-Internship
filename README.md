@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Technical Business Analyst (Dallas or Austin)](https://jobright.ai/jobs/info/6997b5fb81476f6176afd72e?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 13 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/69ae5da24f6bcc18280988e5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a7c0be637232443f6516cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
@@ -111,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af0339dfaeda6ff5970851?utm_campaign=1067&utm_source=git)** | Tampa, FL, United States | On Site | Mar 09 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aefe206b21de023e60161d?utm_campaign=1067&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 09 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a8043f1fc3d83b780966bd?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Mar 07 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69aba454142d5b4265fcd298?utm_campaign=1067&utm_source=git)** | New Orleans, LA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
