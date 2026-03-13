@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Central Bank](https://www.centralbank.net/)** | **[Business Intern](https://jobright.ai/jobs/info/69b37e08a8ac8e70ff67c545?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Mar 12 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b330f5a8ac8e70ff6772dc?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3268ba8ac8e70ff676046?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Tixr](https://www.tixr.com)** | **[Summer Internship General (Graduate)](https://jobright.ai/jobs/info/69ab31bf7e1fab39d382c743?utm_campaign=1067&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 06 |
 | **[Blue Ridge Bank](https://www.mybrb.com/)** | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab2bda142d5b4265fc6e8a?utm_campaign=1067&utm_source=git)** | Richmond,VA,US | On Site | Mar 06 |
 | ↳ | **[Intern (Business Analyst- Commercial & Retail Banking)](https://jobright.ai/jobs/info/69ab1b9d142d5b4265fc547e?utm_campaign=1067&utm_source=git)** | Richmond, VA | On Site | Mar 06 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a407b5b600907a962a0ec5?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Mar 06 |
+| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69a3cf81b600907a9629cc45?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 06 |
 | **[Bollinger Shipyards](http://bollingershipyards.com)** | **[IT – Business Relationship Management (BRM) & ERP Programs Intern](https://jobright.ai/jobs/info/698e53890f6f7e7a2cea5ad3?utm_campaign=1067&utm_source=git)** | Pascagoula, MS | On Site | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a89b5779f3f4037f42aade?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 06 |
 | **[ProAg](https://www.proag.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698e05f2f64d441a16503ec9?utm_campaign=1067&utm_source=git)** | Maple Grove, MN | Hybrid | Mar 06 |
