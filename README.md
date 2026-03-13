@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/69b47ae406c1ba00c545f02e?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Mar 13 |
+| **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b47a7d5697383741395692?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Mar 13 |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b4743b3b74eb1e2c81c5f1?utm_campaign=1067&utm_source=git)** | Covington, LA | On Site | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[Cotality](https://www.cotality.com/uk/ )** | **[Graduate Intern, Technical Business Analyst (Dallas or Austin)](https://jobright.ai/jobs/info/6997b5fb81476f6176afd72e?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 13 |
+| ↳ | **[Graduate Intern, AI Business Process Analyst](https://jobright.ai/jobs/info/699e7993e0bddb6acace1ae5?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 13 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/69ae5da24f6bcc18280988e5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a7c0be637232443f6516cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
@@ -77,8 +81,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Commercial Operations & Delivery Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69b2e7fead360c0340a7f89f?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 12 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Mar 12 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b4555b06c1ba00c545a5c7?utm_campaign=1067&utm_source=git)** | Paramus, NJ, US | On Site | Mar 12 |
-| ↳ | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69b4553b06c1ba00c545a568?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Business Admin. / AI Innovation Intern- Summer Internship](https://jobright.ai/jobs/info/69b2285c548f140066e86649?utm_campaign=1067&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026, (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69b1fa97d04c69566c749c53?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 11 |
