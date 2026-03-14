@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69b4c48e06c1ba00c54643d8?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Mar 13 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69b4cdd43b74eb1e2c823088?utm_campaign=1067&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 13 |
+| ↳ | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69b4cd9006c1ba00c54650da?utm_campaign=1067&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 13 |
+| ↳ | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69b4c48e06c1ba00c54643d8?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Mar 13 |
 | ↳ | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69b4c47f3b74eb1e2c82237c?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Mar 13 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c3653b74eb1e2c822257?utm_campaign=1067&utm_source=git)** | US-CA-San Diego | On Site | Mar 13 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c3643b74eb1e2c822256?utm_campaign=1067&utm_source=git)** | Charleston, SC, US | On Site | Mar 13 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[C1](http://www.spanlink.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a40919359fe034b1cf01ca?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Mar 13 |
+| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69b4d95506c1ba00c5466036?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Mar 12 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b330f5a8ac8e70ff6772dc?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3189da8ac8e70ff6734d3?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Mar 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 12 |
+| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b388cead360c0340a8af6d?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Business Admin. / AI Innovation Intern- Summer Internship](https://jobright.ai/jobs/info/69b2285c548f140066e86649?utm_campaign=1067&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026, (Internship) - 10 Weeks](https://jobright.ai/jobs/info/69b1fa97d04c69566c749c53?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 11 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b1c741548f140066e7966d?utm_campaign=1067&utm_source=git)** | Culver City, CA | On Site | Mar 11 |
