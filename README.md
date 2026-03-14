@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/69ae5da24f6bcc18280988e5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a7c0be637232443f6516cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
-| **[Jaris Technologies](https://jaristechnologies.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/69b442e006c1ba00c54578a0?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a40919359fe034b1cf01ca?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Mar 13 |
