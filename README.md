@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af2dd46b21de023e6054ff?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af0339dfaeda6ff5970851?utm_campaign=1067&utm_source=git)** | Tampa, FL, United States | On Site | Mar 09 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aefe206b21de023e60161d?utm_campaign=1067&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 09 |
-| **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69a8043f1fc3d83b780966bd?utm_campaign=1067&utm_source=git)** | KC Metro Area | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
