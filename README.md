@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Voya Financial](https://www.voya.com/)** | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b5e74c3b74eb1e2c83a777?utm_campaign=1067&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 14 |
+| **[Voya Financial](https://www.voya.com/)** | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b61d6106c1ba00c547f3ff?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 14 |
+| ↳ | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b5e74c3b74eb1e2c83a777?utm_campaign=1067&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 14 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 14 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/69b5245306c1ba00c546e771?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Mar 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69b4cdd43b74eb1e2c823088?utm_campaign=1067&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 13 |
@@ -84,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a40919359fe034b1cf01ca?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Business Intern](https://jobright.ai/jobs/info/69b541b43b74eb1e2c82dcb0?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Mar 13 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Mar 13 |
+| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69b624c706c1ba00c54801ec?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Mar 12 |
+| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b61a483b74eb1e2c83cc56?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3189da8ac8e70ff6734d3?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
 | ↳ | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b31898a8ac8e70ff6734b0?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
