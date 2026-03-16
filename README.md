@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 | **[Qlik](https://www.qlik.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b82b9c06c1ba00c549f193?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 16 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 16 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b61d6106c1ba00c547f3ff?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 14 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69a40919359fe034b1cf01ca?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 13 |
-| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69b7fb8306c1ba00c549b333?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Mar 13 |
 | **[Central Bank](https://www.centralbank.net/)** | **[Business Intern](https://jobright.ai/jobs/info/69b541b43b74eb1e2c82dcb0?utm_campaign=1067&utm_source=git)** | Springfield, MO | On Site | Mar 13 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Mar 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69b660a606c1ba00c5483cdb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Mar 12 |
@@ -94,7 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3189da8ac8e70ff6734d3?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
 | ↳ | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b31898a8ac8e70ff6734b0?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
-| ↳ | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Mar 12 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Mar 12 |
 | **[Veolia](http://www.veolia.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b57bbf3b74eb1e2c833f23?utm_campaign=1067&utm_source=git)** | Paramus, NJ, US | On Site | Mar 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 12 |
