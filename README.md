@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/69b06fcf0b2db6275c045a85?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 10 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis, Business Analyst, Process Modeling / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69b2812cae2a534885e99f11?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Mar 09 |
-| **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
