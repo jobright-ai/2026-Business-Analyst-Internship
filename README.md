@@ -124,6 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Viasat](http://www.viasat.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/699d2db581476f6176b5e20b?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 09 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69af32bc6b21de023e605d59?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 09 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af2dd46b21de023e6054ff?utm_campaign=1067&utm_source=git)** | Tampa, FL | On Site | Mar 09 |
-| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Business Administration Intern - Summer 2026](https://jobright.ai/jobs/info/69af0339dfaeda6ff5970851?utm_campaign=1067&utm_source=git)** | Tampa, FL, United States | On Site | Mar 09 |
-| **[Stuller, Inc.](http://stuller.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69aefe206b21de023e60161d?utm_campaign=1067&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
