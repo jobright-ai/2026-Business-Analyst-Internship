@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c3653b74eb1e2c822257?utm_campaign=1067&utm_source=git)** | US-CA-San Diego | On Site | Mar 13 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c3643b74eb1e2c822256?utm_campaign=1067&utm_source=git)** | Charleston, SC, US | On Site | Mar 13 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c36306c1ba00c5464286?utm_campaign=1067&utm_source=git)** | US-SC-Charleston | On Site | Mar 13 |
-| **[RRD](http://www.rrd.com)** | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/69b4c08a569738374139a833?utm_campaign=1067&utm_source=git)** | Warrenville, IL | Hybrid | Mar 13 |
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b4bb03569738374139913d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Mar 13 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b4b6d83b74eb1e2c82087a?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | Mar 13 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Mar 13 |
@@ -87,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Mar 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69b660a606c1ba00c5483cdb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b6567c3b74eb1e2c8413e6?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b61a483b74eb1e2c83cc56?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
+| **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69b7779806c1ba00c5492ef1?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Mar 12 |
+| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b61a483b74eb1e2c83cc56?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3189da8ac8e70ff6734d3?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
 | ↳ | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b31898a8ac8e70ff6734b0?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
