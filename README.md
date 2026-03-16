@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Process Improvement Coordinator](https://jobright.ai/jobs/info/69b86f6256973837413dc639?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 16 |
+| **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b86e923b74eb1e2c863d9a?utm_campaign=1067&utm_source=git)** | Pittsburgh Region | Hybrid | Mar 16 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 | **[Qlik](https://www.qlik.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b82b9c06c1ba00c549f193?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 16 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 16 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69b0a362749500645097519f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Mar 10 |
 | **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/69b06fcf0b2db6275c045a85?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 10 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
-| **[KPMG Financial Reporting View (FRV)](http://www.kpmg.com/us/frv)** | **[Intern, Enterprise Architecture and Analysis, Business Analyst, Process Modeling / Multiple Locations Summer 2026](https://jobright.ai/jobs/info/69b2812cae2a534885e99f11?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
