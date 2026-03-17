@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69b99aa656973837413f13c0?utm_campaign=1067&utm_source=git)** | Exton, PA, United States | On Site | Mar 17 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 16 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9814c56973837413eff1a?utm_campaign=1067&utm_source=git)** | Warrendale, PA | Hybrid | Mar 16 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b8827256973837413de6ea?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b4bb03569738374139913d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Mar 13 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b4b6d83b74eb1e2c82087a?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | Mar 13 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Mar 13 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Business Technology Analyst](https://jobright.ai/jobs/info/69b47ae406c1ba00c545f02e?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts | Hybrid | Mar 13 |
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b47a7d5697383741395692?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Summer 2026)](https://jobright.ai/jobs/info/697c26331136d179eeefdf87?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/69ae5da24f6bcc18280988e5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 13 |
@@ -116,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Mar 11 |
 | **[PSG, a Dover company](https://www.psgdover.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69b13c93d04c69566c7351c8?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69b0d914749500645097e07b?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b0e6ae749500645098038a?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Mar 10 |
-| ↳ | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b0e6ad7495006450980383?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
