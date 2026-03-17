@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b9cf0056973837413f5e25?utm_campaign=1067&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 17 |
+| **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9cb6706c1ba00c54be2e0?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
+| **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9bd4356973837413f4c38?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 17 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad0e?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
+| **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Mar 17 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69b99aa656973837413f13c0?utm_campaign=1067&utm_source=git)** | Exton, PA, United States | On Site | Mar 17 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 16 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9814c56973837413eff1a?utm_campaign=1067&utm_source=git)** | Warrendale, PA | Hybrid | Mar 16 |
