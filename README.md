@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b8827256973837413de6ea?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Process Improvement Coordinator](https://jobright.ai/jobs/info/69b8819606c1ba00c54a7ea9?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 16 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69b87f1d06c1ba00c54a7a75?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Mar 16 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69b87e8b3b74eb1e2c865711?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69b8747106c1ba00c54a67b7?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 16 |
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Process Improvement Coordinator](https://jobright.ai/jobs/info/69b86f6256973837413dc639?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 16 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b86e923b74eb1e2c863d9a?utm_campaign=1067&utm_source=git)** | Pittsburgh Region | Hybrid | Mar 16 |
