@@ -58,13 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 16 |
+| **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9814c56973837413eff1a?utm_campaign=1067&utm_source=git)** | Warrendale, PA | Hybrid | Mar 16 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b8827256973837413de6ea?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69b87f1d06c1ba00c54a7a75?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Mar 16 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69b87e8b3b74eb1e2c865711?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69b8747106c1ba00c54a67b7?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 16 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69b8745456973837413dcd18?utm_campaign=1067&utm_source=git)** | Remote- US | Remote | Mar 16 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
-| **[Qlik](https://www.qlik.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b82b9c06c1ba00c549f193?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 16 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 16 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b61d6106c1ba00c547f3ff?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 14 |
 | ↳ | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b5e74c3b74eb1e2c83a777?utm_campaign=1067&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 14 |
