@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b5e74c3b74eb1e2c83a777?utm_campaign=1067&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 14 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b700563b74eb1e2c84a279?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 14 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 14 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/69b5245306c1ba00c546e771?utm_campaign=1067&utm_source=git)** | Salisbury, NC | Hybrid | Mar 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69b4cdd43b74eb1e2c823088?utm_campaign=1067&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 13 |
 | ↳ | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69b4cd9006c1ba00c54650da?utm_campaign=1067&utm_source=git)** | Any city, TX, US, 99999 | Hybrid | Mar 13 |
 | ↳ | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69b4c48e06c1ba00c54643d8?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Mar 13 |
@@ -126,5 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0a43b74950064509754a2?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123 | On Site | Mar 10 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b082020b2db6275c0498bb?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69b0a362749500645097519f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Mar 10 |
-| **[BMO](http://www.bmo.com)** | **[IT Analyst, Summer 2026 (Co-op/Internship) - 10 weeks](https://jobright.ai/jobs/info/69b06fcf0b2db6275c045a85?utm_campaign=1067&utm_source=git)** | Chicago, IL, USA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
