@@ -100,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Mar 12 |
-| **[Veolia](http://www.veolia.com/en/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69b8ae1006c1ba00c54ac2c5?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Mar 12 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b388cead360c0340a8af6d?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[DeWys Metal Solutions](www.dewys.com)** | **[Business Admin. / AI Innovation Intern- Summer Internship](https://jobright.ai/jobs/info/69b2285c548f140066e86649?utm_campaign=1067&utm_source=git)** | Marne,MI,US | On Site | Mar 11 |
@@ -115,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Mar 11 |
 | **[PSG, a Dover company](https://www.psgdover.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69b13c93d04c69566c7351c8?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 11 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69b0d914749500645097e07b?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
