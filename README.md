@@ -59,12 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69631a1da112b40266114915?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | Hybrid | Mar 16 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b8827256973837413de6ea?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Process Improvement Coordinator](https://jobright.ai/jobs/info/69b8819606c1ba00c54a7ea9?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 16 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69b87f1d06c1ba00c54a7a75?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Mar 16 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69b87e8b3b74eb1e2c865711?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69b8747106c1ba00c54a67b7?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Mar 16 |
-| **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Process Improvement Coordinator](https://jobright.ai/jobs/info/69b86f6256973837413dc639?utm_campaign=1067&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 16 |
-| **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b86e923b74eb1e2c863d9a?utm_campaign=1067&utm_source=git)** | Pittsburgh Region | Hybrid | Mar 16 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69b8745456973837413dcd18?utm_campaign=1067&utm_source=git)** | Remote- US | Remote | Mar 16 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 | **[Qlik](https://www.qlik.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b82b9c06c1ba00c549f193?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 16 |
@@ -121,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69b0d914749500645097e07b?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b0e6ae749500645098038a?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Mar 10 |
 | ↳ | **[Intern, Facility Operations Business & Data Analysis - Summer 2026](https://jobright.ai/jobs/info/69b0e6ad7495006450980383?utm_campaign=1067&utm_source=git)** | Culver City, California | On Site | Mar 10 |
-| **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0953274950064509722e8?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b094d0dfaeda6ff59ab6a3?utm_campaign=1067&utm_source=git)** | Torrance, CA | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
