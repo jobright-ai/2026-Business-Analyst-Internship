@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0953274950064509722e8?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b094d0dfaeda6ff59ab6a3?utm_campaign=1067&utm_source=git)** | Torrance, CA | On Site | Mar 10 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b0a43b74950064509754a2?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123 | On Site | Mar 10 |
-| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69b082020b2db6275c0498bb?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
