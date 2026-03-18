@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69ba239706c1ba00c54c4242?utm_campaign=1067&utm_source=git)** | Libertyville, IL, US, 60048-3781 | On Site | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b9e9c63b74eb1e2c87db2a?utm_campaign=1067&utm_source=git)** | USA TX Houston - 1360 Post Oak Blvd | Hybrid | Mar 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b9cf0056973837413f5e25?utm_campaign=1067&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 17 |
 | **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9cb6706c1ba00c54be2e0?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[State Street Alpha - Business Analyst Summer Internship 2026](https://jobright.ai/jobs/info/69b17bf7548f140066e75769?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Mar 11 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69adaeca7e1fab39d384fad0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 11 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
