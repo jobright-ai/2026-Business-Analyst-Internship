@@ -118,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69adaeca7e1fab39d384fad0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 11 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Mar 11 |
-| **[PSG, a Dover company](https://www.psgdover.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/69b13c93d04c69566c7351c8?utm_campaign=1067&utm_source=git)** | Boca Raton, FL | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
