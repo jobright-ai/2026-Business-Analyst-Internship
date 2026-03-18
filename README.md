@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 17 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69ba239706c1ba00c54c4242?utm_campaign=1067&utm_source=git)** | Libertyville, IL, US, 60048-3781 | On Site | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b9e9c63b74eb1e2c87db2a?utm_campaign=1067&utm_source=git)** | USA TX Houston - 1360 Post Oak Blvd | Hybrid | Mar 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b9cf0056973837413f5e25?utm_campaign=1067&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 17 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b3189da8ac8e70ff6734d3?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
 | ↳ | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b31898a8ac8e70ff6734b0?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Mar 12 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 | **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Mar 12 |
@@ -114,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Administration for Children's Services](http://www.nyc.gov/acs)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69b1b72f65de58104c70b666?utm_campaign=1067&utm_source=git)** | Manhattan, NY | On Site | Mar 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 11 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026 - Irving, TX](https://jobright.ai/jobs/info/6979318f39f7f96cc6d19553?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Mar 11 |
-| **[State Street](https://www.statestreet.com/)** | **[State Street Alpha - Business Analyst Summer Internship 2026](https://jobright.ai/jobs/info/69b17bf7548f140066e75769?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Mar 11 |
-| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69adaeca7e1fab39d384fad0?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
