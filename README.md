@@ -128,6 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Avnet](https://www.avnet.com)** | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b6567c3b74eb1e2c8413e6?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b31898a8ac8e70ff6734b0?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, United States Of America | Hybrid | Mar 12 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Mar 12 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
