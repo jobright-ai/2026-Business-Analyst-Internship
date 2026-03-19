@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 19 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[IT Business Analyst Student - Information Technologies](https://jobright.ai/jobs/info/69bb8026569738374141848b?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb678c3b74eb1e2c89d222?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 18 |
 | ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69bb66ed5697383741416544?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 18 |
