@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[IT Business Analyst Student - Information Technologies](https://jobright.ai/jobs/info/69bb8026569738374141848b?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb678c3b74eb1e2c89d222?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 18 |
 | ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69bb66ed5697383741416544?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Business Systems and Operation Intern](https://jobright.ai/jobs/info/69bb3b8b06c1ba00c54db786?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 18 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb327b5697383741412ee3?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69bb0a8c3b74eb1e2c896357?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Mar 18 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb01c83b74eb1e2c89493f?utm_campaign=1067&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 18 |
-| **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) 4 - months](https://jobright.ai/jobs/info/69baffbf06c1ba00c54d4f79?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 18 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb15525697383741410a4a?utm_campaign=1067&utm_source=git)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 18 |
 | ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69bb15515697383741410a47?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Mar 18 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bae33e3b74eb1e2c8917cc?utm_campaign=1067&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 18 |
