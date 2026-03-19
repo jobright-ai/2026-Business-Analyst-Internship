@@ -57,28 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Business Systems and Operation Intern](https://jobright.ai/jobs/info/69bb3b8b06c1ba00c54db786?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 18 |
+| **[Credit Union Leasing of America (CULA)](https://www.cula.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb369b06c1ba00c54daba0?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 18 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bb1c0906c1ba00c54d910a?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 18 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb14ba5697383741410963?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 18 |
+| **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb327b5697383741412ee3?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69bb0a8c3b74eb1e2c896357?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Mar 18 |
 | **[Hearst](http://www.hearst.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb01c83b74eb1e2c89493f?utm_campaign=1067&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 18 |
 | **[BMO](http://www.bmo.com)** | **[Process Analyst, Summer 2026 (Co-op/Internship) 4 - months](https://jobright.ai/jobs/info/69baffbf06c1ba00c54d4f79?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 18 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb15525697383741410a4a?utm_campaign=1067&utm_source=git)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 18 |
 | ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69bb15515697383741410a47?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Mar 18 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bae33e3b74eb1e2c8917cc?utm_campaign=1067&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Mar 18 |
-| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bacf3c06c1ba00c54d1dcd?utm_campaign=1067&utm_source=git)** | Orange, CT | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bacf34569738374140a571?utm_campaign=1067&utm_source=git)** | Nebraska, United States | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bacf3306c1ba00c54d1dae?utm_campaign=1067&utm_source=git)** | Duluth, MN | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bacf3306c1ba00c54d1daf?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bacf2806c1ba00c54d1d89?utm_campaign=1067&utm_source=git)** | Washington, DC | Remote | Mar 18 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Performance Analytics, Emerging Talent Intern (Summer)](https://jobright.ai/jobs/info/69a7b5d1637232443f650270?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6969960bf25a3800669850ae?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 18 |
-| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bab16a56973837414086f4?utm_campaign=1067&utm_source=git)** | San Antonio, TX | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bab16a56973837414086f3?utm_campaign=1067&utm_source=git)** | Statewide, MT | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bab16a56973837414086f5?utm_campaign=1067&utm_source=git)** | Statewide, AZ | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bab16956973837414086e5?utm_campaign=1067&utm_source=git)** | Statewide, ME | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bab16956973837414086ea?utm_campaign=1067&utm_source=git)** | Statewide, AL | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bab16956973837414086e6?utm_campaign=1067&utm_source=git)** | Statewide, ND | Remote | Mar 18 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69bacea106c1ba00c54d1c45?utm_campaign=1067&utm_source=git)** | Libertyville, IL | On Site | Mar 18 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69ba9858569738374140572c?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Mar 17 |
