@@ -125,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Mar 13 |
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b47a7d5697383741395692?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA | On Site | Mar 13 |
 | **[PHINIA](https://phinia.com)** | **[Business Analytics & Operations Intern - Summer Internship](https://jobright.ai/jobs/info/69ae5da24f6bcc18280988e5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Mar 13 |
+| **[Avnet](https://www.avnet.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc363745e08b3dc1f88629?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69a7c0be637232443f6516cc?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
 | **[C1](http://www.spanlink.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69976966ce78e77b4fdbc1b6?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 13 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Gwinnett County Public Schools](https://www.gcpsk12.org/)** | **[Temporary/Miscellaneous - Technology and Innovation Internship - Data Analyst - Business Solutions](https://jobright.ai/jobs/info/69bbe4a54828227293fcdeeb?utm_campaign=1067&utm_source=git)** | Gwinnett County, GA | On Site | Mar 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69b660a606c1ba00c5483cdb?utm_campaign=1067&utm_source=git)** | St Louis, MO | Hybrid | Mar 12 |
 | **[Avnet](https://www.avnet.com)** | **[Business Migration Operations Intern](https://jobright.ai/jobs/info/69b6567c3b74eb1e2c8413e6?utm_campaign=1067&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 12 |
-| **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
