@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marex](http://marexspectron.com)** | **[Matthews Group Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69bc890b5b89c002acf245c7?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
+| ↳ | **[Matthews Group Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69bc9e265b89c002acf25ed4?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
+| **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc9a7e4828227293fe7cae?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 19 |
+| **[McIlhenny Company](http://www.tabasco.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69bc88a74828227293fe673a?utm_campaign=1067&utm_source=git)** | Avery Island, LA, US | On Site | Mar 19 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc86774828227293fe64e4?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Bank Five Nine (Community Bank)](https://www.bankfivenine.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69bc78344828227293fe59db?utm_campaign=1067&utm_source=git)** | Oconomowoc, WI, US | On Site | Mar 19 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Business Analyst - Prior Authorization](https://jobright.ai/jobs/info/69bc66fe4828227293fe3556?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 19 |
@@ -93,10 +97,9 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Mar 17 |
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 17 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69ba239706c1ba00c54c4242?utm_campaign=1067&utm_source=git)** | Libertyville, IL, US, 60048-3781 | On Site | Mar 17 |
+| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69bc96314828227293fe7a0e?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b9e9c63b74eb1e2c87db2a?utm_campaign=1067&utm_source=git)** | USA TX Houston - 1360 Post Oak Blvd | Hybrid | Mar 17 |
 | **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69ba939a3b74eb1e2c889b86?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Mar 17 |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69ba919306c1ba00c54caec4?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Mar 17 |
-| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern​](https://jobright.ai/jobs/info/69bc841e4828227293fe637c?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b9cf0056973837413f5e25?utm_campaign=1067&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 17 |
 | **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9cb6706c1ba00c54be2e0?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9bd4356973837413f4c38?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 17 |
