@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marex](http://marexspectron.com)** | **[Matthews Group Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69bc890b5b89c002acf245c7?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
-| ↳ | **[Matthews Group Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/69bc9e265b89c002acf25ed4?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 19 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc9a7e4828227293fe7cae?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc86774828227293fe64e4?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Bank Five Nine (Community Bank)](https://www.bankfivenine.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69bc78344828227293fe59db?utm_campaign=1067&utm_source=git)** | Oconomowoc, WI, US | On Site | Mar 19 |
