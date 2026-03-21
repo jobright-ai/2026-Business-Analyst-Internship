@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[IT Business Systems Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69be0801482822729300bd46?utm_campaign=1067&utm_source=git)** | Livermore, CA | On Site | Mar 20 |
+| **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69be0797482822729300bcbc?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Mar 20 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[IT Business Systems Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69bde616393a1008f743bb5f?utm_campaign=1067&utm_source=git)** | Livermore, CA, USA | On Site | Mar 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69bddf13393a1008f743b54d?utm_campaign=1067&utm_source=git)** | Tempe, AZ, US, 85288 | Hybrid | Mar 20 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bddbeb393a1008f743ad2e?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
