@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[IT Business Systems Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69bde616393a1008f743bb5f?utm_campaign=1067&utm_source=git)** | Livermore, CA, USA | On Site | Mar 20 |
+| **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69bddf13393a1008f743b54d?utm_campaign=1067&utm_source=git)** | Tempe, AZ, US, 85288 | Hybrid | Mar 20 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bddbeb393a1008f743ad2e?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Business Process Associate Intern](https://jobright.ai/jobs/info/69bdabd84828227293ffec5e?utm_campaign=1067&utm_source=git)** | Santa Rosa, CA | On Site | Mar 20 |
 | **[Klick](https://www.klick.com)** | **[Business Manager, Summer 2026](https://jobright.ai/jobs/info/69bd8733393a1008f742e15c?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Mar 20 |
@@ -79,40 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69bb0a8c3b74eb1e2c896357?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Mar 18 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb15525697383741410a4a?utm_campaign=1067&utm_source=git)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 18 |
 | ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69bb15515697383741410a47?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Mar 18 |
-| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826590?utm_campaign=1067&utm_source=git)** | Statewide, AL | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b10602456282658f?utm_campaign=1067&utm_source=git)** | Statewide, MN | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd7597393a1008f742d0ac?utm_campaign=1067&utm_source=git)** | Statewide, PA | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826598?utm_campaign=1067&utm_source=git)** | Statewide, NV | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b10602456282658e?utm_campaign=1067&utm_source=git)** | Statewide, NH | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb00e?utm_campaign=1067&utm_source=git)** | Statewide, MS | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb014?utm_campaign=1067&utm_source=git)** | Statewide, FL | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b10602456282659a?utm_campaign=1067&utm_source=git)** | Statewide, UT | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb00f?utm_campaign=1067&utm_source=git)** | Statewide, SD | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826592?utm_campaign=1067&utm_source=git)** | Statewide, KY | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb006?utm_campaign=1067&utm_source=git)** | Statewide, MD | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b10602456282658a?utm_campaign=1067&utm_source=git)** | Statewide, KS | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb015?utm_campaign=1067&utm_source=git)** | Statewide, DC | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb016?utm_campaign=1067&utm_source=git)** | Statewide, IL | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb012?utm_campaign=1067&utm_source=git)** | Statewide, GA | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb00b?utm_campaign=1067&utm_source=git)** | Statewide, DE | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb011?utm_campaign=1067&utm_source=git)** | Statewide, CA | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b10602456282658b?utm_campaign=1067&utm_source=git)** | Statewide, ND | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826597?utm_campaign=1067&utm_source=git)** | Statewide, AK | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb009?utm_campaign=1067&utm_source=git)** | Statewide, NE | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd7597393a1008f742d0af?utm_campaign=1067&utm_source=git)** | Statewide, MO | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826599?utm_campaign=1067&utm_source=git)** | Statewide, AZ | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd7597393a1008f742d0ad?utm_campaign=1067&utm_source=git)** | Duluth, MN | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b10602456282658c?utm_campaign=1067&utm_source=git)** | Statewide, CO | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb00c?utm_campaign=1067&utm_source=git)** | Statewide, TN | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb007?utm_campaign=1067&utm_source=git)** | Statewide, VT | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826596?utm_campaign=1067&utm_source=git)** | Statewide, WA | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826595?utm_campaign=1067&utm_source=git)** | Statewide, AR | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd7597393a1008f742d0ae?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd7597393a1008f742d0b1?utm_campaign=1067&utm_source=git)** | Statewide, SC | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826591?utm_campaign=1067&utm_source=git)** | Statewide, ME | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd7597393a1008f742d0b0?utm_campaign=1067&utm_source=git)** | Statewide, NY | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd79e9b106024562826593?utm_campaign=1067&utm_source=git)** | Statewide, MT | Remote | Mar 18 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69bd76574828227293ffb010?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Remote | Mar 18 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69bacea106c1ba00c54d1c45?utm_campaign=1067&utm_source=git)** | Libertyville, IL | On Site | Mar 18 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69ba9858569738374140572c?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Mar 17 |
