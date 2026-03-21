@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/69bc0b6645e08b3dc1f7fa14?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Mar 15 |
 | **[Voya Financial](https://www.voya.com/)** | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b61d6106c1ba00c547f3ff?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 14 |
-| ↳ | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b5e74c3b74eb1e2c83a777?utm_campaign=1067&utm_source=git)** | MA-Boston, 121 Seaport Blvd | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
