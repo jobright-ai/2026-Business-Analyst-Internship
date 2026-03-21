@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Business Performance Intern - Full Time 2026](https://jobright.ai/jobs/info/69afb3d2749500645094a5c6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Corporate Business Intern](https://jobright.ai/jobs/info/69be26fc393a1008f744063c?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Mar 20 |
@@ -104,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9bd4356973837413f4c38?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 17 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad0e?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69b99aa656973837413f13c0?utm_campaign=1067&utm_source=git)** | Exton, PA, United States | On Site | Mar 17 |
-| **[State of Washington](http://access.wa.gov/)** | **[Business Analyst – Data Integrity Program](https://jobright.ai/jobs/info/69bc25ea4828227293fd8763?utm_campaign=1067&utm_source=git)** | Bay View, WA | Hybrid | Mar 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Medicaid](https://jobright.ai/jobs/info/69bbe2a05b89c002acf0b3db?utm_campaign=1067&utm_source=git)** | District of Columbia, United States | Remote | Mar 17 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69bbcc2378a5df4797fd6f23?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Mar 17 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9814c56973837413eff1a?utm_campaign=1067&utm_source=git)** | Warrendale, PA | Hybrid | Mar 16 |
@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69b8745456973837413dcd18?utm_campaign=1067&utm_source=git)** | Remote- US | Remote | Mar 16 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/69bc0b6645e08b3dc1f7fa14?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Mar 15 |
-| **[Voya Financial](https://www.voya.com/)** | **[Business Resiliency Intern](https://jobright.ai/jobs/info/69b61d6106c1ba00c547f3ff?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
