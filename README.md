@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Business Internship](https://jobright.ai/jobs/info/69c031d979e36d3a847c9f63?utm_campaign=1067&utm_source=git)** | Greater Boston | Hybrid | Mar 22 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Mar 22 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
