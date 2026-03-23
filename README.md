@@ -115,7 +115,4 @@ For a complete list, click the following sortable link below:
 | **[State of Washington](http://access.wa.gov/)** | **[Business Analyst – Data Integrity Program](https://jobright.ai/jobs/info/69bf8a217798f73e35e45e21?utm_campaign=1067&utm_source=git)** | Bay View, WA | Hybrid | Mar 16 |
 | **[RICOH COLOMBIA](http://www.ricohlatinamerica.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bf806b79e36d3a847c1f9b?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 16 |
 | **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9814c56973837413eff1a?utm_campaign=1067&utm_source=git)** | Warrendale, PA | Hybrid | Mar 16 |
-| **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b8827256973837413de6ea?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
-| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69b87f1d06c1ba00c54a7a75?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Mar 16 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69b87e8b3b74eb1e2c865711?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
