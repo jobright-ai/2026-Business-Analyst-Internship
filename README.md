@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c183442c312363dcd471a4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c168e12c312363dcd43aa6?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Business Internship](https://jobright.ai/jobs/info/69c031d979e36d3a847c9f63?utm_campaign=1067&utm_source=git)** | Greater Boston | Hybrid | Mar 22 |
