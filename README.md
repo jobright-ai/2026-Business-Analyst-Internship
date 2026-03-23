@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Mar 21 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bef7f4393a1008f744c92a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Business Performance Intern - Full Time 2026](https://jobright.ai/jobs/info/69afb3d2749500645094a5c6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Corporate Business Intern](https://jobright.ai/jobs/info/69be26fc393a1008f744063c?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Mar 20 |
@@ -119,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69b87f1d06c1ba00c54a7a75?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Mar 16 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69b87e8b3b74eb1e2c865711?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 16 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69b8745456973837413dcd18?utm_campaign=1067&utm_source=git)** | Remote- US | Remote | Mar 16 |
-| **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b834b43b74eb1e2c85d4c2?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
