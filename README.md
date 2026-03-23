@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TNT Fireworks](https://www.tntfireworks.com/)** | **[Business Management/Administration Intern](https://jobright.ai/jobs/info/69c19d5875f7ff1cd80fdf13?utm_campaign=1067&utm_source=git)** | Ocala, FL | On Site | Mar 23 |
+| **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c19b672c312363dcd4b291?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Mar 23 |
+| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
+| **[Jergens, Inc.](https://www.jergensinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c195f92c312363dcd49a3a?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 23 |
+| **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/69aa71392ebd316bece22cf8?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 23 |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c18c6675f7ff1cd80fb1d3?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Business Analyst](https://jobright.ai/jobs/info/69c18bab79e36d3a847e6a5c?utm_campaign=1067&utm_source=git)** | Maryland, United States | Remote | Mar 23 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c183442c312363dcd471a4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c168e12c312363dcd43aa6?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
@@ -65,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Mar 21 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bef7f4393a1008f744c92a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[IT Business Analyst Student - Information Technologies](https://jobright.ai/jobs/info/69bb8026569738374141848b?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Mar 21 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Intern (Business Integrity) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6986662f8da7a61204612341?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Mar 21 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Corporate Business Intern](https://jobright.ai/jobs/info/69be26fc393a1008f744063c?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Mar 20 |
@@ -78,11 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Mar 20 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc9a7e4828227293fe7cae?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc86774828227293fe64e4?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 19 |
-| **[Bank Five Nine (Community Bank)](https://www.bankfivenine.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69bc78344828227293fe59db?utm_campaign=1067&utm_source=git)** | Oconomowoc, WI, US | On Site | Mar 19 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Business Analyst - Prior Authorization](https://jobright.ai/jobs/info/69bc66fe4828227293fe3556?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 19 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Alpha - Business Analyst Summer Internship 2026](https://jobright.ai/jobs/info/69b17bf7548f140066e75769?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Mar 19 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 19 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[IT Business Analyst Student - Information Technologies](https://jobright.ai/jobs/info/69bb8026569738374141848b?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Mar 18 |
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb678c3b74eb1e2c89d222?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 18 |
 | **[Westlake Financial](https://www.westlakefinancial.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb8d29569738374141a883?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Credit Union Leasing of America (CULA)](https://www.cula.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb369b06c1ba00c54daba0?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 18 |
