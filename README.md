@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Physics World](https://physicsworld.com/)** | **[IT Business Systems Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69c1ab4875f7ff1cd80ffabd?utm_campaign=1067&utm_source=git)** | Livermore, CA | On Site | Mar 23 |
 | **[TNT Fireworks](https://www.tntfireworks.com/)** | **[Business Management/Administration Intern](https://jobright.ai/jobs/info/69c19d5875f7ff1cd80fdf13?utm_campaign=1067&utm_source=git)** | Ocala, FL | On Site | Mar 23 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c19b672c312363dcd4b291?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Mar 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c183442c312363dcd471a4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c168e12c312363dcd43aa6?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
-| **[Sapochetti Brands](sapbrands.shop)** | **[Business Internship](https://jobright.ai/jobs/info/69c031d979e36d3a847c9f63?utm_campaign=1067&utm_source=git)** | Greater Boston | Hybrid | Mar 22 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Mar 22 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Mar 21 |
