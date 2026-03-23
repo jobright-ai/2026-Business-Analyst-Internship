@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c168e12c312363dcd43aa6?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
 | **[Sapochetti Brands](sapbrands.shop)** | **[Business Internship](https://jobright.ai/jobs/info/69c031d979e36d3a847c9f63?utm_campaign=1067&utm_source=git)** | Greater Boston | Hybrid | Mar 22 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Mar 22 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69bbcc2378a5df4797fd6f23?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Mar 17 |
 | **[State of Washington](http://access.wa.gov/)** | **[Business Analyst – Data Integrity Program](https://jobright.ai/jobs/info/69bf8a217798f73e35e45e21?utm_campaign=1067&utm_source=git)** | Bay View, WA | Hybrid | Mar 16 |
 | **[RICOH COLOMBIA](http://www.ricohlatinamerica.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bf806b79e36d3a847c1f9b?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 16 |
-| **[Mitsubishi Electric Power Products, Inc.](https://www.meppi.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9814c56973837413eff1a?utm_campaign=1067&utm_source=git)** | Warrendale, PA | Hybrid | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
