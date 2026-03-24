@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Intelligent Devices Group (IDG) – WW Accessories Team: Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c231162c312363dcd5c977?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Mar 23 |
+| **[PNC](http://www.pnc.com)** | **[Business Architect (Risk/Compliance)](https://jobright.ai/jobs/info/69c27fbfec22f8310ab04ef2?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Mar 23 |
+| ↳ | **[Business Architect (Risk/Compliance)](https://jobright.ai/jobs/info/69c28296a5b03d40c194e137?utm_campaign=1067&utm_source=git)** | Strongsville, OH | On Site | Mar 23 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Student Records Business Analyst](https://jobright.ai/jobs/info/69c212862c312363dcd5a12f?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1e37a2c312363dcd518ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | ↳ | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1b19b75f7ff1cd80ffeff?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Mar 23 |
@@ -123,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69ba939a3b74eb1e2c889b86?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Mar 17 |
 | **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b9cf0056973837413f5e25?utm_campaign=1067&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 17 |
 | **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9cb6706c1ba00c54be2e0?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
-| **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9bd4356973837413f4c38?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 17 |
-| **[UDT](http://www.udtonline.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad0e?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
