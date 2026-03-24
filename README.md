@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69b9bd4356973837413f4c38?utm_campaign=1067&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Mar 17 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9ac9f06c1ba00c54bad0e?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69b99aa656973837413f13c0?utm_campaign=1067&utm_source=git)** | Exton, PA, United States | On Site | Mar 17 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Medicaid](https://jobright.ai/jobs/info/69bbe2a05b89c002acf0b3db?utm_campaign=1067&utm_source=git)** | District of Columbia, United States | Remote | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
