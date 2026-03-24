@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Government of Alberta](http://alberta.ca/)** | **[Student Records Business Analyst](https://jobright.ai/jobs/info/69c212862c312363dcd5a12f?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1e37a2c312363dcd518ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | ↳ | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1b19b75f7ff1cd80ffeff?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Mar 23 |
 | **[University of Central Florida](https://www.ucf.edu)** | **[Business Systems Analyst II](https://jobright.ai/jobs/info/69c1ab622c312363dcd4d595?utm_campaign=1067&utm_source=git)** | Greater Orlando | On Site | Mar 23 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c168e12c312363dcd43aa6?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Mar 23 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Mar 22 |
+| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Business Performance Intern - Full Time 2026](https://jobright.ai/jobs/info/69c20ec3c9ad035e829aaf35?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Mar 21 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bef7f4393a1008f744c92a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
