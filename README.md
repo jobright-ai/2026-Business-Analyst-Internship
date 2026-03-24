@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1b19b75f7ff1cd80ffeff?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Mar 23 |
+| **[University of Central Florida](https://www.ucf.edu)** | **[Business Systems Analyst II](https://jobright.ai/jobs/info/69c1ab622c312363dcd4d595?utm_campaign=1067&utm_source=git)** | Greater Orlando | On Site | Mar 23 |
 | **[Physics World](https://physicsworld.com/)** | **[IT Business Systems Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69c1ab4875f7ff1cd80ffabd?utm_campaign=1067&utm_source=git)** | Livermore, CA | On Site | Mar 23 |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1bd9079e36d3a847ec84e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Mar 23 |
 | **[TNT Fireworks](https://www.tntfireworks.com/)** | **[Business Management/Administration Intern](https://jobright.ai/jobs/info/69c19d5875f7ff1cd80fdf13?utm_campaign=1067&utm_source=git)** | Ocala, FL | On Site | Mar 23 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c19b672c312363dcd4b291?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Mar 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
@@ -120,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69b99aa656973837413f13c0?utm_campaign=1067&utm_source=git)** | Exton, PA, United States | On Site | Mar 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Medicaid](https://jobright.ai/jobs/info/69bbe2a05b89c002acf0b3db?utm_campaign=1067&utm_source=git)** | District of Columbia, United States | Remote | Mar 17 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69bbcc2378a5df4797fd6f23?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Mar 17 |
-| **[State of Washington](http://access.wa.gov/)** | **[Business Analyst – Data Integrity Program](https://jobright.ai/jobs/info/69bf8a217798f73e35e45e21?utm_campaign=1067&utm_source=git)** | Bay View, WA | Hybrid | Mar 16 |
-| **[RICOH COLOMBIA](http://www.ricohlatinamerica.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bf806b79e36d3a847c1f9b?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
