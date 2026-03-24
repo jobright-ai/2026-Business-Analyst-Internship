@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2ad74753c101b2155ed98?utm_campaign=1067&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Mar 24 |
+| **[Absa Group](http://absa.co.za/)** | **[Intern (S): Business](https://jobright.ai/jobs/info/69c28c0494007a2195de77e6?utm_campaign=1067&utm_source=git)** | Pensacola, Florida, United States | On Site | Mar 24 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Intelligent Devices Group (IDG) – WW Accessories Team: Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c231162c312363dcd5c977?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Mar 23 |
-| **[PNC](http://www.pnc.com)** | **[Business Architect (Risk/Compliance)](https://jobright.ai/jobs/info/69c27fbfec22f8310ab04ef2?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | On Site | Mar 23 |
-| ↳ | **[Business Architect (Risk/Compliance)](https://jobright.ai/jobs/info/69c28296a5b03d40c194e137?utm_campaign=1067&utm_source=git)** | Strongsville, OH | On Site | Mar 23 |
+| **[PNC](http://www.pnc.com)** | **[Business Architect (Risk/Compliance)](https://jobright.ai/jobs/info/69c28296a5b03d40c194e137?utm_campaign=1067&utm_source=git)** | Strongsville, OH | On Site | Mar 23 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Student Records Business Analyst](https://jobright.ai/jobs/info/69c212862c312363dcd5a12f?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1e37a2c312363dcd518ee?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | ↳ | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1b19b75f7ff1cd80ffeff?utm_campaign=1067&utm_source=git)** | US-NY-New York | On Site | Mar 23 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[TNT Fireworks](https://www.tntfireworks.com/)** | **[Business Management/Administration Intern](https://jobright.ai/jobs/info/69c19d5875f7ff1cd80fdf13?utm_campaign=1067&utm_source=git)** | Ocala, FL | On Site | Mar 23 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c19b672c312363dcd4b291?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Mar 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
-| **[Jergens, Inc.](https://www.jergensinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c195f92c312363dcd49a3a?utm_campaign=1067&utm_source=git)** | Cleveland, OH | On Site | Mar 23 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/69aa71392ebd316bece22cf8?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 23 |
 | **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c18c6675f7ff1cd80fb1d3?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Business Analyst](https://jobright.ai/jobs/info/69c18bab79e36d3a847e6a5c?utm_campaign=1067&utm_source=git)** | Maryland, United States | Remote | Mar 23 |
@@ -123,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Business Process Optimization Intern](https://jobright.ai/jobs/info/69bc96314828227293fe7a0e?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69b9e9c63b74eb1e2c87db2a?utm_campaign=1067&utm_source=git)** | USA TX Houston - 1360 Post Oak Blvd | Hybrid | Mar 17 |
 | **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69ba939a3b74eb1e2c889b86?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Mar 17 |
-| **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69b9cf0056973837413f5e25?utm_campaign=1067&utm_source=git)** | Foster City, CA, USA | Hybrid | Mar 17 |
-| **[Sucrée](http://www.instagram.com/sucree.sweets)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69b9cb6706c1ba00c54be2e0?utm_campaign=1067&utm_source=git)** | Miramar, FL, US | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
