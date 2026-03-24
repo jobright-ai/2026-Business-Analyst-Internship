@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69c2f00a753c101b2156601c?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Mar 24 |
+| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2ec39753c101b215658f9?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
+| ↳ | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2eb69753c101b215657a7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69c2d50594007a2195ded7bd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Mar 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2c8a894007a2195dec057?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69bddf13393a1008f743b54d?utm_campaign=1067&utm_source=git)** | Tempe, AZ, US, 85288 | Hybrid | Mar 20 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bddbeb393a1008f743ad2e?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Business Process Associate Intern](https://jobright.ai/jobs/info/69bdabd84828227293ffec5e?utm_campaign=1067&utm_source=git)** | Santa Rosa, CA | On Site | Mar 20 |
-| **[Klick](https://www.klick.com)** | **[Business Manager, Summer 2026](https://jobright.ai/jobs/info/69bd8733393a1008f742e15c?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Mar 20 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc9a7e4828227293fe7cae?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc86774828227293fe64e4?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 19 |
@@ -121,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Business Operations Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69bb8f1f06c1ba00c54e2961?utm_campaign=1067&utm_source=git)** | Annapolis Junction, MD | On Site | Mar 17 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69ba90063b74eb1e2c888a09?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Mar 17 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69ba8ab25697383741402676?utm_campaign=1067&utm_source=git)** | Miramar, FL | On Site | Mar 17 |
-| **[Alberta Innovates](http://albertainnovates.ca)** | **[IT Business Analyst Student](https://jobright.ai/jobs/info/69bb8e7106c1ba00c54e2604?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
