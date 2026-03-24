@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69c2d50594007a2195ded7bd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Mar 24 |
+| **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2c8a894007a2195dec057?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 | **[Klick](https://www.klick.com)** | **[Junior Business Manager, Summer 2026](https://jobright.ai/jobs/info/69c2c53c753c101b21561314?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2ad74753c101b2155ed98?utm_campaign=1067&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Mar 24 |
@@ -108,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bb1c0906c1ba00c54d910a?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 18 |
 | **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb327b5697383741412ee3?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb15525697383741410a4a?utm_campaign=1067&utm_source=git)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 18 |
+| ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69c2d6deec22f8310ab0c55e?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Mar 18 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69bacea106c1ba00c54d1c45?utm_campaign=1067&utm_source=git)** | Libertyville, IL | On Site | Mar 18 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 17 |
 | **[Stewart Title](https://www.stewart.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69ba9858569738374140572c?utm_campaign=1067&utm_source=git)** | Greater Houston | Hybrid | Mar 17 |
@@ -118,7 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69ba90063b74eb1e2c888a09?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Mar 17 |
 | **[UDT](http://www.udtonline.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69ba8ab25697383741402676?utm_campaign=1067&utm_source=git)** | Miramar, FL | On Site | Mar 17 |
 | **[Alberta Innovates](http://albertainnovates.ca)** | **[IT Business Analyst Student](https://jobright.ai/jobs/info/69bb8e7106c1ba00c54e2604?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 17 |
-| **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Mar 17 |
-| **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 17 |
-| **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69ba239706c1ba00c54c4242?utm_campaign=1067&utm_source=git)** | Libertyville, IL, US, 60048-3781 | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
