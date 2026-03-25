@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc7d9745e08b3dc1f93c17?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 18 |
 | **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bb1c0906c1ba00c54d910a?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 18 |
 | **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb327b5697383741412ee3?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 18 |
-| **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb15525697383741410a4a?utm_campaign=1067&utm_source=git)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 18 |
-| ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69c2d6deec22f8310ab0c55e?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
