@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 25 |
+| **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/69c3153894007a2195df444e?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Mar 24 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/69c2fe1f753c101b215671f0?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69c2f00a753c101b2156601c?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Mar 24 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2eb69753c101b215657a7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69c30125ec22f8310ab107b9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 24 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69c2d50594007a2195ded7bd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2026](https://jobright.ai/jobs/info/698a2d7847434001cc686640?utm_campaign=1067&utm_source=git)** | Highland Heights, OH | Hybrid | Mar 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2c8a894007a2195dec057?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 | **[Klick](https://www.klick.com)** | **[Junior Business Manager, Summer 2026](https://jobright.ai/jobs/info/69c2c53c753c101b21561314?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 24 |
@@ -113,6 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Credit Union Leasing of America (CULA)](https://www.cula.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb369b06c1ba00c54daba0?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 18 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 18 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc7d9745e08b3dc1f93c17?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 18 |
-| **[Ricoh USA, Inc.](https://www.ricoh-usa.com)** | **[Business Process Management Intern, Supply Chain](https://jobright.ai/jobs/info/69bb1c0906c1ba00c54d910a?utm_campaign=1067&utm_source=git)** | Exton, PA | On Site | Mar 18 |
-| **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb327b5697383741412ee3?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
