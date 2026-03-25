@@ -112,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb678c3b74eb1e2c89d222?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 18 |
 | **[Westlake Financial](https://www.westlakefinancial.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb8d29569738374141a883?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[Credit Union Leasing of America (CULA)](https://www.cula.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb369b06c1ba00c54daba0?utm_campaign=1067&utm_source=git)** | Dallas, Texas, United States | On Site | Mar 18 |
-| **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern (SLP)](https://jobright.ai/jobs/info/69a7828a2672cb0acb4bfa2e?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 18 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc7d9745e08b3dc1f93c17?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
