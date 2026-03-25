@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
+| **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c43896d5a1016e98db4f12?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 25 |
+| **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/69c433f833eecf3107945ba1?utm_campaign=1067&utm_source=git)** | Missouri, United States | On Site | Mar 25 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern](https://jobright.ai/jobs/info/69c450406f4f855eeda6c231?utm_campaign=1067&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 25 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
-| **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ba8c835697383741402f4b?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Mar 25 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/69c4172d6f4f855eeda67248?utm_campaign=1067&utm_source=git)** | Mississauga, ON | Hybrid | Mar 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
+| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 25 |
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Mar 25 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c42b016f4f855eeda68817?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c4360d6f4f855eeda69bd8?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern, CoStar Debt Solutions - Summer 2026](https://jobright.ai/jobs/info/69c40d16d5a1016e98db1663?utm_campaign=1067&utm_source=git)** | US-MA Boston | On Site | Mar 25 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 25 |
