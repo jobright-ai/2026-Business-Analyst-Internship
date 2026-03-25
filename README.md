@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
+| **[Visa](https://www.visa.com)** | **[Associate Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69ba8c835697383741402f4b?utm_campaign=1067&utm_source=git)** | Foster City, CA | Hybrid | Mar 25 |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/69c4172d6f4f855eeda67248?utm_campaign=1067&utm_source=git)** | Mississauga, ON | Hybrid | Mar 25 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 25 |
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Mar 25 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c42b016f4f855eeda68817?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern, CoStar Debt Solutions - Summer 2026](https://jobright.ai/jobs/info/69c40d16d5a1016e98db1663?utm_campaign=1067&utm_source=git)** | US-MA Boston | On Site | Mar 25 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 25 |
@@ -113,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Business Analyst - Prior Authorization](https://jobright.ai/jobs/info/69bc66fe4828227293fe3556?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 19 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street Alpha - Business Analyst Summer Internship 2026](https://jobright.ai/jobs/info/69b17bf7548f140066e75769?utm_campaign=1067&utm_source=git)** | Princeton, NJ | On Site | Mar 19 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[IT Business Partner Commercial Intern](https://jobright.ai/jobs/info/694b05bb3019f50a4fe60cb3?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 19 |
-| **[Avanade](http://www.avanade.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb678c3b74eb1e2c89d222?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 18 |
-| **[Westlake Financial](https://www.westlakefinancial.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bb8d29569738374141a883?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
