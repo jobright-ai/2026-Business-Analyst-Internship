@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bddbeb393a1008f743ad2e?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Business Process Associate Intern](https://jobright.ai/jobs/info/69bdabd84828227293ffec5e?utm_campaign=1067&utm_source=git)** | Santa Rosa, CA | On Site | Mar 20 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6983bb0f348f733a5c370197?utm_campaign=1067&utm_source=git)** | South Bend, WA | On Site | Mar 20 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Business Systems Analyst Internship](https://jobright.ai/jobs/info/69c3686d94007a2195dfd8cd?utm_campaign=1067&utm_source=git)** | La Crosse, WI | Hybrid | Mar 19 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc9a7e4828227293fe7cae?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Mar 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bc86774828227293fe64e4?utm_campaign=1067&utm_source=git)** | Boston, MA | On Site | Mar 19 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Business Analyst - Prior Authorization](https://jobright.ai/jobs/info/69bc66fe4828227293fe3556?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 19 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Go Offer](go-offer.us)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69bb327b5697383741412ee3?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Accenture](https://www.accenture.com)** | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69bb15525697383741410a4a?utm_campaign=1067&utm_source=git)** | Carmel, 11939 N Meridian St., Corp | On Site | Mar 18 |
 | ↳ | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69c2d6deec22f8310ab0c55e?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Mar 18 |
-| **[Hollister Incorporated](https://www.hollister.com)** | **[Americas BU Intern - General Business](https://jobright.ai/jobs/info/69bacea106c1ba00c54d1c45?utm_campaign=1067&utm_source=git)** | Libertyville, IL | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
