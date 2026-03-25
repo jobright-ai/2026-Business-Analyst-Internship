@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/69c3153894007a2195df444e?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Mar 24 |
-| **[Russell Rowland, Inc.](http://www.russrow.com)** | **[Fall 2026 Business Analyst Intern](https://jobright.ai/jobs/info/69c31459ec22f8310ab12a0a?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | On Site | Mar 24 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/69c2fe1f753c101b215671f0?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69c2f00a753c101b2156601c?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Mar 24 |
 | **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2ec39753c101b215658f9?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
