@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peoples Group](https://www.peoplestrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52f0283ea553769fc6898?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Technology Internship](https://jobright.ai/jobs/info/69c51b96751fba7b5d6394d7?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Business Data & Reporting Specialist (I/O: April 2026 - March 2028)](https://jobright.ai/jobs/info/69c45e67d5a1016e98db937d?utm_campaign=1067&utm_source=git)** | Hamilton, ON | Hybrid | Mar 25 |
-| **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Technology Internship](https://jobright.ai/jobs/info/69c476db6f4f855eeda703b9?utm_campaign=1067&utm_source=git)** | USA | Remote | Mar 25 |
-| ↳ | **[Business Technology Internship](https://jobright.ai/jobs/info/69c476c133eecf310794c99c?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 25 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45ba533eecf310794a8df?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Mar 25 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Business Technology Internship](https://jobright.ai/jobs/info/69c476c133eecf310794c99c?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 25 |
+| ↳ | **[Business Technology Internship](https://jobright.ai/jobs/info/69c476db6f4f855eeda703b9?utm_campaign=1067&utm_source=git)** | USA | Remote | Mar 25 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45ba533eecf310794a8df?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c43896d5a1016e98db4f12?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern, CoStar Debt Solutions - Summer 2026](https://jobright.ai/jobs/info/69c40d16d5a1016e98db1663?utm_campaign=1067&utm_source=git)** | US-MA Boston | On Site | Mar 25 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[Absa Group](http://absa.co.za/)** | **[Intern (S): Business](https://jobright.ai/jobs/info/69c521838bf5e74cea162ee7?utm_campaign=1067&utm_source=git)** | Pensacola, Florida, United States | On Site | Mar 25 |
 | **[BlueRock Therapeutics](http://www.bluerocktx.com)** | **[Co-Op, Business Operations Analyst](https://jobright.ai/jobs/info/69c3153894007a2195df444e?utm_campaign=1067&utm_source=git)** | Cambridge, MA | Hybrid | Mar 24 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/69c2fe1f753c101b215671f0?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Mar 24 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Business Analysis Associate Intern](https://jobright.ai/jobs/info/69c2f00a753c101b2156601c?utm_campaign=1067&utm_source=git)** | USA VA Falls Church | Remote | Mar 24 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[University of Central Florida](https://www.ucf.edu)** | **[Business Systems Analyst II](https://jobright.ai/jobs/info/69c1ab622c312363dcd4d595?utm_campaign=1067&utm_source=git)** | Greater Orlando | On Site | Mar 23 |
 | **[Physics World](https://physicsworld.com/)** | **[IT Business Systems Analyst Graduate Intern - Summer 2026](https://jobright.ai/jobs/info/69c1ab4875f7ff1cd80ffabd?utm_campaign=1067&utm_source=git)** | Livermore, CA | On Site | Mar 23 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69c1bd9079e36d3a847ec84e?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Mar 23 |
-| **[TNT Fireworks](https://www.tntfireworks.com/)** | **[Business Management/Administration Intern](https://jobright.ai/jobs/info/69c19d5875f7ff1cd80fdf13?utm_campaign=1067&utm_source=git)** | Ocala, FL | On Site | Mar 23 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c19b672c312363dcd4b291?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Mar 23 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/69aa71392ebd316bece22cf8?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 23 |
