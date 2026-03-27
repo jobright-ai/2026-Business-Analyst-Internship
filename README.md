@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 26 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c5d6731818a24cd84bbc81?utm_campaign=1067&utm_source=git)** | Herndon, VA | Hybrid | Mar 26 |
 | **[Welldoc](https://www.welldoc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c5cf101b5ad02887379cc1?utm_campaign=1067&utm_source=git)** | Columbia, MD | On Site | Mar 26 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Business Operations & Analytics](https://jobright.ai/jobs/info/69c2fe1f753c101b215671f0?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Mar 26 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69c2d50594007a2195ded7bd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2c8a894007a2195dec057?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 | **[Klick](https://www.klick.com)** | **[Junior Business Manager, Summer 2026](https://jobright.ai/jobs/info/69c2c53c753c101b21561314?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Ad Tech Business Analyst Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69c2ad74753c101b2155ed98?utm_campaign=1067&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Mar 24 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Intelligent Devices Group (IDG) – WW Accessories Team: Business Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69c231162c312363dcd5c977?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | Mar 23 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Student Records Business Analyst](https://jobright.ai/jobs/info/69c212862c312363dcd5a12f?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 23 |
