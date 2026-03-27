@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52c31c63a883d55f23b04?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 26 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c5d6731818a24cd84bbc81?utm_campaign=1067&utm_source=git)** | Herndon, VA | Hybrid | Mar 26 |
 | **[Welldoc](https://www.welldoc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c5cf101b5ad02887379cc1?utm_campaign=1067&utm_source=git)** | Columbia, MD | On Site | Mar 26 |
