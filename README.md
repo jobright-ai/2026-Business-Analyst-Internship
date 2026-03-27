@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primerica](https://www.primerica.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c5ab26aa9a29199e808a91?utm_campaign=1067&utm_source=git)** | Duluth, GA | On Site | Mar 26 |
+| **[Welldoc](https://www.welldoc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c5aa991818a24cd84b948d?utm_campaign=1067&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Mar 26 |
+| **[EOS](https://www.eos.info/en)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69c5a4f31b5ad028873776e4?utm_campaign=1067&utm_source=git)** | Pflugerville, TX | On Site | Mar 26 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c58974aa9a29199e807070?utm_campaign=1067&utm_source=git)** | Easton, PA | On Site | Mar 26 |
 | **[Landmark Credit Union](https://landmarkcu.com)** | **[Intern, Business Services Operations](https://jobright.ai/jobs/info/69c58294e565c26a700112b2?utm_campaign=1067&utm_source=git)** | 2775 S Moorland Rd, New Berlin, WI 53151, USA | On Site | Mar 26 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c57d981818a24cd84b63e8?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 26 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/69c546fd83ea553769fc80a7?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Mar 26 |
 | **[Peoples Group](https://www.peoplestrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52f0283ea553769fc6898?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Reference](https://jobright.ai/jobs/info/69c543f5aa9a29199e80272d?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 26 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c5692283ea553769fc9aa0?utm_campaign=1067&utm_source=git)** | Easton, PA | On Site | Mar 25 |
 | **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69c56d10aa9a29199e8047b4?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Mar 25 |
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Business Data & Reporting Specialist (I/O: April 2026 - March 2028)](https://jobright.ai/jobs/info/69c45e67d5a1016e98db937d?utm_campaign=1067&utm_source=git)** | Hamilton, ON | Hybrid | Mar 25 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
@@ -82,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/69c4172d6f4f855eeda67248?utm_campaign=1067&utm_source=git)** | Mississauga, ON | Hybrid | Mar 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
-| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
+| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 25 |
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c4360d6f4f855eeda69bd8?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
