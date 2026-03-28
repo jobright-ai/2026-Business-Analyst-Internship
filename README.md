@@ -90,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Peoples Group](https://www.peoplestrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52f0283ea553769fc6898?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Reference](https://jobright.ai/jobs/info/69c543f5aa9a29199e80272d?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 26 |
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Business Data & Reporting Specialist (I/O: April 2026 - March 2028)](https://jobright.ai/jobs/info/69c45e67d5a1016e98db937d?utm_campaign=1067&utm_source=git)** | Hamilton, ON | Hybrid | Mar 25 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45ba533eecf310794a8df?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Mar 25 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45ba533eecf310794a8df?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Mar 25 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c43896d5a1016e98db4f12?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
