@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/69c4172d6f4f855eeda67248?utm_campaign=1067&utm_source=git)** | Mississauga, ON | Hybrid | Mar 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
-| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
+| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 25 |
 | **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c4360d6f4f855eeda69bd8?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Mar 21 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/69bef7f4393a1008f744c92a?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 21 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[IT Business Analyst Student - Information Technologies](https://jobright.ai/jobs/info/69bb8026569738374141848b?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Mar 21 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
