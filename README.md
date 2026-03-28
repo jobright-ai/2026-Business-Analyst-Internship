@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c72fd21b5ad0288738af22?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
+| **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c71b4f1818a24cd84cbc7d?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c70ed61b5ad0288738994f?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69c70e361818a24cd84cb001?utm_campaign=1067&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/69c4e61ad5a1016e98dc56cc?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Mar 27 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[EOS](https://www.eos.info)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69c5a4f31b5ad028873776e4?utm_campaign=1067&utm_source=git)** | Pflugerville, TX | On Site | Mar 26 |
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c58974aa9a29199e807070?utm_campaign=1067&utm_source=git)** | Easton, PA | On Site | Mar 26 |
 | **[Landmark Credit Union](https://landmarkcu.com)** | **[Intern, Business Services Operations](https://jobright.ai/jobs/info/69c58294e565c26a700112b2?utm_campaign=1067&utm_source=git)** | 2775 S Moorland Rd, New Berlin, WI 53151, USA | On Site | Mar 26 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c57d981818a24cd84b63e8?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Mar 26 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 FP&A Internship - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/69c57d1c1818a24cd84b5fb2?utm_campaign=1067&utm_source=git)** | Pigeon Forge, TN | On Site | Mar 26 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c570c2aa9a29199e804955?utm_campaign=1067&utm_source=git)** | US | VA | Herndon | 12901 Worldgate Drive Suite 560 | Hybrid | Mar 26 |
@@ -85,12 +86,13 @@ For a complete list, click the following sortable link below:
 | **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c5545eaa3c2c1995dfd91a?utm_campaign=1067&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 26 |
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 26 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/69a9523e7f9271426f883289?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 26 |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69c71a4baa3c2c1995e15418?utm_campaign=1067&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/69c546fd83ea553769fc80a7?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Mar 26 |
 | **[Peoples Group](https://www.peoplestrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52f0283ea553769fc6898?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Reference](https://jobright.ai/jobs/info/69c543f5aa9a29199e80272d?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 26 |
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Business Data & Reporting Specialist (I/O: April 2026 - March 2028)](https://jobright.ai/jobs/info/69c45e67d5a1016e98db937d?utm_campaign=1067&utm_source=git)** | Hamilton, ON | Hybrid | Mar 25 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45ba533eecf310794a8df?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Mar 25 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45bab6f4f855eeda6e2cc?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Mar 25 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69c45ba533eecf310794a8df?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[Fiserv](http://www.fiserv.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c43896d5a1016e98db4f12?utm_campaign=1067&utm_source=git)** | Berkeley Heights, NJ | On Site | Mar 25 |
 | **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
