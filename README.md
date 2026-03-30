@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robbinbooks](https://www.linkedin.com/company/113330955)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca05c1aa3c2c1995e292a5?utm_campaign=1067&utm_source=git)** | California, United States | Remote | Mar 28 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 28 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst Intern (Hourly)](https://jobright.ai/jobs/info/69c9f1f6b773006330b89aae?utm_campaign=1067&utm_source=git)** | Trenton, NJ | Hybrid | Mar 27 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | Hybrid | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c72fd21b5ad0288738af22?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c71b4f1818a24cd84cbc7d?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Mar 27 |
