@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Yazaki North America](https://www.yii.tech/)** | **[Intern, Business Analytics & Operations](https://jobright.ai/jobs/info/69975d43ce78e77b4fdbb87f?utm_campaign=1067&utm_source=git)** | Canton, MI | On Site | Mar 30 |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Mar 30 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 30 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 30 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 28 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[SEI](http://www.seic.com)** | **[2026 Intern - SEI Data Office Business Analyst Intern](https://jobright.ai/jobs/info/69c437c7d5a1016e98db4dc2?utm_campaign=1067&utm_source=git)** | Oaks, PA | Hybrid | Mar 25 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/69c4172d6f4f855eeda67248?utm_campaign=1067&utm_source=git)** | Mississauga, ON | Hybrid | Mar 25 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
-| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c43476d5a1016e98db487a?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 25 |
+| ↳ | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69c434776f4f855eeda69868?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 25 |
 | **[Delta Faucet Company](http://www.deltafaucetcompany.com)** | **[Trade Business Analyst Intern](https://jobright.ai/jobs/info/69b36893ad360c0340a8873a?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c4360d6f4f855eeda69bd8?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern, CoStar Debt Solutions - Summer 2026](https://jobright.ai/jobs/info/69c40d16d5a1016e98db1663?utm_campaign=1067&utm_source=git)** | US-MA Boston | On Site | Mar 25 |
