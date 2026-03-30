@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 30 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 30 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 28 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | Hybrid | Mar 27 |
@@ -125,7 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c19b672c312363dcd4b291?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Mar 23 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 23 |
 | **[Texas Health and Human Services](http://hhs.texas.gov)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/69aa71392ebd316bece22cf8?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 23 |
-| **[Safe-Guard Products International](https://www.safe-guardproducts.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/69c18c6675f7ff1cd80fb1d3?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 23 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Business Analyst](https://jobright.ai/jobs/info/69c18bab79e36d3a847e6a5c?utm_campaign=1067&utm_source=git)** | Maryland, United States | Remote | Mar 23 |
-| **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c183442c312363dcd471a4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
