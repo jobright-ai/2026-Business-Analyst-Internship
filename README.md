@@ -87,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c70ed61b5ad0288738994f?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 27 |
-| **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cae391466f1e133aac8273?utm_campaign=1067&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6c93be565c26a7002291a?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | Hybrid | Mar 27 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c7f8bae565c26a7002d1ad?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Mar 27 |
@@ -134,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2ec39753c101b215658f9?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | ↳ | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2eb69753c101b215657a7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69c30125ec22f8310ab107b9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 24 |
-| **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69c2d50594007a2195ded7bd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
