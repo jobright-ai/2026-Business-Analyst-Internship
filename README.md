@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[CoStar Group](http://www.costargroup.com/)** | **[Business Analyst Intern, CoStar Debt Solutions - Summer 2026](https://jobright.ai/jobs/info/69c40d16d5a1016e98db1663?utm_campaign=1067&utm_source=git)** | US-MA Boston | On Site | Mar 25 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Tools Analyst Intern](https://jobright.ai/jobs/info/6996602ce0bddb6acac4d2a7?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, B2B Business](https://jobright.ai/jobs/info/69a730002672cb0acb4b9da6?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 25 |
-| **[PNC](http://www.pnc.com)** | **[Business Architect (Risk/Compliance)](https://jobright.ai/jobs/info/69c85c3f83ea553769fe982f?utm_campaign=1067&utm_source=git)** | Strongsville, OH | On Site | Mar 24 |
 | **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2ec39753c101b215658f9?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | ↳ | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2eb69753c101b215657a7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69c30125ec22f8310ab107b9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 24 |
