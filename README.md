@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/69c2eb69753c101b215657a7?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Mar 24 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69c30125ec22f8310ab107b9?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 24 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2026 Summer Intern](https://jobright.ai/jobs/info/69c2d50594007a2195ded7bd?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
-| **[Klick](https://www.klick.com)** | **[Junior Business Manager, Summer 2026](https://jobright.ai/jobs/info/69c2c53c753c101b21561314?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
