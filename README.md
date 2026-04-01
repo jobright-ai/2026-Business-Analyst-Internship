@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/69a9523e7f9271426f883289?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 31 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8e5d8130af1ac833bf42?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc8cf2cfdc6132f940fc5c?utm_campaign=1067&utm_source=git)** | College Park, MD | Hybrid | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8ccfe1921223acc794fb?utm_campaign=1067&utm_source=git)** | Raleigh, NC | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8cc1e1921223acc794cc?utm_campaign=1067&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/69c4172d6f4f855eeda67248?utm_campaign=1067&utm_source=git)** | Mississauga, ON | Hybrid | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
