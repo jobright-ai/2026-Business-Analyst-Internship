@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/69caab971b5ad028873a37ef?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Mar 30 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Mar 30 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 30 |
-| **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/696ee888350cf4380315ddf6?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK | On Site | Mar 30 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 28 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | Hybrid | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c72fd21b5ad0288738af22?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/69c546fd83ea553769fc80a7?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Mar 26 |
 | **[Peoples Group](https://www.peoplestrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52f0283ea553769fc6898?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Reference](https://jobright.ai/jobs/info/69c543f5aa9a29199e80272d?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 26 |
-| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69cb5531a8c1822476e25f0a?utm_campaign=1067&utm_source=git)** | Des Moines, IA | On Site | Mar 25 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 25 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
+| **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
