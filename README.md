@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Reference](https://jobright.ai/jobs/info/69c543f5aa9a29199e80272d?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Mar 26 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69a7f8c876bbe83d3afb7043?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Mar 25 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern - Business Analytics & Insights](https://jobright.ai/jobs/info/69c43a2433eecf310794643b?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
-| **[PDS Health](http://www.pacificdentalservices.com/)** | **[IT Business Analyst (Risk) Intern](https://jobright.ai/jobs/info/69bcdc714828227293fee9dc?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
