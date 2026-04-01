@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8cb3e1921223acc794b9?utm_campaign=1067&utm_source=git)** | Miami, FL | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8b50cdb525785fb7eaf7?utm_campaign=1067&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8ac2891d7b11cfcafa17?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Business Reporting Analyst](https://jobright.ai/jobs/info/69ccafdb8130af1ac833e4b8?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 31 |
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7987e1921223acc760ee?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71ed8130af1ac8338731?utm_campaign=1067&utm_source=git)** | USA - Miami FL 33178 | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71e6891d7b11cfcac58e?utm_campaign=1067&utm_source=git)** | USA - Remote PA | Remote | Mar 31 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69c918eaaa3c2c1995e23382?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 31 |
 | **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Business Process Analyst Intern](https://jobright.ai/jobs/info/69cc101ecfdc6132f940a22e?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08a7366bb95ba54ed2a9?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0888cfdc6132f9409f02?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc087b891d7b11cfcaa0ae?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Mar 31 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Performance Intern](https://jobright.ai/jobs/info/69caf1c1aa3c2c1995e3241f?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 30 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69caeb21466f1e133aac8aba?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, MI | On Site | Mar 30 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Mar 30 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Procurement Contact Centre, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69cae33e1b5ad028873a6079?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 30 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cad8c1a8c1822476e20b33?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, Michigan, United States | On Site | Mar 30 |
