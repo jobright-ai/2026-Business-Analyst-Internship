@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signature Solar](https://signaturesolar.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd57f154f00230c6cee90b?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
+| **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54da366bb95ba54fad36?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69cd37c9891d7b11cfcb6cd1?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Apr 01 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 01 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71ce366bb95ba54ef77a?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71cbcfdc6132f940c43a?utm_campaign=1067&utm_source=git)** | USA - Remote DC | Remote | Mar 31 |
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
-| **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc76cf8130af1ac8338949?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 31 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Palisades](https://jobright.ai/jobs/info/69cc819bcdb525785fb7cf2d?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | Hybrid | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc4404cfdc6132f940b4d8?utm_campaign=1067&utm_source=git)** | San Jose, CA | Remote | Mar 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69cc60fa891d7b11cfcac131?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Mar 31 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cc819ccdb525785fb7cf32?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc4bcee1921223acc751ae?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc7334cfdc6132f940c4c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Mar 31 |
-| **[Veradigm®](https://veradigm.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc23cbe1921223acc741fb?utm_campaign=1067&utm_source=git)** | Remote - US | Remote | Mar 31 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69c918eaaa3c2c1995e23382?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Mar 31 |
 | **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Business Process Analyst Intern](https://jobright.ai/jobs/info/69cc101ecfdc6132f940a22e?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 26 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69cc7e38e1921223acc7648f?utm_campaign=1067&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Mar 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/69c546fd83ea553769fc80a7?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Mar 26 |
-| **[Peoples Group](https://www.peoplestrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c52f0283ea553769fc6898?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
