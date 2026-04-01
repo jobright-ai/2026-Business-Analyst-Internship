@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sun Atlas Power](https://sunatlaspower.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd732554f00230c6cef732?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd7321398fb071abf75493?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
+| **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69cd69b154f00230c6ceef7b?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 01 |
 | **[Signature Solar](https://signaturesolar.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd57f154f00230c6cee90b?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
 | **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54da366bb95ba54fad36?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
@@ -119,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Procurement Contact Centre, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69cae33e1b5ad028873a6079?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 30 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cad8c1a8c1822476e20b33?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, Michigan, United States | On Site | Mar 30 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69cd69a7891d7b11cfcb863b?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 30 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cac0768fc6090c5d450cca?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/69cab83f1b5ad028873a4286?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69caac95aa3c2c1995e2f0b6?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c570c2aa9a29199e804955?utm_campaign=1067&utm_source=git)** | US | VA | Herndon | 12901 Worldgate Drive Suite 560 | Hybrid | Mar 26 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 FP&A Internship - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/69c563b283ea553769fc9440?utm_campaign=1067&utm_source=git)** | Pigeon Forge, Tennessee, United States | On Site | Mar 26 |
 | **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c5546483ea553769fc8b3f?utm_campaign=1067&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 26 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c5545eaa3c2c1995dfd91a?utm_campaign=1067&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 26 |
-| **[Black & McDonald Limited](http://www.blackandmcdonald.com)** | **[Intern – Business Integration Management and PMO](https://jobright.ai/jobs/info/69a87b982580d3183f008916?utm_campaign=1067&utm_source=git)** | Markham, ON | On Site | Mar 26 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69cc7e38e1921223acc7648f?utm_campaign=1067&utm_source=git)** | 4299 NW Urbandale Dr, Urbandale, IA, 50322, US | On Site | Mar 26 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Global External Operations Digital Strategy, Insights & Analytics](https://jobright.ai/jobs/info/69c546fd83ea553769fc80a7?utm_campaign=1067&utm_source=git)** | San Rafael, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
