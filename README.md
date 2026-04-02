@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jabil](https://www.jabil.com)** | **[Business Systems Analyst III](https://jobright.ai/jobs/info/69ced77754f00230c6d0392c?utm_campaign=1067&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 02 |
+| **[Clario](https://clario.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69ced74fcdb525785fb9bd4f?utm_campaign=1067&utm_source=git)** | United States Remote | Remote | Apr 02 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[IT Business Analyst Specialist](https://jobright.ai/jobs/info/69ced2a8cdb525785fb9bb58?utm_campaign=1067&utm_source=git)** | Savannah, GA | On Site | Apr 02 |
 | **[Middleby Marshall](https://www.middlebymarshall.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69ced230cfdc6132f942c967?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 02 |
 | **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Business Analytics & Process Improvement](https://jobright.ai/jobs/info/69cece35398fb071abf892c9?utm_campaign=1067&utm_source=git)** | Port Clinton, OH | On Site | Apr 02 |
@@ -111,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cc819ccdb525785fb7cf32?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc4bcee1921223acc751ae?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc7334cfdc6132f940c4c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Mar 31 |
-| **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Business Process Analyst Intern](https://jobright.ai/jobs/info/69cc101ecfdc6132f940a22e?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c7f8bae565c26a7002d1ad?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Mar 27 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ec9c378b4502f12a5a2a2?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7c52f1b5ad0288738fd63?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c9110d1818a24cd84d962b?utm_campaign=1067&utm_source=git)** | Herndon, VA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
