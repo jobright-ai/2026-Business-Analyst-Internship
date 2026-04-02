@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
+| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Lawrenceville](https://jobright.ai/jobs/info/69cd9d72cfdc6132f941dac4?utm_campaign=1067&utm_source=git)** | Lawrence, NJ | Hybrid | Apr 01 |
+| **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern, Global Operations (Summer/May 2026, 8 Months)](https://jobright.ai/jobs/info/69cd980a891d7b11cfcbde16?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Apr 01 |
 | **[Sun Atlas Power](https://sunatlaspower.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd732554f00230c6cef732?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd7321398fb071abf75493?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
 | **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69cd69b154f00230c6ceef7b?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 FP&A Internship - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/69c57d1c1818a24cd84b5fb2?utm_campaign=1067&utm_source=git)** | Pigeon Forge, TN | On Site | Mar 26 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c570c2aa9a29199e804955?utm_campaign=1067&utm_source=git)** | US | VA | Herndon | 12901 Worldgate Drive Suite 560 | Hybrid | Mar 26 |
-| **[The Dollywood Company](https://www.dollywood.com/)** | **[Summer 2026 FP&A Internship - Dollywood Parks & Resorts - Seasonal](https://jobright.ai/jobs/info/69c563b283ea553769fc9440?utm_campaign=1067&utm_source=git)** | Pigeon Forge, Tennessee, United States | On Site | Mar 26 |
-| **[II-VI Aerospace & Defense](https://www.iiviad.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c5546483ea553769fc8b3f?utm_campaign=1067&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 26 |
-| **[Coherent Corp.](http://www.coherent.com)** | **[Intern, Business Operations Analyst](https://jobright.ai/jobs/info/69c5545eaa3c2c1995dfd91a?utm_campaign=1067&utm_source=git)** | 2251 Newlins Road, Easton, PA, 18045, US | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
