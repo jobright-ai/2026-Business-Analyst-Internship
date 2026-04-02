@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71ce366bb95ba54ef77a?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71cbcfdc6132f940c43a?utm_campaign=1067&utm_source=git)** | USA - Remote DC | Remote | Mar 31 |
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Palisades](https://jobright.ai/jobs/info/69cc819bcdb525785fb7cf2d?utm_campaign=1067&utm_source=git)** | Secaucus, NJ | Hybrid | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc4404cfdc6132f940b4d8?utm_campaign=1067&utm_source=git)** | San Jose, CA | Remote | Mar 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69cc60fa891d7b11cfcac131?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc3dab891d7b11cfcab4b4?utm_campaign=1067&utm_source=git)** | Seattle, WA | Remote | Mar 31 |
@@ -111,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[CFG Merchant Solutions](https://cfgmerchantsolutions.com)** | **[2026 Business Process Analyst Intern](https://jobright.ai/jobs/info/69cc101ecfdc6132f940a22e?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Mar 31 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0888cfdc6132f9409f02?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc087b891d7b11cfcaa0ae?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0876cdb525785fb79192?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Mar 31 |
@@ -156,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7c52f1b5ad0288738fd63?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c9110d1818a24cd84d962b?utm_campaign=1067&utm_source=git)** | Herndon, VA | Hybrid | Mar 27 |
 | **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69ccc26c891d7b11cfcb3549?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
