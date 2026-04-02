@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ceecd7366bb95ba551119d?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
 | **[Jabil](https://www.jabil.com)** | **[Business Systems Analyst III](https://jobright.ai/jobs/info/69ced77754f00230c6d0392c?utm_campaign=1067&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 02 |
 | **[Clario](https://clario.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69ced74fcdb525785fb9bd4f?utm_campaign=1067&utm_source=git)** | United States Remote | Remote | Apr 02 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[IT Business Analyst Specialist](https://jobright.ai/jobs/info/69ced2a8cdb525785fb9bb58?utm_campaign=1067&utm_source=git)** | Savannah, GA | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6c93be565c26a7002291a?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | Hybrid | Mar 27 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69c7f8bae565c26a7002d1ad?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Mar 27 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/698ec9c378b4502f12a5a2a2?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | On Site | Mar 27 |
-| **[Oracle](https://www.oracle.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7c52f1b5ad0288738fd63?utm_campaign=1067&utm_source=git)** | Nashville, TN | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
