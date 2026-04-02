@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69adaeca7e1fab39d384fad0?utm_campaign=1067&utm_source=git)** | Mississauga, ON | On Site | Apr 02 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern - Data, Analytics, AI, and Operations](https://jobright.ai/jobs/info/69ce8e3e398fb071abf8639a?utm_campaign=1067&utm_source=git)** | Columbus OH-Worth Ave | Hybrid | Apr 02 |
+| **[Element Fleet Management](https://www.elementfleet.com)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Apr 02 |
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69b1c0f6548f140066e784fb?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Apr 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 02 |
+| ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Apr 02 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Business Management Intern](https://jobright.ai/jobs/info/69ce180454f00230c6cfbb53?utm_campaign=1067&utm_source=git)** | Peterborough, ON | On Site | Apr 01 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 01 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
@@ -129,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Mar 30 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cad8c1a8c1822476e20b33?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, Michigan, United States | On Site | Mar 30 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69ce8e2f891d7b11cfcc9b43?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Mar 30 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cac0768fc6090c5d450cca?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/69cab83f1b5ad028873a4286?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69caac95aa3c2c1995e2f0b6?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
@@ -152,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69ccc26c891d7b11cfcb3549?utm_campaign=1067&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2d85cad360c0340a7cbb5?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Mar 26 |
 | **[World Racing Group](https://worldracinggroup.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c6c4f383ea553769fdd4e5?utm_campaign=1067&utm_source=git)** | Concord, NC | On Site | Mar 26 |
-| **[Landmark Credit Union](https://landmarkcu.com)** | **[Intern, Business Services Operations](https://jobright.ai/jobs/info/69c5bb5783ea553769fcf03c?utm_campaign=1067&utm_source=git)** | New Berlin, WI | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
