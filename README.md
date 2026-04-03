@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cbf1318130af1ac8335d2a?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Mar 31 |
-| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cbe0efe1921223acc72fcd?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc72adcfdc6132f940c489?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 31 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69cbe5938130af1ac8335a00?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Mar 31 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 31 |
@@ -152,5 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c70ed61b5ad0288738994f?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 27 |
 | **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf80bd366bb95ba5516eba?utm_campaign=1067&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
