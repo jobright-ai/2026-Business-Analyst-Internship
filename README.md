@@ -90,16 +90,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd7321398fb071abf75493?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 01 |
 | **[Signature Solar](https://signaturesolar.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd57f154f00230c6cee90b?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
-| **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54da366bb95ba54fad36?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
+| **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69cd37c9891d7b11cfcb6cd1?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Apr 01 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 01 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cf5347398fb071abf8f031?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Palisades](https://jobright.ai/jobs/info/69cec8cf366bb95ba550f762?utm_campaign=1067&utm_source=git)** | Secaucus, NJ, US, 07094 | Hybrid | Mar 31 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/69a9523e7f9271426f883289?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 31 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc8cf2cfdc6132f940fc5c?utm_campaign=1067&utm_source=git)** | College Park, MD | Hybrid | Mar 31 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8ccfe1921223acc794fb?utm_campaign=1067&utm_source=git)** | Raleigh, NC | Hybrid | Mar 31 |
-| ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8cc1e1921223acc794cc?utm_campaign=1067&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 31 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8cc1e1921223acc794cc?utm_campaign=1067&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8cb3e1921223acc794b9?utm_campaign=1067&utm_source=git)** | Miami, FL | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8b50cdb525785fb7eaf7?utm_campaign=1067&utm_source=git)** | Tallahassee, FL | Hybrid | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8ac2891d7b11cfcafa17?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | Mar 31 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc7334cfdc6132f940c4c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Mar 31 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0888cfdc6132f9409f02?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc087b891d7b11cfcaa0ae?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0876cdb525785fb79192?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Mar 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 30 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 28 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | Hybrid | Mar 27 |
+| **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c72fd21b5ad0288738af22?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
