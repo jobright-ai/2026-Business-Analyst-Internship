@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TriForza](https://www.triforza.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf1b13398fb071abf8c5c1?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/69cf0f5d891d7b11cfccfc8a?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Apr 02 |
+| **[TriForza](https://www.triforza.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf0e9a891d7b11cfccf72b?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
+| ↳ | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf0e99891d7b11cfccf724?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cef4aacfdc6132f942e743?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
 | **[Arclin](http://arclin.com)** | **[Internship-Business & Data Analytics](https://jobright.ai/jobs/info/69cef2f154f00230c6d04f8b?utm_campaign=1067&utm_source=git)** | Cleveland, Ohio, United States | Remote | Apr 02 |
 | **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ceecd7366bb95ba551119d?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
@@ -118,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc7334cfdc6132f940c4c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Mar 31 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73997?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Mar 31 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc08b4e1921223acc73995?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0888cfdc6132f9409f02?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc087b891d7b11cfcaa0ae?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Mar 31 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc0876cdb525785fb79192?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Mar 31 |
@@ -132,9 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69cbe5938130af1ac8335a00?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Mar 31 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb5241aa3c2c1995e35eea?utm_campaign=1067&utm_source=git)** | Hudson, OH | On Site | Mar 30 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cb4ac1aa3c2c1995e35bc8?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Mar 30 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb1ffcaa3c2c1995e34677?utm_campaign=1067&utm_source=git)** | Hudson, Ohio | On Site | Mar 30 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cb11681b5ad028873a86f0?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Mar 30 |
+| ↳ | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb1ffcaa3c2c1995e34677?utm_campaign=1067&utm_source=git)** | Hudson, Ohio | On Site | Mar 30 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69caf1d4a8c1822476e22395?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 30 |
 | ↳ | **[Business Performance Intern](https://jobright.ai/jobs/info/69caf1c1aa3c2c1995e3241f?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 30 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c71b4f1818a24cd84cbc7d?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c70ed61b5ad0288738994f?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 27 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Tranformation](https://jobright.ai/jobs/info/69aa3ee69ca4e908ec65958d?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | Mar 27 |
-| **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6c93be565c26a7002291a?utm_campaign=1067&utm_source=git)** | Redmond, WA, USA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
