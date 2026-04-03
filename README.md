@@ -115,14 +115,9 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc4404cfdc6132f940b4d8?utm_campaign=1067&utm_source=git)** | San Jose, CA | Remote | Mar 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69cc60fa891d7b11cfcac131?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc3dab891d7b11cfcab4b4?utm_campaign=1067&utm_source=git)** | Seattle, WA | Remote | Mar 31 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc3c92cdb525785fb7a610?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah | Hybrid | Mar 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc39ab8130af1ac8337423?utm_campaign=1067&utm_source=git)** | Triangle, NC | Remote | Mar 31 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc32be891d7b11cfcaaf77?utm_campaign=1067&utm_source=git)** | Fulton, MD | Remote | Mar 31 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cc819ccdb525785fb7cf32?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc4bcee1921223acc751ae?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Remote | Mar 31 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69cc7334cfdc6132f940c4c6?utm_campaign=1067&utm_source=git)** | Austin, TX | Remote | Mar 31 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cbf1318130af1ac8335d2a?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Mar 31 |
@@ -154,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c71b4f1818a24cd84cbc7d?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA | On Site | Mar 27 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c70ed61b5ad0288738994f?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Mar 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Mar 27 |
-| **[iWorks Corporation](https://iworkscorp.com/)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cfabe9366bb95ba5518003?utm_campaign=1067&utm_source=git)** | USA, 00000 | Remote | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
