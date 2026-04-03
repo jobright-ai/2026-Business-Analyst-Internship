@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/69d0136b366bb95ba551b248?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| ↳ | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d0136754f00230c6d0ef53?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[Advarra](https://www.advarra.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69d0135f54f00230c6d0ef32?utm_campaign=1067&utm_source=git)** | United States of America, United States | On Site | Apr 03 |
 | **[U.S. Renal Care](https://www.usrenalcare.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/69cfd4c0cdb525785fba4f63?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfc3c0cfdc6132f943599d?utm_campaign=1067&utm_source=git)** | Dublin, CA | Hybrid | Apr 03 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfa348398fb071abf91839?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
@@ -143,5 +146,4 @@ For a complete list, click the following sortable link below:
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Mar 30 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Mar 30 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026 - copy](https://jobright.ai/jobs/info/69ab938b7e1fab39d38301b4?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 28 |
-| **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
