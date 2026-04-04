@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Apr 04 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d07f8d0b098b7a6707a0a5?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d043590b098b7a67077eae?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d03ebd366bb95ba551cd5b?utm_campaign=1067&utm_source=git)** | Corona, CA | On Site | Apr 03 |
