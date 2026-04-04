@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69cf3862cfdc6132f9430de9?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
+| **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b4bb03569738374139913d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Apr 04 |
+| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69cf52d1cdb525785fba1625?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
+| ↳ | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69cf3862cfdc6132f9430de9?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d10aafcfdc6132f9441766?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Apr 04 |
 | **[Securitas Security Services USA, Inc.](https://www.securitasinc.com/)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d07f8d0b098b7a6707a0a5?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | Hybrid | Apr 03 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d0136754f00230c6d0ef53?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[Advarra](https://www.advarra.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69d0135f54f00230c6d0ef32?utm_campaign=1067&utm_source=git)** | United States of America, United States | On Site | Apr 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
+| **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d11d040b098b7a6707f97d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfc3c0cfdc6132f943599d?utm_campaign=1067&utm_source=git)** | Dublin, CA | Hybrid | Apr 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69cf362d366bb95ba5513f8d?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf1c86cdb525785fb9ec90?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
