@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aedra](https://www.linkedin.com/company/110527319)** | **[Business Analyst Intern (2026)](https://jobright.ai/jobs/info/69d2dc7054f00230c6d22b89?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Apr 05 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 04 |
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b4bb03569738374139913d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Apr 04 |
@@ -144,8 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69cbe5938130af1ac8335a00?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Mar 31 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb5241aa3c2c1995e35eea?utm_campaign=1067&utm_source=git)** | Hudson, OH | On Site | Mar 30 |
-| **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d0908c366bb95ba551f96f?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, MI | On Site | Mar 30 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb1ffcaa3c2c1995e34677?utm_campaign=1067&utm_source=git)** | Hudson, Ohio | On Site | Mar 30 |
+| ↳ | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb1ffcaa3c2c1995e34677?utm_campaign=1067&utm_source=git)** | Hudson, Ohio | On Site | Mar 30 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Mar 30 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69caf1d4a8c1822476e22395?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Mar 30 |
 | ↳ | **[Business Performance Intern](https://jobright.ai/jobs/info/69caf1c1aa3c2c1995e3241f?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Mar 30 |
