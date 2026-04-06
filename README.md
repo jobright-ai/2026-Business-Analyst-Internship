@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Mar 30 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cad8c1a8c1822476e20b33?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, Michigan, United States | On Site | Mar 30 |
-| **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cac0768fc6090c5d450cca?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
