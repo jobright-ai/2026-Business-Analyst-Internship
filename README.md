@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d386ab0b098b7a6708f9e8?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | **[TD](https://www.td.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d357bc54f00230c6d26cd0?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | On Site | Apr 05 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/6961c4e2f3f4cd132506c9bb?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 04 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cbf1318130af1ac8335d2a?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Mar 31 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc72adcfdc6132f940c489?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 31 |
-| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb7e154f00230c6d0c349?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb87a366bb95ba5518812?utm_campaign=1067&utm_source=git)** | US-TX-Dallas | On Site | Mar 31 |
+| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb87a366bb95ba5518812?utm_campaign=1067&utm_source=git)** | US-TX-Dallas | On Site | Mar 31 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb7e154f00230c6d0c349?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69cbe5938130af1ac8335a00?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Mar 31 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb5241aa3c2c1995e35eea?utm_campaign=1067&utm_source=git)** | Hudson, OH | On Site | Mar 30 |
@@ -155,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cad8c1a8c1822476e20b33?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, Michigan, United States | On Site | Mar 30 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cac0768fc6090c5d450cca?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
-| **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/69cab83f1b5ad028873a4286?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
