@@ -126,11 +126,9 @@ For a complete list, click the following sortable link below:
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Reporting Analyst](https://jobright.ai/jobs/info/69ccafdb8130af1ac833e4b8?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 31 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Mar 31 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71ed8130af1ac8338731?utm_campaign=1067&utm_source=git)** | USA - Miami FL 33178 | Hybrid | Mar 31 |
-| ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71e6891d7b11cfcac58e?utm_campaign=1067&utm_source=git)** | USA - Remote PA | Remote | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71decdb525785fb7b751?utm_campaign=1067&utm_source=git)** | USA - Remote NC | Remote | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71cfe1921223acc75df5?utm_campaign=1067&utm_source=git)** | USA - Remote MA | Remote | Mar 31 |
 | ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71ce366bb95ba54ef77a?utm_campaign=1067&utm_source=git)** | USA - Remote FL | Remote | Mar 31 |
-| ↳ | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc71cbcfdc6132f940c43a?utm_campaign=1067&utm_source=git)** | USA - Remote DC | Remote | Mar 31 |
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXP Intern - Global B1 Operations - Business Analysis & Project Management (Tempe)](https://jobright.ai/jobs/info/69cc60fa891d7b11cfcac131?utm_campaign=1067&utm_source=git)** | Tempe, AZ | Hybrid | Mar 31 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc3c92cdb525785fb7a610?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah | Hybrid | Mar 31 |
