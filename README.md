@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/69d42d30891d7b11cfcf80e1?utm_campaign=1067&utm_source=git)** | Export, PA | On Site | Apr 06 |
+| **[FirstEnergy](http://www.firstenergycorp.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69d42472cfdc6132f9458075?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 06 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Operations & Delivery Intern](https://jobright.ai/jobs/info/69d3e340cdb525785fbc3e40?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d386ab0b098b7a6708f9e8?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | **[TD](https://www.td.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d357bc54f00230c6d26cd0?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | On Site | Apr 05 |
@@ -114,11 +116,9 @@ For a complete list, click the following sortable link below:
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69cd37c9891d7b11cfcb6cd1?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Apr 01 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 01 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cf5347398fb071abf8f031?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Mar 31 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Palisades](https://jobright.ai/jobs/info/69cec8cf366bb95ba550f762?utm_campaign=1067&utm_source=git)** | Secaucus, NJ, US, 07094 | Hybrid | Mar 31 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Operations Research Analyst Intern](https://jobright.ai/jobs/info/69a9523e7f9271426f883289?utm_campaign=1067&utm_source=git)** | Dayton, OH | On Site | Mar 31 |
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d08b6a54f00230c6d132d4?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[INTERN: Technology Business Analyst](https://jobright.ai/jobs/info/69cc8cc1e1921223acc794cc?utm_campaign=1067&utm_source=git)** | Harrisburg, PA | Hybrid | Mar 31 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Reporting Analyst](https://jobright.ai/jobs/info/69ccafdb8130af1ac833e4b8?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 31 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Mar 31 |
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
@@ -131,9 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cbf1318130af1ac8335d2a?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Mar 31 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d3de7d366bb95ba55380d0?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, MI | On Site | Mar 31 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc72adcfdc6132f940c489?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 31 |
-| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb87a366bb95ba5518812?utm_campaign=1067&utm_source=git)** | US-TX-Dallas | On Site | Mar 31 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb7e154f00230c6d0c349?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
+| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb7e154f00230c6d0c349?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb87a366bb95ba5518812?utm_campaign=1067&utm_source=git)** | US-TX-Dallas | On Site | Mar 31 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69cbe5938130af1ac8335a00?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Mar 31 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 31 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb5241aa3c2c1995e35eea?utm_campaign=1067&utm_source=git)** | Hudson, OH | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
