@@ -100,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69b1c0f6548f140066e784fb?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Apr 02 |
+| **[Signature Solar](https://signaturesolar.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d3323954f00230c6d2552c?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Business Management Intern](https://jobright.ai/jobs/info/69ce180454f00230c6cfbb53?utm_campaign=1067&utm_source=git)** | Peterborough, ON | On Site | Apr 01 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 01 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Lawrenceville](https://jobright.ai/jobs/info/69d0583b0b098b7a6707890a?utm_campaign=1067&utm_source=git)** | Lawrenceville, NJ, US, 08648 | Hybrid | Apr 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[South Carolina Department of Commerce](https://www.sccommerce.com)** | **[Business Services Intern](https://jobright.ai/jobs/info/69cab83f1b5ad028873a4286?utm_campaign=1067&utm_source=git)** | Columbia, SC | On Site | Mar 30 |
 | **[tesa](http://www.tesa.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69caac95aa3c2c1995e2f0b6?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Mar 30 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/69caaba9466f1e133aac5bdf?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Mar 30 |
-| ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/69caab971b5ad028873a37ef?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
