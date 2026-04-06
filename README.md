@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d03ebd366bb95ba551cd5b?utm_campaign=1067&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship - Business Analyst](https://jobright.ai/jobs/info/69d03bd754f00230c6d1076b?utm_campaign=1067&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69d0371ccdb525785fba8a3f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Apr 03 |
-| **[Advarra](https://www.advarra.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69d02cca366bb95ba551c30a?utm_campaign=1067&utm_source=git)** | United States | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/69d0136b366bb95ba551b248?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | ↳ | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d0136754f00230c6d0ef53?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
@@ -142,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cbf1318130af1ac8335d2a?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Mar 31 |
 | **[Edward Rose & Sons](http://edwardrose.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d3de7d366bb95ba55380d0?utm_campaign=1067&utm_source=git)** | Bloomfield Hills, MI | On Site | Mar 31 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc72adcfdc6132f940c489?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Mar 31 |
-| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb7e154f00230c6d0c349?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb87a366bb95ba5518812?utm_campaign=1067&utm_source=git)** | US-TX-Dallas | On Site | Mar 31 |
+| **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb87a366bb95ba5518812?utm_campaign=1067&utm_source=git)** | US-TX-Dallas | On Site | Mar 31 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfb7e154f00230c6d0c349?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Mar 31 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69cbe5938130af1ac8335a00?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Mar 31 |
 | **[NTT DATA, Inc.](https://services.global.ntt/)** | **[Business Generalist Intern Global IP Network](https://jobright.ai/jobs/info/69c6fc9ce565c26a70024b8f?utm_campaign=1067&utm_source=git)** | Redmond, WA | Hybrid | Mar 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Spectrum Summer Intern: Business Analyst](https://jobright.ai/jobs/info/69cb5241aa3c2c1995e35eea?utm_campaign=1067&utm_source=git)** | Hudson, OH | On Site | Mar 30 |
