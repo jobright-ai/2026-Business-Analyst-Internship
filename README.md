@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 01 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69d569e6cdb525785fbd0a26?utm_campaign=1067&utm_source=git)** | Waterford, Michigan, United States | Hybrid | Apr 01 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 01 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Palisades](https://jobright.ai/jobs/info/69cec8cf366bb95ba550f762?utm_campaign=1067&utm_source=git)** | Secaucus, NJ, US, 07094 | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
