@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69d54a0fe63cea7a8b6600e8?utm_campaign=1067&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d5264c891d7b11cfcffb52?utm_campaign=1067&utm_source=git)** | US-DC-Washington D.C. | On Site | Apr 07 |
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/69d5262ecdb525785fbce9b3?utm_campaign=1067&utm_source=git)** | Washington D.C., DC, US | On Site | Apr 07 |
@@ -83,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d11d040b098b7a6707f97d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfc3c0cfdc6132f943599d?utm_campaign=1067&utm_source=git)** | Dublin, CA | Hybrid | Apr 03 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Materials Business Analyst](https://jobright.ai/jobs/info/69ce61f3cfdc6132f9427bec?utm_campaign=1067&utm_source=git)** | Boise, ID | On Site | Apr 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69cf362d366bb95ba5513f8d?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf1c86cdb525785fb9ec90?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf1b13398fb071abf8c5c1?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
