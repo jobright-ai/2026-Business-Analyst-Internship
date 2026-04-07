@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58850cdb525785fbd199a?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Apr 07 |
+| **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d57c0c706f771673ba393d?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Apr 07 |
+| **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern - Data, Analytics, AI, and Operations](https://jobright.ai/jobs/info/69d58857366bb95ba5545c69?utm_campaign=1067&utm_source=git)** | Columbus OH-Worth Ave | Hybrid | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[Call Center Power](https://callcenterpower.com )** | **[AI Intern — Business (Operations & Marketing)](https://jobright.ai/jobs/info/69d56043cfdc6132f9461b92?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Legal and Regulatory Compliance Business Analyst (Co-op/Internship), Summer 2026 - 4 months](https://jobright.ai/jobs/info/69d5534d706f771673ba22a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 07 |
@@ -110,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Business Management Intern](https://jobright.ai/jobs/info/69ce180454f00230c6cfbb53?utm_campaign=1067&utm_source=git)** | Peterborough, ON | On Site | Apr 01 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 01 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Lawrenceville](https://jobright.ai/jobs/info/69d0583b0b098b7a6707890a?utm_campaign=1067&utm_source=git)** | Lawrenceville, NJ, US, 08648 | Hybrid | Apr 01 |
-| **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 01 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Apr 01 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern, Global Operations (Summer/May 2026, 8 Months)](https://jobright.ai/jobs/info/69cd980a891d7b11cfcbde16?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Apr 01 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R](https://jobright.ai/jobs/info/69cdb568cfdc6132f941eba3?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
