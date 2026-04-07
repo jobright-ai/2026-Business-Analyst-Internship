@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Company 9 LLC](http://www.company9llc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d08b6a54f00230c6d132d4?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Mar 31 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Reporting Analyst](https://jobright.ai/jobs/info/69ccafdb8130af1ac833e4b8?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Mar 31 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Mar 31 |
-| **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
