@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Apr 02 |
 | **[Arclin](http://arclin.com)** | **[Internship-Business & Data Analytics](https://jobright.ai/jobs/info/69cfd4f3366bb95ba5519061?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Hybrid | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Apr 02 |
-| **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69b1c0f6548f140066e784fb?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Apr 02 |
 | **[Signature Solar](https://signaturesolar.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d3323954f00230c6d2552c?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
@@ -122,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ba8f1706c1ba00c54ca4f6?utm_campaign=1067&utm_source=git)** | King of Prussia, PA | On Site | Mar 31 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc3c92cdb525785fb7a610?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah | Hybrid | Mar 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 31 |
-| **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cc819ccdb525785fb7cf32?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
