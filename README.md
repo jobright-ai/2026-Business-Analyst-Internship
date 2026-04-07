@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[bioMérieux](https://www.biomerieux.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc3c92cdb525785fb7a610?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah | Hybrid | Mar 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 31 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cc819ccdb525785fb7cf32?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
-| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
