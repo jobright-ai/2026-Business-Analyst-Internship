@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern, Global Operations (Summer/May 2026, 8 Months)](https://jobright.ai/jobs/info/69cd980a891d7b11cfcbde16?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Apr 01 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R](https://jobright.ai/jobs/info/69cdb568cfdc6132f941eba3?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 01 |
 | **[Sun Atlas Power](https://sunatlaspower.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd732554f00230c6cef732?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd7321398fb071abf75493?utm_campaign=1067&utm_source=git)** | Irving, TX, US | On Site | Apr 01 |
 | **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69d3e3d054f00230c6d2bbec?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 01 |
 | **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | **[Oakland County, Michigan Government](https://www.oakgov.com/)** | **[Information Technology Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69cd37c9891d7b11cfcb6cd1?utm_campaign=1067&utm_source=git)** | Waterford, MI | Hybrid | Apr 01 |
@@ -125,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 31 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69cc819ccdb525785fb7cf32?utm_campaign=1067&utm_source=git)** | New York, New York, United States | On Site | Mar 31 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ceb4aecdb525785fb9a1c8?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
-| **[University of Guelph](http://www.uoguelph.ca/)** | **[Senior IT Analyst - ONTCS Implementation](https://jobright.ai/jobs/info/69cc2c08891d7b11cfcaad06?utm_campaign=1067&utm_source=git)** | Guelph, ON | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
