@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Commercial Operations & Delivery Intern](https://jobright.ai/jobs/info/69d3e340cdb525785fbc3e40?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d386ab0b098b7a6708f9e8?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
 | **[TD](https://www.td.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d357bc54f00230c6d26cd0?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | On Site | Apr 05 |
+| **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d5f966891d7b11cfd07459?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
 | **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 04 |
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b4bb03569738374139913d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69cf52d1cdb525785fba1625?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
@@ -95,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d11d040b098b7a6707f97d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfc3c0cfdc6132f943599d?utm_campaign=1067&utm_source=git)** | Dublin, CA | Hybrid | Apr 03 |
+| **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf1c86cdb525785fb9ec90?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf1b13398fb071abf8c5c1?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/69cf0f5d891d7b11cfccfc8a?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Apr 02 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Sun Atlas Power](https://sunatlaspower.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd732554f00230c6cef732?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 | **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69d3e3d054f00230c6d2bbec?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 01 |
 | **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Business Process Analyst/ERP Intern](https://jobright.ai/jobs/info/6994fcf981476f6176acd81e?utm_campaign=1067&utm_source=git)** | Lake Forest, CA | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
