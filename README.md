@@ -63,8 +63,8 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58850cdb525785fbd199a?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern - Data, Analytics, AI, and Operations](https://jobright.ai/jobs/info/69d58857366bb95ba5545c69?utm_campaign=1067&utm_source=git)** | Columbus OH-Worth Ave | Hybrid | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
