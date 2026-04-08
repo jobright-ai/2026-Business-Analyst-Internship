@@ -123,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Apr 01 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern, Global Operations (Summer/May 2026, 8 Months)](https://jobright.ai/jobs/info/69cd980a891d7b11cfcbde16?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Apr 01 |
 | **[Sun Atlas Power](https://sunatlaspower.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd732554f00230c6cef732?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
-| **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69d3e3d054f00230c6d2bbec?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 01 |
-| **[EG4 Electronics](https://www.eg4electronics.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd54c9cdb525785fb86ec3?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
