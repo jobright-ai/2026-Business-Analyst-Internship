@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69d68b28cfdc6132f946a991?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 08 |
+| **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69d5c706e63cea7a8b664d29?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Apr 08 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R](https://jobright.ai/jobs/info/69cdb568cfdc6132f941eba3?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58f50366bb95ba5546134?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
 | **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
@@ -118,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Apr 02 |
 | **[Signature Solar](https://signaturesolar.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d3323954f00230c6d2552c?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX | On Site | Apr 01 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Business Management Intern](https://jobright.ai/jobs/info/69ce180454f00230c6cfbb53?utm_campaign=1067&utm_source=git)** | Peterborough, ON | On Site | Apr 01 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
