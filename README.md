@@ -75,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d5264c891d7b11cfcffb52?utm_campaign=1067&utm_source=git)** | US-DC-Washington D.C. | On Site | Apr 07 |
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/69d5262ecdb525785fbce9b3?utm_campaign=1067&utm_source=git)** | Washington D.C., DC, US | On Site | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69d532b8706f771673ba14b0?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Apr 07 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 06 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 06 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69d42472cfdc6132f9458075?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 06 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Operations & Delivery Intern](https://jobright.ai/jobs/info/69d3e340cdb525785fbc3e40?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Performance Intern](https://jobright.ai/jobs/info/69d386ab0b098b7a6708f9e8?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 06 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Lawrenceville](https://jobright.ai/jobs/info/69d0583b0b098b7a6707890a?utm_campaign=1067&utm_source=git)** | Lawrenceville, NJ, US, 08648 | Hybrid | Apr 01 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Apr 01 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern, Global Operations (Summer/May 2026, 8 Months)](https://jobright.ai/jobs/info/69cd980a891d7b11cfcbde16?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Apr 01 |
-| **[Sun Atlas Power](https://sunatlaspower.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69cd732554f00230c6cef732?utm_campaign=1067&utm_source=git)** | Sulphur Springs, TX, US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
