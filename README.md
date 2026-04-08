@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d5264c891d7b11cfcffb52?utm_campaign=1067&utm_source=git)** | US-DC-Washington D.C. | On Site | Apr 07 |
 | ↳ | **[Business Intern](https://jobright.ai/jobs/info/69d5262ecdb525785fbce9b3?utm_campaign=1067&utm_source=git)** | Washington D.C., DC, US | On Site | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69d532b8706f771673ba14b0?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Apr 07 |
+| **[AIFINSPHERE INC.](https://www.aifinsphere.com/)** | **[Business Analysts Intern](https://jobright.ai/jobs/info/69d64fe1cfdc6132f94695e2?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 06 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69d42472cfdc6132f9458075?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 06 |
 | **[BMO](http://www.bmo.com)** | **[Commercial Operations & Delivery Intern](https://jobright.ai/jobs/info/69d3e340cdb525785fbc3e40?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN | On Site | Apr 06 |
