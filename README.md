@@ -77,8 +77,6 @@ For a complete list, click the following sortable link below:
 | **[DataBank](http://www.databank.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69d551a1706f771673ba21d4?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69d54a0fe63cea7a8b6600e8?utm_campaign=1067&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
-| **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d5264c891d7b11cfcffb52?utm_campaign=1067&utm_source=git)** | US-DC-Washington D.C. | On Site | Apr 07 |
-| ↳ | **[Business Intern](https://jobright.ai/jobs/info/69d5262ecdb525785fbce9b3?utm_campaign=1067&utm_source=git)** | Washington D.C., DC, US | On Site | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69d532b8706f771673ba14b0?utm_campaign=1067&utm_source=git)** | Melville, NY, US | Hybrid | Apr 07 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 06 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69d42472cfdc6132f9458075?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 06 |
@@ -119,6 +117,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analytics](https://jobright.ai/jobs/info/697a7eaa8dbbf73badc7a493?utm_campaign=1067&utm_source=git)** | Baltimore County, MD | On Site | Apr 02 |
 | **[Arclin](http://arclin.com)** | **[Internship-Business & Data Analytics](https://jobright.ai/jobs/info/69cfd4f3366bb95ba5519061?utm_campaign=1067&utm_source=git)** | Cleveland, OH | Hybrid | Apr 02 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Healthcare Business Architect](https://jobright.ai/jobs/info/69b1cd4ed04c69566c741a87?utm_campaign=1067&utm_source=git)** | Texas, United States | Remote | Apr 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 02 |
-| ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6979d1f00791bc1d72309474?utm_campaign=1067&utm_source=git)** | Austin, CO | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
