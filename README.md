@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Avanade](http://www.avanade.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69d40698891d7b11cfcf69ca?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 09 |
+| ↳ | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69d5c32de63cea7a8b66475c?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Apr 09 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Apr 08 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d6d5a3366bb95ba555035c?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69d68b28cfdc6132f946a991?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 08 |
