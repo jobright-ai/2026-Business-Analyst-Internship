@@ -57,6 +57,46 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dcb?utm_campaign=1067&utm_source=git)** | Statewide, NE | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dd0?utm_campaign=1067&utm_source=git)** | Statewide, MD | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3ddb?utm_campaign=1067&utm_source=git)** | Statewide, DE | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dd6?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dda?utm_campaign=1067&utm_source=git)** | Statewide, SD | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dd5?utm_campaign=1067&utm_source=git)** | Statewide, VT | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dc7?utm_campaign=1067&utm_source=git)** | Statewide, CA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dcc?utm_campaign=1067&utm_source=git)** | Statewide, IL | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ef4ea471a51fe3dba?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b2d?utm_campaign=1067&utm_source=git)** | Statewide, TN | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b33?utm_campaign=1067&utm_source=git)** | Statewide, MS | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b1b?utm_campaign=1067&utm_source=git)** | Statewide, GA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b14?utm_campaign=1067&utm_source=git)** | Statewide, MA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b2e?utm_campaign=1067&utm_source=git)** | Statewide, FL | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b24?utm_campaign=1067&utm_source=git)** | Statewide, DC | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b16?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b20?utm_campaign=1067&utm_source=git)** | Statewide, MI | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a589f97a42dc9c1a620?utm_campaign=1067&utm_source=git)** | Statewide, WY | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a58738f2f099e89aae9?utm_campaign=1067&utm_source=git)** | Statewide, NH | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a589f97a42dc9c1a623?utm_campaign=1067&utm_source=git)** | Statewide, RI | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a589f97a42dc9c1a621?utm_campaign=1067&utm_source=git)** | Statewide, VA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a579f97a42dc9c1a61b?utm_campaign=1067&utm_source=git)** | Duluth, MN | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a579f97a42dc9c1a61a?utm_campaign=1067&utm_source=git)** | Statewide, PA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a57738f2f099e89aadc?utm_campaign=1067&utm_source=git)** | Statewide, CT | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a57738f2f099e89aadb?utm_campaign=1067&utm_source=git)** | Statewide, ME | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a579f97a42dc9c1a61c?utm_campaign=1067&utm_source=git)** | Statewide, IA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a56738f2f099e89aad6?utm_campaign=1067&utm_source=git)** | Statewide, NJ | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a569f97a42dc9c1a619?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a569f97a42dc9c1a615?utm_campaign=1067&utm_source=git)** | Statewide, LA | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a56738f2f099e89aad9?utm_campaign=1067&utm_source=git)** | Statewide, CO | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a569f97a42dc9c1a618?utm_campaign=1067&utm_source=git)** | Statewide, WI | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a569f97a42dc9c1a616?utm_campaign=1067&utm_source=git)** | Statewide, NC | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a55738f2f099e89aad4?utm_campaign=1067&utm_source=git)** | Statewide, NM | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a55738f2f099e89aad3?utm_campaign=1067&utm_source=git)** | Statewide, MT | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a54738f2f099e89aace?utm_campaign=1067&utm_source=git)** | Statewide, KS | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a54738f2f099e89aacf?utm_campaign=1067&utm_source=git)** | Statewide, UT | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a54738f2f099e89aacc?utm_campaign=1067&utm_source=git)** | Statewide, AL | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a54738f2f099e89aacb?utm_campaign=1067&utm_source=git)** | Statewide, NV | Hybrid | Apr 09 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a53738f2f099e89aaca?utm_campaign=1067&utm_source=git)** | Statewide, MN | Hybrid | Apr 09 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst - MMIS](https://jobright.ai/jobs/info/69d8185b9f97a42dc9c1a4f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/69d80e9cb861c42857c4854f?utm_campaign=1067&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 09 |
 | **[Schellman](http://schellman.com)** | **[Business Internship](https://jobright.ai/jobs/info/69d809e3b861c42857c48213?utm_campaign=1067&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
 | ↳ | **[Business Internship](https://jobright.ai/jobs/info/69d80198738f2f099e899b12?utm_campaign=1067&utm_source=git)** | Remote - Nationwide | Remote | Apr 09 |
@@ -77,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58850cdb525785fbd199a?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern - Data, Analytics, AI, and Operations](https://jobright.ai/jobs/info/69d58857366bb95ba5545c69?utm_campaign=1067&utm_source=git)** | Columbus OH-Worth Ave | Hybrid | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
@@ -104,8 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d03ebd366bb95ba551cd5b?utm_campaign=1067&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | ↳ | **[Internship - Business Analyst](https://jobright.ai/jobs/info/69d03bd754f00230c6d1076b?utm_campaign=1067&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Intern, Business Analyst (Selection Navigator) - Milwaukee, WI](https://jobright.ai/jobs/info/69d0371ccdb525785fba8a3f?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America | Hybrid | Apr 03 |
-| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/69d0136b366bb95ba551b248?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
-| ↳ | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d0136754f00230c6d0ef53?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Business Process Analyst (Supply Chains)](https://jobright.ai/jobs/info/69d0136754f00230c6d0ef53?utm_campaign=1067&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69aa8a2b1f59c56275e37316?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfc3c0cfdc6132f943599d?utm_campaign=1067&utm_source=git)** | Dublin, CA | Hybrid | Apr 03 |
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
