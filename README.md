@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern - Data, Analytics, AI, and Operations](https://jobright.ai/jobs/info/69d58857366bb95ba5545c69?utm_campaign=1067&utm_source=git)** | Columbus OH-Worth Ave | Hybrid | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
-| **[Call Center Power](https://callcenterpower.com )** | **[AI Intern — Business (Operations & Marketing)](https://jobright.ai/jobs/info/69d56043cfdc6132f9461b92?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 07 |
 | **[DataBank](http://www.databank.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69d551a1706f771673ba21d4?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 07 |
 | **[PSEG Long Island LLC](https://www.psegliny.com)** | **[2001B Staff Intern - Business](https://jobright.ai/jobs/info/69d54a0fe63cea7a8b6600e8?utm_campaign=1067&utm_source=git)** | Melville, NY | Hybrid | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
@@ -108,7 +107,4 @@ For a complete list, click the following sortable link below:
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf1c86cdb525785fb9ec90?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf1b13398fb071abf8c5c1?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/69cf0f5d891d7b11cfccfc8a?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Apr 02 |
-| **[TriForza](https://www.triforza.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf0e9a891d7b11cfccf72b?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
-| ↳ | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf0e99891d7b11cfccf724?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
