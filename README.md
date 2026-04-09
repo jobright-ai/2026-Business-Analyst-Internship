@@ -111,7 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cef4aacfdc6132f942e743?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
 | **[Arclin](http://arclin.com)** | **[Internship-Business & Data Analytics](https://jobright.ai/jobs/info/69cef2f154f00230c6d04f8b?utm_campaign=1067&utm_source=git)** | Cleveland, Ohio, United States | Remote | Apr 02 |
 | **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ceecd7366bb95ba551119d?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[IT Business Analyst Specialist](https://jobright.ai/jobs/info/69ced2a8cdb525785fb9bb58?utm_campaign=1067&utm_source=git)** | Savannah, GA | On Site | Apr 02 |
-| **[Middleby Marshall](https://www.middlebymarshall.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69ced230cfdc6132f942c967?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 02 |
-| **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Business Analytics & Process Improvement](https://jobright.ai/jobs/info/69cece35398fb071abf892c9?utm_campaign=1067&utm_source=git)** | Port Clinton, OH | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
