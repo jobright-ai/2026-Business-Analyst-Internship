@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stuller, Inc.](http://stuller.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d7f0a8f4ea471a51fe2906?utm_campaign=1067&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Apr 09 |
+| **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69d7efd3738f2f099e89951d?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Apr 09 |
+| ↳ | **[Intern-Business](https://jobright.ai/jobs/info/69d7ec08f4ea471a51fe2571?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Apr 09 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/69d7d1e29f97a42dc9c17f77?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 09 |
 | ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b09829d?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Apr 09 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Assistant Manager, Business Analysis, IT](https://jobright.ai/jobs/info/69d7c675738f2f099e89731f?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
@@ -105,6 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d11d040b098b7a6707f97d?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cfc3c0cfdc6132f943599d?utm_campaign=1067&utm_source=git)** | Dublin, CA | Hybrid | Apr 03 |
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 02 |
-| **[TriForza](https://www.triforza.com)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf1c86cdb525785fb9ec90?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
-| ↳ | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf1b13398fb071abf8c5c1?utm_campaign=1067&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
