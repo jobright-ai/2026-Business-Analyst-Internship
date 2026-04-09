@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stuller, Inc.](http://stuller.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d7f0a8f4ea471a51fe2906?utm_campaign=1067&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Apr 09 |
+| **[Schellman](http://schellman.com)** | **[Business Internship](https://jobright.ai/jobs/info/69d80198738f2f099e899b12?utm_campaign=1067&utm_source=git)** | Remote - Nationwide | Remote | Apr 09 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69d7efd3738f2f099e89951d?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Apr 09 |
 | ↳ | **[Intern-Business](https://jobright.ai/jobs/info/69d7ec08f4ea471a51fe2571?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Apr 09 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/69d7d1e29f97a42dc9c17f77?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 09 |
