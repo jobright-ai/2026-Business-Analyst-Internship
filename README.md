@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First National Financial LP](https://www.firstnational.ca)** | **[Assistant Manager, Business Analysis, IT](https://jobright.ai/jobs/info/69d7c675738f2f099e89731f?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
 | **[Avanade](http://www.avanade.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69d40698891d7b11cfcf69ca?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 09 |
 | ↳ | **[Intern, Business Analyst ERP - June 2026](https://jobright.ai/jobs/info/69d5c32de63cea7a8b66475c?utm_campaign=1067&utm_source=git)** | Carmel, IN | On Site | Apr 09 |
 | **[First American](http://www.firstam.com)** | **[Business Systems Analyst Intern - AI (REMOTE)](https://jobright.ai/jobs/info/69b3dbada8ac8e70ff682935?utm_campaign=1067&utm_source=git)** | Santa Ana, CA | Remote | Apr 08 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Co-Op – Business Process Analyst Fall 2026 (Internship)](https://jobright.ai/jobs/info/69b4bb03569738374139913d?utm_campaign=1067&utm_source=git)** | Wilton Center, CT | On Site | Apr 04 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69cf52d1cdb525785fba1625?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
 | ↳ | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69cf3862cfdc6132f9430de9?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/69d7b35eb67cec4f9b0967d1?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d10aafcfdc6132f9441766?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Apr 04 |
 | **[Jabil](https://www.jabil.com)** | **[Business Systems Analyst III](https://jobright.ai/jobs/info/69d1ee0854f00230c6d1e471?utm_campaign=1067&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 03 |
@@ -109,7 +109,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/69cf0f5d891d7b11cfccfc8a?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Apr 02 |
 | **[TriForza](https://www.triforza.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69cf0e9a891d7b11cfccf72b?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
 | ↳ | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69cf0e99891d7b11cfccf724?utm_campaign=1067&utm_source=git)** | Seattle, Washington, United States | Hybrid | Apr 02 |
-| **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cef4aacfdc6132f942e743?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
-| **[Arclin](http://arclin.com)** | **[Internship-Business & Data Analytics](https://jobright.ai/jobs/info/69cef2f154f00230c6d04f8b?utm_campaign=1067&utm_source=git)** | Cleveland, Ohio, United States | Remote | Apr 02 |
-| **[Veracode](http://www.veracode.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ceecd7366bb95ba551119d?utm_campaign=1067&utm_source=git)** | Burlington, MA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
