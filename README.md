@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analysis Associate Intern](https://jobright.ai/jobs/info/69d96d0e5356a60f40fd9abb?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 10 |
+| **[Blue Shield of California](https://www.blueshieldca.com)** | **[2026 Summer Global Business Services Internship](https://jobright.ai/jobs/info/69d968e89f97a42dc9c215ab?utm_campaign=1067&utm_source=git)** | California, United States | Hybrid | Apr 10 |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d96836869c7e25d859ab6f?utm_campaign=1067&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
+| ↳ | **[Intern, Business Systems & Data](https://jobright.ai/jobs/info/69d96833869c7e25d859ab5e?utm_campaign=1067&utm_source=git)** | USA Remote - Nashville, TN 37203 | Remote | Apr 10 |
 | **[Sadoff Iron and Metal](https://sadoff.com/)** | **[Business Internship](https://jobright.ai/jobs/info/69d95f6d738f2f099e8a1858?utm_campaign=1067&utm_source=git)** | Fond du Lac, WI | On Site | Apr 10 |
 | ↳ | **[Business Internship](https://jobright.ai/jobs/info/69d95e445356a60f40fd933c?utm_campaign=1067&utm_source=git)** | Fond Du Lac, Wisconsin, United States | On Site | Apr 10 |
 | **[DataBank](http://www.databank.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69d551a1706f771673ba21d4?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 10 |
@@ -65,26 +69,13 @@ For a complete list, click the following sortable link below:
 | **[Micro Precision Industries](https://microprecisiongroup.com/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69d8f51df748bc5d08a48125?utm_campaign=1067&utm_source=git)** | Lebanon, PA, US | On Site | Apr 10 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69d8c1e9738f2f099e89e9a2?utm_campaign=1067&utm_source=git)** | Virginia, United States | Hybrid | Apr 10 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/69d8b1a69f97a42dc9c1db35?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 09 |
-| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d86a45869c7e25d85956ca?utm_campaign=1067&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d86a39b67cec4f9b09c5e7?utm_campaign=1067&utm_source=git)** | Montana, United States | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d86a32f4ea471a51fe59ec?utm_campaign=1067&utm_source=git)** | Maine, United States | Hybrid | Apr 09 |
 | **[Crane ChemPharma & Energy](https://cranecpe.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69d85dcd9f97a42dc9c1bc0e?utm_campaign=1067&utm_source=git)** | The Woodlands, TX | On Site | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/69d8374cb67cec4f9b09b72a?utm_campaign=1067&utm_source=git)** | Hopkins, MN | Hybrid | Apr 09 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d82699b861c42857c490bd?utm_campaign=1067&utm_source=git)** | Vancouver, BC | Hybrid | Apr 09 |
 | **[Crane Company](http://www.craneco.com/)** | **[Business Line Management Intern](https://jobright.ai/jobs/info/69d82628b67cec4f9b09afe1?utm_campaign=1067&utm_source=git)** | The Woodlands, Texas | On Site | Apr 09 |
-| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dd0?utm_campaign=1067&utm_source=git)** | Statewide, MD | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3dcc?utm_campaign=1067&utm_source=git)** | Statewide, IL | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3ddb?utm_campaign=1067&utm_source=git)** | Statewide, DE | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b33?utm_campaign=1067&utm_source=git)** | Statewide, MS | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a5bb861c42857c48b2d?utm_campaign=1067&utm_source=git)** | Statewide, TN | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a589f97a42dc9c1a623?utm_campaign=1067&utm_source=git)** | Statewide, RI | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a579f97a42dc9c1a61b?utm_campaign=1067&utm_source=git)** | Duluth, MN | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a569f97a42dc9c1a618?utm_campaign=1067&utm_source=git)** | Statewide, WI | Hybrid | Apr 09 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81a54738f2f099e89aace?utm_campaign=1067&utm_source=git)** | Statewide, KS | Hybrid | Apr 09 |
+| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d81d8ff4ea471a51fe3ddb?utm_campaign=1067&utm_source=git)** | Statewide, DE | Hybrid | Apr 09 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst - MMIS](https://jobright.ai/jobs/info/69d8185b9f97a42dc9c1a4f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Apr 09 |
 | **[Medica](https://www.medica.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/69d80e9cb861c42857c4854f?utm_campaign=1067&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 09 |
-| **[Schellman](http://schellman.com)** | **[Business Internship](https://jobright.ai/jobs/info/69d809e3b861c42857c48213?utm_campaign=1067&utm_source=git)** | Tampa, FL | Remote | Apr 09 |
-| ↳ | **[Business Internship](https://jobright.ai/jobs/info/69d80198738f2f099e899b12?utm_campaign=1067&utm_source=git)** | Remote - Nationwide | Remote | Apr 09 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-Business](https://jobright.ai/jobs/info/69d7efd3738f2f099e89951d?utm_campaign=1067&utm_source=git)** | Loma Linda, CA | On Site | Apr 09 |
 | ↳ | **[Intern-Business](https://jobright.ai/jobs/info/69d7ec08f4ea471a51fe2571?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Apr 09 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/69d7d1e29f97a42dc9c17f77?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Apr 09 |
@@ -101,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58850cdb525785fbd199a?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
@@ -114,5 +105,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69cf3862cfdc6132f9430de9?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d10aafcfdc6132f9441766?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Apr 04 |
-| **[Jabil](https://www.jabil.com)** | **[Business Systems Analyst III](https://jobright.ai/jobs/info/69d1ee0854f00230c6d1e471?utm_campaign=1067&utm_source=git)** | St. Petersburg, Florida, United States | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
