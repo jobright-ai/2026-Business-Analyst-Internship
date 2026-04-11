@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TESC Contracting](https://tesc.com)** | **[Business Systems Analyst Intern (NOHFC)](https://jobright.ai/jobs/info/69d9b1fe9f97a42dc9c239f6?utm_campaign=1067&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 10 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d9a4f29f97a42dc9c23361?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | ↳ | **[Intern, Business Systems & Data](https://jobright.ai/jobs/info/69d9a4aa869c7e25d859c838?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | Apr 10 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analysis Associate Intern](https://jobright.ai/jobs/info/69d97984738f2f099e8a1f89?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 10 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst Intern- Hybrid El Paso, TX](https://jobright.ai/jobs/info/69cf52d1cdb525785fba1625?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
 | ↳ | **[Business Analyst Intern- Hybrid Dallas, TX](https://jobright.ai/jobs/info/69cf3862cfdc6132f9430de9?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 04 |
 | **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69d10aafcfdc6132f9441766?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Apr 04 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69af8aab7495006450940c07?utm_campaign=1067&utm_source=git)** | Westminster, CO | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
