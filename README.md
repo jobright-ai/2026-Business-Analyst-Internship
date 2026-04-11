@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Assistant Manager, Business Analysis, IT](https://jobright.ai/jobs/info/69d7c675738f2f099e89731f?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d6d5a3366bb95ba555035c?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69d68b28cfdc6132f946a991?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 08 |
-| **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69d5c706e63cea7a8b664d29?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Apr 08 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R](https://jobright.ai/jobs/info/69cdb568cfdc6132f941eba3?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
 | **[CORE Transformers](http://www.coretransformers.com)** | **[Business Solutions Intern](https://jobright.ai/jobs/info/69d6c366cfdc6132f946d1b3?utm_campaign=1067&utm_source=git)** | Seneca, SC | On Site | Apr 07 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58f50366bb95ba5546134?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 07 |
