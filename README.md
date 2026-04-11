@@ -105,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 06 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69d42472cfdc6132f9458075?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 06 |
 | **[STMicroelectronics](https://www.st.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d5f966891d7b11cfd07459?utm_campaign=1067&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
-| **[Honeywell](http://www.honeywell.com)** | **[Business Management - Summer 2026 Intern](https://jobright.ai/jobs/info/69997eaece78e77b4fde692b?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
