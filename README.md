@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Temporary Intern - Business Systems Analyst](https://jobright.ai/jobs/info/69d7d1bfb67cec4f9b09829d?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Apr 09 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Business Analyst Eastern Region Summer 2026](https://jobright.ai/jobs/info/69d9253bf748bc5d08a493ed?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Apr 09 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Assistant Manager, Business Analysis, IT](https://jobright.ai/jobs/info/69d7c675738f2f099e89731f?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
-| **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69db34319f97a42dc9c2d884?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Apr 08 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d6d5a3366bb95ba555035c?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69d68b28cfdc6132f946a991?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 08 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R](https://jobright.ai/jobs/info/69cdb568cfdc6132f941eba3?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
