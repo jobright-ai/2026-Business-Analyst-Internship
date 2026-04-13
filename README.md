@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Applications Analyst Intern - Summer 2026 (For Summer 2025 Interns only)](https://jobright.ai/jobs/info/69dd0d70738f2f099e8b43c2?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Apr 13 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Fund My Business Intern / Co-Op](https://jobright.ai/jobs/info/69dcc5cf738f2f099e8b2f24?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
