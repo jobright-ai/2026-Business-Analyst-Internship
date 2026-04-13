@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd275661f6ed54321fb6c4?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Apr 13 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd2741738f2f099e8b4d55?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Apr 13 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd27399f97a42dc9c34b5f?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 13 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd266a5356a60f40fecaf7?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Apr 13 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd2668f748bc5d08a5e684?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 13 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd2668f748bc5d08a5e683?utm_campaign=1067&utm_source=git)** | USA-FULTON | Remote | Apr 13 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69dd2580bc6f6622c9910a0a?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Apr 13 |
+| **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd1f4a9f97a42dc9c348da?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | Hybrid | Apr 13 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Applications Analyst Intern - Summer 2026 (For Summer 2025 Interns only)](https://jobright.ai/jobs/info/69dd0d70738f2f099e8b43c2?utm_campaign=1067&utm_source=git)** | Sparks, NV | On Site | Apr 13 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | Apr 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
@@ -107,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58850cdb525785fbd199a?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
