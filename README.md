@@ -92,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern-Business](https://jobright.ai/jobs/info/69d7ec08f4ea471a51fe2571?utm_campaign=1067&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Apr 09 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Business Analyst Eastern Region Summer 2026](https://jobright.ai/jobs/info/69d9253bf748bc5d08a493ed?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Apr 09 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Assistant Manager, Business Analysis, IT](https://jobright.ai/jobs/info/69d7c675738f2f099e89731f?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Apr 09 |
+| **[Xerox](https://www.xerox.com/)** | **[Business AI Intern](https://jobright.ai/jobs/info/69dc8c889f97a42dc9c31803?utm_campaign=1067&utm_source=git)** | Lexington, KY | Hybrid | Apr 08 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d6d5a3366bb95ba555035c?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/69d68b28cfdc6132f946a991?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | Apr 08 |
 | **[City of Toronto](http://www.toronto.ca)** | **[SENIOR BUSINESS & SYSTEMS ANALYST BS&R](https://jobright.ai/jobs/info/69cdb568cfdc6132f941eba3?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 08 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Dayforce](https://www.dayforce.com)** | **[[SUMMER 2026] Business Analyst Intern 4 or 8 Months](https://jobright.ai/jobs/info/69d589c7706f771673ba3f16?utm_campaign=1067&utm_source=git)** | Canada | Remote | Apr 07 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69d58850cdb525785fbd199a?utm_campaign=1067&utm_source=git)** | US WI MKE 4900 | On Site | Apr 07 |
 | **[University of Calgary](http://www.ucalgary.ca)** | **[Analyst, IT Business -Information Technologies](https://jobright.ai/jobs/info/69cd9e77366bb95ba5500df3?utm_campaign=1067&utm_source=git)** | Calgary, AB | On Site | Apr 07 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
-| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| **[Bernhard](https://bernhard.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1248f0c8161d2f805e?utm_campaign=1067&utm_source=git)** | Woodlands, TX, US | On Site | Apr 07 |
+| ↳ | **[Business Analytics Intern](https://jobright.ai/jobs/info/69d67a1352a5bf5800128f47?utm_campaign=1067&utm_source=git)** | US-TX-Woodlands | On Site | Apr 07 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 07 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
