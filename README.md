@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Apr 13 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Fund My Business Intern / Co-Op](https://jobright.ai/jobs/info/69dcc5cf738f2f099e8b2f24?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
+| **[TD](https://www.td.com)** | **[Fund My Business Intern / Co-Op](https://jobright.ai/jobs/info/69dcc223bc6f6622c990e903?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 13 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 13 |
 | **[TD](https://www.td.com)** | **[Fund My Business Intern / Co-Op](https://jobright.ai/jobs/info/69dc78b2b67cec4f9b0b17ef?utm_campaign=1067&utm_source=git)** | Toronto, Ontario | On Site | Apr 12 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/69bf05eb393a1008f744d576?utm_campaign=1067&utm_source=git)** | New York, United States | Hybrid | Apr 12 |
