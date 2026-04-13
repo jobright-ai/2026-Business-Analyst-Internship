@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Avison Young](https://www.avisonyoung.com)** | **[Business Intern](https://jobright.ai/jobs/info/69d563b1e63cea7a8b660e37?utm_campaign=1067&utm_source=git)** | Washington, DC | On Site | Apr 07 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Summer 2026 (Co-op/Intern) - 10 weeks](https://jobright.ai/jobs/info/69d532a6cdb525785fbceee3?utm_campaign=1067&utm_source=git)** | Virtual, CA, USA | Remote | Apr 07 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69c7426de565c26a70027476?utm_campaign=1067&utm_source=git)** | Paramus, NJ | On Site | Apr 06 |
-| **[FirstEnergy](http://www.firstenergycorp.com)** | **[IT Business Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69d42472cfdc6132f9458075?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
