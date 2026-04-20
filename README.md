@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e5ee4f7820c036924cdbb9?utm_campaign=1067&utm_source=git)** | Glynn County, GA | Remote | Apr 19 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 18 |
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/69e2bfc35c44d4710fe26957?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
+| **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e649869b6eb37e26f7f160?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Process and Procedures Analyst](https://jobright.ai/jobs/info/69e2db813770bd5361cda6ad?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[Avanade](http://www.avanade.com)** | **[Advisory Business Analyst, Intern](https://jobright.ai/jobs/info/69e2ab423ce36005badbf256?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e34e2a5c44d4710fe28a2a?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
@@ -100,6 +101,4 @@ For a complete list, click the following sortable link below:
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Central](https://jobright.ai/jobs/info/69dda7e25913ad3398139964?utm_campaign=1067&utm_source=git)** | Somerset, NJ, US, 08873 | Hybrid | Apr 13 |
 | **[TruePoint Communications](https://www.truepointagency.com/)** | **[Business Operations and Development Intern](https://jobright.ai/jobs/info/69dd88d061f6ed54321fdadc?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Apr 13 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
-| **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd70ecbc6f6622c9912447?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Business Management Analyst Intern/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69dd6b4a738f2f099e8b6290?utm_campaign=1067&utm_source=git)** | Toronto, ON | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
