@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Apr 20 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e68c007820c036924d112e?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Apr 20 |
+| **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e689afe0cd471b2f1264e6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e682743cfd986aa6f86396?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Apr 20 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69e66d57f8fa2f3ec32a1b04?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 20 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Apr 20 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Zonda](https://zondahome.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e53033f8fa2f3ec329e742?utm_campaign=1067&utm_source=git)** | US | Remote | Apr 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e5ee4f7820c036924cdbb9?utm_campaign=1067&utm_source=git)** | Glynn County, GA | Remote | Apr 19 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 18 |
-| **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/69e2bfc35c44d4710fe26957?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e649869b6eb37e26f7f160?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Process and Procedures Analyst](https://jobright.ai/jobs/info/69e2db813770bd5361cda6ad?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e34e2a5c44d4710fe28a2a?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
