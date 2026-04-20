@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69befa0c482822729301a729?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Apr 20 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 20 |
 | **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69e66d57f8fa2f3ec32a1b04?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 20 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Apr 20 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a793c01fc3d83b78094ab0?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Apr 20 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69e65ea89b6eb37e26f7fc08?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Apr 20 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e636c47820c036924cee91?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 20 |
+| **[Oil States International](http://oilstatesintl.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e67c393cfd986aa6f85f78?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538c?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 19 |
 | **[Zonda](https://zondahome.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e53033f8fa2f3ec329e742?utm_campaign=1067&utm_source=git)** | US | Remote | Apr 19 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[McKinstry](http://www.mckinstry.com)** | **[Service Business Analyst Intern](https://jobright.ai/jobs/info/69e2bfc35c44d4710fe26957?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e649869b6eb37e26f7f160?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Process and Procedures Analyst](https://jobright.ai/jobs/info/69e2db813770bd5361cda6ad?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
-| **[Avanade](http://www.avanade.com)** | **[Advisory Business Analyst, Intern](https://jobright.ai/jobs/info/69e2ab423ce36005badbf256?utm_campaign=1067&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e34e2a5c44d4710fe28a2a?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Citadel Completions LLC](http://www.citadelcompletions.com/)** | **[Business Performance & Optimization Intern](https://jobright.ai/jobs/info/69e4bc44f8fa2f3ec329cd33?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Apr 17 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
@@ -104,5 +105,4 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Business Analyst - Fraud, Waste & Abuse](https://jobright.ai/jobs/info/69dd5a8c738f2f099e8b5e19?utm_campaign=1067&utm_source=git)** | Minnesota, United States | Remote | Apr 14 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69ddf6335913ad339813ba1a?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69ddf614433ac8430e0d7eab?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Apr 14 |
-| **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Central](https://jobright.ai/jobs/info/69dda7e25913ad3398139964?utm_campaign=1067&utm_source=git)** | Somerset, NJ, US, 08873 | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
