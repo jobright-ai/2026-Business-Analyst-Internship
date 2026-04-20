@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Red Cross](http://redcross.org)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69e6534c3cfd986aa6f84e79?utm_campaign=1067&utm_source=git)** | Statewide, NJ | Hybrid | Apr 20 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Apr 20 |
+| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69e65ea89b6eb37e26f7fc08?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Apr 20 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e636c47820c036924cee91?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538c?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 19 |
 | **[Zonda](https://zondahome.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e53033f8fa2f3ec329e742?utm_campaign=1067&utm_source=git)** | US | Remote | Apr 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e5ee4f7820c036924cdbb9?utm_campaign=1067&utm_source=git)** | Glynn County, GA | Remote | Apr 19 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 18 |
@@ -100,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69ddf6335913ad339813ba1a?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69ddf614433ac8430e0d7eab?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Apr 14 |
 | **[PSEG](https://www.pseg.com)** | **[Summer 2026 Business Intern - Electric T&D - Central](https://jobright.ai/jobs/info/69dda7e25913ad3398139964?utm_campaign=1067&utm_source=git)** | Somerset, NJ, US, 08873 | Hybrid | Apr 13 |
-| **[TruePoint Communications](https://www.truepointagency.com/)** | **[Business Operations and Development Intern](https://jobright.ai/jobs/info/69dd88d061f6ed54321fdadc?utm_campaign=1067&utm_source=git)** | Dallas, TX | Hybrid | Apr 13 |
-| **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
