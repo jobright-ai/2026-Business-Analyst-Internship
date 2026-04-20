@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e636c47820c036924cee91?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Zonda](https://zondahome.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e53033f8fa2f3ec329e742?utm_campaign=1067&utm_source=git)** | US | Remote | Apr 19 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e5ee4f7820c036924cdbb9?utm_campaign=1067&utm_source=git)** | Glynn County, GA | Remote | Apr 19 |
