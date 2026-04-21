@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e6cf367820c036924d24af?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Apr 20 |
-| ↳ | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e68c007820c036924d112e?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Apr 20 |
+| **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e72cd47820c036924d538e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 20 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e68c007820c036924d112e?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Apr 20 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e689afe0cd471b2f1264e6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e682743cfd986aa6f86396?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Apr 20 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 20 |
@@ -97,7 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69df954a5913ad33981448f4?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Insights Analyst](https://jobright.ai/jobs/info/69deb65136823d1b42583604?utm_campaign=1067&utm_source=git)** | Newport Beach, CA | On Site | Apr 14 |
 | **[Belmark inc](https://www.belmark.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d043590b098b7a67077eae?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Apr 14 |
-| **[Advarra](https://www.advarra.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69de5bc4e34484770f1a1981?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | Apr 14 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69de5af7aba61f14173147b4?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Apr 14 |
-| **[Advarra](https://www.advarra.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69de5aa9aba61f1417314775?utm_campaign=1067&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
