@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7fe02e0cd471b2f12eba5?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
 | **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e7e1123aa0c4796439c410?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Intern Business Analyst, Advisory & Experience - June 2026](https://jobright.ai/jobs/info/69e66d57f8fa2f3ec32a1b04?utm_campaign=1067&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Apr 20 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Apr 20 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a793c01fc3d83b78094ab0?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | Apr 20 |
-| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69e65ea89b6eb37e26f7fc08?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Apr 20 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e636c47820c036924cee91?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 20 |
 | **[Oil States International](http://oilstatesintl.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e67c393cfd986aa6f85f78?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Apr 20 |
 | **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Business Analytics & Process Improvement](https://jobright.ai/jobs/info/69e73ef858811370cb11c274?utm_campaign=1067&utm_source=git)** | Port Clinton, OH | On Site | Apr 20 |
