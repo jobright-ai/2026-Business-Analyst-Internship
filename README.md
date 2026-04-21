@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69de5af7aba61f14173147b4?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Apr 14 |
 | **[Advarra](https://www.advarra.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69de5aa9aba61f1417314775?utm_campaign=1067&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Apr 14 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern-Accessibility](https://jobright.ai/jobs/info/69de3e61aba61f141731409f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 14 |
-| **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/69de2007433ac8430e0d8729?utm_campaign=1067&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
