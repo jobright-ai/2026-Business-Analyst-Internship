@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
+| ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e76a613aa0c47964399fd0?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e6cf367820c036924d24af?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Apr 20 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 18 |
 | **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e649869b6eb37e26f7f160?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Process and Procedures Analyst](https://jobright.ai/jobs/info/69e2db813770bd5361cda6ad?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
-| **[Leidos](https://www.leidos.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e34e2a5c44d4710fe28a2a?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Apr 17 |
 | **[Citadel Completions LLC](http://www.citadelcompletions.com/)** | **[Business Performance & Optimization Intern](https://jobright.ai/jobs/info/69e4bc44f8fa2f3ec329cd33?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Apr 17 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Business Analyst - Reference](https://jobright.ai/jobs/info/69d797c5738f2f099e89498f?utm_campaign=1067&utm_source=git)** | Wisconsin, United States | Remote | Apr 17 |
@@ -99,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e01230e34484770f1ac733?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Apr 15 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69df92dcaba61f141731c345?utm_campaign=1067&utm_source=git)** | Pittsburgh_15236 | On Site | Apr 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69df954a5913ad33981448f4?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Insights Analyst](https://jobright.ai/jobs/info/69deb65136823d1b42583604?utm_campaign=1067&utm_source=git)** | Newport Beach, CA | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
