@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e7e1123aa0c4796439c410?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
+| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69e7c66be0cd471b2f12d541?utm_campaign=1067&utm_source=git)** | Remote (Colorado) | Remote | Apr 21 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Apr 21 |
@@ -100,6 +102,5 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Process Writer Intern- CX](https://jobright.ai/jobs/info/69dff9fae34484770f1abd86?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 15 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/69dff992433ac8430e0e3990?utm_campaign=1067&utm_source=git)** | Arkansas, United States | Remote | Apr 15 |
 | **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e01230e34484770f1ac733?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Apr 15 |
-| **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69df92dcaba61f141731c345?utm_campaign=1067&utm_source=git)** | Pittsburgh_15236 | On Site | Apr 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69df954a5913ad33981448f4?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
