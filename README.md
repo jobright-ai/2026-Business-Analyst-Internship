@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69e65ea89b6eb37e26f7fc08?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | Apr 20 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e636c47820c036924cee91?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 20 |
 | **[Oil States International](http://oilstatesintl.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e67c393cfd986aa6f85f78?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Apr 20 |
+| **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Business Analytics & Process Improvement](https://jobright.ai/jobs/info/69e73ef858811370cb11c274?utm_campaign=1067&utm_source=git)** | Port Clinton, OH | On Site | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Summer Intern - Start Date: June 8, 2026](https://jobright.ai/jobs/info/69e65f45e0cd471b2f12538c?utm_campaign=1067&utm_source=git)** | Morris Plains, NJ | Hybrid | Apr 19 |
 | **[Zonda](https://zondahome.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e53033f8fa2f3ec329e742?utm_campaign=1067&utm_source=git)** | US | Remote | Apr 19 |
@@ -98,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69df92dcaba61f141731c345?utm_campaign=1067&utm_source=git)** | Pittsburgh_15236 | On Site | Apr 15 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69df954a5913ad33981448f4?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Insights Analyst](https://jobright.ai/jobs/info/69deb65136823d1b42583604?utm_campaign=1067&utm_source=git)** | Newport Beach, CA | On Site | Apr 14 |
-| **[Belmark inc](https://www.belmark.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d043590b098b7a67077eae?utm_campaign=1067&utm_source=git)** | De Pere, WI | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
