@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Analyst, Summer 2026 (Internship) - 10 weeks](https://jobright.ai/jobs/info/69e7a783f8fa2f3ec32a8ea0?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | Apr 21 |
+| **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7a0f67820c036924d773f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Apr 21 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e76a613aa0c47964399fd0?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
