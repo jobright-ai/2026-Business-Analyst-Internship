@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
 | **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e7e1123aa0c4796439c410?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69e7c66be0cd471b2f12d541?utm_campaign=1067&utm_source=git)** | Remote (Colorado) | Remote | Apr 21 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Apr 21 |
+| **[FollowUS](https://followusnyc.com)** | **[Business Intern](https://jobright.ai/jobs/info/69e7e8520a6e09555302cfa0?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7a0f67820c036924d773f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Apr 21 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Apr 21 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
