@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e68c007820c036924d112e?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Apr 20 |
+| **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e6cf367820c036924d24af?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Apr 20 |
+| ↳ | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e68c007820c036924d112e?utm_campaign=1067&utm_source=git)** | Irvine, CA, United States of America | Hybrid | Apr 20 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e689afe0cd471b2f1264e6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e682743cfd986aa6f86396?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Apr 20 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69a7290376bbe83d3afa8649?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 20 |
@@ -102,8 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst Intern-Accessibility](https://jobright.ai/jobs/info/69de3e61aba61f141731409f?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 14 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/69de2007433ac8430e0d8729?utm_campaign=1067&utm_source=git)** | Ann Arbor, MI | Hybrid | Apr 14 |
 | **[Quanex](http://www.quanex.com/)** | **[Process & Data Intern](https://jobright.ai/jobs/info/69c183442c312363dcd471a4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | Apr 14 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Finance Business Operations Intern](https://jobright.ai/jobs/info/69ddf6f4433ac8430e0d8072?utm_campaign=1067&utm_source=git)** | San Francisco, CA | Hybrid | Apr 14 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Advisor Business Analyst - Fraud, Waste & Abuse](https://jobright.ai/jobs/info/69dd5a8c738f2f099e8b5e19?utm_campaign=1067&utm_source=git)** | Minnesota, United States | Remote | Apr 14 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69ddf6335913ad339813ba1a?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | Apr 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/69ddf614433ac8430e0d7eab?utm_campaign=1067&utm_source=git)** | Oakland | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
