@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e76a613aa0c47964399fd0?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[Ingram Micro](https://corp.ingrammicro.com)** | **[Summer Intern - Business Analyst](https://jobright.ai/jobs/info/69e6cf367820c036924d24af?utm_campaign=1067&utm_source=git)** | Irvine, CA | Hybrid | Apr 20 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e72cd47820c036924d538e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 20 |
