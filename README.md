@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8d15a7820c036924e3341?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 22 |
+| **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8e88b3aa0c479643a5984?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Apr 22 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8d15a7820c036924e3341?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 22 |
 | **[RandomTrees](https://www.randomtrees.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e8c6194b0fa35a7076927f?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 22 |
 | **[Aflac](http://www.aflac.com)** | **[PLADS Business Analyst (Configuration)](https://jobright.ai/jobs/info/69e8d8f3e0cd471b2f1387e8?utm_campaign=1067&utm_source=git)** | Columbus, GA | Remote | Apr 22 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
