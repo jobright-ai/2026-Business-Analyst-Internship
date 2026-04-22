@@ -57,14 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RandomTrees](https://www.randomtrees.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e8c6194b0fa35a7076927f?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 22 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 22 |
-| **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e82791e0cd471b2f12fc64?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7fe02e0cd471b2f12eba5?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 21 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8b4264b0fa35a70768bf7?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Hybrid | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
-| **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e7e1123aa0c4796439c410?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Apr 21 |
@@ -107,7 +106,4 @@ For a complete list, click the following sortable link below:
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Analyst - It Operations](https://jobright.ai/jobs/info/69db46bbb67cec4f9b0ae548?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Business Systems Anaylst](https://jobright.ai/jobs/info/69c72fd21b5ad0288738af22?utm_campaign=1067&utm_source=git)** | Jacksonville, FL | Hybrid | Apr 15 |
 | **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e0025014bf245fc7a6f677?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | On Site | Apr 15 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Process Writer Intern- CX](https://jobright.ai/jobs/info/69dff9fae34484770f1abd86?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 15 |
-| ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/69dff992433ac8430e0e3990?utm_campaign=1067&utm_source=git)** | Arkansas, United States | Remote | Apr 15 |
-| **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e01230e34484770f1ac733?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
