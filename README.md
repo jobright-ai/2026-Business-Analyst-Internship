@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921cbe0cd471b2f13aea2?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59d1?utm_campaign=1067&utm_source=git)** | USA-FULTON, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9214e0a6e09555303969a?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921374b0fa35a7076c019?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921273aa0c479643a779b?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e91fc758811370cb12a69f?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 22 |
 | **[Neighbors Bank](https://www.neighborsbank.com/)** | **[Business Analyst Summer Internship - 5.26](https://jobright.ai/jobs/info/69e8f6c83aa0c479643a5f0e?utm_campaign=1067&utm_source=git)** | Remote - United States | Remote | Apr 22 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | Apr 22 |
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 22 |
