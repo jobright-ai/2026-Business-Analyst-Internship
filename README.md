@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Process Writer Intern- CX](https://jobright.ai/jobs/info/69dff9fae34484770f1abd86?utm_campaign=1067&utm_source=git)** | Texas, United States | Hybrid | Apr 15 |
 | ↳ | **[Early Career Business Analyst](https://jobright.ai/jobs/info/69dff992433ac8430e0e3990?utm_campaign=1067&utm_source=git)** | Arkansas, United States | Remote | Apr 15 |
 | **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e01230e34484770f1ac733?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Apr 15 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Intern](https://jobright.ai/jobs/info/69df954a5913ad33981448f4?utm_campaign=1067&utm_source=git)** | Oakland, CA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
