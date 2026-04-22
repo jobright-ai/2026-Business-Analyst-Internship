@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e82791e0cd471b2f12fc64?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
+| **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7fe02e0cd471b2f12eba5?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
 | **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e7e1123aa0c4796439c410?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
@@ -71,6 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7afc13aa0c4796439b520?utm_campaign=1067&utm_source=git)** | Charleston County, SC | On Site | Apr 21 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e76a613aa0c47964399fd0?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
+| **[Panorama Global](http://panoramaglobal.org/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69e81c543aa0c4796439df92?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Apr 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e72cd47820c036924d538e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 20 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e689afe0cd471b2f1264e6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
