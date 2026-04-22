@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
+| **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 22 |
 | **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e82791e0cd471b2f12fc64?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Business Analyst Internship (Remote, US)](https://jobright.ai/jobs/info/69e848b77820c036924db9b4?utm_campaign=1067&utm_source=git)** | Denver, CO | Remote | Apr 21 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7fe02e0cd471b2f12eba5?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 21 |
+| **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8b4264b0fa35a70768bf7?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Hybrid | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
 | **[Bluevine](http://www.bluevine.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69e7e1123aa0c4796439c410?utm_campaign=1067&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Apr 21 |
 | **[FollowUS](https://followusnyc.com)** | **[Business Intern](https://jobright.ai/jobs/info/69e7e8520a6e09555302cfa0?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7a0f67820c036924d773f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Apr 21 |
+| **[MSM North America](https://www.msm-northamerica.com)** | **[Business Intern](https://jobright.ai/jobs/info/69e8b1100a6e095553034ffe?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL, USA | On Site | Apr 21 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Apr 21 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7afc13aa0c4796439b520?utm_campaign=1067&utm_source=git)** | Charleston County, SC | On Site | Apr 21 |
