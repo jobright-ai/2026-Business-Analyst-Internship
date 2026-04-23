@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69ea5dcd3aa0c479643af3c0?utm_campaign=1067&utm_source=git)** | USA VA Springfield, US | On Site | Apr 23 |
 | **[Medica](https://www.medica.com)** | **[Process Improvement Analyst Intern](https://jobright.ai/jobs/info/69ea56623aa0c479643af0b7?utm_campaign=1067&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 23 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Risk, Finance, Sustainability, Audit)](https://jobright.ai/jobs/info/69cde2f3398fb071abf7db0c?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
+| **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95cbf58811370cb12cf75?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e94e54e0cd471b2f13c7ea?utm_campaign=1067&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
@@ -75,15 +77,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e961393aa0c479643a9a39?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Apr 22 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69e95ca70a6e09555303b6a0?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921cbe0cd471b2f13aea2?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59d1?utm_campaign=1067&utm_source=git)** | USA-FULTON, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9214e0a6e09555303969a?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921374b0fa35a7076c019?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921273aa0c479643a779b?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e91fc758811370cb12a69f?utm_campaign=1067&utm_source=git)** | RTP, North Carolina, US | Remote | Apr 22 |
 | **[Neighbors Bank](https://www.neighborsbank.com/)** | **[Business Analyst Summer Internship - 5.26](https://jobright.ai/jobs/info/69e8f6c83aa0c479643a5f0e?utm_campaign=1067&utm_source=git)** | Remote - United States | Remote | Apr 22 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | Apr 22 |
-| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Business Analytics & Operations Internship - Summer 2026](https://jobright.ai/jobs/info/69b2ed0aad360c0340a7fff6?utm_campaign=1067&utm_source=git)** | Ashburn, VA | Hybrid | Apr 22 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
 | **[American Municipal Power, Inc.](https://www.amppartners.org/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69e93c727820c036924e6ca3?utm_campaign=1067&utm_source=git)** | Columbus, OH, US | On Site | Apr 22 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8d15a7820c036924e3341?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 22 |
