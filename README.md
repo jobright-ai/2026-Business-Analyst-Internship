@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95cbf58811370cb12cf75?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e94e54e0cd471b2f13c7ea?utm_campaign=1067&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e961393aa0c479643a9a39?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Apr 22 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69e95ca70a6e09555303b6a0?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921cbe0cd471b2f13aea2?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59d1?utm_campaign=1067&utm_source=git)** | USA-FULTON, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59d1?utm_campaign=1067&utm_source=git)** | USA-FULTON, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9214e0a6e09555303969a?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921374b0fa35a7076c019?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921273aa0c479643a779b?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Apr 22 |
