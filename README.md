@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95cbf58811370cb12cf75?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e94e54e0cd471b2f13c7ea?utm_campaign=1067&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d350a6e09555303aece?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 22 |
+| ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e96bd058811370cb12d507?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Apr 22 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/69e963fd58811370cb12d25b?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e961100a6e09555303b8e7?utm_campaign=1067&utm_source=git)** | Fulton, MD | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e961100a6e09555303b8e8?utm_campaign=1067&utm_source=git)** | Triangle, NC | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9626c4b0fa35a7076e1a0?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e961393aa0c479643a9a39?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Apr 22 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69e95ca70a6e09555303b6a0?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921cbe0cd471b2f13aea2?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
@@ -95,6 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7afc13aa0c4796439b520?utm_campaign=1067&utm_source=git)** | Charleston County, SC | On Site | Apr 21 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 | **[SAIC](http://www.saic.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e76a613aa0c47964399fd0?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 21 |
+| **[CVR Energy, Inc.](http://www.cvrenergy.com)** | **[Commercial Intern](https://jobright.ai/jobs/info/69e977b8e0cd471b2f13d80f?utm_campaign=1067&utm_source=git)** | Sugar Land, TX, 77479, United States | On Site | Apr 21 |
 | **[Panorama Global](http://panoramaglobal.org/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69e81c543aa0c4796439df92?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Apr 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e72cd47820c036924d538e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 20 |
@@ -121,6 +128,5 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e15845d612782e61148312?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69e12f156c20aa114953fc7d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Senior Business Analyst](https://jobright.ai/jobs/info/69e11b6cd612782e61146e7e?utm_campaign=1067&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 16 |
-| **[AAON, Inc.](https://www.aaon.com)** | **[Intern - Business](https://jobright.ai/jobs/info/69e1166b6c20aa114953f512?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | Apr 16 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Analyst - It Operations](https://jobright.ai/jobs/info/69db46bbb67cec4f9b0ae548?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
