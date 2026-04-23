@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95cbf58811370cb12cf75?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e94e54e0cd471b2f13c7ea?utm_campaign=1067&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e15845d612782e61148312?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69e12f156c20aa114953fc7d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Senior Business Analyst](https://jobright.ai/jobs/info/69e11b6cd612782e61146e7e?utm_campaign=1067&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 16 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Analyst - It Operations](https://jobright.ai/jobs/info/69db46bbb67cec4f9b0ae548?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
