@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
@@ -125,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/69e158beff71e82d604b678d?utm_campaign=1067&utm_source=git)** | Lake Mary, FL | Remote | Apr 16 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e15845d612782e61148312?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Popmenu](https://get.popmenu.com)** | **[Business Operations Summer Internship](https://jobright.ai/jobs/info/69e12f156c20aa114953fc7d?utm_campaign=1067&utm_source=git)** | Atlanta, GA | Hybrid | Apr 16 |
-| **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Senior Business Analyst](https://jobright.ai/jobs/info/69e11b6cd612782e61146e7e?utm_campaign=1067&utm_source=git)** | Greater Sudbury, ON | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
