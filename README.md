@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9626c4b0fa35a7076e1a0?utm_campaign=1067&utm_source=git)** | Seattle, WA | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e961393aa0c479643a9a39?utm_campaign=1067&utm_source=git)** | Fulton, MD | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921cbe0cd471b2f13aea2?utm_campaign=1067&utm_source=git)** | San Francisco, California, US | Remote | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59d1?utm_campaign=1067&utm_source=git)** | USA-FULTON, US | Remote | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9214e0a6e09555303969a?utm_campaign=1067&utm_source=git)** | Fulton, Maryland, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921374b0fa35a7076c019?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921273aa0c479643a779b?utm_campaign=1067&utm_source=git)** | Austin, Texas, US | Remote | Apr 22 |
@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 18 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Process and Procedures Analyst](https://jobright.ai/jobs/info/69e2db813770bd5361cda6ad?utm_campaign=1067&utm_source=git)** | Edmonton, AB | On Site | Apr 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Business Analyst](https://jobright.ai/jobs/info/69e9f6607820c036924ea195?utm_campaign=1067&utm_source=git)** | Stamford, Connecticut | On Site | Apr 17 |
-| **[Citadel Completions LLC](http://www.citadelcompletions.com/)** | **[Business Performance & Optimization Intern](https://jobright.ai/jobs/info/69e4bc44f8fa2f3ec329cd33?utm_campaign=1067&utm_source=git)** | Dallas, TX, US | On Site | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
