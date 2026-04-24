@@ -61,11 +61,11 @@ For a complete list, click the following sortable link below:
 | **[Fermented Food Holdings (FFH)](https://www.fermentedfoodholdings.com/)** | **[Sr. Business Analyst Internship](https://jobright.ai/jobs/info/69eacc7258811370cb13502c?utm_campaign=1067&utm_source=git)** | Madison, WI, US | On Site | Apr 23 |
 | **[Veolia | North America](http://growingblue.com/)** | **[SAP Business Analyst Intern](https://jobright.ai/jobs/info/69eb421558811370cb13810d?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 23 |
 | **[Fermented Food Holdings (FFH)](https://www.fermentedfoodholdings.com/)** | **[Sr. Business Analyst Internship](https://jobright.ai/jobs/info/69eb5e25dc35f7132c4aff6f?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Apr 23 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0c330a6e095553044250?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
@@ -79,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d055?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 22 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95d52e0cd471b2f13d054?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | Apr 22 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e95cbf58811370cb12cf75?utm_campaign=1067&utm_source=git)** | San Jose, CA | On Site | Apr 22 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e94e54e0cd471b2f13c7ea?utm_campaign=1067&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
