@@ -90,9 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d350a6e09555303aece?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 22 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e96bd058811370cb12d507?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Apr 22 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/69e963fd58811370cb12d25b?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 22 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59d1?utm_campaign=1067&utm_source=git)** | USA-FULTON, US | Remote | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e9215a7820c036924e59cc?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Apr 22 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/69e921374b0fa35a7076c019?utm_campaign=1067&utm_source=git)** | Seattle, Washington, US | Remote | Apr 22 |
 | **[Neighbors Bank](https://www.neighborsbank.com/)** | **[Business Analyst Summer Internship - 5.26](https://jobright.ai/jobs/info/69e8f6c83aa0c479643a5f0e?utm_campaign=1067&utm_source=git)** | Remote - United States | Remote | Apr 22 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | Apr 22 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
