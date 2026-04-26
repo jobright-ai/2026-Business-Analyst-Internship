@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 26 |
 | **[Legends Global](http://legends.net)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ec5de47820c036924fa7cf?utm_campaign=1067&utm_source=git)** | Wake Forest, NC | On Site | Apr 24 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ec27197820c036924f987f?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 | **[LVMH](https://www.lvmh.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ebe51d58811370cb13d6d4?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 24 |
