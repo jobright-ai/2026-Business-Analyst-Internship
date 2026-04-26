@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Oil States International](http://oilstatesintl.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e67c393cfd986aa6f85f78?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | Apr 20 |
 | **[LogistiQ](https://logistiqsolutions.com)** | **[Intern Business Analytics & Process Improvement](https://jobright.ai/jobs/info/69e73ef858811370cb11c274?utm_campaign=1067&utm_source=git)** | Port Clinton, OH | On Site | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
-| **[Zonda](https://zondahome.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e5ee4f7820c036924cdbb9?utm_campaign=1067&utm_source=git)** | Glynn County, GA | Remote | Apr 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
