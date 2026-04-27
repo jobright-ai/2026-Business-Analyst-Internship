@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 26 |
+| **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 25 |
 | **[Legends Global](http://legends.net)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69ec5de47820c036924fa7cf?utm_campaign=1067&utm_source=git)** | Wake Forest, NC | On Site | Apr 24 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ec27197820c036924f987f?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 | **[LVMH](https://www.lvmh.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ebe51d58811370cb13d6d4?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 24 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Risk, Finance, Sustainability, Audit)](https://jobright.ai/jobs/info/69cde2f3398fb071abf7db0c?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
-| **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 23 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 | **[University of Massachusetts](https://www.youtube.com/channel/UCH_NUbvxPedsdb5jq98Atig)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e94e54e0cd471b2f13c7ea?utm_campaign=1067&utm_source=git)** | Shrewsbury, MA | Hybrid | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
