@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Apr 21 |
-| **[FollowUS](https://followusnyc.com)** | **[Business Intern](https://jobright.ai/jobs/info/69e7e8520a6e09555302cfa0?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 21 |
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7a0f67820c036924d773f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Apr 21 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Apr 21 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
