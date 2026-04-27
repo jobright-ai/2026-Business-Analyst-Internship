@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 | **[Panorama Global](http://panoramaglobal.org/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69e81c543aa0c4796439df92?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Apr 21 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
-| **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e72cd47820c036924d538e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
