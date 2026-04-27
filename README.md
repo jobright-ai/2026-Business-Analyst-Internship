@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ef7e3858811370cb146a12?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[NY Eventss](nyeventss.com)** | **[Business Intern](https://jobright.ai/jobs/info/69eed8157820c036924ff5de?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 26 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 26 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 25 |
