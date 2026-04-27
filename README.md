@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Corpay](https://payments.corpay.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e72cd47820c036924d538e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, USA | On Site | Apr 20 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e689afe0cd471b2f1264e6?utm_campaign=1067&utm_source=git)** | Atlanta, GA | On Site | Apr 20 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e682743cfd986aa6f86396?utm_campaign=1067&utm_source=git)** | High Ridge, MO | Hybrid | Apr 20 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[IT Business Analyst Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/69caa3ccaa3c2c1995e2e745?utm_campaign=1067&utm_source=git)** | Green Bay, WI | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
