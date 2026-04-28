@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
-| **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69efb9294b0fa35a7078b45f?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ef7e3858811370cb146a12?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[NY Eventss](nyeventss.com)** | **[Business Intern](https://jobright.ai/jobs/info/69eed8157820c036924ff5de?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 26 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 26 |
@@ -78,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
@@ -104,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8b4264b0fa35a70768bf7?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Hybrid | Apr 21 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
