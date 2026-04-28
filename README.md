@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Student Intern](https://jobright.ai/jobs/info/69f117ec8d8d624381a9a42c?utm_campaign=1067&utm_source=git)** | Health System Shared Services, US | On Site | Apr 28 |
+| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f12d6a825a315d7ca364db?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0df7becbc8c2f732025a0?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
-| ↳ | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0d4558d8d624381a9891f?utm_campaign=1067&utm_source=git)** | Alpharetta, Georgia, United States of America | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f0f4e8825a315d7ca353f9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Apr 28 |
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 27 |
