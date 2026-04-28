@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d3858811370cb12c712?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e94d350a6e09555303aece?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 22 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/69e96bd058811370cb12d507?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ | On Site | Apr 22 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/69e963fd58811370cb12d25b?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 22 |
 | **[Neighbors Bank](https://www.neighborsbank.com/)** | **[Business Analyst Summer Internship - 5.26](https://jobright.ai/jobs/info/69e8f6c83aa0c479643a5f0e?utm_campaign=1067&utm_source=git)** | Remote - United States | Remote | Apr 22 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | Apr 22 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
@@ -112,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 | **[Panorama Global](http://panoramaglobal.org/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69e81c543aa0c4796439df92?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Apr 21 |
-| **[Texas Department of Transportation](https://www.txdot.gov)** | **[ROW Business Analyst Intern (Graduate)](https://jobright.ai/jobs/info/69e732b3f8fa2f3ec32a6a24?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
