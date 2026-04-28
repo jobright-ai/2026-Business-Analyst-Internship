@@ -106,6 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8b4264b0fa35a70768bf7?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Hybrid | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
-| **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/69cae2aae565c26a70041e2e?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
-| **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf2b2acfdc6132f94303a3?utm_campaign=1067&utm_source=git)** | Elgin,IL,US | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
