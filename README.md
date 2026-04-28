@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0d4558d8d624381a9891f?utm_campaign=1067&utm_source=git)** | Alpharetta, Georgia, United States of America | On Site | Apr 28 |
+| **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0df7becbc8c2f732025a0?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
+| ↳ | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0d4558d8d624381a9891f?utm_campaign=1067&utm_source=git)** | Alpharetta, Georgia, United States of America | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
