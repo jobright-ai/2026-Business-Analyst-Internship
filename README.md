@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[PLADS Business Analyst (Configuration)](https://jobright.ai/jobs/info/69e8d8f3e0cd471b2f1387e8?utm_campaign=1067&utm_source=git)** | Columbus, GA | Remote | Apr 22 |
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
-| **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8b4264b0fa35a70768bf7?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
