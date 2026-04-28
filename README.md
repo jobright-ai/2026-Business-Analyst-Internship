@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Havas Edge](http://www.havasedge.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7a0f67820c036924d773f?utm_campaign=1067&utm_source=git)** | Carlsbad, CA | On Site | Apr 21 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Apr 21 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
-| ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
