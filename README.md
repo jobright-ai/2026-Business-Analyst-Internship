@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
 | **[Rise Alliance](https://risealliance.com)** | **[Business Intern](https://jobright.ai/jobs/info/69efb9294b0fa35a7078b45f?utm_campaign=1067&utm_source=git)** | Rise Alliance- Midtown Manhattan | On Site | Apr 27 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Aflac](http://www.aflac.com)** | **[PLADS Business Analyst (Configuration)](https://jobright.ai/jobs/info/69e8d8f3e0cd471b2f1387e8?utm_campaign=1067&utm_source=git)** | Columbus, GA | Remote | Apr 22 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[SAP Digital Transformation Intern](https://jobright.ai/jobs/info/69780dc488e2b47213bc1247?utm_campaign=1067&utm_source=git)** | Indianapolis, IN | On Site | Apr 22 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
+| **[Reingold, Inc.](http://reingold.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f02a65825a315d7ca31676?utm_campaign=1067&utm_source=git)** | Alexandria, VA | On Site | Apr 21 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8b4264b0fa35a70768bf7?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Hybrid | Apr 21 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e7e32ce0cd471b2f12e08a?utm_campaign=1067&utm_source=git)** | Kearney, NE | On Site | Apr 21 |
 | **[The Middleby Corporation](http://www.middleby.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/69cf27b654f00230c6d06d56?utm_campaign=1067&utm_source=git)** | Elgin, IL | On Site | Apr 21 |
@@ -111,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | Apr 21 |
 | **[INDUS Technology, Inc.](http://www.industechnology.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e78d2ee0cd471b2f12c4e9?utm_campaign=1067&utm_source=git)** | San Diego County, CA | On Site | Apr 21 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/69b4c4ba569738374139b5db?utm_campaign=1067&utm_source=git)** | San Diego, CA, US | On Site | Apr 21 |
-| **[Panorama Global](http://panoramaglobal.org/)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69e81c543aa0c4796439df92?utm_campaign=1067&utm_source=git)** | United States | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
