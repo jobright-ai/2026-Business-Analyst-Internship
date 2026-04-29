@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f24cc68d8d624381aa0382?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69f23c43825a315d7ca3b6b2?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f22b2aab4ec4779fff7aef?utm_campaign=1067&utm_source=git)** | US WI MKE 4900, US | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
