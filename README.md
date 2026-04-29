@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69f23c43825a315d7ca3b6b2?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f22b2aab4ec4779fff7aef?utm_campaign=1067&utm_source=git)** | US WI MKE 4900, US | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f15ccdb27fee43e8cd8af8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0df7becbc8c2f732025a0?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f0f4e8825a315d7ca353f9?utm_campaign=1067&utm_source=git)** | Brooklyn, NY | On Site | Apr 28 |
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
@@ -85,18 +85,15 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea751a3aa0c479643b028e?utm_campaign=1067&utm_source=git)** | Boston, US | Hybrid | Apr 23 |
 | **[City of Greater Sudbury](https://www.greatersudbury.ca/)** | **[Senior Business Analyst](https://jobright.ai/jobs/info/69e11b6cd612782e61146e7e?utm_campaign=1067&utm_source=git)** | Greater Sudbury, Ontario, Canada | On Site | Apr 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69ea5dcd3aa0c479643af3c0?utm_campaign=1067&utm_source=git)** | USA VA Springfield, US | On Site | Apr 23 |
-| **[Medica](https://www.medica.com)** | **[Process Improvement Analyst Intern](https://jobright.ai/jobs/info/69ea56623aa0c479643af0b7?utm_campaign=1067&utm_source=git)** | Minnetonka, Minnesota, United States | Hybrid | Apr 23 |
-| ↳ | **[Process Improvement Analyst Intern](https://jobright.ai/jobs/info/69eacca97820c036924ef820?utm_campaign=1067&utm_source=git)** | Hopkins, MN | Hybrid | Apr 23 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Risk, Finance, Sustainability, Audit)](https://jobright.ai/jobs/info/69cde2f3398fb071abf7db0c?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
-| **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
