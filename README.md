@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Neighbors Bank](https://www.neighborsbank.com/)** | **[Business Analyst Summer Internship - 5.26](https://jobright.ai/jobs/info/69e8f6c83aa0c479643a5f0e?utm_campaign=1067&utm_source=git)** | Remote - United States | Remote | Apr 22 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | Apr 22 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 22 |
-| **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69e8d15a7820c036924e3341?utm_campaign=1067&utm_source=git)** | United States | Remote | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
