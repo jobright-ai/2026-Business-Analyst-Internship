@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f1503862b48c6838794f63?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 28 |
 | **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Student Intern](https://jobright.ai/jobs/info/69f117ec8d8d624381a9a42c?utm_campaign=1067&utm_source=git)** | Health System Shared Services, US | On Site | Apr 28 |
 | **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f12d6a825a315d7ca364db?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 28 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
