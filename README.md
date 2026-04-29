@@ -60,8 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f15ccdb27fee43e8cd8af8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Business Operations Student Intern](https://jobright.ai/jobs/info/69f157ab8feca91f1491fd67?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
 | **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Business Operations Student Intern](https://jobright.ai/jobs/info/69f117ec8d8d624381a9a42c?utm_campaign=1067&utm_source=git)** | Health System Shared Services, US | On Site | Apr 28 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f12d6a825a315d7ca364db?utm_campaign=1067&utm_source=git)** | Wilmington, DE | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0df7becbc8c2f732025a0?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
@@ -86,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
 | **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 | **[Fenwick & West](http://fenwick.com)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea759a0a6e095553041596?utm_campaign=1067&utm_source=git)** | Washington, D.C., US | Hybrid | Apr 23 |
-| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774958?utm_campaign=1067&utm_source=git)** | Santa Monica, US | Hybrid | Apr 23 |
+| ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea757f4b0fa35a70774964?utm_campaign=1067&utm_source=git)** | Silicon Valley, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea75737820c036924ee1c0?utm_campaign=1067&utm_source=git)** | New York, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea755b58811370cb133972?utm_campaign=1067&utm_source=git)** | San Francisco, US | Hybrid | Apr 23 |
 | ↳ | **[Business Innovation Intern](https://jobright.ai/jobs/info/69ea7550dc35f7132c4aa779?utm_campaign=1067&utm_source=git)** | Seattle, US | Hybrid | Apr 23 |
