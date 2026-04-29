@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Technology Business Management, Deloitte Technology Canada - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/69f1b0a68feca91f14921e3c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f15ccdb27fee43e8cd8af8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Business Operations Student Intern](https://jobright.ai/jobs/info/69f157ab8feca91f1491fd67?utm_campaign=1067&utm_source=git)** | Columbus, OH | On Site | Apr 28 |
 | **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
