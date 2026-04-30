@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e6ab4ec4779fff9cce?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f2896aecbc8c2f7320afa6?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | **[Alstom](https://www.alstom.com/)** | **[Business Administrator Intern](https://jobright.ai/jobs/info/69f269d3ecbc8c2f7320a562?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f24cc68d8d624381aa0382?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69f23c43825a315d7ca3b6b2?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f22b2aab4ec4779fff7aef?utm_campaign=1067&utm_source=git)** | US WI MKE 4900, US | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
+| **[PRL Industries](https://prlinc.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f289948feca91f149255fd?utm_campaign=1067&utm_source=git)** | Lebanon, PA | On Site | Apr 29 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f15ccdb27fee43e8cd8af8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
 | **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
