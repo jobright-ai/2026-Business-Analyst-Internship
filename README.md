@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69f2ca438feca91f14927f08?utm_campaign=1067&utm_source=git)** | Mankato, MN | On Site | Apr 29 |
+| **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b4b6d83b74eb1e2c82087a?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e6ab4ec4779fff9cce?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
@@ -102,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69ea5dcd3aa0c479643af3c0?utm_campaign=1067&utm_source=git)** | USA VA Springfield, US | On Site | Apr 23 |
 | **[IG Wealth Management](https://ig.ca)** | **[Fall Intern 2026 - Corporate Delivery (Risk, Finance, Sustainability, Audit)](https://jobright.ai/jobs/info/69cde2f3398fb071abf7db0c?utm_campaign=1067&utm_source=git)** | Manitoba, Canada | Hybrid | Apr 23 |
 | **[CEC](https://cecfg.com)** | **[Business Optimization Intern (32576)](https://jobright.ai/jobs/info/69d5ff12366bb95ba554ade7?utm_campaign=1067&utm_source=git)** | Irving, TX | On Site | Apr 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
