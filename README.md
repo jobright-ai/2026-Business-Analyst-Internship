@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69f32536343eef4fb0a9942b?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69f2ca438feca91f14927f08?utm_campaign=1067&utm_source=git)** | Mankato, MN | On Site | Apr 29 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b4b6d83b74eb1e2c82087a?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
