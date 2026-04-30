@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ebd44c4b0fa35a7077ef95?utm_campaign=1067&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 24 |
 | **[City of Brampton](https://www.brampton.ca)** | **[Analyst, Business Systems](https://jobright.ai/jobs/info/69eb8a06dc35f7132c4b0802?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
-| **[Fermented Food Holdings (FFH)](https://www.fermentedfoodholdings.com/)** | **[Sr. Business Analyst Internship](https://jobright.ai/jobs/info/69eacc7258811370cb13502c?utm_campaign=1067&utm_source=git)** | Madison, WI, US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
