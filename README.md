@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Welldoc](https://www.welldoc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3cbdf343eef4fb0a9e262?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | Apr 30 |
+| **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3d9fb1f90bd6ae23d20e1?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Apr 30 |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69f3d28d6942c746fa6950fa?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | On Site | Apr 30 |
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f3abfb6942c746fa693517?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 30 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf431?utm_campaign=1067&utm_source=git)** | US-MD | On Site | Apr 30 |
