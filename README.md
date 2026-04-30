@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf431?utm_campaign=1067&utm_source=git)** | US-MD | On Site | Apr 30 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69f375ef6942c746fa691555?utm_campaign=1067&utm_source=git)** | US-MD-Laurel | On Site | Apr 30 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69f374b7461b9b613a620588?utm_campaign=1067&utm_source=git)** | Laurel, MD, US | On Site | Apr 30 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f22b2aab4ec4779fff7aef?utm_campaign=1067&utm_source=git)** | US WI MKE 4900, US | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
 | **[PRL Industries](https://prlinc.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f289948feca91f149255fd?utm_campaign=1067&utm_source=git)** | Lebanon, PA | On Site | Apr 29 |
-| **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f15ccdb27fee43e8cd8af8?utm_campaign=1067&utm_source=git)** | Waltham, MA | On Site | Apr 28 |
 | **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0df7becbc8c2f732025a0?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
