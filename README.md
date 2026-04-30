@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f3abfb6942c746fa693517?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 30 |
 | **[Toro Marketing Group](https://www.torogrouptx.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69e8f5e54b0fa35a7076a573?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 30 |
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f376251f90bd6ae23cf431?utm_campaign=1067&utm_source=git)** | US-MD | On Site | Apr 30 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69f375ef6942c746fa691555?utm_campaign=1067&utm_source=git)** | US-MD-Laurel | On Site | Apr 30 |
