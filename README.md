@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | Apr 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69f32536343eef4fb0a9942b?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69f2ca438feca91f14927f08?utm_campaign=1067&utm_source=git)** | Mankato, MN | On Site | Apr 29 |
 | **[365 Retail Markets](http://www.365retailmarkets.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69b4b6d83b74eb1e2c82087a?utm_campaign=1067&utm_source=git)** | Troy, MI | On Site | Apr 29 |
@@ -92,6 +93,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Apr 23 |
 | **[Fermented Food Holdings (FFH)](https://www.fermentedfoodholdings.com/)** | **[Sr. Business Analyst Internship](https://jobright.ai/jobs/info/69eacc7258811370cb13502c?utm_campaign=1067&utm_source=git)** | Madison, WI, US | On Site | Apr 23 |
 | ↳ | **[Sr. Business Analyst Internship](https://jobright.ai/jobs/info/69eb5e25dc35f7132c4aff6f?utm_campaign=1067&utm_source=git)** | Madison, WI | On Site | Apr 23 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Analyst Associate Intern](https://jobright.ai/jobs/info/69eb0ba316b2612c2a118727?utm_campaign=1067&utm_source=git)** | Springfield, VA | On Site | Apr 23 |
-| **[Vale Base Metals](www.valebasemetals.com)** | **[Business Analyst Co-Op Student](https://jobright.ai/jobs/info/69eb055858811370cb1363e1?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
