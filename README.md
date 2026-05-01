@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/69f41f0158b23a2329da9846?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 30 |
-| ↳ | **[Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/69f41e016942c746fa696a20?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 30 |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/69f42ea6461b9b613a625f76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 30 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
@@ -87,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[PRL Industries](https://prlinc.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f289948feca91f149255fd?utm_campaign=1067&utm_source=git)** | Lebanon, PA | On Site | Apr 29 |
 | **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
-| **[Fiserv](http://www.fiserv.com)** | **[Business Analyst - Summer Intern](https://jobright.ai/jobs/info/69f0df7becbc8c2f732025a0?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
