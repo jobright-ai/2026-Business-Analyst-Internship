@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
+| ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
+| ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
 | **[Welldoc](https://www.welldoc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3cbdf343eef4fb0a9e262?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | Apr 30 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3d9fb1f90bd6ae23d20e1?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Apr 30 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69f3d28d6942c746fa6950fa?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | On Site | Apr 30 |
