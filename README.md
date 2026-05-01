@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/69f42ea6461b9b613a625f76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 30 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
