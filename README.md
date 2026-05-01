@@ -98,6 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ec27197820c036924f987f?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 | **[LVMH](https://www.lvmh.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ebe51d58811370cb13d6d4?utm_campaign=1067&utm_source=git)** | Miami, FL | On Site | Apr 24 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/69ebfda47820c036924f8859?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Apr 24 |
-| ↳ | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/69ebd9190a6e09555304ab2c?utm_campaign=1067&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Apr 24 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ebd44c4b0fa35a7077ef95?utm_campaign=1067&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
