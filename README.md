@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship (OKC Local)](https://jobright.ai/jobs/info/69f50107db88714bcdfb134e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
+| **[SAIC](http://www.saic.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e1fbf5d612782e6114dcaa?utm_campaign=1067&utm_source=git)** | Virginia, United States | Hybrid | May 01 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f22b2aab4ec4779fff7aef?utm_campaign=1067&utm_source=git)** | US WI MKE 4900, US | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
 | **[PRL Industries](https://prlinc.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f289948feca91f149255fd?utm_campaign=1067&utm_source=git)** | Lebanon, PA | On Site | Apr 29 |
-| **[Egis in Canada](www.egis-group.com)** | **[Summer Student/Business Analyst (Commercial Support)](https://jobright.ai/jobs/info/69f1297eb27fee43e8cd77ed?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 28 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -94,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[NY Eventss](nyeventss.com)** | **[Business Intern](https://jobright.ai/jobs/info/69eed8157820c036924ff5de?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 26 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Apr 26 |
 | **[New Mexico Department of Health](https://www.nmhealth.org/)** | **[IT Business Analyst Intern (DOH/ITSD #10118764)](https://jobright.ai/jobs/info/69e9c6f97820c036924e9cad?utm_campaign=1067&utm_source=git)** | Santa Fe, NM | On Site | Apr 25 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ec27197820c036924f987f?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
