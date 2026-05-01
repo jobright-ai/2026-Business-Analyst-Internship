@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SignVideo](https://signvideo.co.uk)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5154843a25828a8d16c21?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | Remote | May 01 |
+| **[Sorenson Communications](http://www.sorenson.com)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5154743a25828a8d16c0f?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | Remote | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/69f510fc0b36ff0354750664?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f50d69db88714bcdfb1b4e?utm_campaign=1067&utm_source=git)** | Huntsville, Alabama, US | On Site | May 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f5057081706a5bd21644fd?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 01 |
