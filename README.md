@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Deloitte](https://www2.deloitte.com)** | **[Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/69f41f0158b23a2329da9846?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Apr 30 |
+| ↳ | **[Analyst, Wonder by Deloitte - Fall 2026 Co-op/Intern - Multiple Locations](https://jobright.ai/jobs/info/69f41e016942c746fa696a20?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 30 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
@@ -100,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/69ebfda47820c036924f8859?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Apr 24 |
 | ↳ | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/69ebd9190a6e09555304ab2c?utm_campaign=1067&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Apr 24 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/69ebd44c4b0fa35a7077ef95?utm_campaign=1067&utm_source=git)** | CA-ON-Toronto | Hybrid | Apr 24 |
-| **[City of Brampton](https://www.brampton.ca)** | **[Analyst, Business Systems](https://jobright.ai/jobs/info/69eb8a06dc35f7132c4b0802?utm_campaign=1067&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
