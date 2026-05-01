@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sorenson Communications](http://www.sorenson.com)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5297681706a5bd2165101?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Remote | May 01 |
 | **[SignVideo](https://signvideo.co.uk)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5154843a25828a8d16c21?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | Remote | May 01 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5154743a25828a8d16c0f?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | Remote | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/69f510fc0b36ff0354750664?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
-| **[Welldoc](https://www.welldoc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3cbdf343eef4fb0a9e262?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | Apr 30 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3d9fb1f90bd6ae23d20e1?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Apr 30 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69f3d28d6942c746fa6950fa?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | On Site | Apr 30 |
 | **[UltiSat, Inc.](http://www.ultisat.com/)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69f3abfb6942c746fa693517?utm_campaign=1067&utm_source=git)** | Laurel, MD | On Site | Apr 30 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f22b2aab4ec4779fff7aef?utm_campaign=1067&utm_source=git)** | US WI MKE 4900, US | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
 | **[PRL Industries](https://prlinc.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f289948feca91f149255fd?utm_campaign=1067&utm_source=git)** | Lebanon, PA | On Site | Apr 29 |
-| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f0f47b8feca91f1491d9c7?utm_campaign=1067&utm_source=git)** | Milwaukee-Wisconsin-United States of America, US | On Site | Apr 28 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69ca95e4466f1e133aac50c4?utm_campaign=1067&utm_source=git)** | Richmond, VA | Hybrid | Apr 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 27 |
