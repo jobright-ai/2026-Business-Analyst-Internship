@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d9a4f29f97a42dc9c23361?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
+| ↳ | **[Intern, Business Systems & Data](https://jobright.ai/jobs/info/69d9a4aa869c7e25d859c838?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f55b5681706a5bd21660c3?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 01 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f54c3412f2811ab5a6423c?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | May 01 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5297681706a5bd2165101?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Remote | May 01 |
