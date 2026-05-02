@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f5057081706a5bd21644fd?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship (OKC Local)](https://jobright.ai/jobs/info/69f50107db88714bcdfb134e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e1fbf5d612782e6114dcaa?utm_campaign=1067&utm_source=git)** | Virginia, United States | Hybrid | May 01 |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f657e4b1fc847fc1ae32c9?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 01 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9458b23a2329da8ec0?utm_campaign=1067&utm_source=git)** | Concord, Ontario, Canada | On Site | Apr 30 |
