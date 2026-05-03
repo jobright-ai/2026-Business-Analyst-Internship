@@ -102,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Business Operations Summer Intern](https://jobright.ai/jobs/info/69f141d3825a315d7ca36dc2?utm_campaign=1067&utm_source=git)** | Phoenix, Arizona, US | On Site | Apr 27 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69ef7e3858811370cb146a12?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[NY Eventss](nyeventss.com)** | **[Business Intern](https://jobright.ai/jobs/info/69eed8157820c036924ff5de?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
