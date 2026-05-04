@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69f9142cb1fc847fc1aea992?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 04 |
+| **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f907b50b36ff035475c928?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c273b1fc847fc1ae8864?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
 | ↳ | **[IT Business Analyst I - 4 Month Internship/Co-op (Fall/2026)](https://jobright.ai/jobs/info/69f8c1f381706a5bd216e1eb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f842d2582f810f9c8cd2f2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
