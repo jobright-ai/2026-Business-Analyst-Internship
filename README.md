@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f65223a3d34b4f76f582fe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d9a4f29f97a42dc9c23361?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
 | ↳ | **[Intern, Business Systems & Data](https://jobright.ai/jobs/info/69d9a4aa869c7e25d859c838?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
