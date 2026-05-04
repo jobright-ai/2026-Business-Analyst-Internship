@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/69f874eb81706a5bd216d3b7?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f842d2582f810f9c8cd2f2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Fall 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69f834d20b36ff035475939d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
