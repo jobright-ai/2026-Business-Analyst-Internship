@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f842d2582f810f9c8cd2f2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Fall 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69f834d20b36ff035475939d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f65223a3d34b4f76f582fe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Systems & Data](https://jobright.ai/jobs/info/69d9a4aa869c7e25d859c838?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f55b5681706a5bd21660c3?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 01 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f54c3412f2811ab5a6423c?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | May 01 |
-| **[Sorenson Communications](http://www.sorenson.com)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5297681706a5bd2165101?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Remote | May 01 |
 | **[SignVideo](https://signvideo.co.uk)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5154843a25828a8d16c21?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | Remote | May 01 |
 | **[Sorenson Communications](http://www.sorenson.com)** | **[Internship - Business Systems Analyst](https://jobright.ai/jobs/info/69f5154743a25828a8d16c0f?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | Remote | May 01 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/69f510fc0b36ff0354750664?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
