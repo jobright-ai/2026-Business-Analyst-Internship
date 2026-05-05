@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe8582f810f9c8d1a24?utm_campaign=1067&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fa081706a5bd2171d07?utm_campaign=1067&utm_source=git)** | Vancouver, CA | On Site | May 04 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69f9142cb1fc847fc1aea992?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 04 |
