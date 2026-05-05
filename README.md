@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe8582f810f9c8d1a24?utm_campaign=1067&utm_source=git)** | Toronto, CA | On Site | May 04 |
+| ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fa081706a5bd2171d07?utm_campaign=1067&utm_source=git)** | Vancouver, CA | On Site | May 04 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69f9142cb1fc847fc1aea992?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f907b50b36ff035475c928?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c273b1fc847fc1ae8864?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
