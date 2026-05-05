@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MiTek](http://www.mii.com)** | **[Summer Intern - Business Process Improvement SAP](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30be?utm_campaign=1067&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | May 05 |
+| **[Blue Nile](http://www.bluenile.com)** | **[Process & Controls Improvement Intern](https://jobright.ai/jobs/info/69fa6f74582f810f9c8d5de5?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe8582f810f9c8d1a24?utm_campaign=1067&utm_source=git)** | Toronto, CA | On Site | May 04 |
 | ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fa081706a5bd2171d07?utm_campaign=1067&utm_source=git)** | Vancouver, CA | On Site | May 04 |
