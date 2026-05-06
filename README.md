@@ -107,7 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f47e64a3d34b4f76f4f52a?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 29 |
 | **[Johnson Outdoors](http://www.johnsonoutdoors.com/)** | **[Business Intern](https://jobright.ai/jobs/info/69f2ca438feca91f14927f08?utm_campaign=1067&utm_source=git)** | Mankato, MN | On Site | Apr 29 |
-| **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
-| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e6ab4ec4779fff9cce?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
