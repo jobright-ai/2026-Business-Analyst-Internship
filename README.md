@@ -59,7 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MiTek](http://www.mii.com)** | **[Summer Intern - Business Process Improvement SAP](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30be?utm_campaign=1067&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Process & Controls Improvement Intern](https://jobright.ai/jobs/info/69fa6f74582f810f9c8d5de5?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 05 |
-| **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
+| **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fb1f1ed21cf86d1e3cfc2f?utm_campaign=1067&utm_source=git)** | Hoboken, NJ | On Site | May 05 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 05 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/69de2007433ac8430e0d8729?utm_campaign=1067&utm_source=git)** | Ann Arbor, MI | Hybrid | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
