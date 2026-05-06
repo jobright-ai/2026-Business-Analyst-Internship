@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fa081706a5bd2171d07?utm_campaign=1067&utm_source=git)** | Vancouver, CA | On Site | May 04 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69f9142cb1fc847fc1aea992?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - GRM, Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f907b50b36ff035475c928?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 04 |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69fae50ae1560008411543f5?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 04 |
 | **[Intact](http://www.intactfc.com)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fad9de18b94b2515bdc9af?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | ↳ | **[IT Business Analyst I - 4 Month Internship/Co-op (Fall/2026)](https://jobright.ai/jobs/info/69fad51638179b6f1ae726cc?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c273b1fc847fc1ae8864?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Business Analyst, FIS University Program](https://jobright.ai/jobs/info/69f24cc68d8d624381aa0382?utm_campaign=1067&utm_source=git)** | Milwaukee, WI | On Site | Apr 29 |
 | **[Oak Wood Ventures](https://www.owproperties.com)** | **[General Business Intern](https://jobright.ai/jobs/info/69f23c43825a315d7ca3b6b2?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | Apr 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69d57be0cfdc6132f9462ad3?utm_campaign=1067&utm_source=git)** | Greensboro, NC | On Site | Apr 29 |
-| **[PRL Industries](https://prlinc.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/69f289948feca91f149255fd?utm_campaign=1067&utm_source=git)** | Lebanon, PA | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
