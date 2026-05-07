@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beauty Co-Lab](https://www.linkedin.com/company/93310848)** | **[Intern, Business Analytics](https://jobright.ai/jobs/info/69fbf63a2f9f6b7cf69102ba?utm_campaign=1067&utm_source=git)** | NYC Metro Area | Hybrid | May 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Business Intern](https://jobright.ai/jobs/info/69fbdb1e38179b6f1ae7b371?utm_campaign=1067&utm_source=git)** | Pensacola, FL, US | Hybrid | May 06 |
 | **[Advarra](https://www.advarra.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69de5bc4e34484770f1a1981?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | May 06 |
 | **[MiTek](http://www.mii.com)** | **[Summer Intern - Business Process Improvement SAP](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30be?utm_campaign=1067&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | May 05 |
