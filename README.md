@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69f3d28d6942c746fa6950fa?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | On Site | Apr 30 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f373471f90bd6ae23cf37f?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Apr 30 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | Apr 30 |
-| **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/69f0281e2b095843b0311a62?utm_campaign=1067&utm_source=git)** | Merrillville, IN | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
