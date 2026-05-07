@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fceea6432a3c4da8e0047a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 07 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/69fcd9475cff890b03f33ebb?utm_campaign=1067&utm_source=git)** | MO, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc53c548d4483e4b638d2f?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc22f9a5949019c55b331a?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 06 |
@@ -90,8 +92,7 @@ For a complete list, click the following sortable link below:
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d9a4f29f97a42dc9c23361?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f55b5681706a5bd21660c3?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 01 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f54c3412f2811ab5a6423c?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | May 01 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/69f510fc0b36ff0354750664?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
-| **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f50d69db88714bcdfb1b4e?utm_campaign=1067&utm_source=git)** | Huntsville, Alabama, US | On Site | May 01 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f50d69db88714bcdfb1b4e?utm_campaign=1067&utm_source=git)** | Huntsville, Alabama, US | On Site | May 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f5057081706a5bd21644fd?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e1fbf5d612782e6114dcaa?utm_campaign=1067&utm_source=git)** | Virginia, United States | Hybrid | May 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f657e4b1fc847fc1ae32c9?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 01 |
