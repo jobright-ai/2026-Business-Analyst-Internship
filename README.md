@@ -58,8 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/69fcd9475cff890b03f33ebb?utm_campaign=1067&utm_source=git)** | MO, US | On Site | May 07 |
-| **[Taylor Corporation](http://www.taylorcorp.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fcd2f0666f063d3d6d0f31?utm_campaign=1067&utm_source=git)** | MN-Remote, US | Remote | May 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fcd296b113035a9f8ebed8?utm_campaign=1067&utm_source=git)** | North Mankato, MN - Taylor Corporation, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc53c548d4483e4b638d2f?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc22f9a5949019c55b331a?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Advarra](https://www.advarra.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69de5bc4e34484770f1a1981?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | May 06 |
@@ -95,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship](https://jobright.ai/jobs/info/69f510fc0b36ff0354750664?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f50d69db88714bcdfb1b4e?utm_campaign=1067&utm_source=git)** | Huntsville, Alabama, US | On Site | May 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f5057081706a5bd21644fd?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 01 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Business Analysis Internship (OKC Local)](https://jobright.ai/jobs/info/69f50107db88714bcdfb134e?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e1fbf5d612782e6114dcaa?utm_campaign=1067&utm_source=git)** | Virginia, United States | Hybrid | May 01 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f657e4b1fc847fc1ae32c9?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
