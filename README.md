@@ -82,6 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fab6a6d21cf86d1e3cc7ff?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Business Analyst Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69f842d2582f810f9c8cd2f2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CA | On Site | May 03 |
 | **[BMO](http://www.bmo.com)** | **[Analyst, Fall 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69f834d20b36ff035475939d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
+| ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69fc28a02f9f6b7cf69116b3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
+| ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fc293476c60e7b70af24e3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[SBTDC Business Counselor](https://jobright.ai/jobs/info/69fab50687a4820e6da81b3d?utm_campaign=1067&utm_source=git)** | Wilmington, NC | On Site | May 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f65223a3d34b4f76f582fe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
@@ -100,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f3d9fb1f90bd6ae23d20e1?utm_campaign=1067&utm_source=git)** | McLean, VA | On Site | Apr 30 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/69f3d28d6942c746fa6950fa?utm_campaign=1067&utm_source=git)** | Miami-FTL Area | On Site | Apr 30 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f373471f90bd6ae23cf37f?utm_campaign=1067&utm_source=git)** | San Mateo, CA | Hybrid | Apr 30 |
-| **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
