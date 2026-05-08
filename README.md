@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Receivos](www.receivos.com)** | **[Business & Digital Operations Intern](https://jobright.ai/jobs/info/69fd79df52e2b44f558ab68d?utm_campaign=1067&utm_source=git)** | United States | Remote | May 07 |
 | **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fd1ed2666f063d3d6d35e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 07 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fceea6432a3c4da8e0047a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 07 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | May 07 |
