@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69fe203f4b9bbf21744ae80a?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | May 08 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 08 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Training & Internship Program](https://jobright.ai/jobs/info/69fde2c9f363bc4dc3399aa3?utm_campaign=1067&utm_source=git)** | Canada | Remote | May 08 |
 | **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fd1ed2666f063d3d6d35e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 07 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f65223a3d34b4f76f582fe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 | **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d9a4f29f97a42dc9c23361?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
-| **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f55b5681706a5bd21660c3?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
