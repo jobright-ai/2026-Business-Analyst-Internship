@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 08 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Training & Internship Program](https://jobright.ai/jobs/info/69fde2c9f363bc4dc3399aa3?utm_campaign=1067&utm_source=git)** | Canada | Remote | May 08 |
 | **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fd1ed2666f063d3d6d35e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 07 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fceea6432a3c4da8e0047a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 07 |
