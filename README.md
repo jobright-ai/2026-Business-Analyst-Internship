@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/69fcd9475cff890b03f33ebb?utm_campaign=1067&utm_source=git)** | MO, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc53c548d4483e4b638d2f?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc22f9a5949019c55b331a?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Advarra](https://www.advarra.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/69de5bc4e34484770f1a1981?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | May 06 |
 | **[MiTek](http://www.mii.com)** | **[Summer Intern - Business Process Improvement SAP](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30be?utm_campaign=1067&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Process & Controls Improvement Intern](https://jobright.ai/jobs/info/69fa6f74582f810f9c8d5de5?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fb1f1ed21cf86d1e3cfc2f?utm_campaign=1067&utm_source=git)** | Hoboken, NJ | On Site | May 05 |
