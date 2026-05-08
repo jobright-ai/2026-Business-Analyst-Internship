@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catholic Diocese Of Rockford](https://www.linkedin.com/company/4410392)** | **[Business Analytics Intern (Summer Only)](https://jobright.ai/jobs/info/69fe2f2df363bc4dc339c262?utm_campaign=1067&utm_source=git)** | Aurora,IL,US | On Site | May 08 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69fe203f4b9bbf21744ae80a?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | May 08 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 08 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Training & Internship Program](https://jobright.ai/jobs/info/69fde2c9f363bc4dc3399aa3?utm_campaign=1067&utm_source=git)** | Canada | Remote | May 08 |
@@ -91,5 +92,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fc293476c60e7b70af24e3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f65223a3d34b4f76f582fe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
-| **[HealthStream](http://www.healthstream.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/69d9a4f29f97a42dc9c23361?utm_campaign=1067&utm_source=git)** | Nashville, TN | Remote | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
