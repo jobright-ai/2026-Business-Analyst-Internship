@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69f50d69db88714bcdfb1b4e?utm_campaign=1067&utm_source=git)** | Huntsville, Alabama, US | On Site | May 01 |
 | **[RBC](https://www.rbc.com)** | **[2026 Fall - ECOO, Business Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69f5057081706a5bd21644fd?utm_campaign=1067&utm_source=git)** | TORONTO, Ontario, Canada | On Site | May 01 |
 | **[SAIC](http://www.saic.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/69e1fbf5d612782e6114dcaa?utm_campaign=1067&utm_source=git)** | Virginia, United States | Hybrid | May 01 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f657e4b1fc847fc1ae32c9?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
