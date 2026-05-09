@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ff2bce238f143e835240eb?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 09 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Business Analyst Intern (Office of Operations)](https://jobright.ai/jobs/info/69ff237cc2ffb31f4535d6ab?utm_campaign=1067&utm_source=git)** | NYC-ALL BOROS | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analytics Intern (Summer Only)](https://jobright.ai/jobs/info/69feb6de1161630dd3b02a13?utm_campaign=1067&utm_source=git)** | Aurora, IL, US | On Site | May 08 |
