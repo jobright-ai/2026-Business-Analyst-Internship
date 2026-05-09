@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 09 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Business Analyst Intern (Office of Operations)](https://jobright.ai/jobs/info/69ff237cc2ffb31f4535d6ab?utm_campaign=1067&utm_source=git)** | NYC-ALL BOROS | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analytics Intern (Summer Only)](https://jobright.ai/jobs/info/69feb6de1161630dd3b02a13?utm_campaign=1067&utm_source=git)** | Aurora, IL, US | On Site | May 08 |
 | ↳ | **[Enterprise Change Intern](https://jobright.ai/jobs/info/69fe9a914b9bbf21744b23e5?utm_campaign=1067&utm_source=git)** | Oakland, CA, US | Hybrid | May 08 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Enterprise Change Intern](https://jobright.ai/jobs/info/69fe8f28f363bc4dc339f48f?utm_campaign=1067&utm_source=git)** | Oakland General Office (OGO) | Hybrid | May 08 |
@@ -97,5 +99,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69fc28a02f9f6b7cf69116b3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fc293476c60e7b70af24e3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 03 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Business Innovation Intern](https://jobright.ai/jobs/info/69f65223a3d34b4f76f582fe?utm_campaign=1067&utm_source=git)** | United States-Massachusetts-Chelsea-200 Arlington Street | On Site | May 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
