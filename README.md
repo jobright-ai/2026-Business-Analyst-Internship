@@ -97,7 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Intact](http://www.intactfc.com)** | **[IT Business Analyst I - 4 Month Internship/Co-op (Fall/2026)](https://jobright.ai/jobs/info/69fad51638179b6f1ae726cc?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[IT Business Analyst I - 4 Month Internship/Co-op (Fall/2026)](https://jobright.ai/jobs/info/69f8c1f381706a5bd216e1eb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | May 04 |
-| **[BMO](http://www.bmo.com)** | **[Analyst, Fall 2026 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/69f834d20b36ff035475939d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
-| ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/69fc28a02f9f6b7cf69116b3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
-| ↳ | **[Business Analyst, Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fc293476c60e7b70af24e3?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
