@@ -96,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69fae50ae1560008411543f5?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 04 |
 | **[Intact](http://www.intactfc.com)** | **[IT Business Analyst I - 4 Month Internship/Co-op (Fall/2026)](https://jobright.ai/jobs/info/69fad51638179b6f1ae726cc?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[IT Business Analyst I - 4 Month Internship/Co-op (Fall/2026)](https://jobright.ai/jobs/info/69f8c1f381706a5bd216e1eb?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 04 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/68dc38b4b324915618962556?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
