@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SOTI](http://www.soti.net/)** | **[Technical Business Analyst Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a023a693053db70a1175d66?utm_campaign=1067&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 11 |
+| **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0246dedf52f1450d8494e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 11 |
 | **[Buc-ee's, Ltd.](http://buc-ees.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a0233a0238f143e835319d2?utm_campaign=1067&utm_source=git)** | TX - Pearland, US | On Site | May 11 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6a0076b3a0eddc08c239c263?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 10 |
@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fceea6432a3c4da8e0047a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 07 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/69fcd9475cff890b03f33ebb?utm_campaign=1067&utm_source=git)** | MO, US | On Site | May 07 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026](https://jobright.ai/jobs/info/6a0249c1c2ffb31f4536bc76?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Hybrid | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc53c548d4483e4b638d2f?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 06 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc22f9a5949019c55b331a?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[MiTek](http://www.mii.com)** | **[Summer Intern - Business Process Improvement SAP](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30be?utm_campaign=1067&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | May 05 |
@@ -89,7 +90,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fafdc686d5cd46527d1c14?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 05 |
 | ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69faff5218b94b2515bde5e2?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 05 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Process & Controls Improvement Intern](https://jobright.ai/jobs/info/69fc697fe17071257af19af1?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 04 |
-| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fe8582f810f9c8d1a24?utm_campaign=1067&utm_source=git)** | Toronto, CA | On Site | May 04 |
-| ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69f96fa081706a5bd2171d07?utm_campaign=1067&utm_source=git)** | Vancouver, CA | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
