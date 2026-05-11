@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DataBank](http://www.databank.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/69d551a1706f771673ba21d4?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 11 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69cc7a0c891d7b11cfcac8a7?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT | Hybrid | May 10 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6a0076b3a0eddc08c239c263?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 10 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ff2bce238f143e835240eb?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 09 |
