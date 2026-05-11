@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOTI](http://www.soti.net/)** | **[Technical Business Analyst Intern (September 2026 12 Months)](https://jobright.ai/jobs/info/6a023a693053db70a1175d66?utm_campaign=1067&utm_source=git)** | Mississauga, Canada – Meadowvale Office (HQ), CA | On Site | May 11 |
+| **[Buc-ee's, Ltd.](http://buc-ees.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a0233a0238f143e835319d2?utm_campaign=1067&utm_source=git)** | TX - Pearland, US | On Site | May 11 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6d2f8fa2f3ec329f3f2?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6a0076b3a0eddc08c239c263?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 10 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ff2bce238f143e835240eb?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 09 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 09 |
