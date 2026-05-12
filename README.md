@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAON, Inc.](https://www.aaon.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6a032d40bc4184089f22fa22?utm_campaign=1067&utm_source=git)** | Tulsa, OK, US | On Site | May 12 |
 | **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern - Houston, TX](https://jobright.ai/jobs/info/6a02cda8f3d6cc51d6370da4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 11 |
 | **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0246dedf52f1450d8494e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 11 |
 | **[Buc-ee's, Ltd.](http://buc-ees.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a0233a0238f143e835319d2?utm_campaign=1067&utm_source=git)** | TX - Pearland, US | On Site | May 11 |
@@ -88,6 +89,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc22f9a5949019c55b331a?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[MiTek](http://www.mii.com)** | **[Summer Intern - Business Process Improvement SAP](https://jobright.ai/jobs/info/69fa702fdb88714bcdfc30be?utm_campaign=1067&utm_source=git)** | Chesterfield, MO, USA, US | Hybrid | May 05 |
 | **[Blue Nile](http://www.bluenile.com)** | **[Process & Controls Improvement Intern](https://jobright.ai/jobs/info/69fa6f74582f810f9c8d5de5?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 05 |
-| **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fb1f1ed21cf86d1e3cfc2f?utm_campaign=1067&utm_source=git)** | Hoboken, NJ | On Site | May 05 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
