@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yancey Bros. Co.](http://www.yanceybros.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a033c54bc4184089f230597?utm_campaign=1067&utm_source=git)** | Austell, Georgia, United States | On Site | May 12 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6a032d40bc4184089f22fa22?utm_campaign=1067&utm_source=git)** | Tulsa, OK, US | On Site | May 12 |
 | **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern - Houston, TX](https://jobright.ai/jobs/info/6a02cda8f3d6cc51d6370da4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 11 |
 | **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0246dedf52f1450d8494e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 11 |
