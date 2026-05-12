@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 12 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a035c0d6c07461fe170346c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6a035c096c07461fe1703448?utm_campaign=1067&utm_source=git)** | Tulsa, OK | On Site | May 12 |
 | **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a035601bc4184089f2316ea?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 12 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6a0076b3a0eddc08c239c263?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 10 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Analyst Intern (Office of Operations)](https://jobright.ai/jobs/info/6a02c74d6c07461fe16fd893?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 09 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ff2bce238f143e835240eb?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 09 |
-| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 09 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Business Analyst Intern (Office of Operations)](https://jobright.ai/jobs/info/69ff237cc2ffb31f4535d6ab?utm_campaign=1067&utm_source=git)** | NYC-ALL BOROS | On Site | May 09 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/69c704c983ea553769fdfd22?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analytics Intern (Summer Only)](https://jobright.ai/jobs/info/69feb6de1161630dd3b02a13?utm_campaign=1067&utm_source=git)** | Aurora, IL, US | On Site | May 08 |
