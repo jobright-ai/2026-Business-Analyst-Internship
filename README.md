@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern - Houston, TX](https://jobright.ai/jobs/info/6a02cda8f3d6cc51d6370da4?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 11 |
 | **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0246dedf52f1450d8494e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 11 |
 | **[Buc-ee's, Ltd.](http://buc-ees.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a0233a0238f143e835319d2?utm_campaign=1067&utm_source=git)** | TX - Pearland, US | On Site | May 11 |
 | **[Just Born, Inc.](http://www.justborn.com)** | **[IT Business Process Intern - Summer 2026](https://jobright.ai/jobs/info/6a0249c1c2ffb31f4536bc76?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | Hybrid | May 11 |
@@ -89,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Nile](http://www.bluenile.com)** | **[Process & Controls Improvement Intern](https://jobright.ai/jobs/info/69fa6f74582f810f9c8d5de5?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[NiCE](http://nice.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fb1f1ed21cf86d1e3cfc2f?utm_campaign=1067&utm_source=git)** | Hoboken, NJ | On Site | May 05 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
-| **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
