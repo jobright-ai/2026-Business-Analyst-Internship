@@ -88,6 +88,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fa548ea3d34b4f76f65192?utm_campaign=1067&utm_source=git)** | USA - Hoboken, NJ | On Site | May 05 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
-| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69fafdc686d5cd46527d1c14?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 05 |
-| ↳ | **[Business Systems Analyst, Fall 2026 - Toronto or Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69faff5218b94b2515bde5e2?utm_campaign=1067&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
