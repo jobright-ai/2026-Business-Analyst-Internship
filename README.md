@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a035601bc4184089f2316ea?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[IDEXX](http://www.idexx.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/69caee32aa3c2c1995e31e22?utm_campaign=1067&utm_source=git)** | Westbrook, ME | Hybrid | May 12 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst,  Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a033eb8ed6a637463f4e1c9?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
 | ↳ | **[Business Analyst,  Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a033eb122395b6dc6d92a54?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 12 |
