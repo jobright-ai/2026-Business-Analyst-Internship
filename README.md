@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a03e0eb7c753c287f6eae60?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 12 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 12 |
 | **[Medica](https://www.medica.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6a03c59f7c753c287f6ea2bb?utm_campaign=1067&utm_source=git)** | Hopkins, MN | Hybrid | May 12 |
 | **[ClearPath Business Advisors](https://www.clearpathba.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6a03afeb6c07461fe1706bcd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | May 12 |
