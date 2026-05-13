@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04a8abbc4184089f23d846?utm_campaign=1067&utm_source=git)** | Virtual, Texas, United States | On Site | May 13 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a04a04af811a0436960d005?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | May 13 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Business Operations Intern, QualTex Labs](https://jobright.ai/jobs/info/69e826e93aa0c4796439e28e?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | May 13 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a0455b9bc4184089f239b4f?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 13 |
 | **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a041af86c07461fe170a2cc?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 12 |
