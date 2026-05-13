@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Martin Law Firm, PC](https://employmentdefenselaw.com)** | **[Operations/Data Analyst Intern](https://jobright.ai/jobs/info/6a04cfcf22395b6dc6da0ffc?utm_campaign=1067&utm_source=git)** | Logan, UT | On Site | May 13 |
 | **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04b9f9bc4184089f23e0ca?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | May 13 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a04b573bc4184089f23dfae?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | May 13 |
 | **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04a8abbc4184089f23d846?utm_campaign=1067&utm_source=git)** | Virtual, Texas, United States | On Site | May 13 |
