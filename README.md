@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/69fcd9475cff890b03f33ebb?utm_campaign=1067&utm_source=git)** | MO, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc53c548d4483e4b638d2f?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 06 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc22f9a5949019c55b331a?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
