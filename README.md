@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare Area 1 Security](https://www.area1security.com/)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a041af86c07461fe170a2cc?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 12 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a03e0eb7c753c287f6eae60?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | May 12 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3ebacc78b9e4518958cc4?utm_campaign=1067&utm_source=git)** | Scarborough, Ontario, Canada | On Site | May 12 |
 | **[Medica](https://www.medica.com)** | **[Digital Business Analyst Intern](https://jobright.ai/jobs/info/6a03c59f7c753c287f6ea2bb?utm_campaign=1067&utm_source=git)** | Hopkins, MN | Hybrid | May 12 |
