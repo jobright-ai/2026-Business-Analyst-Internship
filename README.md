@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Martin Law Firm, PC](https://employmentdefenselaw.com)** | **[Operations/Data Analyst Intern](https://jobright.ai/jobs/info/6a04cfcf22395b6dc6da0ffc?utm_campaign=1067&utm_source=git)** | Logan, UT | On Site | May 13 |
 | **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04b9f9bc4184089f23e0ca?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | May 13 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a04b573bc4184089f23dfae?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | May 13 |
 | **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04a8abbc4184089f23d846?utm_campaign=1067&utm_source=git)** | Virtual, Texas, United States | On Site | May 13 |
@@ -97,5 +96,4 @@ For a complete list, click the following sortable link below:
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst I - 4 Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fceea6432a3c4da8e0047a?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CAN, CA | On Site | May 07 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[IT Business Analyst, Digital Platforms](https://jobright.ai/jobs/info/69f3563b1f90bd6ae23ce834?utm_campaign=1067&utm_source=git)** | Bonita Springs, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/69fcd9475cff890b03f33ebb?utm_campaign=1067&utm_source=git)** | MO, US | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/69fc53c548d4483e4b638d2f?utm_campaign=1067&utm_source=git)** | NY, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
