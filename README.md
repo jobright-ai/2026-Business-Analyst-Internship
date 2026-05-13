@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ClearPath Business Advisors](https://www.clearpathba.com)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6a03afeb6c07461fe1706bcd?utm_campaign=1067&utm_source=git)** | San Francisco, CA | On Site | May 12 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a0395ac22395b6dc6d9647c?utm_campaign=1067&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 12 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 12 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a035c0d6c07461fe170346c?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 12 |
