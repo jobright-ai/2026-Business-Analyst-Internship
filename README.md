@@ -98,5 +98,4 @@ For a complete list, click the following sortable link below:
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69fe203f4b9bbf21744ae80a?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | May 08 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 08 |
-| **[(WIS) Wellbore Integrity Solutions](https://www.wellboreintegrity.com)** | **[Business Analyst Intern - Houston, TX](https://jobright.ai/jobs/info/69fd1ed2666f063d3d6d35e9?utm_campaign=1067&utm_source=git)** | Houston, Texas, United States | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
