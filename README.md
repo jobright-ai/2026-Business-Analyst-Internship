@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06f1dd24dcb03739f1a57f?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA - ACCD Office | On Site | May 15 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69e0025014bf245fc7a6f677?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | On Site | May 15 |
 | **[HSL Asset Management, LLC.](https://hslproperties.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a065705a88ea73abf7fae3b?utm_campaign=1067&utm_source=git)** | Tucson, AZ, US | On Site | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/6a064120bc4184089f24d850?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | May 14 |
 | **[FreeFlight Systems](http://freeflightsystems.com)** | **[Business Operations & Contract Management Intern (Contract Workflow & Process Enablement)](https://jobright.ai/jobs/info/6a06361e7c753c287f700c41?utm_campaign=1067&utm_source=git)** | Irving, Texas, United States | Hybrid | May 14 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390223?utm_campaign=1067&utm_source=git)** | Marysville, Ohio, United States | On Site | May 14 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390221?utm_campaign=1067&utm_source=git)** | Torrance, California, United States | On Site | May 14 |
+| ↳ | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390223?utm_campaign=1067&utm_source=git)** | Marysville, Ohio, United States | On Site | May 14 |
 | ↳ | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390222?utm_campaign=1067&utm_source=git)** | 1800 Honda Dr, Torrance, California, United States | On Site | May 14 |
-| ↳ | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390221?utm_campaign=1067&utm_source=git)** | Torrance, California, United States | On Site | May 14 |
 | ↳ | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a28f3d6cc51d6390220?utm_campaign=1067&utm_source=git)** | Lincoln, Alabama, United States | On Site | May 14 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/69e9a35a0a6e09555303d089?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | May 14 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Internship - NA PCSD Business Management](https://jobright.ai/jobs/info/6a0621087c753c287f6ff8d3?utm_campaign=1067&utm_source=git)** | North Carolina, United States | On Site | May 14 |
@@ -102,5 +104,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Change Intern](https://jobright.ai/jobs/info/69fe9a914b9bbf21744b23e5?utm_campaign=1067&utm_source=git)** | Oakland, CA, US | Hybrid | May 08 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a019d19238f143e8352d23a?utm_campaign=1067&utm_source=git)** | Mississauga, ONT, Canada | Hybrid | May 08 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/69fe203f4b9bbf21744ae80a?utm_campaign=1067&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
