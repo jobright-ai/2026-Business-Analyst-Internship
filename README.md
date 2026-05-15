@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fb08152f493123c4a64e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 15 |
+| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a06faec078fec52738a32a4?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
 | **[Transcarent](https://www.transcarent.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06f1dd24dcb03739f1a57f?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA - ACCD Office | On Site | May 15 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/69e0025014bf245fc7a6f677?utm_campaign=1067&utm_source=git)** | Plymouth Meeting, PA | On Site | May 15 |
 | **[HSL Asset Management, LLC.](https://hslproperties.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a065705a88ea73abf7fae3b?utm_campaign=1067&utm_source=git)** | Tucson, AZ, US | On Site | May 14 |
@@ -74,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[BCI](https://www.bci.ca/)** | **[Enteprise Solutions, Business Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577877c753c287f6f9821?utm_campaign=1067&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
 | ↳ | **[Enteprise Solutions, Business Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577867c753c287f6f981e?utm_campaign=1067&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[MSM North America](https://www.msm-northamerica.com)** | **[International Business Intern](https://jobright.ai/jobs/info/6a056cbff3d6cc51d6388f15?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL, USA | On Site | May 13 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 13 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711f52e2b44f558b1da0?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711f52e2b44f558b1da0?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 13 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 13 |
 | **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04b9f9bc4184089f23e0ca?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | May 13 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a04b573bc4184089f23dfae?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | May 13 |
@@ -103,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analytics Intern (Summer Only)](https://jobright.ai/jobs/info/69feb6de1161630dd3b02a13?utm_campaign=1067&utm_source=git)** | Aurora, IL, US | On Site | May 08 |
 | ↳ | **[Enterprise Change Intern](https://jobright.ai/jobs/info/69fe9a914b9bbf21744b23e5?utm_campaign=1067&utm_source=git)** | Oakland, CA, US | Hybrid | May 08 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a019d19238f143e8352d23a?utm_campaign=1067&utm_source=git)** | Mississauga, ONT, Canada | Hybrid | May 08 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Business Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698cf8be78b4502f12a36c21?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
