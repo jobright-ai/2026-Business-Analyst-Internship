@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a074ceba203b1052e439561?utm_campaign=1067&utm_source=git)** | Poway California | On Site | May 15 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a074cc03b54ed42d74cc1e7?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, US, 19073 | Hybrid | May 15 |
 | **[MSM North America](https://www.msm-northamerica.com)** | **[International Business Intern](https://jobright.ai/jobs/info/6a072efc1f7fa33581c9d4a5?utm_campaign=1067&utm_source=git)** | St. Petersburg, FL, USA | On Site | May 15 |
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/6a0703b31f7fa33581c9a48a?utm_campaign=1067&utm_source=git)** | San Carlos | On Site | May 15 |
 | ↳ | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701ab4a0a6a7e7d81fd76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5b?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | May 15 |
-| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5a?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
 | **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Internship - NA PCSD Business Management](https://jobright.ai/jobs/info/6a05fa1a7c753c287f6fdb43?utm_campaign=1067&utm_source=git)** | Morrisville, North Carolina | On Site | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Enteprise Solutions, Business Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577877c753c287f6f9821?utm_campaign=1067&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
 | ↳ | **[Enteprise Solutions, Business Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577867c753c287f6f981e?utm_campaign=1067&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 13 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711f52e2b44f558b1da0?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/69fe711f52e2b44f558b1da0?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 13 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 13 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/69f3eb9558b23a2329da8ecf?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 13 |
 | **[TransCore](http://www.transcore.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a04b9f9bc4184089f23e0ca?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | May 13 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a04b573bc4184089f23dfae?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | May 13 |
