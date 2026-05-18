@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ELSEWORKS](https://www.elseworks.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0b5ac7963f7a67d95ceddf?utm_campaign=1067&utm_source=git)** | Jackson, MS | On Site | May 18 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[CPPI](https://cppi.com/)** | **[Business Analyst (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/6a0b2e1422d0d34036c8936b?utm_campaign=1067&utm_source=git)** | 9999 Willow Creek Rd, San Diego, CA, 92131, US | On Site | May 18 |
@@ -79,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701ab4a0a6a7e7d81fd76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5b?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5a?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
 | **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fb08152f493123c4a64e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 15 |
@@ -113,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/69ff2974a0eddc08c23979c5?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 12 |
 | **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a035601bc4184089f2316ea?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 12 |
 | **[AAON, Inc.](https://www.aaon.com)** | **[Intern - Business](https://jobright.ai/jobs/info/6a032d40bc4184089f22fa22?utm_campaign=1067&utm_source=git)** | Tulsa, OK, US | On Site | May 12 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Management Analyst - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a07f4f1939a5f01db954fe6?utm_campaign=1067&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
