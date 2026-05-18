@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ELSEWORKS](https://www.elseworks.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0b5ac7963f7a67d95ceddf?utm_campaign=1067&utm_source=git)** | Jackson, MS | On Site | May 18 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Digital Nexus AI](digitalnexusai.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0b3c9522d0d34036c89bc1?utm_campaign=1067&utm_source=git)** | Canada | Remote | May 18 |
 | **[CPPI](https://cppi.com/)** | **[Business Analyst (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701ab4a0a6a7e7d81fd76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5a?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5b?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5b?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
 | **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
