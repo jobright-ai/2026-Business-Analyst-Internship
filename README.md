@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e997a47fea1610bcab47e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | May 20 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 20 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e997a47fea1610bcab47e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | May 20 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e993012f8b43cf397894d?utm_campaign=1067&utm_source=git)** | United States | Remote | May 20 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | May 20 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e58c480bf0430c762c34b?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | May 20 |
@@ -71,22 +72,22 @@ For a complete list, click the following sortable link below:
 | **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0e002ec152ac782448216b?utm_campaign=1067&utm_source=git)** | Nottingham, MD | On Site | May 20 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dfd7980bf0430c76282d7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | May 20 |
 | ↳ | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dcce880bf0430c76263e8?utm_campaign=1067&utm_source=git)** | Waite Park, MN 56387, US | On Site | May 20 |
-| **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0dcbcd80bf0430c76263a2?utm_campaign=1067&utm_source=git)** | US-MD-Nottingham | On Site | May 20 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0dcbcd80bf0430c76263a3?utm_campaign=1067&utm_source=git)** | Nottingham, MD, US | On Site | May 20 |
+| **[Mariner Finance](http://www.marinerfinance.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0dcbcd80bf0430c76263a3?utm_campaign=1067&utm_source=git)** | Nottingham, MD, US | On Site | May 20 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0dcbcd80bf0430c76263a2?utm_campaign=1067&utm_source=git)** | US-MD-Nottingham | On Site | May 20 |
 | **[BMO](http://www.bmo.com)** | **[Business IT Coordinator, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0db59980bf0430c76254b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, CAN, CA | On Site | May 20 |
 | ↳ | **[Business IT Coordinator, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0db59980bf0430c76254b0?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 20 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a0c7cc90411d7417a1b917a?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 19 |
-| **[CPPI](http://www.NDRF.us)** | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0de7c880bf0430c762763c?utm_campaign=1067&utm_source=git)** | Gainesville, FL, US | On Site | May 18 |
+| **[CPPI](https://cppi.com/)** | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
+| ↳ | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0de7c880bf0430c762763c?utm_campaign=1067&utm_source=git)** | Gainesville, FL, US | On Site | May 18 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
-| **[CPPI](https://cppi.com/)** | **[Business Analyst (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/6a0b2e1422d0d34036c8936b?utm_campaign=1067&utm_source=git)** | 9999 Willow Creek Rd, San Diego, CA, 92131, US | On Site | May 18 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5883b54ed42d74d8a30?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
@@ -97,9 +98,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701ab4a0a6a7e7d81fd76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5b?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5a?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
-| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
 | **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fb08152f493123c4a64e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 15 |
