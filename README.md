@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/6a0f2ff080bf0430c7631651?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI | On Site | May 21 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f414383d714428981e106?utm_campaign=1067&utm_source=git)** | Ames - 50010 - Story County, IA | On Site | May 21 |
+| **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f3db880bf0430c7631f61?utm_campaign=1067&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 21 |
+| **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e6ab4ec4779fff9cce?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
+| **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f35a480bf0430c76319ef?utm_campaign=1067&utm_source=git)** | Remote, Virginia, United States | Remote | May 21 |
+| **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f2896aecbc8c2f7320afa6?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 20 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e997a47fea1610bcab47e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | May 20 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e993012f8b43cf397894d?utm_campaign=1067&utm_source=git)** | United States | Remote | May 20 |
@@ -100,9 +106,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | May 15 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701ab4a0a6a7e7d81fd76?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5b?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | May 15 |
-| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5a?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd5f?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a0701a94a0a6a7e7d81fd60?utm_campaign=1067&utm_source=git)** | Oakville | Hybrid | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
 | **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Business Analyst Intern, Revenue Operations (AI Innovation) (Summer 2026)](https://jobright.ai/jobs/info/6a06fb08152f493123c4a64e?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 15 |
