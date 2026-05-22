@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f950912f8b43cf3980717?utm_campaign=1067&utm_source=git)** | Ames, IA | On Site | May 21 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f950912f8b43cf3980717?utm_campaign=1067&utm_source=git)** | Ames, IA | On Site | May 21 |
 | **[FOODMatch](http://foodmatch.com)** | **[[Summer Internship] Business Process Optimization Intern](https://jobright.ai/jobs/info/6a0f90b683d714428982184e?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | May 21 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f8ce2619335383fb2dbae?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f414383d714428981e106?utm_campaign=1067&utm_source=git)** | Ames - 50010 - Story County, IA | On Site | May 21 |
@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5883b54ed42d74d8a30?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
