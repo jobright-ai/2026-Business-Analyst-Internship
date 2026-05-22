@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 20 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dfd7980bf0430c76282d7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | May 20 |
 | ↳ | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dcce880bf0430c76263e8?utm_campaign=1067&utm_source=git)** | Waite Park, MN 56387, US | On Site | May 20 |
-| **[BMO](http://www.bmo.com)** | **[Business IT Coordinator, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0db59980bf0430c76254b0?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 20 |
-| ↳ | **[Business IT Coordinator, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0db59980bf0430c76254b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, CAN, CA | On Site | May 20 |
+| **[BMO](http://www.bmo.com)** | **[Business IT Coordinator, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0db59980bf0430c76254b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, CAN, CA | On Site | May 20 |
+| ↳ | **[Business IT Coordinator, Fall 2026 (Co-op/Internship) -4 Months](https://jobright.ai/jobs/info/6a0db59980bf0430c76254b0?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | May 20 |
 | **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb53f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | May 20 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a0c7cc90411d7417a1b917a?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 19 |
@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | May 15 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a074ceba203b1052e439561?utm_campaign=1067&utm_source=git)** | Poway California | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
