@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a10f9399fdbf21f36cb1fa1?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 22 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Corporate Business Intern](https://jobright.ai/jobs/info/6a1087e612f8b43cf3985c1d?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | May 22 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f950912f8b43cf3980717?utm_campaign=1067&utm_source=git)** | Ames, IA | On Site | May 21 |
 | **[FOODMatch](http://foodmatch.com)** | **[[Summer Internship] Business Process Optimization Intern](https://jobright.ai/jobs/info/6a0f90b683d714428982184e?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | May 21 |
@@ -97,5 +98,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
