@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/6a0b2e1422d0d34036c8936b?utm_campaign=1067&utm_source=git)** | 9999 Willow Creek Rd, San Diego, CA, 92131, US | On Site | May 18 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 17 |
-| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
