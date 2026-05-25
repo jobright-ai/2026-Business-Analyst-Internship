@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a145220dc845f4be5bd1cbe?utm_campaign=1067&utm_source=git)** | Canada | Remote | May 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a10f9399fdbf21f36cb1fa1?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 22 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a13d0179f654b3359cf775f?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 22 |
