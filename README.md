@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[CPPI](https://cppi.com/)** | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
 | ↳ | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0de7c880bf0430c762763c?utm_campaign=1067&utm_source=git)** | Gainesville, FL, US | On Site | May 18 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/6a0b2e1422d0d34036c8936b?utm_campaign=1067&utm_source=git)** | 9999 Willow Creek Rd, San Diego, CA, 92131, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
