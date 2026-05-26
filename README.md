@@ -92,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c17738a270c8bfa7f81?utm_campaign=1067&utm_source=git)** | Export, PA | On Site | May 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a0c7cc90411d7417a1b917a?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 19 |
-| **[CPPI](https://cppi.com/)** | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
