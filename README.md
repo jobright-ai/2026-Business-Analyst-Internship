@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c68554b0e12c057f58a?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | May 20 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dcce880bf0430c76263e8?utm_campaign=1067&utm_source=git)** | Waite Park, MN 56387, US | On Site | May 20 |
 | **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb53f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | May 20 |
-| **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c17738a270c8bfa7f81?utm_campaign=1067&utm_source=git)** | Export, PA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
