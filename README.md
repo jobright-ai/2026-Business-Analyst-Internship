@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Coast Dental](http://www.coastdental.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a15b3b3554b0e12c058514a?utm_campaign=1067&utm_source=git)** | FL Corporate Support - Tampa, FL 33634 | On Site | May 26 |
+| **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 26 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a159fb00073182bd92ab2b0?utm_campaign=1067&utm_source=git)** | IN - Greensburg - State Road 3 Bypass, US | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[FOODMatch](http://foodmatch.com)** | **[[Summer Internship] Business Process Optimization Intern](https://jobright.ai/jobs/info/6a0f90b683d714428982184e?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | May 21 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f8ce2619335383fb2dbae?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f414383d714428981e106?utm_campaign=1067&utm_source=git)** | Ames - 50010 - Story County, IA | On Site | May 21 |
-| **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f3db880bf0430c7631f61?utm_campaign=1067&utm_source=git)** | 6314 Remote/Teleworker US, US | Remote | May 21 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e6ab4ec4779fff9cce?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
