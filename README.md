@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/6a15493c1935fa61b3c67059?utm_campaign=1067&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 25 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/6a14b8cedc845f4be5bd2f2c?utm_campaign=1067&utm_source=git)** | ON055 - Vaughan ON, CA | On Site | May 25 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a145220dc845f4be5bd1cbe?utm_campaign=1067&utm_source=git)** | Canada | Remote | May 25 |
