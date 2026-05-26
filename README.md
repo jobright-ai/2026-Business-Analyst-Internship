@@ -91,6 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dcce880bf0430c76263e8?utm_campaign=1067&utm_source=git)** | Waite Park, MN 56387, US | On Site | May 20 |
 | **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb53f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | May 20 |
 | **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c17738a270c8bfa7f81?utm_campaign=1067&utm_source=git)** | Export, PA | On Site | May 19 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 19 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a0c7cc90411d7417a1b917a?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
