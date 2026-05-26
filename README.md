@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 26 |
+| **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a159fb00073182bd92ab2b0?utm_campaign=1067&utm_source=git)** | IN - Greensburg - State Road 3 Bypass, US | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/6a15493c1935fa61b3c67059?utm_campaign=1067&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 25 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/6a14b8cedc845f4be5bd2f2c?utm_campaign=1067&utm_source=git)** | ON055 - Vaughan ON, CA | On Site | May 25 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a10f9399fdbf21f36cb1fa1?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 22 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a13d0179f654b3359cf775f?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 22 |
-| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Corporate Business Intern](https://jobright.ai/jobs/info/6a1087e612f8b43cf3985c1d?utm_campaign=1067&utm_source=git)** | Chantilly, VA | On Site | May 22 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a13c03d58ee291d8052d13b?utm_campaign=1067&utm_source=git)** | Ames, IA | On Site | May 21 |
 | **[FOODMatch](http://foodmatch.com)** | **[[Summer Internship] Business Process Optimization Intern](https://jobright.ai/jobs/info/6a0f90b683d714428982184e?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | May 21 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f8ce2619335383fb2dbae?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
