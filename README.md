@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coast Dental](http://www.coastdental.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a15b3b3554b0e12c058514a?utm_campaign=1067&utm_source=git)** | FL Corporate Support - Tampa, FL 33634 | On Site | May 26 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 26 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a159fb00073182bd92ab2b0?utm_campaign=1067&utm_source=git)** | IN - Greensburg - State Road 3 Bypass, US | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
