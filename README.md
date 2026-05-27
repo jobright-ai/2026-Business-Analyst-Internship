@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Caltech](http://www.caltech.edu)** | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a165e321b2f6918b0e3176a?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
 | ↳ | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a163fa0128680351d9694c5?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
-| **[Sallie Mae](https://www.salliemae.com)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6a1622131935fa61b3c6f29f?utm_campaign=1067&utm_source=git)** | Newark, DE | Hybrid | May 26 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a15cc4c554b0e12c058611a?utm_campaign=1067&utm_source=git)** | Greensburg, IN | On Site | May 26 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 26 |
@@ -71,13 +71,11 @@ For a complete list, click the following sortable link below:
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a10f9399fdbf21f36cb1fa1?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 22 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a13d0179f654b3359cf775f?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 22 |
 | **[FOODMatch](http://foodmatch.com)** | **[[Summer Internship] Business Process Optimization Intern](https://jobright.ai/jobs/info/6a0f90b683d714428982184e?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | May 21 |
-| **[Leidos](https://www.leidos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f8ce2619335383fb2dbae?utm_campaign=1067&utm_source=git)** | United States | Remote | May 21 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a0f414383d714428981e106?utm_campaign=1067&utm_source=git)** | Ames - 50010 - Story County, IA | On Site | May 21 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292e6ab4ec4779fff9cce?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
-| **[Leidos Australia](https://www.leidos.com/company/global/australia)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0f35a480bf0430c76319ef?utm_campaign=1067&utm_source=git)** | Remote, Virginia, United States | Remote | May 21 |
-| **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f2896aecbc8c2f7320afa6?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f2896aecbc8c2f7320afa6?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 20 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e997a47fea1610bcab47e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | May 20 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e993012f8b43cf397894d?utm_campaign=1067&utm_source=git)** | United States | Remote | May 20 |
@@ -89,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e3cbf47fea1610bca883d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | May 20 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e1d1780bf0430c76299c1?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 20 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6a0e1acdbeb4d73cb622ef9b?utm_campaign=1067&utm_source=git)** | High Ridge, MO | On Site | May 20 |
-| **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
