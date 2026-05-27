@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Caltech](http://www.caltech.edu)** | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a165e321b2f6918b0e3176a?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
 | ↳ | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a163fa0128680351d9694c5?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a15cc4c554b0e12c058611a?utm_campaign=1067&utm_source=git)** | Greensburg, IN | On Site | May 26 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
 | **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 26 |
-| **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a159fb00073182bd92ab2b0?utm_campaign=1067&utm_source=git)** | IN - Greensburg - State Road 3 Bypass, US | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/6a15493c1935fa61b3c67059?utm_campaign=1067&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 25 |
 | ↳ | **[Intern - Field](https://jobright.ai/jobs/info/6a14b8cedc845f4be5bd2f2c?utm_campaign=1067&utm_source=git)** | ON055 - Vaughan ON, CA | On Site | May 25 |
@@ -104,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5883b54ed42d74d8a30?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
