@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170adfb091c7417c4fa12b?utm_campaign=1067&utm_source=git)** | Halifax, NS, Canada | On Site | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170332b091c7417c4f9e1a?utm_campaign=1067&utm_source=git)** | 35 Micmac Blvd, Dartmouth, NS, B3A 4Y8, CA | On Site | May 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a0c7cc90411d7417a1b917a?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 19 |
 | **[CPPI](https://cppi.com/)** | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
 | **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a035601bc4184089f2316ea?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 18 |
-| **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/6a0b2e1422d0d34036c8936b?utm_campaign=1067&utm_source=git)** | 9999 Willow Creek Rd, San Diego, CA, 92131, US | On Site | May 18 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
