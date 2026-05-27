@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
+| **[Tenant Inc.](https://www.tenantinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a173336d6a04f21602e3e87?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | May 27 |
+| **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6a1731c99005d858e94f6d80?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a17221ab091c7417c4fb1c8?utm_campaign=1067&utm_source=git)** | Boston, MA, USA | Hybrid | May 27 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6a171d745b0a497d52108915?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | May 27 |
+| **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a1734aed6a04f21602e4205?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 27 |
 | **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170adfb091c7417c4fa12b?utm_campaign=1067&utm_source=git)** | Halifax, NS, Canada | On Site | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170332b091c7417c4f9e1a?utm_campaign=1067&utm_source=git)** | 35 Micmac Blvd, Dartmouth, NS, B3A 4Y8, CA | On Site | May 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
