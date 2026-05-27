@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6a0e1acdbeb4d73cb622ef9b?utm_campaign=1067&utm_source=git)** | High Ridge, MO | On Site | May 20 |
 | **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 20 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dfd7980bf0430c76282d7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | May 20 |
-| **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c68554b0e12c057f58a?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
