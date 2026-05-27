@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -87,4 +87,45 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e3cbf47fea1610bca883d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | May 20 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e1d1780bf0430c76299c1?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 20 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6a0e1acdbeb4d73cb622ef9b?utm_campaign=1067&utm_source=git)** | High Ridge, MO | On Site | May 20 |
+| **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 20 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dfd7980bf0430c76282d7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | May 20 |
+| **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c68554b0e12c057f58a?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | May 20 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dcce880bf0430c76263e8?utm_campaign=1067&utm_source=git)** | Waite Park, MN 56387, US | On Site | May 20 |
+| **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb53f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | May 20 |
+| **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, Treaty Underwriting (2026 Winter - Toronto, 8 months)](https://jobright.ai/jobs/info/6a075033a203b1052e43980f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
+| **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c17738a270c8bfa7f81?utm_campaign=1067&utm_source=git)** | Export, PA | On Site | May 19 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 19 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a0c7cc90411d7417a1b917a?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, US | On Site | May 19 |
+| **[CPPI](https://cppi.com/)** | **[Business Analyst Intern (Gainesville)](https://jobright.ai/jobs/info/6a0b3af0963f7a67d95cd38f?utm_campaign=1067&utm_source=git)** | Gainesville, FL | On Site | May 18 |
+| **[Hunting](https://huntingplc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a035601bc4184089f2316ea?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 18 |
+| **[Customers Bank](https://www.customersbank.com/)** | **[Payments & Technology Intern](https://jobright.ai/jobs/info/6a0b4af922d0d34036c8a6cb?utm_campaign=1067&utm_source=git)** | New York, NY | Hybrid | May 18 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Projects & Process Improvement)](https://jobright.ai/jobs/info/6a0b2e1422d0d34036c8936b?utm_campaign=1067&utm_source=git)** | 9999 Willow Creek Rd, San Diego, CA, 92131, US | On Site | May 18 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 17 |
+| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
+| **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5883b54ed42d74d8a30?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a086b6d6186f46859888956?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 16 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a05585ba88ea73abf7f0aad?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 16 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | May 15 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a074ceba203b1052e439561?utm_campaign=1067&utm_source=git)** | Poway California | On Site | May 15 |
+| **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/6a0703b31f7fa33581c9a48a?utm_campaign=1067&utm_source=git)** | San Carlos | On Site | May 15 |
+| ↳ | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | May 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
+| **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
+| **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a06faec078fec52738a32a4?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | May 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Intern IT Business Analyst](https://jobright.ai/jobs/info/6a064120bc4184089f24d850?utm_campaign=1067&utm_source=git)** | Woburn, MA | On Site | May 14 |
+| **[FreeFlight Systems](http://freeflightsystems.com)** | **[Business Operations & Contract Management Intern (Contract Workflow & Process Enablement)](https://jobright.ai/jobs/info/6a06361e7c753c287f700c41?utm_campaign=1067&utm_source=git)** | Irving, Texas, United States | Hybrid | May 14 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390223?utm_campaign=1067&utm_source=git)** | Marysville, Ohio, United States | On Site | May 14 |
+| ↳ | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a28f3d6cc51d6390220?utm_campaign=1067&utm_source=git)** | Lincoln, Alabama, United States | On Site | May 14 |
+| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6a0f137872b52f7225f3abef?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 14 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a0afeb70411d7417a1ac2b7?utm_campaign=1067&utm_source=git)** | Torrance, California, United States | On Site | May 14 |
+| **[BCI](https://www.bci.ca/)** | **[Enteprise Solutions, Business Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577877c753c287f6f9821?utm_campaign=1067&utm_source=git)** | Vancouver, BC, CA | Hybrid | May 14 |
+| ↳ | **[Enteprise Solutions, Business Analyst Co-op/Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0577867c753c287f6f981e?utm_campaign=1067&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
+| **[City of New York](http://www1.nyc.gov)** | **[Business Analyst Intern (Office of Operations)](https://jobright.ai/jobs/info/6a0e831083d714428981982d?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 13 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a091d5d6186f4685988b47b?utm_campaign=1067&utm_source=git)** | 1800 Honda Dr, Torrance, California, United States | On Site | May 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
