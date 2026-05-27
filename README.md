@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Caltech](http://www.caltech.edu)** | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a163fa0128680351d9694c5?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
+| **[Caltech](http://www.caltech.edu)** | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a165e321b2f6918b0e3176a?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
+| ↳ | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a163fa0128680351d9694c5?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
 | **[Sallie Mae](https://www.salliemae.com)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6a1622131935fa61b3c6f29f?utm_campaign=1067&utm_source=git)** | Newark, DE | Hybrid | May 26 |
 | **[First Financial Bank](http://www.bankatfirst.com)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a15cc4c554b0e12c058611a?utm_campaign=1067&utm_source=git)** | Greensburg, IN | On Site | May 26 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
