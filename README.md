@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kentro](http://www.kentro.us)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17ccc381fe455c705abec5?utm_campaign=1067&utm_source=git)** | United States | Remote | May 27 |
-| **[The Ware Group](https://thewaregrouprealestate.com/)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cabcf45c6530ce9afb35?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 27 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cabcf45c6530ce9afb34?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
+| **[The Ware Group](https://thewaregrouprealestate.com/)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cabcf45c6530ce9afb34?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
+| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cabcf45c6530ce9afb35?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 27 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Business Operations](https://jobright.ai/jobs/info/6a178b67f45c6530ce9add22?utm_campaign=1067&utm_source=git)** | Tustin, California | On Site | May 27 |
 | **[HDI Global SE](https://www.hdi.global/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a17827a1430333075cd1bec?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a1747ca1430333075ccf64b?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | May 27 |
@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[FreeFlight Systems](http://freeflightsystems.com)** | **[Business Operations & Contract Management Intern (Contract Workflow & Process Enablement)](https://jobright.ai/jobs/info/6a06361e7c753c287f700c41?utm_campaign=1067&utm_source=git)** | Irving, Texas, United States | Hybrid | May 14 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a29f3d6cc51d6390223?utm_campaign=1067&utm_source=git)** | Marysville, Ohio, United States | On Site | May 14 |
 | ↳ | **[Business Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a28f3d6cc51d6390220?utm_campaign=1067&utm_source=git)** | Lincoln, Alabama, United States | On Site | May 14 |
-| **[Jackson Walker LLP](https://www.jw.com)** | **[Business Professional Intern](https://jobright.ai/jobs/info/6a0f137872b52f7225f3abef?utm_campaign=1067&utm_source=git)** | Dallas, TX | On Site | May 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
