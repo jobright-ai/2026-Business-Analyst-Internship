@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HERE Technologies](https://www.here.com)** | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a1877bb54a441713ae84e2e?utm_campaign=1067&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
+| ↳ | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a1877b254a441713ae84e24?utm_campaign=1067&utm_source=git)** | Chicago, IL, US | On Site | May 28 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6ddbc80963f9342f19?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 28 |
 | **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 28 |
