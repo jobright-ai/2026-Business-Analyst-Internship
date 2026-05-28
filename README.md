@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6a181c2d54962c1bb4b072c7?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[Kentro](http://www.kentro.us)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17ccc381fe455c705abec5?utm_campaign=1067&utm_source=git)** | United States | Remote | May 27 |
 | **[The Ware Group](https://thewaregrouprealestate.com/)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cabcf45c6530ce9afb34?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 27 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a17cabcf45c6530ce9afb35?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 27 |
