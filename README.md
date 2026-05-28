@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avid Bioservices](https://avidbio.com)** | **[Intern, Business Operations](https://jobright.ai/jobs/info/6a178b67f45c6530ce9add22?utm_campaign=1067&utm_source=git)** | Tustin, California | On Site | May 27 |
 | **[HDI Global SE](https://www.hdi.global/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a17827a1430333075cd1bec?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a1747ca1430333075ccf64b?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | May 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Caltech](http://www.caltech.edu)** | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a165e321b2f6918b0e3176a?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
 | ↳ | **[Business Analyst Summer Intern](https://jobright.ai/jobs/info/6a163fa0128680351d9694c5?utm_campaign=1067&utm_source=git)** | Pasadena, CA | On Site | May 26 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
-| **[8am](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/69dd87409f97a42dc9c36922?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 | **[White Cap Canada](whitecapsupply.com)** | **[Intern - Field](https://jobright.ai/jobs/info/6a15493c1935fa61b3c67059?utm_campaign=1067&utm_source=git)** | Vaughan, Ontario, Canada | On Site | May 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 24 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Iovance Biotherapeutics, Inc.](http://www.iovance.com)** | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/6a0703b31f7fa33581c9a48a?utm_campaign=1067&utm_source=git)** | San Carlos | On Site | May 15 |
 | ↳ | **[Business Analytics & Insights (BAI) Intern](https://jobright.ai/jobs/info/69e8f6c57820c036924e3f62?utm_campaign=1067&utm_source=git)** | San Carlos, CA | On Site | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69eb53810a6e0955530467ef?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
-| **[AffiniPay](https://www.8am.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a06fe909f57175bd581cf3c?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | May 15 |
 | **[Sparksoft Corporation](https://www.sparksoftcorp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a06faec078fec52738a32a4?utm_campaign=1067&utm_source=git)** | Columbia, MD | Hybrid | May 15 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/69fdf188f363bc4dc339a9b7?utm_campaign=1067&utm_source=git)** | Remote/Hybrid if local to Maryland | Remote | May 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | May 15 |
