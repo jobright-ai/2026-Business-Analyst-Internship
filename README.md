@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a18511054a441713ae828c9?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 28 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Analyst - It Operations](https://jobright.ai/jobs/info/69db46bbb67cec4f9b0ae548?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Business Operations](https://jobright.ai/jobs/info/6a178b67f45c6530ce9add22?utm_campaign=1067&utm_source=git)** | Tustin, California | On Site | May 27 |
-| **[HDI Global SE](https://www.hdi.global/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a17827a1430333075cd1bec?utm_campaign=1067&utm_source=git)** | Chicago, IL | Hybrid | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a1747ca1430333075ccf64b?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | May 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
 | **[Tenant Inc.](https://www.tenantinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a173336d6a04f21602e3e87?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | May 27 |
