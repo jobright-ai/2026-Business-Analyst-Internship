@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e1d1780bf0430c76299c1?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 29 |
 | **[RC Services, LLC](https://www.rcservicesllc.com)** | **[College Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8e?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | May 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6ddbc80963f9342f19?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 28 |
 | **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 28 |
 | ↳ | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a18511054a441713ae828c9?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 28 |
-| **[SitusAMC](https://www.situsamc.com)** | **[Intern - Business Analyst - It Operations](https://jobright.ai/jobs/info/69db46bbb67cec4f9b0ae548?utm_campaign=1067&utm_source=git)** | United States | Remote | May 28 |
 | **[Avid Bioservices](https://avidbio.com)** | **[Intern, Business Operations](https://jobright.ai/jobs/info/6a178b67f45c6530ce9add22?utm_campaign=1067&utm_source=git)** | Tustin, California | On Site | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a1747ca1430333075ccf64b?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | May 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
@@ -84,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 24 |
-| **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a10f9399fdbf21f36cb1fa1?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 22 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a074ceba203b1052e439561?utm_campaign=1067&utm_source=git)** | Poway California | On Site | May 22 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a13d0179f654b3359cf775f?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | May 22 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Business Operations & Finance Intern](https://jobright.ai/jobs/info/6a19148f17492d3a389bbf4c?utm_campaign=1067&utm_source=git)** | Ames, IA | On Site | May 21 |
 | **[FOODMatch](http://foodmatch.com)** | **[[Summer Internship] Business Process Optimization Intern](https://jobright.ai/jobs/info/6a0f90b683d714428982184e?utm_campaign=1067&utm_source=git)** | New York, NY, USA | On Site | May 21 |
@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Corporate Services Business Analytics Intern](https://jobright.ai/jobs/info/69fae50ae1560008411543f5?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA | On Site | May 20 |
 | **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e43c447fea1610bca8bbe?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA | Hybrid | May 20 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e3cbf47fea1610bca883d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | May 20 |
-| ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e1d1780bf0430c76299c1?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 20 |
 | **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 20 |
 | **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c68554b0e12c057f58a?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | May 20 |
 | **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb53f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | May 20 |
