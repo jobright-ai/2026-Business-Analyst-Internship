@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RC Services, LLC](https://www.rcservicesllc.com)** | **[College Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8e?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | May 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
-| **[RC Services, LLC](https://www.rcservicesllc.com)** | **[College Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8e?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[HERE Technologies](https://www.here.com)** | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a18a196c2a87d6cd3df327b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a1877bb54a441713ae84e2e?utm_campaign=1067&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
