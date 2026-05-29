@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e3cbf47fea1610bca883d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | May 20 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e1d1780bf0430c76299c1?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 20 |
 | **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 20 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - Waite Park, MN](https://jobright.ai/jobs/info/6a0dfd7980bf0430c76282d7?utm_campaign=1067&utm_source=git)** | Waite Park, MN | On Site | May 20 |
 | **[Leybold](https://www.leybold.com/)** | **[A.I. & Process Optimization Intern](https://jobright.ai/jobs/info/6a148c68554b0e12c057f58a?utm_campaign=1067&utm_source=git)** | Pennsylvania, United States | On Site | May 20 |
 | **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a0eccec09ecfd704b3eb53f?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | May 20 |
 | **[Munich Re](https://www.munichre.com)** | **[Business Analyst Intern, Treaty Underwriting (2026 Winter - Toronto, 8 months)](https://jobright.ai/jobs/info/6a075033a203b1052e43980f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
@@ -119,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | May 15 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a074ceba203b1052e439561?utm_campaign=1067&utm_source=git)** | Poway California | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
