@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HERE Technologies](https://www.here.com)** | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a1877bb54a441713ae84e2e?utm_campaign=1067&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
+| **[HERE Technologies](https://www.here.com)** | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a18a196c2a87d6cd3df327b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 28 |
+| ↳ | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a1877bb54a441713ae84e2e?utm_campaign=1067&utm_source=git)** | US-IL-Chicago | On Site | May 28 |
 | ↳ | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a1877b254a441713ae84e24?utm_campaign=1067&utm_source=git)** | Chicago, IL, US | On Site | May 28 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | May 28 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6ddbc80963f9342f19?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | May 28 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a1747ca1430333075ccf64b?utm_campaign=1067&utm_source=git)** | Boston, MA | Hybrid | May 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
 | **[Tenant Inc.](https://www.tenantinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a173336d6a04f21602e3e87?utm_campaign=1067&utm_source=git)** | Irvine, CA | On Site | May 27 |
-| **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6a1731c99005d858e94f6d80?utm_campaign=1067&utm_source=git)** | Houston, TX | On Site | May 27 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a17221ab091c7417c4fb1c8?utm_campaign=1067&utm_source=git)** | Boston, MA, USA | Hybrid | May 27 |
 | **[NOV](https://www.nov.com/)** | **[Business Process Analyst Intern](https://jobright.ai/jobs/info/6a171d745b0a497d52108915?utm_campaign=1067&utm_source=git)** | 5100 North Sam Houston Parkway West, Houston, TX, 77086, US | On Site | May 27 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a1734aed6a04f21602e4205?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | May 27 |
