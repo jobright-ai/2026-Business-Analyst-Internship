@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
 | **[RC Services, LLC](https://www.rcservicesllc.com)** | **[College Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8e?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[HERE Technologies](https://www.here.com)** | **[Business Analyst Intern, PMO & AI Transformation](https://jobright.ai/jobs/info/6a18a196c2a87d6cd3df327b?utm_campaign=1067&utm_source=git)** | Chicago, IL | On Site | May 28 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | May 15 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a0797733b54ed42d74d0231?utm_campaign=1067&utm_source=git)** | Poway, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
