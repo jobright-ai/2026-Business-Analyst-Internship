@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a18511054a441713ae828c9?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
-| ↳ | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
+| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
+| ↳ | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a18511054a441713ae828c9?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a0e1d1780bf0430c76299c1?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 29 |
+| **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a1a41bb2b206f3955eb39dd?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 29 |
 | **[RC Services, LLC](https://www.rcservicesllc.com)** | **[College Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8e?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | May 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | May 17 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5883b54ed42d74d8a30?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a08a5803b54ed42d74d8a2f?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a084015403fc339507ebf9c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
