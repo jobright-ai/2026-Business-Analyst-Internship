@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1c00e24ef3652582efa1?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
+| ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1bffe24ef3652582efa0?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a1af7ae547e292ae139b909?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 30 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1adcab9111f771d1a0eac5?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 30 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6a1abf77c2a87d6cd3e01021?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 30 |
