@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
