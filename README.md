@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a1af7ae547e292ae139b909?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 30 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6a1abf77c2a87d6cd3e01021?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 30 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1baed09111f771d1a1216d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | May 29 |
-| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a18511054a441713ae828c9?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
-| ↳ | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
+| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
+| ↳ | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a18511054a441713ae828c9?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
 | **[WorkSafeBC](https://www.worksafebc.com/en)** | **[Student Intern, Business Analyst (BES)](https://jobright.ai/jobs/info/6a1a41bb2b206f3955eb39dd?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | May 29 |
 | **[RC Services, LLC](https://www.rcservicesllc.com)** | **[College Intern](https://jobright.ai/jobs/info/6a199308547e292ae1392d8e?utm_campaign=1067&utm_source=git)** | Alpharetta, GA | Hybrid | May 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
 | **[Great Lakes Outreach Wisconsin](https://www.glowisconsin.com/)** | **[Business Internship](https://jobright.ai/jobs/info/6a15bfa10073182bd92ac40c?utm_campaign=1067&utm_source=git)** | Greater Milwaukee | On Site | May 26 |
-| **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
