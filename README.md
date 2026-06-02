@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e979fb61b2c65b37ac101?utm_campaign=1067&utm_source=git)** | Lakewood, CO, US | On Site | Jun 02 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e12693e538a28c204e0e9?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jun 01 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1baed09111f771d1a1216d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | Jun 01 |
 | ↳ | **[External Relations Intern](https://jobright.ai/jobs/info/6a1adcab9111f771d1a0eac5?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | Jun 01 |
