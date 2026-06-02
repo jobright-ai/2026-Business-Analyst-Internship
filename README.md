@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e12693e538a28c204e0e9?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jun 01 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1adcab9111f771d1a0eac5?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | Jun 01 |
 | **[Systel, Inc.](http://www.systelusa.com/)** | **[Business Solution Intern](https://jobright.ai/jobs/info/6a1d94b86b135014dbc96e3b?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Jun 01 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1c00e24ef3652582efa1?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1bffe24ef3652582efa0?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a1af7ae547e292ae139b909?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 30 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1adcab9111f771d1a0eac5?utm_campaign=1067&utm_source=git)** | Lubbock | On Site | May 30 |
 | **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6a1abf77c2a87d6cd3e01021?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 30 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1baed09111f771d1a1216d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | May 29 |
 | **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern](https://jobright.ai/jobs/info/6a1851126243320e8d162819?utm_campaign=1067&utm_source=git)** | CAN - Richmond, Canada | Hybrid | May 29 |
