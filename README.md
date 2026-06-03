@@ -57,22 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0eb?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0e8?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0e4?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0d3?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0e0?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0ea?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0d7?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0dd?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0d5?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0de?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0e6?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0ec?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0d4?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0dc?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0e9?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 02 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1fab4709442629a685c0da?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 02 |
 | **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a1f6830dce5db1256d15626?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 02 |
 | **[DataBank](http://www.databank.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6a1f21fa09442629a6857945?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Jun 02 |
 | **[Systel Telecom](http://www.systelgroup.com)** | **[Business Solution Intern](https://jobright.ai/jobs/info/6a1eee00dce5db1256d10c0f?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Jun 02 |
@@ -103,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Business Analytics & Reporting Intern (Boston HQ)](https://jobright.ai/jobs/info/6a17221ab091c7417c4fb1c8?utm_campaign=1067&utm_source=git)** | Boston, MA, USA | Hybrid | May 27 |
 | **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170adfb091c7417c4fa12b?utm_campaign=1067&utm_source=git)** | Halifax, NS, Canada | On Site | May 27 |
 | **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170332b091c7417c4f9e1a?utm_campaign=1067&utm_source=git)** | 35 Micmac Blvd, Dartmouth, NS, B3A 4Y8, CA | On Site | May 27 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
