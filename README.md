@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Viatris](https://www.viatris.com/en)** | **[Intern, Global Commercial](https://jobright.ai/jobs/info/6a21a1d8338c01230511f1be?utm_campaign=1067&utm_source=git)** | New York-Office, US | On Site | Jun 04 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a21a58dca8f0b365d7a7971?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 04 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a2193187c30cc2cc51699ad?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jun 04 |
 | ↳ | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a218c9bc00e701fe836edcc?utm_campaign=1067&utm_source=git)** | Springdale, AR | On Site | Jun 04 |
 | **[BricksFolios Real Estate Solutions](https://bricksfolios.inbestments.com)** | **[Business Analyst - Intern](https://jobright.ai/jobs/info/6a218090c00e701fe836e946?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 04 |
@@ -67,12 +69,10 @@ For a complete list, click the following sortable link below:
 | **[A.P. Moller - Maersk](https://www.maersk.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2061d64bdf8a5a96bd0501?utm_campaign=1067&utm_source=git)** | United States of America,California,San Diego,92123, US | On Site | Jun 03 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a2055a0902d19201c7b18c5?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Jun 03 |
 | ↳ | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a2054893a5f0145f4c13c8f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 03 |
-| **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a1f6830dce5db1256d15626?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 02 |
 | **[DataBank](http://www.databank.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6a1f21fa09442629a6857945?utm_campaign=1067&utm_source=git)** | Plano, TX | On Site | Jun 02 |
 | **[Systel Telecom](http://www.systelgroup.com)** | **[Business Solution Intern](https://jobright.ai/jobs/info/6a1eee00dce5db1256d10c0f?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Jun 02 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e979fb61b2c65b37ac101?utm_campaign=1067&utm_source=git)** | Lakewood, CO, US | On Site | Jun 02 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e12693e538a28c204e0e9?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jun 01 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[External Relations Intern](https://jobright.ai/jobs/info/6a1baed09111f771d1a1216d?utm_campaign=1067&utm_source=git)** | Lubbock, TX | On Site | Jun 01 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a1734aed6a04f21602e4205?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jun 01 |
 | **[Systel, Inc.](http://www.systelusa.com/)** | **[Business Solution Intern](https://jobright.ai/jobs/info/6a1d94b86b135014dbc96e3b?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Jun 01 |
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1c00e24ef3652582efa1?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
