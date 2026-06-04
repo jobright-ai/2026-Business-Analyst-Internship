@@ -57,20 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b626f?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6274?utm_campaign=1067&utm_source=git)** | Dallas, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6264?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6277?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b626e?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6273?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6275?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6279?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6271?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6265?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6272?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 03 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6273?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 03 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b626c?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6268?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6260?utm_campaign=1067&utm_source=git)** | Montreal, Canada | On Site | Jun 03 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b626e?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 03 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2118e6902d19201c7b6271?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a207626902d19201c7b26b3?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 03 |
