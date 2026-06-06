@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a23bbf8dedf78312c7ad18b?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 05 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a23bbf8dedf78312c7ad18a?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 05 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2332d1dedf78312c7abbdc?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Jun 05 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a1c66f2e24ef36525833d0d?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jun 05 |
