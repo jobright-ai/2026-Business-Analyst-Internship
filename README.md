@@ -57,34 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b080d?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0817?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b082a?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b080a?utm_campaign=1067&utm_source=git)** | Montreal, Canada | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0811?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0831?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 07 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b081f?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 07 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0803?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b080e?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 07 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0822?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0827?utm_campaign=1067&utm_source=git)** | Dallas, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0823?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0819?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0818?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b080c?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b082b?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b081f?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0829?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0812?utm_campaign=1067&utm_source=git)** | New Jersey, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0825?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0800?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0802?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 07 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b080e?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 07 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0801?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b080f?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ededf78312c7b0832?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ddedf78312c7b07fb?utm_campaign=1067&utm_source=git)** | Connecticut - Darien, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ddedf78312c7b07fc?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ddedf78312c7b07fd?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a25b62ddedf78312c7b07fa?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 07 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jun 06 |
 | ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 06 |
@@ -95,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Jun 05 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a2055a0902d19201c7b18c5?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Jun 04 |
 | **[CIBC](https://www.cibc.com)** | **[Digital Business Analyst Co-op](https://jobright.ai/jobs/info/6a21ec544bdf8a5a96bd944d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 04 |
-| **[Alameda County Water District](https://acwd.org/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a24bf95d46c0f7996087674?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Jun 04 |
 | **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/6a21ded8902d19201c7baa4e?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA, US | On Site | Jun 04 |
 | **[Verifast](https://www.verifast.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a21ee0d338c012305121d74?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 04 |
 | **[State Street](https://www.statestreet.com/)** | **[Technology Business Office Intern – AI - Native Solutions & Process Innovation (6 Months Full-time - July to Dec 2026)](https://jobright.ai/jobs/info/6a21beb3c00e701fe8370666?utm_campaign=1067&utm_source=git)** | Quincy, Massachusetts, US | On Site | Jun 04 |
