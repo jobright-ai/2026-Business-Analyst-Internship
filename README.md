@@ -57,19 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe9d?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe94?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afea0?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afeac?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe91?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 07 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe93?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 07 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afeaf?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe93?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 07 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afea8?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 07 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe94?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 07 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe9e?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afeb1?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe8a?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afea1?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 07 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afe9c?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Jun 07 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2545bcdedf78312c7afeac?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 07 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jun 06 |
 | ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 06 |
