@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 08 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 08 |
-| **[Viatris](https://www.viatris.com/en)** | **[Intern, Global Commercial](https://jobright.ai/jobs/info/6a26bd762056260dd6e82dd8?utm_campaign=1067&utm_source=git)** | New York-Office, US | On Site | Jun 08 |
 | **[SoftServe](http://www.softserveinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26a83bc138bf654822eeaf?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a828915a7961fc5184da?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1c00e24ef3652582efa1?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
 | ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1bffe24ef3652582efa0?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a1af7ae547e292ae139b909?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 30 |
-| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6a1abf77c2a87d6cd3e01021?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 30 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
