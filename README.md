@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,13 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6d12f020234226089b?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6d12f0202342260899?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6d12f020234226089c?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6d12f0202342260895?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6d12f020234226089a?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6c12f020234226088a?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 08 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26cf6c12f020234226088f?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 08 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 08 |
 | **[Viatris](https://www.viatris.com/en)** | **[Intern, Global Commercial](https://jobright.ai/jobs/info/6a26bd762056260dd6e82dd8?utm_campaign=1067&utm_source=git)** | New York-Office, US | On Site | Jun 08 |
 | **[SoftServe](http://www.softserveinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26a83bc138bf654822eeaf?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a828915a7961fc5184da?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
@@ -93,4 +87,18 @@ For a complete list, click the following sortable link below:
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e979fb61b2c65b37ac101?utm_campaign=1067&utm_source=git)** | Lakewood, CO, US | On Site | Jun 02 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[IT Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a1734aed6a04f21602e4205?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jun 02 |
 | **[Terumo Blood and Cell Technologies](http://www.terumobct.com)** | **[Intern Business Undergraduate](https://jobright.ai/jobs/info/6a1e12693e538a28c204e0e9?utm_campaign=1067&utm_source=git)** | Lakewood, CO | On Site | Jun 01 |
+| **[Systel, Inc.](http://www.systelusa.com/)** | **[Business Solution Intern](https://jobright.ai/jobs/info/6a1d94b86b135014dbc96e3b?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Jun 01 |
+| **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1c00e24ef3652582efa1?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
+| ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1bffe24ef3652582efa0?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
+| **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a1af7ae547e292ae139b909?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 30 |
+| **[TeamHealth](https://www.teamhealth.com/?r=1)** | **[Intern - Business Analytics](https://jobright.ai/jobs/info/6a1abf77c2a87d6cd3e01021?utm_campaign=1067&utm_source=git)** | Knoxville, TN | Hybrid | May 30 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a0fef6c83d71442898236be?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | May 29 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a18baacabc8f63abac7b928?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | May 28 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
+| **[Resmed](https://www.resmed.com.au)** | **[RCM Intake Optimization (Business Transformation) Intern](https://jobright.ai/jobs/info/6a0e06fb83d7144289814d98?utm_campaign=1067&utm_source=git)** | Peachtree Corners, GA, United States, US | Hybrid | May 27 |
+| **[Cavendish Farms](https://www.cavendishfarms.com)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170adfb091c7417c4fa12b?utm_campaign=1067&utm_source=git)** | Halifax, NS, Canada | On Site | May 27 |
+| **[RST Sunbury Transport](https://www.rsttransport.com/)** | **[Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a170332b091c7417c4f9e1a?utm_campaign=1067&utm_source=git)** | 35 Micmac Blvd, Dartmouth, NS, B3A 4Y8, CA | On Site | May 27 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bd171d4828227293ff4a36?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | May 27 |
+| **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
