@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2626aededf78312c7b136d?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 07 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jun 06 |
 | ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 06 |
