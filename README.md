@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 08 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 08 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/69ee2c1e7820c036924fe2d5?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 08 |
 | **[SoftServe](http://www.softserveinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a26a83bc138bf654822eeaf?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jun 08 |
 | **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a828915a7961fc5184da?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
