@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a568f?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5691?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5695?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5689?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5686?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5690?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5693?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a27b071fd37e62bb47a5682?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a27456430042e7539088356?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a27455930042e7539088352?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
@@ -91,5 +99,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a207626902d19201c7b26b3?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 03 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a2054893a5f0145f4c13c8f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 03 |
-| **[Systel Telecom](http://www.systelgroup.com)** | **[Business Solution Intern](https://jobright.ai/jobs/info/6a1eee00dce5db1256d10c0f?utm_campaign=1067&utm_source=git)** | Sugar Land, TX | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
