@@ -57,11 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a275c0b12f02023422641d0?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 08 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2ca8?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2ca5?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2ca0?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2c95?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2c97?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2c9b?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2c94?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2ca6?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2ca7?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2778481e6c1163ef0f2ca3?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a27456430042e7539088356?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a27455930042e7539088352?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9daa?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
+| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a276dd8ca77fd3096d2736a?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b75ca77fd3096d25008?utm_campaign=1067&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b7212f0202342262377?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a270b704ec8d737d6dfd7a2?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
