@@ -57,17 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfb0?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfbc?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfb3?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfb8?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfae?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfbf?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfb9?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfba?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfc1?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfb5?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a29726ad3ec8317fe13dfbd?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29217a1dbd8437bebcf299?utm_campaign=1067&utm_source=git)** | New York, NY, US | Hybrid | Jun 10 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a289ee07061b51a3a5f6fe7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
