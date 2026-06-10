@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - IT PMO Business Analyst](https://jobright.ai/jobs/info/6a29d836d3ec8317fe140e38?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29217a1dbd8437bebcf299?utm_campaign=1067&utm_source=git)** | New York, NY, US | Hybrid | Jun 10 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a289ee07061b51a3a5f6fe7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
@@ -88,6 +89,4 @@ For a complete list, click the following sortable link below:
 | **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/6a21ded8902d19201c7baa4e?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA, US | On Site | Jun 04 |
 | **[Verifast](https://www.verifast.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a21ee0d338c012305121d74?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 04 |
 | **[State Street](https://www.statestreet.com/)** | **[Technology Business Office Intern – AI - Native Solutions & Process Innovation (6 Months Full-time - July to Dec 2026)](https://jobright.ai/jobs/info/6a21beb3c00e701fe8370666?utm_campaign=1067&utm_source=git)** | Quincy, Massachusetts, US | On Site | Jun 04 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
