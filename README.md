@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28ad90fd37e62bb47aa968?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 09 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28ad90fd37e62bb47aa967?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 09 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a289ee07061b51a3a5f6fe7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a2193187c30cc2cc51699ad?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jun 09 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a285cef2d6c332ee52e57c2?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Jun 09 |
