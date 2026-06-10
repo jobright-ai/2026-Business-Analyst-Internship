@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a293dc22cde2824469bb374?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a293dc22cde2824469bb371?utm_campaign=1067&utm_source=git)** | Connecticut - Darien, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a293dc22cde2824469bb37c?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a293dc12cde2824469bb361?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a293dc12cde2824469bb36b?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a293dc12cde2824469bb363?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 10 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb84b?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb84a?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb84d?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb84e?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb847?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb83e?utm_campaign=1067&utm_source=git)** | Montreal, Canada | On Site | Jun 10 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2956562cde2824469bb84c?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29217a1dbd8437bebcf299?utm_campaign=1067&utm_source=git)** | New York, NY, US | Hybrid | Jun 10 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a289ee07061b51a3a5f6fe7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a2193187c30cc2cc51699ad?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jun 09 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[SoftServe](http://www.softserveinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2920d0fd37e62bb47acfe9?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jun 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9daa?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a28388d883c0d3be65405f3?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a2835e62d6c332ee52e4581?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a276dd8ca77fd3096d2736a?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b75ca77fd3096d25008?utm_campaign=1067&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
@@ -83,14 +83,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a270b6d7d827633afff83aa?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a282651883c0d3be653fe23?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 08 |
-| **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a26a828915a7961fc5184da?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 08 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6a0ad1b7ef3b13362e7d6b0a?utm_campaign=1067&utm_source=git)** | Bellevue, WA | Hybrid | Jun 06 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a07b32b939a5f01db952ec9?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI | On Site | Jun 06 |
 | ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 05 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2332d1dedf78312c7abbdc?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Jun 05 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/6a1c66f2e24ef36525833d0d?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jun 05 |
-| **[Legends Global](http://legends.net)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6a22ab91757ade085b6ac8f9?utm_campaign=1067&utm_source=git)** | Wake Forest, NC | On Site | Jun 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Jun 05 |
 | **[EQ Bank](http://www.eqbank.ca)** | **[Business Analyst, Intern](https://jobright.ai/jobs/info/6a2055a0902d19201c7b18c5?utm_campaign=1067&utm_source=git)** | Toronto | Hybrid | Jun 04 |
 | **[CIBC](https://www.cibc.com)** | **[Digital Business Analyst Co-op](https://jobright.ai/jobs/info/6a21ec544bdf8a5a96bd944d?utm_campaign=1067&utm_source=git)** | Toronto, ON, CA | Hybrid | Jun 04 |
