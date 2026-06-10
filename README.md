@@ -58,12 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Food Innovations | Food Consultancy](http://www.innovatefood.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9bd2d6c332ee52e8163?utm_campaign=1067&utm_source=git)** | Huntington Beach, CA | On Site | Jun 09 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9a8fd37e62bb47ab1e9?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9a8fd37e62bb47ab1d9?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9a8fd37e62bb47ab1e4?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9a8fd37e62bb47ab1e2?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9a8fd37e62bb47ab1e3?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 09 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a28c9a8fd37e62bb47ab1ea?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 09 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a289ee07061b51a3a5f6fe7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Business Management Year-Round Intern](https://jobright.ai/jobs/info/6a2193187c30cc2cc51699ad?utm_campaign=1067&utm_source=git)** | Corporate - Springdale, Arkansas, US | On Site | Jun 09 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a285cef2d6c332ee52e57c2?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Jun 09 |
@@ -73,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[Intern- Business Analytics](https://jobright.ai/jobs/info/6a27bf467061b51a3a5f2303?utm_campaign=1067&utm_source=git)** | St Louis, MO | On Site | Jun 09 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9daa?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a2835e62d6c332ee52e4581?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a28388d883c0d3be65405f3?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
+| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a2835e62d6c332ee52e4581?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a276dd8ca77fd3096d2736a?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b75ca77fd3096d25008?utm_campaign=1067&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b7212f0202342262377?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
