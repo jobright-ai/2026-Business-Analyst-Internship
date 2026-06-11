@@ -57,15 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a8?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a9?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433aa?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433b8?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a1?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a7?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a6?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433b6?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 10 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a4?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 10 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2a5373d3ec8317fe1433a6?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 10 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - IT PMO Business Analyst](https://jobright.ai/jobs/info/6a29d836d3ec8317fe140e38?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29217a1dbd8437bebcf299?utm_campaign=1067&utm_source=git)** | New York, NY, US | Hybrid | Jun 10 |
