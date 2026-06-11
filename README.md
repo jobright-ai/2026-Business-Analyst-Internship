@@ -57,15 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac406d3ec8317fe144e7b?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac406d3ec8317fe144e7a?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac406d3ec8317fe144e78?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac405d3ec8317fe144e68?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac405d3ec8317fe144e70?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac405d3ec8317fe144e6f?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac405d3ec8317fe144e66?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac405d3ec8317fe144e67?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ac405d3ec8317fe144e73?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 11 |
+| **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 11 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/6a23d8b3d46c0f7996085e36?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
+| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 11 |
 | **[Jobster](https://www.jobster.com)** | **[Business Analytics Intern - Studentjob.ch](https://jobright.ai/jobs/info/6a2a97ef0ad4053b108c8034?utm_campaign=1067&utm_source=git)** | Bellevue, WA | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 11 |
@@ -76,8 +70,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a289ee07061b51a3a5f6fe7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 09 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a285cef2d6c332ee52e57c2?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Jun 09 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a285a0540ac8e32932a0ea2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Jun 09 |
-| **[Sodexo](https://www.sodexo.com/home/group/sodexo-ventures.html)** | **[Sodexo Strategic Intern](https://jobright.ai/jobs/info/6a2857a87061b51a3a5f50e2?utm_campaign=1067&utm_source=git)** | Cheektowaga, NY | Remote | Jun 09 |
-| **[SoftServe](http://www.softserveinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2920d0fd37e62bb47acfe9?utm_campaign=1067&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Jun 09 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a2a1f55d3ec8317fe141b4f?utm_campaign=1067&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9daa?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
