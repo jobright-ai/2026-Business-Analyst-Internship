@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
 | **[Impyrian](https://impyrian.com/)** | **[Intern - Business and Technology](https://jobright.ai/jobs/info/6a2b1d22d3ec8317fe1472e3?utm_campaign=1067&utm_source=git)** | Fulton, MD, US | On Site | Jun 11 |
