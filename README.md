@@ -58,13 +58,11 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c6f617cd40a338fae6631?utm_campaign=1067&utm_source=git)** | Dublin, VA, US, 24084 | On Site | Jun 12 |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2c69d0c260bb1b8ae16483?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 12 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2c69d0c260bb1b8ae1648c?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a2c06c7d3ec94183f4baddb?utm_campaign=1067&utm_source=git)** | New York City, NY | On Site | Jun 12 |
 | **[Framatome](http://www.framatome.com)** | **[Business Analytics - Intern](https://jobright.ai/jobs/info/6a2c3a8c7cd40a338fae5529?utm_campaign=1067&utm_source=git)** | Kincardine, ON, CA | Hybrid | Jun 12 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 12 |
-| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a2bf6a6d3ec94183f4bab16?utm_campaign=1067&utm_source=git)** | MANHATTAN | On Site | Jun 12 |
-| ↳ | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a2bf6a6d3ec94183f4bab15?utm_campaign=1067&utm_source=git)** | 55 Water St Ny Ny | On Site | Jun 12 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a2bf6a6d3ec94183f4bab15?utm_campaign=1067&utm_source=git)** | 55 Water St Ny Ny | On Site | Jun 12 |
+| ↳ | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a2bf6a6d3ec94183f4bab16?utm_campaign=1067&utm_source=git)** | MANHATTAN | On Site | Jun 12 |
 | **[Impyrian](https://impyrian.com/)** | **[Intern - Business and Technology](https://jobright.ai/jobs/info/6a2c4f9ad3ec94183f4bc471?utm_campaign=1067&utm_source=git)** | Fulton, MD, US | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
