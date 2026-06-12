@@ -57,26 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ef1?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee8?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ede?utm_campaign=1067&utm_source=git)** | Montreal, Canada | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148eda?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee4?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ed9?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee1?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee9?utm_campaign=1067&utm_source=git)** | Dallas, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ef0?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ed8?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148eec?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148eee?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148eeb?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148eed?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee6?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148edc?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148eef?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee2?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee7?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 11 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b88c6d3ec8317fe148ee0?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
