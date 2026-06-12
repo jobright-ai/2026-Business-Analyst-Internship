@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148a9a?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148aad?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148a9c?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148a9e?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148aa8?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148aa7?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148aa9?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148a9d?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148aab?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148aaf?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2b6caed3ec8317fe148a9b?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
-| **[Impyrian](https://impyrian.com/)** | **[Intern - Business and Technology](https://jobright.ai/jobs/info/6a2b1d22d3ec8317fe1472e3?utm_campaign=1067&utm_source=git)** | Fulton, MD, US | On Site | Jun 11 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 11 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/6a23d8b3d46c0f7996085e36?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 11 |
@@ -89,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 05 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2332d1dedf78312c7abbdc?utm_campaign=1067&utm_source=git)** | Fremont, CA | On Site | Jun 05 |
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/6a1c66f2e24ef36525833d0d?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jun 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/697addbd17b11b1c2e41abde?utm_campaign=1067&utm_source=git)** | New York, United States | Remote | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
