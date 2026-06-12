@@ -57,12 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe14914a?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe14913b?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe14913c?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe14914b?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe149140?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe149148?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe149149?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe149137?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe14914c?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe149135?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe14913a?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 11 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2ba500d3ec8317fe149136?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b447?utm_campaign=1067&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jun 11 |
 | ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/6a23d8b3d46c0f7996085e36?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 11 |
-| ↳ | **[AI & Automation Business Analyst Intern (Sept 2026 - 4 Months - Toronto, Calgary, Ottawa, or Montreal)](https://jobright.ai/jobs/info/69f29640825a315d7ca3d61c?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a2a80120ad4053b108c7cbb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 11 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - IT PMO Business Analyst](https://jobright.ai/jobs/info/6a29d836d3ec8317fe140e38?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
