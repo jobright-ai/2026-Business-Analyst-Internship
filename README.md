@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f0cf6c260bb1b8ae1ae53?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 14 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f0cf6c260bb1b8ae1ae5c?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 14 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f0cf6c260bb1b8ae1ae54?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
