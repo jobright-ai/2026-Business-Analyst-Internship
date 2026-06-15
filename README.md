@@ -57,34 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4507c260bb1b8ae1b186?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4507c260bb1b8ae1b184?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4507c260bb1b8ae1b185?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4507c260bb1b8ae1b183?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4507c260bb1b8ae1b182?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b175?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b179?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b180?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b16c?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b178?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17f?utm_campaign=1067&utm_source=git)** | San Francisco, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b176?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b181?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17a?utm_campaign=1067&utm_source=git)** | Dallas, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b16d?utm_campaign=1067&utm_source=git)** | Montreal, Canada | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b16b?utm_campaign=1067&utm_source=git)** | Connecticut - Darien, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b172?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b171?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b16e?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17e?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17b?utm_campaign=1067&utm_source=git)** | New Jersey, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b174?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17c?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17d?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b16f?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b173?utm_campaign=1067&utm_source=git)** | Seattle, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b177?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b16a?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jun 14 |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f4506c260bb1b8ae1b17c?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
@@ -104,7 +77,8 @@ For a complete list, click the following sortable link below:
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a285cef2d6c332ee52e57c2?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Jun 09 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a285a0540ac8e32932a0ea2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Jun 09 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a2a1f55d3ec8317fe141b4f?utm_campaign=1067&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Jun 08 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
+| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a2f525fd3ec94183f4c1ca4?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
+| ↳ | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a27456630042e7539088358?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9daa?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a2835e62d6c332ee52e4581?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a276dd8ca77fd3096d2736a?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
