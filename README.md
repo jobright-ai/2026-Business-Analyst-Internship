@@ -57,11 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fb5adafabbe533fb87d03?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 15 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fb5adafabbe533fb87cf9?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 15 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fb5adafabbe533fb87d06?utm_campaign=1067&utm_source=git)** | Denver, United States | On Site | Jun 15 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fb5adafabbe533fb87d05?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 15 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fb5adafabbe533fb87d09?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jun 15 |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3729?utm_campaign=1067&utm_source=git)** | Washington DC, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb372e?utm_campaign=1067&utm_source=git)** | Dallas, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb371f?utm_campaign=1067&utm_source=git)** | St. Louis, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3727?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3723?utm_campaign=1067&utm_source=git)** | Columbus, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3728?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3732?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3722?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb372b?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb372d?utm_campaign=1067&utm_source=git)** | Houston, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3731?utm_campaign=1067&utm_source=git)** | Chicago, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb3720?utm_campaign=1067&utm_source=git)** | Raleigh, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb372a?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2fd1aceace377055eb372c?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
@@ -86,9 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a27454a7d827633afff9daa?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a2835e62d6c332ee52e4581?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a276dd8ca77fd3096d2736a?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b75ca77fd3096d25008?utm_campaign=1067&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b7212f0202342262377?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a270b704ec8d737d6dfd7a2?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a270b6e30042e7539086af8?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Business Analysis (4 months)](https://jobright.ai/jobs/info/6a270b6d7d827633afff83aa?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
