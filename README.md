@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3009e6eace377055eb414e?utm_campaign=1067&utm_source=git)** | Philadelphia, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3009e6eace377055eb414b?utm_campaign=1067&utm_source=git)** | Silicon Valley, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3009e6eace377055eb4151?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3009e6eace377055eb4150?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3009e6eace377055eb415a?utm_campaign=1067&utm_source=git)** | New York City, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3009e6eace377055eb414c?utm_campaign=1067&utm_source=git)** | Southern California, United States | On Site | Jun 15 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3002ca093df201d07af002?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 15 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
