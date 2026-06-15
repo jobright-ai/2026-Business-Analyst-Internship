@@ -57,14 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae7?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae8?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae5?utm_campaign=1067&utm_source=git)** | Charlotte, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae9?utm_campaign=1067&utm_source=git)** | Detroit, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae6?utm_campaign=1067&utm_source=git)** | Cleveland, United States | On Site | Jun 14 |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae8?utm_campaign=1067&utm_source=git)** | Minneapolis, United States | On Site | Jun 14 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87af2?utm_campaign=1067&utm_source=git)** | Boston, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae4?utm_campaign=1067&utm_source=git)** | Pittsburgh, United States | On Site | Jun 14 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87aea?utm_campaign=1067&utm_source=git)** | Miami, United States | On Site | Jun 14 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a2f9966afabbe533fb87ae7?utm_campaign=1067&utm_source=git)** | Austin, United States | On Site | Jun 14 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
