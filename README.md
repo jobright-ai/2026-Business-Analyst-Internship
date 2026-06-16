@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a207626902d19201c7b26b3?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 03 |
-| **[J.D. Irving, Limited](https://www.jdirving.com)** | **[IT Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a1734aed6a04f21602e4205?utm_campaign=1067&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
