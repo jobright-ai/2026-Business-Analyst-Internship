@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
-| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
+| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | **[Framatome](http://www.framatome.com)** | **[Business Analytics - Intern](https://jobright.ai/jobs/info/6a2c3a8c7cd40a338fae5529?utm_campaign=1067&utm_source=git)** | Kincardine, ON, CA | Hybrid | Jun 12 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c83f5a1d15e3c552fc42d?utm_campaign=1067&utm_source=git)** | Dublin, VA | On Site | Jun 12 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c6f617cd40a338fae6631?utm_campaign=1067&utm_source=git)** | Dublin, VA, US, 24084 | On Site | Jun 12 |
@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Verifast](https://www.verifast.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a21ee0d338c012305121d74?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 04 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
 | ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
-| **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a207626902d19201c7b26b3?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
