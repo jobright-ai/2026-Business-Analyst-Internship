@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a019d19238f143e8352d23a?utm_campaign=1067&utm_source=git)** | Mississauga, ONT, Canada | Hybrid | Jun 17 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32b3257f3fdd180d4c2e87?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jun 17 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a31c90b5958816970016e62?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 16 |
 | **[MyEmployment](www.myemployment.com)** | **[Business Analyst & Quality Assurance Intern](https://jobright.ai/jobs/info/6a3184662ee3ac1b4beef57f?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a30d04a43732c05812e3c5d?utm_campaign=1067&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
 | **[Clarivate](http://clarivate.com)** | **[Futures Business Intern](https://jobright.ai/jobs/info/6a305302eace377055eb5ae0?utm_campaign=1067&utm_source=git)** | Remote, United States of America | Remote | Jun 15 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 15 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6a305068524fd5657fe102c7?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Jun 15 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Business Operations Intern (Graduate Student)](https://jobright.ai/jobs/info/6a1c66f2e24ef36525833d0d?utm_campaign=1067&utm_source=git)** | Washington, DC | Hybrid | Jun 05 |
 | **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/6a21ded8902d19201c7baa4e?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA, US | On Site | Jun 04 |
 | **[Verifast](https://www.verifast.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a21ee0d338c012305121d74?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 04 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
