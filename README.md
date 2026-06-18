@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DKS Associates](https://www.dksassociates.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a33786029c90c607e4db85a?utm_campaign=1067&utm_source=git)** | Portland, OR | Hybrid | Jun 17 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a019d19238f143e8352d23a?utm_campaign=1067&utm_source=git)** | Mississauga, ONT, Canada | Hybrid | Jun 17 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32b3257f3fdd180d4c2e87?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jun 17 |
@@ -68,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
-| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
+| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
 | **[Framatome](http://www.framatome.com)** | **[Business Analytics - Intern](https://jobright.ai/jobs/info/6a2c3a8c7cd40a338fae5529?utm_campaign=1067&utm_source=git)** | Kincardine, ON, CA | Hybrid | Jun 12 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c83f5a1d15e3c552fc42d?utm_campaign=1067&utm_source=git)** | Dublin, VA | On Site | Jun 12 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c6f617cd40a338fae6631?utm_campaign=1067&utm_source=git)** | Dublin, VA, US, 24084 | On Site | Jun 12 |
