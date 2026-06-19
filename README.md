@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a35181e649fdf16292f7d7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 19 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a2a80120ad4053b108c7cbb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a34a3c21232144fb1560d21?utm_campaign=1067&utm_source=git)** | Irving, TX | Hybrid | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0ea315c152ac7824487d08?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 17 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 11 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a29bcc92cde2824469be40e?utm_campaign=1067&utm_source=git)** | Reston, VA | On Site | Jun 11 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a0e5cc7beb4d73cb6231d0a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jun 11 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a2a80120ad4053b108c7cbb?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 11 |
 | **[CPS Energy](http://www.cpsenergy.com)** | **[Intern-College - IT PMO Business Analyst](https://jobright.ai/jobs/info/6a29d836d3ec8317fe140e38?utm_campaign=1067&utm_source=git)** | San Antonio, TX | On Site | Jun 10 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Business Analyst Intern, NA Integrated Analytics (2026 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a29217a1dbd8437bebcf299?utm_campaign=1067&utm_source=git)** | New York, NY, US | Hybrid | Jun 10 |
