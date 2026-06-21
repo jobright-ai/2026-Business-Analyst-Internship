@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a36ba4da0f3e56e86d6bc1b?utm_campaign=1067&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 20 |
-| **[Optamo](https://optamo-llc.com)** | **[Business Analyst – Intern](https://jobright.ai/jobs/info/6a36936a1232144fb156638b?utm_campaign=1067&utm_source=git)** | Bethlehem, PA | Hybrid | Jun 20 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a35181e649fdf16292f7d7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a34a3c21232144fb1560d21?utm_campaign=1067&utm_source=git)** | Irving, TX | Hybrid | Jun 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
