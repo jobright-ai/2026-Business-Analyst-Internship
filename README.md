@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
-| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
+| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c83f5a1d15e3c552fc42d?utm_campaign=1067&utm_source=git)** | Dublin, VA | On Site | Jun 12 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Admin and Management (Fall 2026)](https://jobright.ai/jobs/info/6a2c6f617cd40a338fae6631?utm_campaign=1067&utm_source=git)** | Dublin, VA, US, 24084 | On Site | Jun 12 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 12 |
@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Business Analyst (4 Months)](https://jobright.ai/jobs/info/6a270b6e30042e7539086af8?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 08 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a282651883c0d3be653fe23?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
