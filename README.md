@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e3f214ae004c7a1e0da?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 22 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e37214ae004c7a1e0d7?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 22 |
+| ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e36214ae004c7a1e0d5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 22 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a36ba4da0f3e56e86d6bc1b?utm_campaign=1067&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 20 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a35181e649fdf16292f7d7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a34a3c21232144fb1560d21?utm_campaign=1067&utm_source=git)** | Irving, TX | Hybrid | Jun 18 |
@@ -84,26 +87,4 @@ For a complete list, click the following sortable link below:
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a285cef2d6c332ee52e57c2?utm_campaign=1067&utm_source=git)** | Iselin, NJ | Hybrid | Jun 09 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst Internship, Fall 2026 (4 Months) -Toronto, CA](https://jobright.ai/jobs/info/6a285a0540ac8e32932a0ea2?utm_campaign=1067&utm_source=git)** | Toronto, ON, CAN, CA | On Site | Jun 09 |
 | **[BASF Environmental Catalyst and Metal Solutions](https://basf-catalystsmetals.com)** | **[Business Management Intern/Co-Op, Precious Metals Recycling - Iselin, NJ - Temporary contract role](https://jobright.ai/jobs/info/6a2a1f55d3ec8317fe141b4f?utm_campaign=1067&utm_source=git)** | Iselin, NJ, US, 08830 | Hybrid | Jun 08 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a2835e62d6c332ee52e4581?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a276dd8ca77fd3096d2736a?utm_campaign=1067&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a270b75ca77fd3096d25008?utm_campaign=1067&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 08 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a282651883c0d3be653fe23?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 08 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jun 08 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a366606f6b55d12c7922b9b?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
-| ↳ | **[Intern, Business Technology Solution Technical (8 Months)](https://jobright.ai/jobs/info/6a3665eaf6b55d12c7922b95?utm_campaign=1067&utm_source=git)** | 210 - 889 Harbourside Drive, North Vancouver, BC, V7P 3S1, CA | On Site | Jun 08 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 05 |
-| **[ASML](https://www.asml.com)** | **[Co-op/Internship Business Process Analyst](https://jobright.ai/jobs/info/6a21ded8902d19201c7baa4e?utm_campaign=1067&utm_source=git)** | Wilton, CT, USA, US | On Site | Jun 05 |
-| **[Verifast](https://www.verifast.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a21ee0d338c012305121d74?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 04 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a185c6edbc80963f9342f1e?utm_campaign=1067&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jun 03 |
-| ↳ | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a2109144bdf8a5a96bd43ba?utm_campaign=1067&utm_source=git)** | US-Remote | Remote | Jun 03 |
-| **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a207626902d19201c7b26b3?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jun 03 |
-| **[PriceLabs](https://hello.pricelabs.co)** | **[Business Operations Intern (Remote)](https://jobright.ai/jobs/info/6a32e23b910b73491071236e?utm_campaign=1067&utm_source=git)** | Chicago, IL | Remote | Jun 03 |
-| **[Axway](http://www.axway.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1c00e24ef3652582efa1?utm_campaign=1067&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
-| ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6a1b1bffe24ef3652582efa0?utm_campaign=1067&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
-| **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a1af7ae547e292ae139b909?utm_campaign=1067&utm_source=git)** | San Diego California | On Site | May 30 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a1736dc1430333075ccebc0?utm_campaign=1067&utm_source=git)** | Cincinnati, OH | Hybrid | May 27 |
-| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a16f924b091c7417c4f9435?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | May 27 |
-| **[RST Sunbury Transport](https://www.sunbury.ca)** | **[IT Business Analyst Student/Intern – Fall 2026](https://jobright.ai/jobs/info/6a366141ce501060b5cf6ef8?utm_campaign=1067&utm_source=git)** | 35 Micmac Blvd, Dartmouth, NS, B3A 4Y8, CA | On Site | May 26 |
-| **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a157531554b0e12c0582b06?utm_campaign=1067&utm_source=git)** | United States | Remote | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
