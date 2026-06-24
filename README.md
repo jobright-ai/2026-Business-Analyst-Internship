@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Jun 24 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56c982bb239f812d7f8?utm_campaign=1067&utm_source=git)** | Allentown, PA, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56b982bb239f812d7f7?utm_campaign=1067&utm_source=git)** | Louisville, KY, US | On Site | Jun 24 |
