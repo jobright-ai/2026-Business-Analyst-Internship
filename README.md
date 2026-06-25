@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Lifecare Learning](http://canadianlifecarelearning.com)** | **[Business System & Operation Intern](https://jobright.ai/jobs/info/6a3d51a8882f121f56a36d16?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 25 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a3d29c08bfad862bc99bf08?utm_campaign=1067&utm_source=git)** | New York City, NY | On Site | Jun 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 24 |
 | **[Aginsky Capital Group, LLC](https://www.aginskycapital.com)** | **[Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/6a3c70f2122f340d29cede46?utm_campaign=1067&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Jun 24 |
