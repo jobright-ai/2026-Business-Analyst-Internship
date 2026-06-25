@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 25 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a398d93f6b55d12c7928bec?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 25 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a3d29c08bfad862bc99bf08?utm_campaign=1067&utm_source=git)** | New York City, NY | On Site | Jun 25 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a3d78e64d047136e0933c26?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 24 |
-| **[Aginsky Capital Group, LLC](https://www.aginskycapital.com)** | **[Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/6a3c70f2122f340d29cede46?utm_campaign=1067&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
 | **[Honolulu Authority for Rapid Transportation (HART)](https://honolulutransit.org)** | **[Business Majors Internship](https://jobright.ai/jobs/info/6a3d64b0d261407de98002af?utm_campaign=1067&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Jun 24 |
