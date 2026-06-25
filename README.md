@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a37a961ce501060b5cf8a8c?utm_campaign=1067&utm_source=git)** | Irving, TX, US | Hybrid | Jun 18 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a019d19238f143e8352d23a?utm_campaign=1067&utm_source=git)** | Mississauga, ONT, Canada | Hybrid | Jun 17 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32b3257f3fdd180d4c2e87?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jun 17 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a38d5b129c90c607e4e81f5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, CA | On Site | Jun 16 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a31c90b5958816970016e62?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 16 |
 | **[MyEmployment](www.myemployment.com)** | **[Business Analyst & Quality Assurance Intern](https://jobright.ai/jobs/info/6a3184662ee3ac1b4beef57f?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a30d04a43732c05812e3c5d?utm_campaign=1067&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
@@ -86,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
-| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
+| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
