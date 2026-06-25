@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Canadian Lifecare Learning](http://canadianlifecarelearning.com)** | **[Business System & Operation Intern](https://jobright.ai/jobs/info/6a3d51a8882f121f56a36d16?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 25 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a3d29c08bfad862bc99bf08?utm_campaign=1067&utm_source=git)** | New York City, NY | On Site | Jun 25 |
+| **[Canadian Lifecare Learning](http://canadianlifecarelearning.com)** | **[Business System & Operation Intern](https://jobright.ai/jobs/info/6a3d51a8882f121f56a36d16?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jun 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 24 |
 | **[Aginsky Capital Group, LLC](https://www.aginskycapital.com)** | **[Business Management Intern - Summer 2026](https://jobright.ai/jobs/info/6a3c70f2122f340d29cede46?utm_campaign=1067&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
+| **[Honolulu Authority for Rapid Transportation (HART)](https://honolulutransit.org)** | **[Business Majors Internship](https://jobright.ai/jobs/info/6a3d64b0d261407de98002af?utm_campaign=1067&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Jun 24 |
 | **[TD](https://www.td.com)** | **[Business Management Analyst Intern/Co-op (Fall 2026) Preferred Candidate](https://jobright.ai/jobs/info/6a3c1cba8bfad862bc999160?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 24 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jun 24 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jun 14 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2d8d1ffc0644749054c6fa?utm_campaign=1067&utm_source=git)** | South San Francisco, CA | On Site | Jun 13 |
-| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e160ef1751b183c81bedd?utm_campaign=1067&utm_source=git)** | San Francisco, CA, US | On Site | Jun 13 |
+| ↳ | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2e161af1751b183c81bedf?utm_campaign=1067&utm_source=git)** | South San Francisco, CA, US | On Site | Jun 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a2b5683d3ec8317fe148588?utm_campaign=1067&utm_source=git)** | Poway California | On Site | Jun 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
