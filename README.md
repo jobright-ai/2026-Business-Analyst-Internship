@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e37214ae004c7a1e0d7?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 26 |
 | **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a3e9881d261407de98039b1?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jun 26 |
 | **[Austin Community College](http://austincc.edu)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/6a3e6ee08bfad862bc99fa1d?utm_campaign=1067&utm_source=git)** | Highland Campus, US | On Site | Jun 26 |
 | ↳ | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/6a3e6edf8bfad862bc99fa1c?utm_campaign=1067&utm_source=git)** | Service Center, US | On Site | Jun 26 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56c982bb239f812d7f8?utm_campaign=1067&utm_source=git)** | Allentown, PA, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56b982bb239f812d7f7?utm_campaign=1067&utm_source=git)** | Louisville, KY, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be569982bb239f812d7f6?utm_campaign=1067&utm_source=git)** | Providence, RI, US | On Site | Jun 24 |
-| **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e37214ae004c7a1e0d7?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 23 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a35181e649fdf16292f7d7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e3f214ae004c7a1e0da?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 22 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e36214ae004c7a1e0d5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 22 |
