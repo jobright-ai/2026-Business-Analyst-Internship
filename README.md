@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 27 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 27 |
+| ↳ | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jun 27 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3ffa7f16b1493953282e1e?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 27 |
