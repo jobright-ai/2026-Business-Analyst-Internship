@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jun 27 |
+| **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
+| **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3ffa7f16b1493953282e1e?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e37214ae004c7a1e0d7?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 26 |
 | **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a3e9881d261407de98039b1?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jun 26 |
 | **[Austin Community College](http://austincc.edu)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/6a3e6ee08bfad862bc99fa1d?utm_campaign=1067&utm_source=git)** | Highland Campus, US | On Site | Jun 26 |
 | ↳ | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/6a3e6edf8bfad862bc99fa1c?utm_campaign=1067&utm_source=git)** | Service Center, US | On Site | Jun 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 25 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a398d93f6b55d12c7928bec?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 25 |
-| **[City of New York](http://www1.nyc.gov)** | **[Business Enablement Summer Intern](https://jobright.ai/jobs/info/6a3d29c08bfad862bc99bf08?utm_campaign=1067&utm_source=git)** | New York City, NY | On Site | Jun 25 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a3d78e64d047136e0933c26?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
 | **[Honolulu Authority for Rapid Transportation (HART)](https://honolulutransit.org)** | **[Business Majors Internship](https://jobright.ai/jobs/info/6a3d64b0d261407de98002af?utm_campaign=1067&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56c982bb239f812d7f8?utm_campaign=1067&utm_source=git)** | Allentown, PA, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56b982bb239f812d7f7?utm_campaign=1067&utm_source=git)** | Louisville, KY, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be569982bb239f812d7f6?utm_campaign=1067&utm_source=git)** | Providence, RI, US | On Site | Jun 24 |
-| **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a35181e649fdf16292f7d7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e3f214ae004c7a1e0da?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jun 22 |
 | ↳ | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e36214ae004c7a1e0d5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 22 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a3aaffb649fdf1629305241?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 20 |
