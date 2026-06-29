@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a398d93f6b55d12c7928bec?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 27 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e37214ae004c7a1e0d7?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jun 26 |
 | **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a3e9881d261407de98039b1?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jun 26 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a398d93f6b55d12c7928bec?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 25 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a3d78e64d047136e0933c26?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
 | **[Honolulu Authority for Rapid Transportation (HART)](https://honolulutransit.org)** | **[Business Majors Internship](https://jobright.ai/jobs/info/6a3d64b0d261407de98002af?utm_campaign=1067&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
