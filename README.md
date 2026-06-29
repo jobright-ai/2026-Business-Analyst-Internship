@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[MyEmployment](www.myemployment.com)** | **[Business Analyst & Quality Assurance Intern](https://jobright.ai/jobs/info/6a3184662ee3ac1b4beef57f?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a30d04a43732c05812e3c5d?utm_campaign=1067&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
 | **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6a305068524fd5657fe102c7?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Jun 15 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
