@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a31c90b5958816970016e62?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 16 |
 | **[MyEmployment](www.myemployment.com)** | **[Business Analyst & Quality Assurance Intern](https://jobright.ai/jobs/info/6a3184662ee3ac1b4beef57f?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 16 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a30d04a43732c05812e3c5d?utm_campaign=1067&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
-| **[Bank of China USA](http://www.bocusa.com)** | **[Corporate Banking Department-Business Administration Intern](https://jobright.ai/jobs/info/6a305068524fd5657fe102c7?utm_campaign=1067&utm_source=git)** | New York, NY, US | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
