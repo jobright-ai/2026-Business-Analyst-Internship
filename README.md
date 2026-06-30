@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Definity](https://www.definityfinancial.com/)** | **[Technology Business Coordinator - Fall 2026 Co-op/Intern](https://jobright.ai/jobs/info/6a019d19238f143e8352d23a?utm_campaign=1067&utm_source=git)** | Mississauga, ONT, Canada | Hybrid | Jun 17 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32ac00910b734910711091?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jun 17 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jun 17 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a31c90b5958816970016e62?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
