@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a458c650dd56c76cc2f3c09?utm_campaign=1067&utm_source=git)** | San Jose, CA | Remote | Jul 01 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jul 01 |
+| **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Strategic Business Analyst Intern](https://jobright.ai/jobs/info/6a4586eb0dd56c76cc2f3b39?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 01 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Full Year Intern-IT](https://jobright.ai/jobs/info/6a4564ce4f64ba41dcb4d416?utm_campaign=1067&utm_source=git)** | 600 E Lafayette Blvd, Detroit, MI, 48226, US | On Site | Jul 01 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a45294f3dbab558e29a0597?utm_campaign=1067&utm_source=git)** | Del Rey, CA, USA | On Site | Jul 01 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 27 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Business Analyst Eastern Region - Fall 2026](https://jobright.ai/jobs/info/6a42d7056a9c2774b3fa7869?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Jun 27 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 27 |
-| ↳ | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jun 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jun 27 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3ffa7f16b1493953282e1e?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 27 |
