@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a44cdf807db2d13da75beb8?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jul 01 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a43eae50153061b8b3de932?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 30 |
 | **[NHS Global Events](https://www.nhsglobalevents.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a432fc8b0f2553559ece8bd?utm_campaign=1067&utm_source=git)** | Skokie, IL | On Site | Jun 29 |
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
