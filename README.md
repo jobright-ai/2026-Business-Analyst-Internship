@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 02 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a463324c2d11a6a4666d0a7?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Jul 02 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e3f214ae004c7a1e0da?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 02 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jul 01 |
 | **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Strategic Business Analyst Intern](https://jobright.ai/jobs/info/6a4586eb0dd56c76cc2f3b39?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32ac00910b734910711091?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jul 01 |
-| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 01 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a4529510dd56c76cc2f2823?utm_campaign=1067&utm_source=git)** | Shafter, CA, USA | On Site | Jul 01 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a43eae50153061b8b3de932?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 30 |
 | **[Steadman Philippon Research Institute](https://www.sprivail.org)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6a4640f1c2d11a6a4666d56f?utm_campaign=1067&utm_source=git)** | Vail,CO,US | On Site | Jun 30 |
