@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a45ae89971cd25b06f8988c?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jul 01 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a45294f3dbab558e29a0597?utm_campaign=1067&utm_source=git)** | Del Rey, CA, USA | On Site | Jul 01 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Full Year Intern-IT](https://jobright.ai/jobs/info/6a4564ce4f64ba41dcb4d416?utm_campaign=1067&utm_source=git)** | 600 E Lafayette Blvd, Detroit, MI, 48226, US | On Site | Jul 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a458c650dd56c76cc2f3c09?utm_campaign=1067&utm_source=git)** | San Jose, CA | Remote | Jul 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jul 01 |
 | **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Strategic Business Analyst Intern](https://jobright.ai/jobs/info/6a4586eb0dd56c76cc2f3b39?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32ac00910b734910711091?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jul 01 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 01 |
-| **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a45294f3dbab558e29a0597?utm_campaign=1067&utm_source=git)** | Del Rey, CA, USA | On Site | Jul 01 |
-| ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a4529510dd56c76cc2f2823?utm_campaign=1067&utm_source=git)** | Shafter, CA, USA | On Site | Jul 01 |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a4529510dd56c76cc2f2823?utm_campaign=1067&utm_source=git)** | Shafter, CA, USA | On Site | Jul 01 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business Analyst Training and Internship Program](https://jobright.ai/jobs/info/6a43eae50153061b8b3de932?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jun 30 |
 | **[NHS Global Events](https://www.nhsglobalevents.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a432fc8b0f2553559ece8bd?utm_campaign=1067&utm_source=git)** | Skokie, IL | On Site | Jun 29 |
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
@@ -94,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a3aaffb649fdf1629305241?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 20 |
 | **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a36ba4da0f3e56e86d6bc1b?utm_campaign=1067&utm_source=git)** | South San Francisco, California, USA | On Site | Jun 20 |
 | **[Neighborly®](https://www.neighborlybrands.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a34a3c21232144fb1560d21?utm_campaign=1067&utm_source=git)** | Irving, TX | Hybrid | Jun 18 |
-| ↳ | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a37a961ce501060b5cf8a8c?utm_campaign=1067&utm_source=git)** | Irving, TX, US | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
