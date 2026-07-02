@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a45e6e8971cd25b06f8a09d?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jul 01 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a45294f3dbab558e29a0597?utm_campaign=1067&utm_source=git)** | Del Rey, CA, USA | On Site | Jul 01 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Full Year Intern-IT](https://jobright.ai/jobs/info/6a4564ce4f64ba41dcb4d416?utm_campaign=1067&utm_source=git)** | 600 E Lafayette Blvd, Detroit, MI, 48226, US | On Site | Jul 01 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a458c650dd56c76cc2f3c09?utm_campaign=1067&utm_source=git)** | San Jose, CA | Remote | Jul 01 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 27 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Intern, Business Analyst Eastern Region - Fall 2026](https://jobright.ai/jobs/info/6a42d7056a9c2774b3fa7869?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Jun 27 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a34b3637f3fdd180d4cb714?utm_campaign=1067&utm_source=git)** | Newtown Square, PA | Hybrid | Jun 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jun 27 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3ffa7f16b1493953282e1e?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 27 |
