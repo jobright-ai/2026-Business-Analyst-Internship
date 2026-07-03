@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6a473514c2d11a6a46671c91?utm_campaign=1067&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 03 |
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 02 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a23ae88757ade085b6aedb3?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 27 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jun 27 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a3ffa7f16b1493953282e1e?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 27 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e37214ae004c7a1e0d7?utm_campaign=1067&utm_source=git)** | Waterloo, Ontario - Canada | Hybrid | Jun 26 |
