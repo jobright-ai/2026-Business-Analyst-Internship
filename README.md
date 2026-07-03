@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a463324c2d11a6a4666d0a7?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Jul 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6a473514c2d11a6a46671c91?utm_campaign=1067&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 03 |
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 02 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a463324c2d11a6a4666d0a7?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Jul 02 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e3f214ae004c7a1e0da?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 02 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
