@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jul 03 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II  (Intern) - United States ENG/CHG ETR](https://jobright.ai/jobs/info/6a463324c2d11a6a4666d0a7?utm_campaign=1067&utm_source=git)** | San Jose, California, US | Remote | Jul 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6a473514c2d11a6a46671c91?utm_campaign=1067&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 03 |
@@ -90,8 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
 | **[Honolulu Authority for Rapid Transportation (HART)](https://honolulutransit.org)** | **[Business Majors Internship](https://jobright.ai/jobs/info/6a3d64b0d261407de98002af?utm_campaign=1067&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Jun 24 |
-| **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jun 24 |
-| ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56c982bb239f812d7f8?utm_campaign=1067&utm_source=git)** | Allentown, PA, US | On Site | Jun 24 |
+| **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56c982bb239f812d7f8?utm_campaign=1067&utm_source=git)** | Allentown, PA, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56b982bb239f812d7f7?utm_campaign=1067&utm_source=git)** | Louisville, KY, US | On Site | Jun 24 |
 | ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be569982bb239f812d7f6?utm_campaign=1067&utm_source=git)** | Providence, RI, US | On Site | Jun 24 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e36214ae004c7a1e0d5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario - Canada | Hybrid | Jun 22 |
