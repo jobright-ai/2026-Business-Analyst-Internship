@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Steadman Philippon Research Institute](https://www.sprivail.org)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6a4640f1c2d11a6a4666d56f?utm_campaign=1067&utm_source=git)** | Vail,CO,US | On Site | Jul 04 |
-| **[Zipline](https://www.zipline.com/)** | **[Business Operations (Supply Chain) Intern (Fall 2026)](https://jobright.ai/jobs/info/6a36ba4da0f3e56e86d6bc1b?utm_campaign=1067&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 04 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jul 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6a473514c2d11a6a46671c91?utm_campaign=1067&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 03 |
