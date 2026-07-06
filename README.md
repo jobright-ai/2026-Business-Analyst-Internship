@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 06 |
 | **[CPKC](https://www.cpkcr.com/en)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6a4bde0d5d7b097d2df3e8e7?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 06 |
 | **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst Fellowship Program](https://jobright.ai/jobs/info/6a4c00384eb370649b27bd97?utm_campaign=1067&utm_source=git)** | Sacramento, CA | On Site | Jul 06 |
+| **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business Analyst Internship Program](https://jobright.ai/jobs/info/6a4c1d806189f64e437f133e?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Jul 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jul 03 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jul 03 |
 | **[Travelers](https://upstateinsurance.com)** | **[Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern](https://jobright.ai/jobs/info/6a473514c2d11a6a46671c91?utm_campaign=1067&utm_source=git)** | CT - Hartford, United States of America | Hybrid | Jul 03 |
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 02 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 02 |
 | **[Geotab](http://www.geotab.com/)** | **[Business Analyst Intern (Fall/September 2026, 8 Months)](https://jobright.ai/jobs/info/6a395e3f214ae004c7a1e0da?utm_campaign=1067&utm_source=git)** | Oakville, Ontario - Canada | Hybrid | Jul 02 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
