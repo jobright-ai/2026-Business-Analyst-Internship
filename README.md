@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">30</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a4e90a71544d7246c0d347c?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Jul 08 |
+| **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4e84ff1544d7246c0d3292?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | Hybrid | Jul 08 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4e7c669469c0662034b7c9?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Jul 08 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a4dd5de4c6c9f7a619f8c45?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US, 27409 | On Site | Jul 07 |
 | ↳ | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a4d258d99523700cbff489b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 07 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 07 |
@@ -77,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Full Year Intern-IT](https://jobright.ai/jobs/info/6a4564ce4f64ba41dcb4d416?utm_campaign=1067&utm_source=git)** | 600 E Lafayette Blvd, Detroit, MI, 48226, US | On Site | Jul 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a3c79a6d261407de97fdca4?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77098 | Hybrid | Jul 01 |
 | **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Strategic Business Analyst Intern](https://jobright.ai/jobs/info/6a4586eb0dd56c76cc2f3b39?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | On Site | Jul 01 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a4529510dd56c76cc2f2823?utm_campaign=1067&utm_source=git)** | Shafter, CA, USA | On Site | Jul 01 |
 | **[NHS Global Events](https://www.nhsglobalevents.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a432fc8b0f2553559ece8bd?utm_campaign=1067&utm_source=git)** | Skokie, IL | On Site | Jun 29 |
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
@@ -85,19 +89,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jun 26 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a4627483dbab558e29a4ad7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 25 |
-| **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a3d78e64d047136e0933c26?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jun 24 |
-| ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jun 24 |
-| **[Honolulu Authority for Rapid Transportation (HART)](https://honolulutransit.org)** | **[Business Majors Internship](https://jobright.ai/jobs/info/6a3d64b0d261407de98002af?utm_campaign=1067&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA | On Site | Jun 24 |
-| **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56c982bb239f812d7f8?utm_campaign=1067&utm_source=git)** | Allentown, PA, US | On Site | Jun 24 |
-| ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be56b982bb239f812d7f7?utm_campaign=1067&utm_source=git)** | Louisville, KY, US | On Site | Jun 24 |
-| ↳ | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be569982bb239f812d7f6?utm_campaign=1067&utm_source=git)** | Providence, RI, US | On Site | Jun 24 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a4c706535e45603c4bb147e?utm_campaign=1067&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 22 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a3aaffb649fdf1629305241?utm_campaign=1067&utm_source=git)** | Austin, TX | On Site | Jun 20 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a31c90b5958816970016e62?utm_campaign=1067&utm_source=git)** | Toronto, Canada | On Site | Jun 17 |
-| **[MyEmployment](www.myemployment.com)** | **[Business Analyst & Quality Assurance Intern](https://jobright.ai/jobs/info/6a3184662ee3ac1b4beef57f?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 16 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a30d04a43732c05812e3c5d?utm_campaign=1067&utm_source=git)** | Wichita, Kansas | On Site | Jun 15 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6a26e7bb4ec8d737d6dfc795?utm_campaign=1067&utm_source=git)** | Cincinnati, OH (USA), US | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
