@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a4627483dbab558e29a4ad7?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 25 |
 | **[MLSE (Maple Leaf Sports & Entertainment Partnership)](http://mlse.com)** | **[Business Strategy & Analytics Intern](https://jobright.ai/jobs/info/6a3d78e64d047136e0933c26?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA | On Site | Jun 24 |
-| ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
