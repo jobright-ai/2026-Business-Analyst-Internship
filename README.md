@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4fc1571544d7246c0d64b3?utm_campaign=1067&utm_source=git)** | NYC Metro Area | On Site | Jul 09 |
+| **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4fc1571544d7246c0d64b3?utm_campaign=1067&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
 | **[Butcher Power Products](https://www.bppmfg.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4ee6a10ea38951a6ff4d24?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Jul 08 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a4e90a71544d7246c0d347c?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Jul 08 |
