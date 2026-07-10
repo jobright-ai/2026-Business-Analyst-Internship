@@ -72,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a4dd5de4c6c9f7a619f8c45?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US, 27409 | On Site | Jul 07 |
 | ↳ | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a4d258d99523700cbff489b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 07 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 07 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a32ac00910b734910711091?utm_campaign=1067&utm_source=git)** | Huntsville, AL | On Site | Jul 06 |
-| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 06 |
+| **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 06 |
 | **[CPKC](https://www.cpkcr.com/en)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6a4bde0d5d7b097d2df3e8e7?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jul 03 |
