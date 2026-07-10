@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4fc1571544d7246c0d64b3?utm_campaign=1067&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
@@ -88,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
