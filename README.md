@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SAP Americas](www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a50e71057513b72e0c6233d?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Jul 10 |
-| ↳ | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a50e6f70524e919f4a9ab0c?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | On Site | Jul 10 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a50e4ca130ee4062a81aaab?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
@@ -71,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a4dd5de4c6c9f7a619f8c45?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US, 27409 | On Site | Jul 07 |
 | ↳ | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a4d258d99523700cbff489b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 07 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 07 |
-| **[DCS Corp](http://www.dcscorp.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6a4019ad1afc66714d3c9ac6?utm_campaign=1067&utm_source=git)** | Huntsville, AL, US | On Site | Jul 06 |
 | **[CPKC](https://www.cpkcr.com/en)** | **[Process Analyst Intern](https://jobright.ai/jobs/info/6a4bde0d5d7b097d2df3e8e7?utm_campaign=1067&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jul 03 |
