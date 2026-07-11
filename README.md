@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SAP Americas](www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a50e71057513b72e0c6233d?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Jul 10 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51dda6ae4052672fe9c1ac?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
+| **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a51e3558d7d3e6cf1cc466b?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a50e4ca130ee4062a81aaab?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
@@ -88,5 +89,4 @@ For a complete list, click the following sortable link below:
 | **[NHS Global Events](https://www.nhsglobalevents.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a432fc8b0f2553559ece8bd?utm_campaign=1067&utm_source=git)** | Skokie, IL | On Site | Jun 29 |
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
-| **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a3fe22e9dd7f954cafe7501?utm_campaign=1067&utm_source=git)** | San Diego, California | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
