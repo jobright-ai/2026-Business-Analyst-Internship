@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a521f798ef95364ead8cf7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 11 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a520102ae4052672fe9d223?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51dda6ae4052672fe9c1ac?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a51e3558d7d3e6cf1cc466b?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a50e4ca130ee4062a81aaab?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
+| **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4fc1571544d7246c0d64b3?utm_campaign=1067&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 09 |
