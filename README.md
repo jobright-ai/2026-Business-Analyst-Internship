@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a52713d8a74e077472f4979?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 11 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a52352be726ec56126a2021?utm_campaign=1067&utm_source=git)** | AL, United States | Remote | Jul 11 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a521f798ef95364ead8cf7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 11 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a520102ae4052672fe9d223?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jul 11 |
