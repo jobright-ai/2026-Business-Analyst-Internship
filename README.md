@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Remote | Jul 12 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a521f798ef95364ead8cf7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 11 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a52713d8a74e077472f4979?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 11 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Business Transformation Intern- Fall 2026](https://jobright.ai/jobs/info/6a52352be726ec56126a2021?utm_campaign=1067&utm_source=git)** | AL, United States | Remote | Jul 11 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a520102ae4052672fe9d223?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51dda6ae4052672fe9c1ac?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a51e3558d7d3e6cf1cc466b?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 10 |
@@ -93,5 +92,4 @@ For a complete list, click the following sortable link below:
 | **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | On Site | Jul 01 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a4529510dd56c76cc2f2823?utm_campaign=1067&utm_source=git)** | Shafter, CA, USA | On Site | Jul 01 |
 | **[NHS Global Events](https://www.nhsglobalevents.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a432fc8b0f2553559ece8bd?utm_campaign=1067&utm_source=git)** | Skokie, IL | On Site | Jun 29 |
-| **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
