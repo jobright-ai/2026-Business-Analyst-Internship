@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a4529510dd56c76cc2f2823?utm_campaign=1067&utm_source=git)** | Shafter, CA, USA | On Site | Jul 01 |
 | **[NHS Global Events](https://www.nhsglobalevents.com/)** | **[Business Management Intern](https://jobright.ai/jobs/info/6a432fc8b0f2553559ece8bd?utm_campaign=1067&utm_source=git)** | Skokie, IL | On Site | Jun 29 |
 | **[ImEx Cargo LLC](https://www.imexcargo.com)** | **[Supply Chain Analyst Intern](https://jobright.ai/jobs/info/6a42f5781cc9cc2b12fed82c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jun 29 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
