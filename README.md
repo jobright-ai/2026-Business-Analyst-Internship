@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Research Analyst / Business strategist intern](https://jobright.ai/jobs/info/6a54dfdbb361d54aceab7925?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a541eadc8eb0843027aedfd?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Remote | Jul 12 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, California, United States | Remote | Jul 12 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a521f798ef95364ead8cf7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 11 |
