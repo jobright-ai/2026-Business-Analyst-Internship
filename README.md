@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Alaka'i Leadership Group, LLC](https://thealakaigroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a561fbcefb06a45240d3eec?utm_campaign=1067&utm_source=git)** | Savage, MN, United States | Hybrid | Jul 14 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[Internship (Business, Delivery, IT)](https://jobright.ai/jobs/info/6a55f41ff7517b519ad5228c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a55592e268af95237beb180?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Jul 13 |
