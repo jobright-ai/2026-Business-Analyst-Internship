@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitratech Preparis](http://www.preparis.com)** | **[BUSINESS INTERNSHIP with High Growth Software Company in Buckhead](https://jobright.ai/jobs/info/6a56826d21f64463ad3550a5?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 14 |
 | **[Famous Supply](http://famous-supply.com)** | **[Business Process Improvement Intern – Data Governance](https://jobright.ai/jobs/info/6a567ad710c4d945d8649cfd?utm_campaign=1067&utm_source=git)** | Akron, OH, United States | On Site | Jul 14 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a562ba753b3962b910ae788?utm_campaign=1067&utm_source=git)** | Wichita, Kansas, United States | On Site | Jul 14 |
 | **[The Alaka'i Leadership Group, LLC](https://thealakaigroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a561fbcefb06a45240d3eec?utm_campaign=1067&utm_source=git)** | Savage, MN, United States | Hybrid | Jul 14 |
