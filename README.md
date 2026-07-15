@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a45294f3dbab558e29a0597?utm_campaign=1067&utm_source=git)** | Del Rey, CA, USA | On Site | Jul 01 |
-| **[Hengst Filtration | North America](https://www.hengst.com/en/)** | **[Strategic Business Analyst Intern](https://jobright.ai/jobs/info/6a4586eb0dd56c76cc2f3b39?utm_campaign=1067&utm_source=git)** | Raleigh, NC | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
