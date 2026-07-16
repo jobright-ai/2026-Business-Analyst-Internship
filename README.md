@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a58a64a72fe7a7b98dcfaf4?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a5894e39f1f56462cf6aeff?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f8e9838a11e5d836b30?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 15 |
 | ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f149838a11e5d836a9c?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 15 |
