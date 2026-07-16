@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f8e9838a11e5d836b30?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 15 |
+| ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f149838a11e5d836a9c?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 15 |
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, United States | On Site | Jul 15 |
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a570a5421f64463ad357a9c?utm_campaign=1067&utm_source=git)** | Calgary, Canada | On Site | Jul 14 |
 | **[MyEmployment](www.myemployment.com)** | **[Business Analyst & Quality Assurance Intern](https://jobright.ai/jobs/info/6a56d1c121f64463ad3570e5?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Famous Supply](http://famous-supply.com)** | **[Business Process Improvement Intern – Data Governance](https://jobright.ai/jobs/info/6a567ad710c4d945d8649cfd?utm_campaign=1067&utm_source=git)** | Akron, OH, United States | On Site | Jul 14 |
 | **[Mitratech Preparis](http://www.preparis.com)** | **[BUSINESS INTERNSHIP with High Growth Software Company in Buckhead](https://jobright.ai/jobs/info/6a56826d21f64463ad3550a5?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 14 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a562ba753b3962b910ae788?utm_campaign=1067&utm_source=git)** | Wichita, Kansas, United States | On Site | Jul 14 |
-| **[The Alaka'i Leadership Group](https://thealakaigroup.com)** | **[Intern](https://jobright.ai/jobs/info/6a561fbcefb06a45240d3eec?utm_campaign=1067&utm_source=git)** | Savage, MN, United States | Hybrid | Jul 14 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[Internship (Business, Delivery, IT)](https://jobright.ai/jobs/info/6a55f41ff7517b519ad5228c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a55592e268af95237beb180?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Jul 13 |
