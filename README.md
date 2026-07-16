@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 02 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
 | ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 02 |
-| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69f01fb7ecbc8c2f731fe658?utm_campaign=1067&utm_source=git)** | New York, NY | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
