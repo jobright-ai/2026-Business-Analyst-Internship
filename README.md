@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3be570982bb239f812d7f9?utm_campaign=1067&utm_source=git)** | Lexington, KY, US | On Site | Jul 03 |
 | **[Nila Solutions Co., Ltd.](https://www.nilasolutions.co/)** | **[Business Analyst (Intern)](https://jobright.ai/jobs/info/6a513403bf63b66c79979b21?utm_campaign=1067&utm_source=git)** | Mather, CA, United States | On Site | Jul 03 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a3fe267b526a24fc31302a1?utm_campaign=1067&utm_source=git)** | Poway, California | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
