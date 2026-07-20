@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a5d49614da96a42cfd9e169?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 19 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a5e25f4270e3033b045c1b8?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jul 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Love's Alternative Energy Internship (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a5c5760856af468ab00ee2c?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77019 | On Site | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a5a5d274da96a42cfd95873?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US, 30326 | Hybrid | Jul 17 |
