@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5fbceab0f20036bc632c86?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Spot Freight](https://spotinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5a4beb856af468ab007c3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Research Analyst / Business strategist intern](https://jobright.ai/jobs/info/6a59e9c14da96a42cfd92f42?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a5a5d274da96a42cfd95873?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US, 30326 | Hybrid | Jul 17 |
 | **[Roylo Partners](https://www.roylopartnersltd.co.uk/)** | **[Business Intern](https://jobright.ai/jobs/info/6a5a92cd3ac7627fe9004d1b?utm_campaign=1067&utm_source=git)** | Hyattsville, MD, United States | On Site | Jul 17 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a58b87c3ac7627fe9ffab52?utm_campaign=1067&utm_source=git)** | Shafter, CA, United States | On Site | Jul 16 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c0de2122f340d29cec52d?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | On Site | Jul 16 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a5894e39f1f56462cf6aeff?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 16 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f8e9838a11e5d836b30?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 15 |
 | ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f149838a11e5d836a9c?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 15 |
