@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 21 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5fbceab0f20036bc632c86?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Spot Freight](https://spotinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5a4beb856af468ab007c3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Research Analyst / Business strategist intern](https://jobright.ai/jobs/info/6a59e9c14da96a42cfd92f42?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
