@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[LVMH Perfumes & Cosmetics](http://www.lvmh.com/houses/perfumes-cosmetics/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4e84ff1544d7246c0d3292?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | Hybrid | Jul 08 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4e7c669469c0662034b7c9?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Jul 08 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a542d2c8ef95364ead94ab1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 07 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
