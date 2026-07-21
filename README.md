@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Jul 09 |
 | **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4fc1571544d7246c0d64b3?utm_campaign=1067&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 09 |
 | **[Butcher Power Products](https://www.bppmfg.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4ee6a10ea38951a6ff4d24?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Jul 08 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Business Control (Fall 2026)](https://jobright.ai/jobs/info/6a542d2c8ef95364ead94ab1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
