@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a60110ef68dd368023ea442?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 21 |
+| **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6010ecf68dd368023ea429?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 21 |
 | **[MarCom Group](https://www.marcomgroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a46ca350dd56c76cc2fae58?utm_campaign=1067&utm_source=git)** | Remote (United States) | Remote | Jul 21 |
 | **[Stealth](https://www.timelyai.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5fbceab0f20036bc632c86?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Spot Freight](https://spotinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5a4beb856af468ab007c3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 21 |
