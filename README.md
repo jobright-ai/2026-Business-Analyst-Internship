@@ -100,5 +100,4 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a50e4ca130ee4062a81aaab?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Jul 09 |
-| **[US Tiger Securities, Inc.](https://www.itigerup.com/?lang=en_US)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a4fc1571544d7246c0d64b3?utm_campaign=1067&utm_source=git)** | New York City Metropolitan Area, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
