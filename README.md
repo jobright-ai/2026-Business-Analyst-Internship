@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[T. Rowe Price](http://www.troweprice.com)** | **[2027 Business Enablement Internship Program](https://jobright.ai/jobs/info/6a6194feeaa37f43e7589230?utm_campaign=1067&utm_source=git)** | Owings Mills, MD, United States | Hybrid | Jul 22 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | ↳ | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b1f193c4d692385eb9e?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6010ecf68dd368023ea429?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 21 |
@@ -69,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a42a973a5e15b1068379b82?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
 | **[Employment Solutions - Sault College](http://www.employment-solutions.ca/)** | **[Business Research Analyst Intern](https://jobright.ai/jobs/info/6a5fa0236e0c3c7c7d3d7e64?utm_campaign=1067&utm_source=git)** | Sault Ste. Marie, ON, Canada | On Site | Jul 21 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a5f56bd33ef5c58b4ffd876?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
-| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a5e97b0f3674a0545d2a074?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, United States | On Site | Jul 20 |
+| **[University of Utah Health](https://www.cs.utah.edu)** | **[Business Services Intern](https://jobright.ai/jobs/info/6a5e950b67b2850e77df217c?utm_campaign=1067&utm_source=git)** | SALT LAKE CITY, UT, United States | On Site | Jul 20 |
 | **[Texas Farm Bureau Insurance Companies](http://www.txfb-ins.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5ea5c467b2850e77df2881?utm_campaign=1067&utm_source=git)** | 7420 Fish Pond Rd, Waco, TX 76710, USA | On Site | Jul 20 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a5d49614da96a42cfd9e169?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 19 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a5e25f4270e3033b045c1b8?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jul 19 |
