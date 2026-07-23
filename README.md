@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a45294f3dbab558e29a0597?utm_campaign=1067&utm_source=git)** | Del Rey, CA, USA | On Site | Jul 23 |
+| ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f149838a11e5d836a9c?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 23 |
 | ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f8e9838a11e5d836b30?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 23 |
 | ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a58b87c3ac7627fe9ffab52?utm_campaign=1067&utm_source=git)** | Shafter, CA, United States | On Site | Jul 23 |
-| ↳ | **[Intern, Business Systems Analyst (Summer Internship)](https://jobright.ai/jobs/info/6a580f149838a11e5d836a9c?utm_campaign=1067&utm_source=git)** | Del Rey, CA, United States | On Site | Jul 23 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | ↳ | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b1f193c4d692385eb9e?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6010ecf68dd368023ea429?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 21 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a520102ae4052672fe9d223?utm_campaign=1067&utm_source=git)** | Aliso Viejo, California, USA | On Site | Jul 11 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51dda6ae4052672fe9c1ac?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[Prolydian](https://www.prolydian.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a51e3558d7d3e6cf1cc466b?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a50e4ca130ee4062a81aaab?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 10 |
 | **[Veterans United Home Loans](https://www.veterans-united.org)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 10 |
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
