@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Jul 31 |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 31 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a562ba753b3962b910ae788?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a6c177bc00ae03109f87731?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
@@ -95,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a55592e268af95237beb180?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Jul 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a5d49614da96a42cfd9e169?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 19 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Love's Alternative Energy Internship (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a5c5760856af468ab00ee2c?utm_campaign=1067&utm_source=git)** | Houston, TX, US, 77019 | On Site | Jul 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
