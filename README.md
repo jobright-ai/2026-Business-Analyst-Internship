@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a6c177bc00ae03109f87731?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a6c151e5c54bc4752cec748?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6c14e557120971bf3aa4f8?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6c145357120971bf3aa4c4?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Business Planning, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a51dda6ae4052672fe9c1ac?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a63dc7a8d53603449604b77?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Jul 24 |
 | **[Mitratech Preparis](http://www.preparis.com)** | **[BUSINESS INTERNSHIP with High Growth Software Company in Buckhead](https://jobright.ai/jobs/info/6a56826d21f64463ad3550a5?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
-| **[BMO](http://www.bmo.com)** | **[Business Analyst, Risk Data - Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6a63758d5c7e2d715ebac0c4?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
-| ↳ | **[Business Analyst, Risk Data - Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a63757f8d536034496025c6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Risk Data - Fall 2026 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6a6375968d536034496025ca?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
+| ↳ | **[Business Analyst, Risk Data - Fall 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a6375a187cef057612c8b67?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
 | **[Heli America](https://www.heliforkliftamerica.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6a63893be8d8d22e329292fc?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 24 |
 | ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 24 |
