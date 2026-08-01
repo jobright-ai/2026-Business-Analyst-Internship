@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d62c357120971bf3affc2?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Miller Electric Company](https://www.mecojax.com)** | **[Business Associates – 2026 Internship Class](https://jobright.ai/jobs/info/6a6d3456acb0a61f9dbc9741?utm_campaign=1067&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6d08dc32f9300c3a3e6aeb?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
@@ -83,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a63dc7a8d53603449604b77?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Jul 24 |
 | **[Mitratech Preparis](http://www.preparis.com)** | **[BUSINESS INTERNSHIP with High Growth Software Company in Buckhead](https://jobright.ai/jobs/info/6a56826d21f64463ad3550a5?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a68dd3f3b549b0b531d2657?utm_campaign=1067&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Jul 24 |
-| ↳ | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a5a5d274da96a42cfd95873?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US, 30326 | Hybrid | Jul 24 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a5a5d274da96a42cfd95873?utm_campaign=1067&utm_source=git)** | Atlanta, GA, US, 30326 | Hybrid | Jul 24 |
+| ↳ | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a68dd3f3b549b0b531d2657?utm_campaign=1067&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Jul 24 |
 | **[Heli America](https://www.heliforkliftamerica.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6a63893be8d8d22e329292fc?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 24 |
 | ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 24 |
