@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Miller Electric Company](https://www.mecojax.com)** | **[Business Associates – 2026 Internship Class](https://jobright.ai/jobs/info/6a6d3456acb0a61f9dbc9741?utm_campaign=1067&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6d08dc32f9300c3a3e6aeb?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Jul 31 |
