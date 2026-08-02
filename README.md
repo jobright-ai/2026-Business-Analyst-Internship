@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a6828b2b9adcd752800df59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 19 |
 | **[MFA](https://www.managedfunds.org/)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a55592e268af95237beb180?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Jul 19 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a5d49614da96a42cfd9e169?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
