@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbbVie](https://www.abbvie.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d760cb96192a36845e00?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 03 |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d2ba1003bd7b70d6cd49?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 03 |
 | **[Assurant](https://www.assurant.com/)** | **[Process Improvement Intern – Fall-Winter 2026 (Part-Time)](https://jobright.ai/jobs/info/6a70a92c71acd469eed9ed16?utm_campaign=1067&utm_source=git)** | Hato Rey, Puerto Rico, United States | Hybrid | Aug 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d95055c54bc4752cf2aa7?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
@@ -78,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[Business Intern](https://jobright.ai/jobs/info/6a551489377f983ce8a97ac0?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a6a2b51c63ba56308f51a16?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Jul 29 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 29 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 29 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 29 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 29 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[Internship (Business, Delivery, IT)](https://jobright.ai/jobs/info/6a55f41ff7517b519ad5228c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Advanced Degree College Intern - Enterprise AI Hub](https://jobright.ai/jobs/info/6a671a17872eb74f9ead81a4?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 27 |
