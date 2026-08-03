@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d95055c54bc4752cf2aa7?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
+| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7005abcd3bac13d37095fa?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
 | **[Miller Electric Company](https://www.mecojax.com)** | **[Business Associates – 2026 Internship Class](https://jobright.ai/jobs/info/6a6d3456acb0a61f9dbc9741?utm_campaign=1067&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6d08dc32f9300c3a3e6aeb?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
