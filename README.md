@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Assurant](https://www.assurant.com/)** | **[Process Improvement Intern – Fall-Winter 2026 (Part-Time)](https://jobright.ai/jobs/info/6a70a92c71acd469eed9ed16?utm_campaign=1067&utm_source=git)** | Hato Rey, Puerto Rico, United States | Hybrid | Aug 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d95055c54bc4752cf2aa7?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7005abcd3bac13d37095fa?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
@@ -95,6 +96,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Research Analyst / Business strategist intern](https://jobright.ai/jobs/info/6a59e9c14da96a42cfd92f42?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6500245c7e2d715ebb11a5?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
 | **[Employment Solutions - Sault College](http://www.employment-solutions.ca/)** | **[Business Research Analyst Intern](https://jobright.ai/jobs/info/6a5fa0236e0c3c7c7d3d7e64?utm_campaign=1067&utm_source=git)** | Sault Ste. Marie, ON, Canada | On Site | Jul 21 |
-| **[Texas Farm Bureau Insurance Companies](http://www.txfb-ins.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5ea5c467b2850e77df2881?utm_campaign=1067&utm_source=git)** | 7420 Fish Pond Rd, Waco, TX 76710, USA | On Site | Jul 20 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a6828b2b9adcd752800df59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
