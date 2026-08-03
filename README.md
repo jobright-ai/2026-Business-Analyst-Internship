@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d95055c54bc4752cf2aa7?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7005abcd3bac13d37095fa?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Jul 31 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 31 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a562ba753b3962b910ae788?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a6c177bc00ae03109f87731?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a6c151e5c54bc4752cec748?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6c14e557120971bf3aa4f8?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
