@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a720e89e2b7476e7b210f09?utm_campaign=1067&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 04 |
 | ↳ | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ffd5d89f8f147d3732ecf?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | **[Famous Supply](http://famous-supply.com)** | **[Business Process Improvement Intern – Data Governance](https://jobright.ai/jobs/info/6a567ad710c4d945d8649cfd?utm_campaign=1067&utm_source=git)** | Akron, OH, United States | On Site | Aug 03 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d95055c54bc4752cf2aa7?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7005abcd3bac13d37095fa?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
-| **[Miller Electric Company](https://www.mecojax.com)** | **[Business Associates – 2026 Internship Class](https://jobright.ai/jobs/info/6a6d3456acb0a61f9dbc9741?utm_campaign=1067&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 31 |
 | **[City of Austin](https://www.austintexas.gov)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6a6dabb541b41d325296a1e4?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Jul 31 |
 | **[Bestow](https://www.bestow.com)** | **[Business Operations and AI Intern](https://jobright.ai/jobs/info/6a6cdbefca1f9338466011d1?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Jul 31 |
