@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a7238d1cb96192a3684cc1f?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a721c67cb96192a3684c20a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Aug 04 |
 | **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a720e89e2b7476e7b210f09?utm_campaign=1067&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
