@@ -40,7 +40,7 @@
 
 ---
 <h4>
-Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">14</span> days are listed due to capacity constraints.
+Only jobs posted in the last <span style="color: red; font-weight: bold; font-size: larger;">7</span> days are listed due to capacity constraints.
 <br>
 For a complete list, click the following sortable link below:
 </h4>
@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a718224e2b7476e7b20e5c4?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d760cb96192a36845e00?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 03 |
+| **[BMW Group](http://www.bmwgroup.com)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a71ab0945b6af1c30dba57b?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Aug 03 |
 | **[Williams](https://www.williams.com)** | **[Summer 2027 Return General Business/IT Intern](https://jobright.ai/jobs/info/6a70e055e2b7476e7b20b7fa?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 03 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d2ba1003bd7b70d6cd49?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 03 |
 | **[Assurant](https://www.assurant.com/)** | **[Process Improvement Intern – Fall-Winter 2026 (Part-Time)](https://jobright.ai/jobs/info/6a70a92c71acd469eed9ed16?utm_campaign=1067&utm_source=git)** | Hato Rey, Puerto Rico, United States | Hybrid | Aug 03 |
@@ -84,21 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[Business Intern](https://jobright.ai/jobs/info/6a551489377f983ce8a97ac0?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a6a2b51c63ba56308f51a16?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Jul 29 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 29 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 29 |
-| **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[Internship (Business, Delivery, IT)](https://jobright.ai/jobs/info/6a55f41ff7517b519ad5228c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 27 |
-| **[Salt River Project](https://www.srpnet.com/)** | **[Advanced Degree College Intern - Enterprise AI Hub](https://jobright.ai/jobs/info/6a671a17872eb74f9ead81a4?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 27 |
-| **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a541eadc8eb0843027aedfd?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Jul 26 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a63dc7a8d53603449604b77?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Jul 24 |
-| **[Mitratech Preparis](http://www.preparis.com)** | **[BUSINESS INTERNSHIP with High Growth Software Company in Buckhead](https://jobright.ai/jobs/info/6a56826d21f64463ad3550a5?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
-| **[Heli America](https://www.heliforkliftamerica.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6a63893be8d8d22e329292fc?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
-| **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 24 |
-| ↳ | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Jul 24 |
-| **[Spot Freight](https://spotinc.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5a4beb856af468ab007c3b?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 24 |
-| **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
-| ↳ | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b1f193c4d692385eb9e?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Research Analyst / Business strategist intern](https://jobright.ai/jobs/info/6a59e9c14da96a42cfd92f42?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6500245c7e2d715ebb11a5?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 29 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
