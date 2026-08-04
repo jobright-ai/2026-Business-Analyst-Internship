@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Famous Supply](http://famous-supply.com)** | **[Business Process Improvement Intern – Data Governance](https://jobright.ai/jobs/info/6a567ad710c4d945d8649cfd?utm_campaign=1067&utm_source=git)** | Akron, OH, United States | On Site | Aug 03 |
+| **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a718224e2b7476e7b20e5c4?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d760cb96192a36845e00?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 03 |
 | **[Williams](https://www.williams.com)** | **[Summer 2027 Return General Business/IT Intern](https://jobright.ai/jobs/info/6a70e055e2b7476e7b20b7fa?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | On Site | Aug 03 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d2ba1003bd7b70d6cd49?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 03 |
 | **[Assurant](https://www.assurant.com/)** | **[Process Improvement Intern – Fall-Winter 2026 (Part-Time)](https://jobright.ai/jobs/info/6a70a92c71acd469eed9ed16?utm_campaign=1067&utm_source=git)** | Hato Rey, Puerto Rico, United States | Hybrid | Aug 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
+| **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6a6fd13b160eda5948e8cc95?utm_campaign=1067&utm_source=git)** | Northern Virginia, VA, United States | Remote | Aug 02 |
 | **[Hilltop Ski Area](http://www.hilltopskiarea.org)** | **[Business Internship](https://jobright.ai/jobs/info/6a6d95055c54bc4752cf2aa7?utm_campaign=1067&utm_source=git)** | Anchorage, AK, United States | On Site | Jul 31 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[IT Business Analyst Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7005abcd3bac13d37095fa?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Jul 31 |
