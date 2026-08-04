@@ -101,5 +101,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b1f193c4d692385eb9e?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Research Analyst / Business strategist intern](https://jobright.ai/jobs/info/6a59e9c14da96a42cfd92f42?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6500245c7e2d715ebb11a5?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 21 |
-| **[Employment Solutions - Sault College](http://www.employment-solutions.ca/)** | **[Business Research Analyst Intern](https://jobright.ai/jobs/info/6a5fa0236e0c3c7c7d3d7e64?utm_campaign=1067&utm_source=git)** | Sault Ste. Marie, ON, Canada | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
