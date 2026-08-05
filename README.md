@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a739d6c6a034212ea0289fd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 05 |
 | **[Office Divvy ™](https://officedivvy.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a7355fb8cd88e7ccbf57c17?utm_campaign=1067&utm_source=git)** | Palm Coast, FL, United States | On Site | Aug 05 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 05 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a7342ace55c73319eb16181?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Remote | Aug 05 |
