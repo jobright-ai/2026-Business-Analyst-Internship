@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BikeFlip](https://bikeflip.nl/?utm_source=LikedIn&utm_medium=bio&utm_campaign=general)** | **[Business Administration Internship / Business Intern](https://jobright.ai/jobs/info/6a72a7fccb96192a3684edbe?utm_campaign=1067&utm_source=git)** | August, CA, United States | On Site | Aug 04 |
+| **[Baynovation, LLC](www.baynovation.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a72a44a02d93145bf895774?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a7238d1cb96192a3684cc1f?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a5ee38d470d4126fdeac540?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Aug 04 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a721c67cb96192a3684c20a?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Aug 04 |
@@ -87,6 +89,5 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6c14e557120971bf3aa4f8?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6c145357120971bf3aa4c4?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[Business Intern](https://jobright.ai/jobs/info/6a551489377f983ce8a97ac0?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a6a2b51c63ba56308f51a16?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Jul 29 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
