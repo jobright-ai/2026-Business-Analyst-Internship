@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FAMU National Alumni Association](http://famunaa.org)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a7308a5e55c73319eb1548c?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Aug 05 |
 | **[BikeFlip](https://bikeflip.nl/?utm_source=LikedIn&utm_medium=bio&utm_campaign=general)** | **[Business Administration Internship / Business Intern](https://jobright.ai/jobs/info/6a72a7fccb96192a3684edbe?utm_campaign=1067&utm_source=git)** | August, CA, United States | On Site | Aug 04 |
 | **[Baynovation, LLC](www.baynovation.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a72a44a02d93145bf895774?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a7238d1cb96192a3684cc1f?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
