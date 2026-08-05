@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a6c151e5c54bc4752cec748?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6c14e557120971bf3aa4f8?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6c145357120971bf3aa4c4?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
-| **[Hospital for Special Surgery](https://www.hss.edu)** | **[Business Intern](https://jobright.ai/jobs/info/6a551489377f983ce8a97ac0?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
