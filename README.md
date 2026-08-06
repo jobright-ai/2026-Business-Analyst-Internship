@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cherry Street Energy](https://www.cherrystreet.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a74be26972ac843c6996f79?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a74813c7b3417772ade01ac?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Aug 05 |
+| **[Alys Beach](https://alysbeach.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a74ba12972ac843c6996d3a?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a739d6c6a034212ea0289fd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 05 |
 | **[Office Divvy ™](https://officedivvy.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a7355fb8cd88e7ccbf57c17?utm_campaign=1067&utm_source=git)** | Palm Coast, FL, United States | On Site | Aug 05 |
