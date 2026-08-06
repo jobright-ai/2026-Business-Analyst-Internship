@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ECS Group of Companies](http://www.ecslimited.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a74813c7b3417772ade01ac?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Aug 05 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 05 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a739d6c6a034212ea0289fd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 05 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 04 |
 | ↳ | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ffd5d89f8f147d3732ecf?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | **[Famous Supply](http://famous-supply.com)** | **[Business Process Improvement Intern – Data Governance](https://jobright.ai/jobs/info/6a567ad710c4d945d8649cfd?utm_campaign=1067&utm_source=git)** | Akron, OH, United States | On Site | Aug 03 |
-| **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a718224e2b7476e7b20e5c4?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d760cb96192a36845e00?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 03 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d2ba1003bd7b70d6cd49?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 03 |
