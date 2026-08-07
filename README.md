@@ -90,5 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Bestow](https://www.bestow.com)** | **[Business Operations and AI Intern](https://jobright.ai/jobs/info/6a6cdbefca1f9338466011d1?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Jul 31 |
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Jul 31 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 31 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics Internship](https://jobright.ai/jobs/info/6a562ba753b3962b910ae788?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
