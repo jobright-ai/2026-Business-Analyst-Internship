@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a541eadc8eb0843027aedfd?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Jul 26 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Technology Solutions (8 Months)](https://jobright.ai/jobs/info/6a63dc7a8d53603449604b77?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Jul 24 |
-| **[Mitratech Preparis](http://www.preparis.com)** | **[BUSINESS INTERNSHIP with High Growth Software Company in Buckhead](https://jobright.ai/jobs/info/6a56826d21f64463ad3550a5?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
