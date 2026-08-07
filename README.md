@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BMO](http://www.bmo.com)** | **[Cloud Business Strategy Analyst, Fall 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6a75de4cb17cba569035b4c9?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 06 |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a717a859a0ca4480c7d4669?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 07 |
+| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern Job Details / My Career Site](https://jobright.ai/jobs/info/6a760df17b3417772ade6733?utm_campaign=1067&utm_source=git)** | Placerville, CA, United States | On Site | Aug 07 |
+| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Technology Scout Intern at BMW Group Technology Office USA](https://jobright.ai/jobs/info/6a75ea817b3417772ade5ba9?utm_campaign=1067&utm_source=git)** | Mountain View, CA, United States | Hybrid | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Cherry Street Energy](https://www.cherrystreet.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a74be26972ac843c6996f79?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 06 |
 | **[ECS Group of Companies](http://www.ecslimited.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a74813c7b3417772ade01ac?utm_campaign=1067&utm_source=git)** | Greenville, SC, United States | On Site | Aug 06 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6c14e557120971bf3aa4f8?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6c145357120971bf3aa4c4?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
 | **[Hospital for Special Surgery](https://www.hss.edu)** | **[Business Intern](https://jobright.ai/jobs/info/6a551489377f983ce8a97ac0?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 29 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 29 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Jul 29 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Jul 29 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[Internship (Business, Delivery, IT)](https://jobright.ai/jobs/info/6a55f41ff7517b519ad5228c?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Jul 27 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[Advanced Degree College Intern - Enterprise AI Hub](https://jobright.ai/jobs/info/6a671a17872eb74f9ead81a4?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 27 |
