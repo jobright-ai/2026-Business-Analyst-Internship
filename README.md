@@ -87,5 +87,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ffd5d89f8f147d3732ecf?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | **[Famous Supply](http://famous-supply.com)** | **[Business Process Improvement Intern – Data Governance](https://jobright.ai/jobs/info/6a567ad710c4d945d8649cfd?utm_campaign=1067&utm_source=git)** | Akron, OH, United States | On Site | Aug 03 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 03 |
-| **[AbbVie](https://www.abbvie.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d760cb96192a36845e00?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
