@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6a7a9513ab1385611f8ffb16?utm_campaign=1067&utm_source=git)** | Northern Virginia, VA, United States | Remote | Aug 10 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Innovation Office - Business Analyst (Fall 2026)](https://jobright.ai/jobs/info/6a5d49614da96a42cfd9e169?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Aug 10 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a7993bcbb6ca93ae56177ba?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 10 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a541eadc8eb0843027aedfd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 09 |
 | **[hrEdge](https://myhredge.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a7a38fe67a1ad0bc53d248c?utm_campaign=1067&utm_source=git)** | Tampa, FL, United States | On Site | Aug 09 |
