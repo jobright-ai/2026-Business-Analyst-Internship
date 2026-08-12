@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6a7bc2d2ecf5194164fbfe16?utm_campaign=1067&utm_source=git)** | Northern Virginia, VA, United States | Remote | Aug 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: CampX Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a7b49c43b399d106e4d56e8?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 11 |
 | **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst, Shareholder Services Technology](https://jobright.ai/jobs/info/6a7b935decf5194164fbf189?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 10 |
 | **[LPL Financial](https://www.lpl.com)** | **[Summer Intern 2027- Business Analyst and Project Management](https://jobright.ai/jobs/info/6a7b7c02ecf5194164fbe583?utm_campaign=1067&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 10 |
