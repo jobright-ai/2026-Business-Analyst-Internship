@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6a7bc2d2ecf5194164fbfe16?utm_campaign=1067&utm_source=git)** | Northern Virginia, VA, United States | Remote | Aug 11 |
+| **[Hilltop Supply and Hardwood](www.hilltopky.com)** | **[Business Analytics Intern - Bid FTA & Auction Strategy](https://jobright.ai/jobs/info/6a7c022c7c52154b59f591b3?utm_campaign=1067&utm_source=git)** | Erlanger, KY, United States | On Site | Aug 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: CampX Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a7b49c43b399d106e4d56e8?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 11 |
 | **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Intern, Business Analyst, Shareholder Services Technology](https://jobright.ai/jobs/info/6a7b935decf5194164fbf189?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 10 |
 | **[LPL Financial](https://www.lpl.com)** | **[Summer Intern 2027- Business Analyst and Project Management](https://jobright.ai/jobs/info/6a7b7c02ecf5194164fbe583?utm_campaign=1067&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 10 |
@@ -81,6 +82,8 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 05 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a7342ace55c73319eb16181?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Remote | Aug 05 |
 | **[BikeFlip](https://bikeflip.nl/?utm_source=LikedIn&utm_medium=bio&utm_campaign=general)** | **[Business Administration Internship / Business Intern](https://jobright.ai/jobs/info/6a72a7fccb96192a3684edbe?utm_campaign=1067&utm_source=git)** | August, CA, United States | On Site | Aug 04 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Aug 04 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Aug 04 |
 | **[GECU](http://gecu.com)** | **[GECU Intern - Business Intelligence](https://jobright.ai/jobs/info/6a7388718dc3d52d8eda0030?utm_campaign=1067&utm_source=git)** | El Paso, TX, United States | On Site | Aug 04 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a5ee38d470d4126fdeac540?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Aug 04 |
 | **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a720e89e2b7476e7b210f09?utm_campaign=1067&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 04 |
@@ -104,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[MicroVention-Terumo](http://microvention.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a6c151e5c54bc4752cec748?utm_campaign=1067&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a6c14e557120971bf3aa4f8?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Jul 30 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6c145357120971bf3aa4c4?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Jul 30 |
-| **[Hospital for Special Surgery](https://www.hss.edu)** | **[Business Intern](https://jobright.ai/jobs/info/6a551489377f983ce8a97ac0?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
