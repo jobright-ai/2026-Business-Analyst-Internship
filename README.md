@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PlantBest](https://plantbest.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a7e4bb9ad9ff00c26baa90e?utm_campaign=1067&utm_source=git)** | Markham, ON, Canada | Hybrid | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a7db9ece2030208f2765af1?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 12 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6500245c7e2d715ebb11a5?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
 | **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6a7bc2d2ecf5194164fbfe16?utm_campaign=1067&utm_source=git)** | Northern Virginia, VA, United States | Remote | Aug 11 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Business Insights Analyst Intern](https://jobright.ai/jobs/info/6a7cd89777d5f033c4b90edd?utm_campaign=1067&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 11 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[Business Insights Analyst Intern](https://jobright.ai/jobs/info/6a7cd87fd77e8156a8e34933?utm_campaign=1067&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 11 |
 | **[Hilltop Supply and Hardwood](www.hilltopky.com)** | **[Business Analytics Intern - Bid FTA & Auction Strategy](https://jobright.ai/jobs/info/6a7c022c7c52154b59f591b3?utm_campaign=1067&utm_source=git)** | Erlanger, KY, United States | On Site | Aug 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: CampX Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a7b49c43b399d106e4d56e8?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 11 |
 | **[LPL Financial](https://www.lpl.com)** | **[Summer Intern 2027- Business Analyst and Project Management](https://jobright.ai/jobs/info/6a7b7c02ecf5194164fbe583?utm_campaign=1067&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 10 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Aug 04 |
 | **[GECU](http://gecu.com)** | **[GECU Intern - Business Intelligence](https://jobright.ai/jobs/info/6a7388718dc3d52d8eda0030?utm_campaign=1067&utm_source=git)** | El Paso, TX, United States | On Site | Aug 04 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a5ee38d470d4126fdeac540?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Aug 04 |
-| **[Touchpoints](https://touchpointsinc.com/)** | **[Business Analyst / Technical Analyst Intern](https://jobright.ai/jobs/info/6a720e89e2b7476e7b210f09?utm_campaign=1067&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
 | ↳ | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 04 |
 | ↳ | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ffd5d89f8f147d3732ecf?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
