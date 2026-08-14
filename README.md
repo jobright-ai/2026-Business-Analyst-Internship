@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arlington County Government](https://www.arlingtonva.us)** | **[Business Intelligence Intern (Part-Time)](https://jobright.ai/jobs/info/6a7e95e4e2030208f276a018?utm_campaign=1067&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a7db9ece2030208f2765af1?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a7c770fa346cb6c8d5edc89?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Aug 12 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 12 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6500245c7e2d715ebb11a5?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Business Insights Analyst Intern](https://jobright.ai/jobs/info/6a7cd87fd77e8156a8e34933?utm_campaign=1067&utm_source=git)** | Trenton, NJ, United States | On Site | Aug 11 |
 | **[Hilltop Supply and Hardwood](www.hilltopky.com)** | **[Business Analytics Intern - Bid FTA & Auction Strategy](https://jobright.ai/jobs/info/6a7c022c7c52154b59f591b3?utm_campaign=1067&utm_source=git)** | Erlanger, KY, United States | On Site | Aug 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: CampX Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a7b49c43b399d106e4d56e8?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 11 |
 | **[LPL Financial](https://www.lpl.com)** | **[Summer Intern 2027- Business Analyst and Project Management](https://jobright.ai/jobs/info/6a7b7c02ecf5194164fbe583?utm_campaign=1067&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 10 |
@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[City of Austin](https://www.austintexas.gov)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6a6dabb541b41d325296a1e4?utm_campaign=1067&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Jul 31 |
 | **[Bestow](https://www.bestow.com)** | **[Business Operations and AI Intern](https://jobright.ai/jobs/info/6a6cdbefca1f9338466011d1?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Jul 31 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Business - Fall 2026](https://jobright.ai/jobs/info/6a4ac356c2d11a6a46676eff?utm_campaign=1067&utm_source=git)** | Columbia, MO, United States of America | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
