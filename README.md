@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 15 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 15 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 15 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 15 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Aug 14 |
 | **[Crowe](https://www.crowe.com)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/6a7f63b2b56bea5779c0acc7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | **[Riveron](https://riveron.com)** | **[Business Performance Improvement - Intern](https://jobright.ai/jobs/info/6a7f356bad9ff00c26bad0e5?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
