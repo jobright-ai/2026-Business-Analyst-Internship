@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Aug 14 |
 | **[Crowe](https://www.crowe.com)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/6a7f63b2b56bea5779c0acc7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | **[Riveron](https://riveron.com)** | **[Business Performance Improvement - Intern](https://jobright.ai/jobs/info/6a7f356bad9ff00c26bad0e5?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation & Architecture](https://jobright.ai/jobs/info/6a74f237bb6ca93ae560ce1b?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Aug 14 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - Business Integrations (Greensboro, NC)](https://jobright.ai/jobs/info/6a4681774f64ba41dcb5399b?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Aug 14 |
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Business Intelligence Intern (Part-Time)](https://jobright.ai/jobs/info/6a7e95e4e2030208f276a018?utm_campaign=1067&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a7db9ece2030208f2765af1?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
