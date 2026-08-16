@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 16 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6a81ab22e51a1e18a241fd48?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Aug 16 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Arlington County Government](https://www.arlingtonva.us)** | **[Business Intelligence Intern (Part-Time)](https://jobright.ai/jobs/info/6a7e95e4e2030208f276a018?utm_campaign=1067&utm_source=git)** | Arlington, VA, United States | On Site | Aug 13 |
 | **[Kearney](https://www.kearney.com/)** | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a609b23a4b66100689cbc87?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
 | ↳ | **[Kearney Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6a7db9ece2030208f2765af1?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 13 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Analyst Early Internship Program - Summer 2027](https://jobright.ai/jobs/info/6a7c770fa346cb6c8d5edc89?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Aug 12 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a716e2771acd469eeda2d50?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 12 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a6500245c7e2d715ebb11a5?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
