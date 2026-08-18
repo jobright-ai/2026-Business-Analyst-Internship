@@ -101,6 +101,4 @@ For a complete list, click the following sortable link below:
 | **[GECU](http://gecu.com)** | **[GECU Intern - Business Intelligence](https://jobright.ai/jobs/info/6a7388718dc3d52d8eda0030?utm_campaign=1067&utm_source=git)** | El Paso, TX, United States | On Site | Aug 04 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a5ee38d470d4126fdeac540?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
-| ↳ | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 04 |
-| ↳ | **[Business Analyst Project Intern (Creative Ads - Monetization Product) - 2026 Start (MBA)](https://jobright.ai/jobs/info/6a2ffd5d89f8f147d3732ecf?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
