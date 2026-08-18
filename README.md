@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a841183f1685316891d42c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a83819a3eeac101cfaa0652?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Aug 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 17 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a836b26b5a0ac0e84a259fd?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
