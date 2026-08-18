@@ -97,5 +97,4 @@ For a complete list, click the following sortable link below:
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a739d6c6a034212ea0289fd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 05 |
 | **[Office Divvy ™](https://officedivvy.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a7355fb8cd88e7ccbf57c17?utm_campaign=1067&utm_source=git)** | Palm Coast, FL, United States | On Site | Aug 05 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 05 |
-| **[BikeFlip](https://bikeflip.nl/?utm_source=LikedIn&utm_medium=bio&utm_campaign=general)** | **[Business Administration Internship / Business Intern](https://jobright.ai/jobs/info/6a72a7fccb96192a3684edbe?utm_campaign=1067&utm_source=git)** | August, CA, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
