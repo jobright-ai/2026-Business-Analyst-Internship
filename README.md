@@ -95,5 +95,4 @@ For a complete list, click the following sortable link below:
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Amarillo, TX, United States | Hybrid | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Presto Phoenix, Inc.](https://presto.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a739d6c6a034212ea0289fd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 05 |
-| **[Office Divvy ™](https://officedivvy.com)** | **[Business Intern](https://jobright.ai/jobs/info/6a7355fb8cd88e7ccbf57c17?utm_campaign=1067&utm_source=git)** | Palm Coast, FL, United States | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
