@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 18 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/68cd4184b2a74e1837ed47f2?utm_campaign=1067&utm_source=git)** | Lincoln, NE | On Site | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | ↳ | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | ↳ | **[Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start](https://jobright.ai/jobs/info/6a764aada26ccc369f834b85?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
