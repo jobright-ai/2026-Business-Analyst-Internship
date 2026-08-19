@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | ↳ | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | ↳ | **[Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start](https://jobright.ai/jobs/info/6a764aada26ccc369f834b85?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a83819a3eeac101cfaa0652?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Aug 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 17 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a836b26b5a0ac0e84a259fd?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 16 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6a81ab22e51a1e18a241fd48?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Aug 16 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
