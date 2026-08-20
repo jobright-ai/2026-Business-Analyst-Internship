@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872603cde3717f9e9b0691?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872bfb25fc4e7ae3daba8f?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | **[Perry's Ice Cream](https://www.perrysicecream.com/)** | **[Inventory Digitization & Process Improvement Intern](https://jobright.ai/jobs/info/6a748b1fbb6ca93ae560a85f?utm_campaign=1067&utm_source=git)** | Akron, New York, United States | On Site | Aug 20 |
 | **[Davis Sign & Awning](https://davissignathens.com)** | **[Business Systems & Operations Intern](https://jobright.ai/jobs/info/6a8708864afae74a083462f4?utm_campaign=1067&utm_source=git)** | Athens, GA, United States | On Site | Aug 20 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Love's Alternative Energy Internship (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a86873e25fc4e7ae3da9a2f?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Aug 19 |
