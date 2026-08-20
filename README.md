@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Davis Sign & Awning](https://davissignathens.com)** | **[Business Systems & Operations Intern](https://jobright.ai/jobs/info/6a8708864afae74a083462f4?utm_campaign=1067&utm_source=git)** | Athens, GA, United States | On Site | Aug 20 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Love's Alternative Energy Internship (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a86873e25fc4e7ae3da9a2f?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Aug 19 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Business Intern](https://jobright.ai/jobs/info/6a8685732f4f0014cae29c0a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 19 |
 | **[Austin Community College](http://www.austincc.edu/)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/6a8604864afae74a08342c9c?utm_campaign=1067&utm_source=git)** | Highland Campus, United States of America | Remote | Aug 19 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a83819a3eeac101cfaa0652?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Aug 17 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a836b26b5a0ac0e84a259fd?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6a81ab22e51a1e18a241fd48?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Aug 16 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Aug 15 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Aug 14 |
 | **[Crowe](https://www.crowe.com)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/6a7f63b2b56bea5779c0acc7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Hilltop Supply and Hardwood](www.hilltopky.com)** | **[Business Analytics Intern - Bid FTA & Auction Strategy](https://jobright.ai/jobs/info/6a7c022c7c52154b59f591b3?utm_campaign=1067&utm_source=git)** | Erlanger, KY, United States | On Site | Aug 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: CampX Innovation (Fall 2026)](https://jobright.ai/jobs/info/6a7b49c43b399d106e4d56e8?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 11 |
 | **[LPL Financial](https://www.lpl.com)** | **[Summer Intern 2027- Business Analyst and Project Management](https://jobright.ai/jobs/info/6a7b7c02ecf5194164fbe583?utm_campaign=1067&utm_source=git)** | Fort Mill, SC, United States | On Site | Aug 10 |
-| **[AbbVie](https://www.abbvie.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a70d760cb96192a36845e00?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | On Site | Aug 10 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Business Technology Solutions Intern (Undergraduate)](https://jobright.ai/jobs/info/6a7993bcbb6ca93ae56177ba?utm_campaign=1067&utm_source=git)** | North Chicago, IL, United States | Hybrid | Aug 10 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a541eadc8eb0843027aedfd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 09 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2026 - Multiple US Locations 1](https://jobright.ai/jobs/info/6a76489767a1ad0bc53c9aec?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Aug 08 |
