@@ -99,5 +99,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Aug 06 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a6828b2b9adcd752800df59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 06 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Amarillo, TX, United States | Hybrid | Aug 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
