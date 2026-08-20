@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Love's Travel Stops](http://www.loves.com)** | **[Love's Alternative Energy Internship (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a86873e25fc4e7ae3da9a2f?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Aug 19 |
+| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Business Intern](https://jobright.ai/jobs/info/6a8685732f4f0014cae29c0a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 19 |
 | **[Austin Community College](http://www.austincc.edu/)** | **[Business Services Intern (Hourly)](https://jobright.ai/jobs/info/6a8604864afae74a08342c9c?utm_campaign=1067&utm_source=git)** | Highland Campus, United States of America | Remote | Aug 19 |
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - IT Business Analyst Summer 2027](https://jobright.ai/jobs/info/6a862964d34f700f87fc0c2b?utm_campaign=1067&utm_source=git)** | Muscatine, IA, United States | On Site | Aug 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Aug 19 |
