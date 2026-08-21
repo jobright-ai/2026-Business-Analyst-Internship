@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2027 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/6a876d6925fc4e7ae3dad3c1?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | ↳ | **[Business Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a875bd2cde3717f9e9b1a2c?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | ↳ | **[Business Analyst, Winter 2027 (Co-op/Internship) - 8 Months](https://jobright.ai/jobs/info/6a875bcfe8b6601d1290322e?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
-| ↳ | **[Process Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a875bd2cde3717f9e9b1a2b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | ↳ | **[Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a876d6525fc4e7ae3dad3bd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
+| ↳ | **[Process Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a875bd2cde3717f9e9b1a2b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Sustainability Business Intern](https://jobright.ai/jobs/info/6a87634ed34f700f87fc51c8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Remote | Aug 20 |
 | **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872603cde3717f9e9b0691?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
@@ -93,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Aug 15 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
