@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHP Legal Services](https://www.linkedin.com/company/105539430)** | **[College Intern – Business Analyst (Procurement & Administrative Support)](https://jobright.ai/jobs/info/6a882f6c680f314a29d3b008?utm_campaign=1067&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 21 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2027 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6a876440d34f700f87fc5255?utm_campaign=1067&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 20 |
 | **[Direct Agents](http://www.directagents.com)** | **[AI Business Strategy & Operations Intern](https://jobright.ai/jobs/info/6a8776afe8b6601d12903c0a?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2027 (Co-op/Internship) - 12 Months](https://jobright.ai/jobs/info/6a876d6925fc4e7ae3dad3c1?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[On-site Fall 2026 Internship - IT, Business Analyst (Greensboro, NC)](https://jobright.ai/jobs/info/6a46817bc2d11a6a4666f47c?utm_campaign=1067&utm_source=git)** | Greensboro, NC, US | On Site | Aug 15 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Aug 14 |
 | **[Crowe](https://www.crowe.com)** | **[D365 ERP Implementation Intern](https://jobright.ai/jobs/info/6a7f63b2b56bea5779c0acc7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
-| **[Riveron](https://riveron.com)** | **[Business Performance Improvement - Intern](https://jobright.ai/jobs/info/6a7f356bad9ff00c26bad0e5?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
