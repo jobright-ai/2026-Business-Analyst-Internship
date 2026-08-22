@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acturis Limited](https://www.acturis.com/)** | **[Technical Business Analyst Co-op at Acturis Canada - Fall 2026](https://jobright.ai/jobs/info/6a5044664649561ec08b0d9f?utm_campaign=1067&utm_source=git)** | Victoria, CA | On Site | Aug 22 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Business Operating System Intern](https://jobright.ai/jobs/info/6a899fda680f314a29d3f292?utm_campaign=1067&utm_source=git)** | Middleton, WI, United States | On Site | Aug 22 |
 | **[Bestow](https://www.bestow.com)** | **[Business Operations and AI Intern](https://jobright.ai/jobs/info/6a6cdbefca1f9338466011d1?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Data and Change Management , Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a88753125fc4e7ae3db0770?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 21 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6a875bd2cde3717f9e9b1a2b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[Weyerhaeuser](https://www.weyerhaeuser.com/)** | **[Sustainability Business Intern](https://jobright.ai/jobs/info/6a87634ed34f700f87fc51c8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Remote | Aug 20 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872603cde3717f9e9b0691?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872bfb25fc4e7ae3daba8f?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 20 |
 | **[Perry's Ice Cream](https://www.perrysicecream.com/)** | **[Inventory Digitization & Process Improvement Intern](https://jobright.ai/jobs/info/6a748b1fbb6ca93ae560a85f?utm_campaign=1067&utm_source=git)** | Akron, New York, United States | On Site | Aug 20 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Love's Alternative Energy Internship (Summer 2027) Job Details / Loves Travel Stops & Country Store](https://jobright.ai/jobs/info/6a86873e25fc4e7ae3da9a2f?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Aug 19 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Business Intern](https://jobright.ai/jobs/info/6a8685732f4f0014cae29c0a?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 19 |
