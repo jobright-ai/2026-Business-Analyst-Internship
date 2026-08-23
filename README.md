@@ -94,5 +94,4 @@ For a complete list, click the following sortable link below:
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a841183f1685316891d42c1?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Business Services Internship - Summer 2027](https://jobright.ai/jobs/info/6a83819a3eeac101cfaa0652?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Aug 17 |
 | **[Clarity Partners](http://claritypartners.com)** | **[Salesforce Business Analyst Internship](https://jobright.ai/jobs/info/6a836b26b5a0ac0e84a259fd?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 17 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a874851680f314a29d37ef1?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Aug 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
