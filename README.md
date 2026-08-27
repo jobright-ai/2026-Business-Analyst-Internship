@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a90532cd96ad228f1260906?utm_campaign=1067&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 27 |
+| ↳ | **[Summer 2027](https://jobright.ai/jobs/info/6a7acb93b17cba5690368210?utm_campaign=1067&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Aug 27 |
+| ↳ | **[Agriculture Business Analyst Intern](https://jobright.ai/jobs/info/6a905322d96ad228f12608ff?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 27 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a6828b2b9adcd752800df59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 27 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
@@ -92,20 +95,20 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Intern 2027 - Business Systems Intern - Productivity Apps Pod](https://jobright.ai/jobs/info/6a8cc16c581f2d7bfdfe5a07?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Aug 24 |
 | **[EOSYS](https://eosysgroup.com)** | **[Summer Business Analyst (Intern) - ATL/CHI/NYC](https://jobright.ai/jobs/info/6a8c8e751d96e6541c8c1922?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 24 |
 | **[RBC Dominion Securities](https://www.rbcds.com/)** | **[2027 Wealth Management, Winter Business Analyst (4-16 months)](https://jobright.ai/jobs/info/6a8bf4bce8b6601d1290cfb3?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 24 |
-| **[Arthur D. Little](http://www.adlittle.com)** | **[Winter Business Analyst 2027](https://jobright.ai/jobs/info/6a8befa9e8b6601d1290cf5f?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
-| ↳ | **[Winter Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8bf0d125fc4e7ae3db69a5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
-| ↳ | **[Winter Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8bf0d0e8b6601d1290cf67?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
-| ↳ | **[Summer Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8befa0680f314a29d42265?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
-| ↳ | **[Summer Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8bf0d2cde3717f9e9bb660?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
-| ↳ | **[Summer Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8befb025fc4e7ae3db69a0?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
-| ↳ | **[Summer Business Analyst 2027](https://jobright.ai/jobs/info/6a8c072825fc4e7ae3db6be4?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
+| **[Arthur D. Little](http://www.adlittle.com)** | **[Summer Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8c0714680f314a29d424b2?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
 | ↳ | **[Summer Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8c0723e8b6601d1290d1a8?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
-| ↳ | **[Summer Business Analyst 2027](https://jobright.ai/jobs/info/6a8befa04afae74a08351c4c?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
-| ↳ | **[Winter Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8c0713680f314a29d424b0?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
-| ↳ | **[Winter Business Analyst 2027](https://jobright.ai/jobs/info/6a8bf0e4680f314a29d4226c?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
 | ↳ | **[Winter Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8c0715cde3717f9e9bb8a2?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
+| ↳ | **[Winter Business Analyst 2027](https://jobright.ai/jobs/info/6a8befa9e8b6601d1290cf5f?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
+| ↳ | **[Summer Business Analyst 2027](https://jobright.ai/jobs/info/6a8befa04afae74a08351c4c?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
+| ↳ | **[Summer Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8befb025fc4e7ae3db69a0?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
+| ↳ | **[Winter Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8bf0d125fc4e7ae3db69a5?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
 | ↳ | **[Summer Business Analyst 2027](https://jobright.ai/jobs/info/6a8bf0d3d34f700f87fcec57?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
+| ↳ | **[Summer Business Analyst 2027](https://jobright.ai/jobs/info/6a8c072825fc4e7ae3db6be4?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
+| ↳ | **[Winter Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8c0713680f314a29d424b0?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
+| ↳ | **[Summer Business Analyst 2027, 8 - 10 weeks (Advanced Degree)](https://jobright.ai/jobs/info/6a8befa0680f314a29d42265?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
+| ↳ | **[Winter Business Analyst 2027](https://jobright.ai/jobs/info/6a8bf0e4680f314a29d4226c?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | On Site | Aug 23 |
 | ↳ | **[Summer Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8bf0eacde3717f9e9bb667?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
+| ↳ | **[Winter Business Analyst 2027, 4 - 6 months (Advanced Degree)](https://jobright.ai/jobs/info/6a8bf0d0e8b6601d1290cf67?utm_campaign=1067&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 23 |
 | **[RBC](https://www.rbc.com)** | **[2027 Wealth Management, Winter Business Analyst (4-16 months)](https://jobright.ai/jobs/info/6a8bc7e9e8b6601d1290c8c1?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 23 |
 | **[Acturis Limited](https://www.acturis.com/)** | **[Technical Business Analyst Co-op at Acturis Canada - Fall 2026](https://jobright.ai/jobs/info/6a5044664649561ec08b0d9f?utm_campaign=1067&utm_source=git)** | Victoria, CA | On Site | Aug 22 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Business Operating System Intern](https://jobright.ai/jobs/info/6a899fda680f314a29d3f292?utm_campaign=1067&utm_source=git)** | Middleton, WI, United States | On Site | Aug 22 |
@@ -116,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Aug 21 |
 | **[SHP Legal Services](https://www.linkedin.com/company/105539430)** | **[College Intern – Business Analyst (Procurement & Administrative Support)](https://jobright.ai/jobs/info/6a882f6c680f314a29d3b008?utm_campaign=1067&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 21 |
 | **[Georgia System Operations Corporation](https://www.gasoc.com/Pages/gasochome.aspx)** | **[Business Analytics & Operations Intern](https://jobright.ai/jobs/info/6a88d193d34f700f87fcaa75?utm_campaign=1067&utm_source=git)** | Tucker, GA, United States | On Site | Aug 20 |
-| **[Michels Corporation](http://www.michels.us)** | **[Summer 2027 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6a876440d34f700f87fc5255?utm_campaign=1067&utm_source=git)** | Brownsville, WI, United States | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
