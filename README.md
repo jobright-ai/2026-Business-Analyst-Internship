@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Aug 30 |
 | **[MAHLE Senica](https://www.jobs.mahle.com/slovakia/sk/)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a93fd988e5968545337c823?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 29 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a5761c8f7517b519ad5a10e?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 29 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Analyst (APX intern)](https://jobright.ai/jobs/info/6a92194b3603630099195d27?utm_campaign=1067&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 27 |
 | **[HOOPP](http://www.hoopp.com.tr)** | **[Business Analyst, Pension Platform Operations, Student Intern (Winter 2027 - 8 Months)](https://jobright.ai/jobs/info/6a91cf36a27a2d3c9848a36d?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 27 |
 | **[NOV](https://www.nov.com/)** | **[Business Intern - Tulsa](https://jobright.ai/jobs/info/6a90cd8c7c32860d14cfb7c9?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | Hybrid | Aug 27 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 27 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90c454d96ad228f1263383?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 27 |
 | **[Suncore](https://sunroc.com/)** | **[Enterprise Business Solutions Intern](https://jobright.ai/jobs/info/6a90ae2d2e254e06fb9f259a?utm_campaign=1067&utm_source=git)** | Lindon, UT, United States | On Site | Aug 27 |
 | **[WW Clyde](https://wwclyde.net/)** | **[Enterprise Business Solutions Intern](https://jobright.ai/jobs/info/6a90adeaa1988648667629ef?utm_campaign=1067&utm_source=git)** | Lindon, UT, United States | On Site | Aug 27 |
@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Business Analytics and Reporting Intern](https://jobright.ai/jobs/info/6a8e0453581f2d7bfdfea9a8?utm_campaign=1067&utm_source=git)** | Storm Lake, IA, United States | On Site | Aug 25 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a8da0f725fc4e7ae3dbca38?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d1d13581f2d7bfdfe6b7d?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Aug 24 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - OPS Business Analyst](https://jobright.ai/jobs/info/6a8fdfa27c32860d14cf6f94?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
-| ↳ | **[Intern - Operations Business Analyst Intern](https://jobright.ai/jobs/info/6a8df47125fc4e7ae3dbec9b?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Operations Business Analyst Intern](https://jobright.ai/jobs/info/6a8df47125fc4e7ae3dbec9b?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
+| ↳ | **[Intern - OPS Business Analyst](https://jobright.ai/jobs/info/6a8fdfa27c32860d14cf6f94?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a8dc65ad34f700f87fd5dcf?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 24 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Aug 24 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a8cb2a1cde3717f9e9bed14?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
