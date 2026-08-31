@@ -69,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
 | **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a95e357c8763a3a87ffcd00?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 30 |
 | **[Manulife](http://www.manulife.com/)** | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | ↳ | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a9500089864261ccd2a4c87?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 30 |
@@ -118,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Amcor](http://www.amcor.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/6a8dc88947679c68bf5e4b5c?utm_campaign=1067&utm_source=git)** | Evansville, IN, United States | On Site | Aug 25 |
 | **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Business Analytics and Reporting Intern](https://jobright.ai/jobs/info/6a8e0453581f2d7bfdfea9a8?utm_campaign=1067&utm_source=git)** | Storm Lake, IA, United States | On Site | Aug 25 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a8da0f725fc4e7ae3dbca38?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 25 |
-| **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d1d13581f2d7bfdfe6b7d?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
