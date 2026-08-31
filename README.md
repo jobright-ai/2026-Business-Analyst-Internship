@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | On Site | Aug 31 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Business Systems](https://jobright.ai/jobs/info/6a95106ba27a2d3c9848ff7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 31 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6a95035c360363009919a6c1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a95035ec12c90443efce182?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
@@ -111,16 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Business Analytics and Reporting Intern](https://jobright.ai/jobs/info/6a8e0453581f2d7bfdfea9a8?utm_campaign=1067&utm_source=git)** | Storm Lake, IA, United States | On Site | Aug 25 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a8da0f725fc4e7ae3dbca38?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d1d13581f2d7bfdfe6b7d?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Aug 24 |
-| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - OPS Business Analyst](https://jobright.ai/jobs/info/6a8fdfa27c32860d14cf6f94?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
-| ↳ | **[Intern - Operations Business Analyst Intern](https://jobright.ai/jobs/info/6a8df47125fc4e7ae3dbec9b?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Operations Business Analyst Intern](https://jobright.ai/jobs/info/6a8df47125fc4e7ae3dbec9b?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
+| ↳ | **[Intern - OPS Business Analyst](https://jobright.ai/jobs/info/6a8fdfa27c32860d14cf6f94?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Aug 24 |
 | **[MAHLE](https://www.mahle.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6a8dc65ad34f700f87fd5dcf?utm_campaign=1067&utm_source=git)** | Olive Branch, MS, United States | On Site | Aug 24 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Aug 24 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a8cb2a1cde3717f9e9bed14?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a8cb2952f736c304f2a76e6?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Aug 24 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a8cb293d34f700f87fd237c?utm_campaign=1067&utm_source=git)** | Fairfax, VA, United States | On Site | Aug 24 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a8cb29225fc4e7ae3dba076?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Aug 24 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a8cb29125fc4e7ae3dba075?utm_campaign=1067&utm_source=git)** | Lebanon, VA, United States | On Site | Aug 24 |
-| **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a8cb1d42f736c304f2a7685?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Aug 24 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a8caa97cde3717f9e9be83a?utm_campaign=1067&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 24 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a8ca854cde3717f9e9be75d?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
