@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a95cce79fcec5442372f2b1?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Aug 31 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | On Site | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Project Management & Construction (PMC) – Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a95a795c8763a3a87ffb1a4?utm_campaign=1067&utm_source=git)** | Charlotte, NC, United States | Hybrid | Aug 31 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a959d0e4c22023a07934ab2?utm_campaign=1067&utm_source=git)** | Ohio, United States | On Site | Aug 31 |
@@ -66,10 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6a95035c360363009919a6c1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a95035ec12c90443efce182?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| **[Manulife](http://www.manulife.com/)** | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | ↳ | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a9500089864261ccd2a4c87?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Aug 30 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a91cbef9864261ccd29f1bc?utm_campaign=1067&utm_source=git)** | Florida, United States | Remote | Aug 28 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a91ada9c12c90443efc7592?utm_campaign=1067&utm_source=git)** | Florida, United States | Remote | Aug 28 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Winter Intern 2027– Business Analyst](https://jobright.ai/jobs/info/6a91dec2d18f75674827a8e2?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Aug 28 |
-| **[NOV](https://www.nov.com/)** | **[Business Intern - Tulsa](https://jobright.ai/jobs/info/6a90d0a3d96ad228f126351b?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | Hybrid | Aug 27 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/6a9099d8d96ad228f1262282?utm_campaign=1067&utm_source=git)** | Richmond, Virginia, United States | Hybrid | Aug 27 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Analyst (APX intern)](https://jobright.ai/jobs/info/6a92194b3603630099195d27?utm_campaign=1067&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 27 |
 | **[HOOPP](http://www.hoopp.com.tr)** | **[Business Analyst, Pension Platform Operations, Student Intern (Winter 2027 - 8 Months)](https://jobright.ai/jobs/info/6a91cf36a27a2d3c9848a36d?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 27 |
