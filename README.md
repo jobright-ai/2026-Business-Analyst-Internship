@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2027 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/6a96643026613756de6d7bb6?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
+| ↳ | **[2027 Internship - Information Technology (Business Analyst)](https://jobright.ai/jobs/info/6a96642f455eaf6a08c1722a?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
 | **[PwC](http://pwc.com)** | **[Market Information and Data Analytics (MIDA) - Business Analytics -  Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8f28891320e85fd7c?utm_campaign=1067&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a96643126613756de6d7bbf?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Aug 31 |
-| ↳ | **[2027 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/6a96643026613756de6d7bb6?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 31 |
-| ↳ | **[2027 Internship - Information Technology (Business Analyst)](https://jobright.ai/jobs/info/6a96642f455eaf6a08c1722a?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 31 |
 | **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a95e357c8763a3a87ffcd00?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 31 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
 | ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
@@ -77,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6a95035c360363009919a6c1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a95035ec12c90443efce182?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Aug 30 |
-| **[Manulife](http://www.manulife.com/)** | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
+| **[Manulife](http://www.manulife.com/)** | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a9500089864261ccd2a4c87?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Aug 30 |
@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate - Business Analyst](https://jobright.ai/jobs/info/6a8f6348a19886486675d643?utm_campaign=1067&utm_source=git)** | Alexandria, VA, United States | On Site | Aug 25 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Analyst Intern [2027 Intern Program]](https://jobright.ai/jobs/info/6a8dfaa7d34f700f87fd72ca?utm_campaign=1067&utm_source=git)** | Jersey City, NJ, United States | Hybrid | Aug 25 |
 | **[RDV Corporation](https://rdvcareers.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/6a8dae35581f2d7bfdfe8535?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 25 |
-| **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6a8dbfd0a5639a4810327438?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
