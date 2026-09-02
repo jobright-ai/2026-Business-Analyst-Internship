@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
+| ↳ | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a978c94156a596393fe64f4?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Business Solutions Intern](https://jobright.ai/jobs/info/6a971eb2d13b4819f39df377?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a973cd9e4e60e4b8da5d001?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 01 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 01 |
@@ -77,7 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Internship - Information Technology (Business Analyst)](https://jobright.ai/jobs/info/6a96642f455eaf6a08c1722a?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 01 |
 | **[PwC](http://pwc.com)** | **[Market Information and Data Analytics (MIDA) - Business Analytics -  Intern - Summer 2027](https://jobright.ai/jobs/info/6a9608d8f28891320e85fd7c?utm_campaign=1067&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 01 |
 | **[POET](http://www.poet.com)** | **[Business Support Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a95e357c8763a3a87ffcd00?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 31 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[Intern Business Management](https://jobright.ai/jobs/info/6a9764eef5337b2cf7321cdd?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 31 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[Intern Business Management](https://jobright.ai/jobs/info/6a9764f7e4e60e4b8da5ddfe?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Aug 31 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business/Quality Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a96fcb2246d697dcee026b7?utm_campaign=1067&utm_source=git)** | Lansing, MI, United States | On Site | Aug 31 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
 | ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Business Systems](https://jobright.ai/jobs/info/6a95106ba27a2d3c9848ff7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 31 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6a95035c360363009919a6c1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a95035ec12c90443efce182?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
-| **[Manulife](http://www.manulife.com/)** | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| **[Manulife](http://www.manulife.com/)** | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a9500089864261ccd2a4c87?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Aug 30 |
