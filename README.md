@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 02 |
+| **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a9842f9def18223c854e4f5?utm_campaign=1067&utm_source=git)** | Canada | Remote | Sep 02 |
+| **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Internship & Training Program](https://jobright.ai/jobs/info/6a983fa6c8ed473c5c762cf9?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6a983a1011f73b6462c8d4d7?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 02 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Sep 02 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Sep 02 |
 | ↳ | **[2027 Internship - Information Technology (Business Analyst)](https://jobright.ai/jobs/info/6a97eae269d7730385d6ce09?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 02 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business/Quality Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a96fcb2246d697dcee026b7?utm_campaign=1067&utm_source=git)** | Lansing, MI, United States | On Site | Aug 31 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
 | ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
-| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 31 |
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Puerto Rico - Business and Finance Intern - Summer 2027 (U.S. Citizen Required)](https://jobright.ai/jobs/info/6a95fae44c22023a0793741d?utm_campaign=1067&utm_source=git)** | Moca, PR, United States | On Site | Aug 31 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6a958ef2f28891320e85c637?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Aug 31 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a95cce79fcec5442372f2b1?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Aug 31 |
@@ -126,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a90532cd96ad228f1260906?utm_campaign=1067&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 27 |
 | ↳ | **[Summer 2027](https://jobright.ai/jobs/info/6a7acb93b17cba5690368210?utm_campaign=1067&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Aug 27 |
 | ↳ | **[Agriculture Business Analyst Intern](https://jobright.ai/jobs/info/6a905322d96ad228f12608ff?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 27 |
-| **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 27 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
 | ↳ | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8fda99a19886486675ea3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Federal Reserve Summer 2026 Business Internship - Career Champions](https://jobright.ai/jobs/info/69fc564848ae180867213140?utm_campaign=1067&utm_source=git)** | Richmond, VA, US | On Site | Aug 26 |
