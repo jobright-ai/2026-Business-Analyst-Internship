@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Sep 02 |
+| ↳ | **[2027 Internship - Information Technology (Business Analyst)](https://jobright.ai/jobs/info/6a97eae269d7730385d6ce09?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 02 |
+| ↳ | **[2027 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/6a97eaddc8ed473c5c7618ff?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 02 |
+| ↳ | **[2027 Internship - Business Operations Analyst - Quality](https://jobright.ai/jobs/info/6a97ead0af954907d6570dc0?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 02 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 02 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
 | ↳ | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a978c94156a596393fe64f4?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 01 |
@@ -92,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Business Systems](https://jobright.ai/jobs/info/6a95106ba27a2d3c9848ff7d?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 31 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6a95035c360363009919a6c1?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a95035ec12c90443efce182?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 31 |
-| **[Manulife](http://www.manulife.com/)** | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
-| ↳ | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
+| **[Manulife](http://www.manulife.com/)** | **[2027 Summer Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aed2cabc9f6703e1923e?utm_campaign=1067&utm_source=git)** | Waterloo, ON, Canada | Hybrid | Aug 30 |
+| ↳ | **[2027 Winter Co-op - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a95aedd9fcec5442372e637?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 30 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a9500089864261ccd2a4c87?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | On Site | Aug 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Aug 30 |
