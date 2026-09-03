@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a985d77dd171c7285791da6?utm_campaign=1067&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 02 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 02 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 02 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984b68dd171c7285791478?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
+| **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a985d77dd171c7285791da6?utm_campaign=1067&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 02 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
+| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
+| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 02 |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6a983a1011f73b6462c8d4d7?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 02 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 02 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a984df4dd171c7285791576?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Sep 02 |
 | ↳ | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a984864dd171c7285791326?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 02 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Internship & Training Program](https://jobright.ai/jobs/info/6a983fa6c8ed473c5c762cf9?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6a983a1011f73b6462c8d4d7?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 02 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7fa3e8e2030208f2770315?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | Hybrid | Sep 02 |
 | **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a5ee38d470d4126fdeac540?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Sep 02 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Sep 02 |
@@ -93,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business/Quality Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6a96fcb2246d697dcee026b7?utm_campaign=1067&utm_source=git)** | Lansing, MI, United States | On Site | Aug 31 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
 | ↳ | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
-| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 31 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 31 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 31 |
 | **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Puerto Rico - Business and Finance Intern - Summer 2027 (U.S. Citizen Required)](https://jobright.ai/jobs/info/6a95fae44c22023a0793741d?utm_campaign=1067&utm_source=git)** | Moca, PR, United States | On Site | Aug 31 |
 | **[VOSS Automotive, Inc., USA](https://www.vossusa.com/)** | **[Business Intern](https://jobright.ai/jobs/info/6a95cce79fcec5442372f2b1?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Aug 31 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | On Site | Aug 31 |
@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a90532cd96ad228f1260906?utm_campaign=1067&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 27 |
 | ↳ | **[Summer 2027](https://jobright.ai/jobs/info/6a7acb93b17cba5690368210?utm_campaign=1067&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Aug 27 |
 | ↳ | **[Agriculture Business Analyst Intern](https://jobright.ai/jobs/info/6a905322d96ad228f12608ff?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Aug 27 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
