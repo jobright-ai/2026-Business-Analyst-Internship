@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2027 Summer Business Internship](https://jobright.ai/jobs/info/6a8f8a6aa19886486675de04?utm_campaign=1067&utm_source=git)** | Itasca, IL, United States | On Site | Sep 03 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a6828b2b9adcd752800df59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Sep 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Intern Business Management](https://jobright.ai/jobs/info/6a9764f7e4e60e4b8da5ddfe?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984af0def18223c854e7cb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984b68dd171c7285791478?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a985d77dd171c7285791da6?utm_campaign=1067&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 02 |
 | **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
 | ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
