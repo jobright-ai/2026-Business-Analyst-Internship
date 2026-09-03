@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d76e040e5c3d075993c1?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 03 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d7641388387060590cb8?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 03 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 03 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d733040e5c3d07599396?utm_campaign=1067&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a99c3e513883870605902a4?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6a7c6b227c52154b59f59f78?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | Hybrid | Sep 03 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6a99ab4f138838706058f882?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Sep 03 |
@@ -67,10 +71,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a6828b2b9adcd752800df59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Sep 03 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Intern Business Management](https://jobright.ai/jobs/info/6a9764f7e4e60e4b8da5ddfe?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
 | **[Insero](https://inseroadvisors.com)** | **[Business Analyst Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99c3b3040e5c3d07598a31?utm_campaign=1067&utm_source=git)** | Rochester, New York, United States | On Site | Sep 02 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Sep 02 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984af0def18223c854e7cb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a985d77dd171c7285791da6?utm_campaign=1067&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 02 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
+| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
 | ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 02 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6a983a1011f73b6462c8d4d7?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 02 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a9113d1d96ad228f1263dd3?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Sep 02 |
@@ -89,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 01 |
 | ↳ | **[Sophomore Summer Business Analyst Intern](https://jobright.ai/jobs/info/6a978c94156a596393fe64f4?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Sep 01 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2027 Business Solutions Intern](https://jobright.ai/jobs/info/6a971eb2d13b4819f39df377?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 01 |
+| **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027](https://jobright.ai/jobs/info/6a99cd6f8a8b765bc55f59ad?utm_campaign=1067&utm_source=git)** | West Fargo, ND, United States | On Site | Sep 01 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Intern - Graduate (business)](https://jobright.ai/jobs/info/6a973cd9e4e60e4b8da5d001?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 01 |
 | **[Fulton Bank](https://www.fultonbank.com/)** | **[Intern-IT Business Enablement](https://jobright.ai/jobs/info/6a96f882d13b4819f39de04e?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | Hybrid | Sep 01 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6a972a2e455eaf6a08c1b04d?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | On Site | Sep 01 |
