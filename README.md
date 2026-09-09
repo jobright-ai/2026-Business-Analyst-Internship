@@ -153,6 +153,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
 | ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6a983a1011f73b6462c8d4d7?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 02 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 02 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a984df4dd171c7285791576?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
