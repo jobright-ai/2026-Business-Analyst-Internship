@@ -155,5 +155,4 @@ For a complete list, click the following sortable link below:
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a984df4dd171c7285791576?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Sep 02 |
 | ↳ | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6a984864dd171c7285791326?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 02 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a734f918cd88e7ccbf57974?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 02 |
-| **[ANDRITZ Schuler North America](https://www.schulergroup.com/major/us/index.html)** | **[Business Intern](https://jobright.ai/jobs/info/6a5ee38d470d4126fdeac540?utm_campaign=1067&utm_source=git)** | Canton, MI, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
