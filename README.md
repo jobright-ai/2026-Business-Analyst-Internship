@@ -149,8 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Insero](https://inseroadvisors.com)** | **[Business Analyst Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99c3b3040e5c3d07598a31?utm_campaign=1067&utm_source=git)** | Rochester, New York, United States | On Site | Sep 02 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984b68dd171c7285791478?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 02 |
 | **[IAT Insurance Group](https://www.iatinsurancegroup.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6a985d77dd171c7285791da6?utm_campaign=1067&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 02 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 02 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 02 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 02 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6a983a1011f73b6462c8d4d7?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
