@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch](https://www.kochinc.com)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6a90532cd96ad228f1260906?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 13 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Business Operating System Intern](https://jobright.ai/jobs/info/6a899fda680f314a29d3f292?utm_campaign=1067&utm_source=git)** | Middleton, WI, United States | On Site | Sep 13 |
 | **[USAA](https://www.usaa.com)** | **[Operations - Business Process Owner Intern](https://jobright.ai/jobs/info/6aa5218c2ed333b4ea5c5b34?utm_campaign=1067&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
 | **[RTX](http://rtx.com/)** | **[Commercial Engines Business Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa6cdd52ed333b4ea5ca9bb?utm_campaign=1067&utm_source=git)** | East Hartford, CT, United States | On Site | Sep 12 |
@@ -65,8 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Operations Business Analyst Intern - Summer 2027 (Potential Insure Your Future)](https://jobright.ai/jobs/info/6aa4423b422289703bd65ddc?utm_campaign=1067&utm_source=git)** | Johnston, IA, United States | On Site | Sep 11 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Personal Lines Business Insights Intern](https://jobright.ai/jobs/info/6aa47b471d92e2d05d114ea9?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Sep 11 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d7641388387060590cb8?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 11 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6aa465bff3aa936e2cdb11d3?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d76e040e5c3d075993c1?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
 | ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/6aa434e9f7baf881567cdc2a?utm_campaign=1067&utm_source=git)** | Cayce, SC, United States | On Site | Sep 11 |
 | **[Oniverse](https://www.oniverse.it/)** | **[Retail Business Analyst Intern](https://jobright.ai/jobs/info/6aa4ad4c8275e3a211761426?utm_campaign=1067&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 11 |
@@ -135,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Business Management Intern - MN, CO](https://jobright.ai/jobs/info/6a9e5440a7ba386c5d671c1f?utm_campaign=1067&utm_source=git)** | Roseville, MN, United States | Hybrid | Sep 07 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6a998ad6ad752e2ad550008f?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 07 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - TX, WI](https://jobright.ai/jobs/info/6a9e54742c964816f65ecb09?utm_campaign=1067&utm_source=git)** | Boulder, CO, United States | Hybrid | Sep 07 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 07 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Business Analyst Intern (January 2027 - 4 Months - Montreal)](https://jobright.ai/jobs/info/6a9e3aefa7ba386c5d67124f?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | Hybrid | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
