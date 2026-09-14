@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMC Construction](http://imcconstruction.com)** | **[Intern/Co Op - Business Analytics-Intelligence](https://jobright.ai/jobs/info/6aa83365a77a53f5a1577e1d?utm_campaign=1067&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 14 |
 | **[JIRACOR](https://jiracor.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa8287da77a53f5a1577b1a?utm_campaign=1067&utm_source=git)** | Orlando, FL, United States | On Site | Sep 14 |
 | **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6aa825c5654b2a9424cfafde?utm_campaign=1067&utm_source=git)** | Northern Virginia, VA, United States | Remote | Sep 14 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Multifamily Business Analysis Graduate Intern - Summer 2027](https://jobright.ai/jobs/info/6aa8073a3a9f0a4fe6f16b81?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Sep 14 |
@@ -81,14 +82,13 @@ For a complete list, click the following sortable link below:
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Personal Lines Business Insights Intern](https://jobright.ai/jobs/info/6aa47b471d92e2d05d114ea9?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Sep 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d76e040e5c3d075993c1?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a9a474afe45b8490f603454?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 11 |
 | ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/6aa434e9f7baf881567cdc2a?utm_campaign=1067&utm_source=git)** | Cayce, SC, United States | On Site | Sep 11 |
 | **[Oniverse](https://www.oniverse.it/)** | **[Retail Business Analyst Intern](https://jobright.ai/jobs/info/6aa4ad4c8275e3a211761426?utm_campaign=1067&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 11 |
 | **[Amcor](http://www.amcor.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/6a8dc88947679c68bf5e4b5c?utm_campaign=1067&utm_source=git)** | Evansville, IN, United States | On Site | Sep 11 |
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Sep 11 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2027 Business Analytics Summer Intern](https://jobright.ai/jobs/info/6aa055c9ea127c3794696737?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 11 |
-| **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872603cde3717f9e9b0691?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 11 |
+| **[RBC](https://www.rbc.com)** | **[2027 Winter - Procurement, Business Analyst Intern (4 months)](https://jobright.ai/jobs/info/6a872bfb25fc4e7ae3daba8f?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 11 |
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8a5f3aa936e2cdae993?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 11 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2027 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6a876440d34f700f87fc5255?utm_campaign=1067&utm_source=git)** | Brownsville, WI, United States | On Site | Sep 11 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Business Technology Analyst (CAYCE, SC, US, 29033)](https://jobright.ai/jobs/info/6aa50e92654b2a9424cf27aa?utm_campaign=1067&utm_source=git)** | Cayce, SC 29033, United States | On Site | Sep 10 |
