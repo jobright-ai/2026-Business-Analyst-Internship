@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[鴻海精密工業股份有限公司](https://www.honhai.com/zh-tw/)** | **[2027 Fii Summer Internship – Business, IT & Operations Intern Roles](https://jobright.ai/jobs/info/6aa8a38658d9ccf2690b55a0?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
+| **[CAI](https://cai.io/)** | **[Business Tech Intern](https://jobright.ai/jobs/info/6aa8991da77a53f5a157a26c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
+| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6aa8991a930bff471a2a8015?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | ↳ | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | **[TCOM, L.P.](https://tcomlp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa882ec654b2a9424cfd36c?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 14 |
@@ -91,9 +94,9 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Operations Business Analyst Intern - Summer 2027 (Potential Insure Your Future)](https://jobright.ai/jobs/info/6aa4423b422289703bd65ddc?utm_campaign=1067&utm_source=git)** | Johnston, IA, United States | On Site | Sep 11 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Personal Lines Business Insights Intern](https://jobright.ai/jobs/info/6aa47b471d92e2d05d114ea9?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Sep 11 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d7641388387060590cb8?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 11 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d76e040e5c3d075993c1?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a9a474afe45b8490f603454?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 11 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d7631388387060590cb2?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/6aa434e9f7baf881567cdc2a?utm_campaign=1067&utm_source=git)** | Cayce, SC, United States | On Site | Sep 11 |
 | **[Oniverse](https://www.oniverse.it/)** | **[Retail Business Analyst Intern](https://jobright.ai/jobs/info/6aa4ad4c8275e3a211761426?utm_campaign=1067&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 11 |
 | **[Amcor](http://www.amcor.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/6a8dc88947679c68bf5e4b5c?utm_campaign=1067&utm_source=git)** | Evansville, IN, United States | On Site | Sep 11 |
@@ -126,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa1a14fdbc0e60e37e12a89?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 09 |
 | **[TechFlow, Inc.](http://www.techflow.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa198b60ffb3d4fea6b5d3c?utm_campaign=1067&utm_source=git)** | Arlington, VA, United States | Remote | Sep 09 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa1a106500b01124c77e027?utm_campaign=1067&utm_source=git)** | Arlington, VA, United States | Remote | Sep 09 |
-| **[D2L](http://www.d2l.com)** | **[Business Insights & Analytics Coordinator - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa174740ffb3d4fea6b4ce6?utm_campaign=1067&utm_source=git)** | Kitchener, ON, Canada | On Site | Sep 09 |
-| ↳ | **[Business Insights & Analytics Coordinator - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa179e33272060a8e3efeea?utm_campaign=1067&utm_source=git)** | Kitchener, ON, Canada | On Site | Sep 09 |
+| **[D2L](http://www.d2l.com)** | **[Business Insights & Analytics Coordinator - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa179e33272060a8e3efeea?utm_campaign=1067&utm_source=git)** | Kitchener, ON, Canada | On Site | Sep 09 |
+| ↳ | **[Business Insights & Analytics Coordinator - Winter 2027 Co-op](https://jobright.ai/jobs/info/6aa174740ffb3d4fea6b4ce6?utm_campaign=1067&utm_source=git)** | Kitchener, ON, Canada | On Site | Sep 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start](https://jobright.ai/jobs/info/6a764aada26ccc369f834b85?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 09 |
 | ↳ | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Sep 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 09 |
@@ -148,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 08 |
 | ↳ | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Sep 08 |
 | ↳ | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3017be43732c05812e07ee?utm_campaign=1067&utm_source=git)** | New York, United States | On Site | Sep 08 |
-| **[Shoppers Drug Mart Specialty Health Network](https://www.sdmshn.ca)** | **[Business Analyst Co-op Student](https://jobright.ai/jobs/info/6a9fe66adbc0e60e37e0aa49?utm_campaign=1067&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Sep 08 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - Technology & Analysis Internship/Co-op - Winter 2027](https://jobright.ai/jobs/info/6a9f9643dacf777321a95450?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
