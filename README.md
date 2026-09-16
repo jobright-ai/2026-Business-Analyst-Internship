@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 15 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Business Innovation & AI Products Intern](https://jobright.ai/jobs/info/6aa9e43328e24cb38513d0bf?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Sep 15 |
 | **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship - Summer 2027](https://jobright.ai/jobs/info/6aa0589ddbc0e60e37e0d0e1?utm_campaign=1067&utm_source=git)** | Montpelier, VT, United States | On Site | Sep 15 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Operations Business Analyst Intern - Summer 2027 (Potential Insure Your Future)](https://jobright.ai/jobs/info/6aa4423b422289703bd65ddc?utm_campaign=1067&utm_source=git)** | Johnston, IA, United States | On Site | Sep 11 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Personal Lines Business Insights Intern](https://jobright.ai/jobs/info/6aa47b471d92e2d05d114ea9?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Sep 11 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d76e040e5c3d075993c1?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d76e040e5c3d075993c1?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
 | **[Oniverse](https://www.oniverse.it/)** | **[Retail Business Analyst Intern](https://jobright.ai/jobs/info/6aa4ad4c8275e3a211761426?utm_campaign=1067&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 11 |
 | **[Amcor](http://www.amcor.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/6a8dc88947679c68bf5e4b5c?utm_campaign=1067&utm_source=git)** | Evansville, IN, United States | On Site | Sep 11 |
 | **[U.S. Bank](http://www.usbank.com)** | **[2027 Business Analytics Summer Intern](https://jobright.ai/jobs/info/6aa055c9ea127c3794696737?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Agriculture Business Analyst Intern](https://jobright.ai/jobs/info/6aa1b7ec3272060a8e3f1ad7?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Sep 09 |
 | **[NKSFB](https://dwabiz.com)** | **[Summer 2027 Business Management Internship](https://jobright.ai/jobs/info/6aa1889a500b01124c77d1f2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 09 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '27 Intern - Business Insights](https://jobright.ai/jobs/info/6aa17c6c2f936e4a53dabe61?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Sep 09 |
-| **[Cicero™, part of MGT](http://www.cicerogroup.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6a8d1d13581f2d7bfdfe6b7d?utm_campaign=1067&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
