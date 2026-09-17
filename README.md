@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perry's Ice Cream](https://www.perrysicecream.com/)** | **[Inventory Digitization & Process Improvement Intern](https://jobright.ai/jobs/info/6a748b1fbb6ca93ae560a85f?utm_campaign=1067&utm_source=git)** | Akron, New York, United States | On Site | Sep 17 |
 | **[Direct Agents](http://www.directagents.com)** | **[AI Business Strategy & Operations Intern](https://jobright.ai/jobs/info/6aac036f3d96632d741a8a6f?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | ↳ | **[AI Business Strategy & Operations Intern](https://jobright.ai/jobs/info/6aabff23636cddf7396f19a2?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
 | **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aabd29c2e757fcb5c8b275e?utm_campaign=1067&utm_source=git)** | Canada | Remote | Sep 17 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/6aab656cf6bd9d2d17c1c70d?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 16 |
 | **[PFI](https://www.profranchiser.com/)** | **[Business Internship / Get Paid to Build / Remote](https://jobright.ai/jobs/info/6aab91a4f6bd9d2d17c1cc2b?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Canada | Remote | Sep 16 |
 | **[Wellington Management](http://wellington.com)** | **[Enterprise Sourcing Analyst Co Op](https://jobright.ai/jobs/info/6aab07404be87a72913a2d8a?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 16 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Business Systems Analysis](https://jobright.ai/jobs/info/6aac0f0895c707f49dfef355?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 16 |
 | **[BCI](https://www.bci.ca/)** | **[Client Performance & Analytics Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9ae0f6bd9d2d17c1ccab?utm_campaign=1067&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | On Site | Sep 16 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern – Business Analyst](https://jobright.ai/jobs/info/6aaab8fa4be87a72913a0ddb?utm_campaign=1067&utm_source=git)** | Quebec, QC, Canada | Hybrid | Sep 16 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[鴻海精密工業股份有限公司](https://www.honhai.com/zh-tw/)** | **[2027 Fii Summer Internship – Business, IT & Operations Intern Roles](https://jobright.ai/jobs/info/6aa8a38658d9ccf2690b55a0?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
 | **[CAI](https://cai.io/)** | **[Business Tech Intern](https://jobright.ai/jobs/info/6aa8991da77a53f5a157a26c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6aa8991a930bff471a2a8015?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6aa8ca8f3387a3d9b67d31c2?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 14 |
-| ↳ | **[IT Analyst Intern- Massachusetts](https://jobright.ai/jobs/info/6aa8ca933387a3d9b67d31c4?utm_campaign=1067&utm_source=git)** | Marlborough, MA, United States | Hybrid | Sep 14 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Massachusetts](https://jobright.ai/jobs/info/6aa8ca933387a3d9b67d31c4?utm_campaign=1067&utm_source=git)** | Marlborough, MA, United States | Hybrid | Sep 14 |
+| ↳ | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6aa8ca8f3387a3d9b67d31c2?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 14 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | ↳ | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 14 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Operations Business Analyst Intern - Summer 2027 (Potential Insure Your Future)](https://jobright.ai/jobs/info/6aa4423b422289703bd65ddc?utm_campaign=1067&utm_source=git)** | Johnston, IA, United States | On Site | Sep 11 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Personal Lines Business Insights Intern](https://jobright.ai/jobs/info/6aa47b471d92e2d05d114ea9?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Sep 11 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a53ca5ce726ec56126a8065?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Sep 11 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d7641388387060590cb8?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d7631388387060590cb2?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
 | ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 11 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6aa465bff3aa936e2cdb11d3?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Sep 11 |
 | **[Oniverse](https://www.oniverse.it/)** | **[Retail Business Analyst Intern](https://jobright.ai/jobs/info/6aa4ad4c8275e3a211761426?utm_campaign=1067&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 11 |
 | **[Amcor](http://www.amcor.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/6a8dc88947679c68bf5e4b5c?utm_campaign=1067&utm_source=git)** | Evansville, IN, United States | On Site | Sep 11 |
-| **[U.S. Bank](http://www.usbank.com)** | **[2027 Business Analytics Summer Intern](https://jobright.ai/jobs/info/6aa055c9ea127c3794696737?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
