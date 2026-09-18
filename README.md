@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 18 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 17 |
 | **[TD](https://www.td.com)** | **[2027 Summer Internship Program - Global Technology & Solutions - Data Analyst](https://jobright.ai/jobs/info/6aa77551930bff471a2a3485?utm_campaign=1067&utm_source=git)** | Mount Laurel, NJ, United States | Hybrid | Sep 17 |
 | **[SERVPRO](http://servpro.com)** | **[IT Business Analyst & Project Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aac2d413dbb1f8967ce93f2?utm_campaign=1067&utm_source=git)** | Gallatin, TN, United States | On Site | Sep 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Undergraduate Year Round - Mission Services Talent Acquisition Team (MSTAT), Hybrid](https://jobright.ai/jobs/info/6a9113d1d96ad228f1263dd3?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | Hybrid | Sep 13 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Business Operating System Intern](https://jobright.ai/jobs/info/6a899fda680f314a29d3f292?utm_campaign=1067&utm_source=git)** | Middleton, WI, United States | On Site | Sep 13 |
 | **[USAA](https://www.usaa.com)** | **[Operations - Business Process Owner Intern](https://jobright.ai/jobs/info/6aa5218c2ed333b4ea5c5b34?utm_campaign=1067&utm_source=git)** | San Antonio, TX, United States | On Site | Sep 13 |
-| **[Bestow](https://www.bestow.com)** | **[Business Operations and AI Intern](https://jobright.ai/jobs/info/6a6cdbefca1f9338466011d1?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
