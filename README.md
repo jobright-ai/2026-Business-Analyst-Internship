@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern, Energy Efficiency & Conservation, Summer 2027](https://jobright.ai/jobs/info/6aadc32d0ebc8fb2313eb6c3?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | Hybrid | Sep 18 |
 | **[PPL](http://www.ppluk.com/)** | **[Business Intern, Energy Efficiency & Conservation, Summer 2027](https://jobright.ai/jobs/info/6aadb0383d96632d741af56e?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | Hybrid | Sep 18 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Summer Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/6aad41062e757fcb5c8b7539?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
 | ↳ | **[2027 Summer Internship - Systems/Business Analyst (NYC)](https://jobright.ai/jobs/info/6aad40f83dbb1f8967cec788?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 18 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[鴻海精密工業股份有限公司](https://www.honhai.com/zh-tw/)** | **[2027 Fii Summer Internship – Business, IT & Operations Intern Roles](https://jobright.ai/jobs/info/6aa8a38658d9ccf2690b55a0?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
 | **[CAI](https://cai.io/)** | **[Business Tech Intern](https://jobright.ai/jobs/info/6aa8991da77a53f5a157a26c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6aa8991a930bff471a2a8015?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6aa8ca8f3387a3d9b67d31c2?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 14 |
-| ↳ | **[IT Analyst Intern- Massachusetts](https://jobright.ai/jobs/info/6aa8ca933387a3d9b67d31c4?utm_campaign=1067&utm_source=git)** | Marlborough, MA, United States | Hybrid | Sep 14 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Massachusetts](https://jobright.ai/jobs/info/6aa8ca933387a3d9b67d31c4?utm_campaign=1067&utm_source=git)** | Marlborough, MA, United States | Hybrid | Sep 14 |
+| ↳ | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6aa8ca8f3387a3d9b67d31c2?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 14 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | ↳ | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/6aa7734ba77a53f5a1575596?utm_campaign=1067&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 13 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6aaaf18f8e1bf0f764af7719?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Sep 13 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa83c3382e82a31997c4953?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 13 |
-| **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Business Analyst Intern, NA Integrated Analytics (2027 Summer - New York)](https://jobright.ai/jobs/info/6aa823d8930bff471a2a56e1?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
