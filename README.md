@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Winter Intern 2027– Business Analyst](https://jobright.ai/jobs/info/6a91dec2d18f75674827a8e2?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Sep 19 |
 | **[Alstom](https://www.alstom.com/)** | **[VIE - Performance & Improvement Analyst (m/f) Job Details / Alstom](https://jobright.ai/jobs/info/6a61d6a3ab14335fc0f19e1d?utm_campaign=1067&utm_source=git)** | Saint-Bruno, California, United States | On Site | Sep 18 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern, Energy Efficiency & Conservation, Summer 2027](https://jobright.ai/jobs/info/6aadc32d0ebc8fb2313eb6c3?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | Hybrid | Sep 18 |
 | **[PPL](http://www.ppluk.com/)** | **[Business Intern, Energy Efficiency & Conservation, Summer 2027](https://jobright.ai/jobs/info/6aadb0383d96632d741af56e?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | Hybrid | Sep 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/6aa7734ba77a53f5a1575596?utm_campaign=1067&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 13 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6aaaf18f8e1bf0f764af7719?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Sep 13 |
 | **[NCR Atleos](https://www.ncratleos.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa83c3382e82a31997c4953?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 13 |
-| **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Business Analyst Intern, NA Integrated Analytics (2027 Summer - New York)](https://jobright.ai/jobs/info/6aa823d8930bff471a2a56e1?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
