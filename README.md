@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/6ab0ff41d41d31254181050a?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 21 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Business Systems](https://jobright.ai/jobs/info/6a95106ba27a2d3c9848ff7d?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Sep 21 |
 | **[Brookfield](https://www.brookfield.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6a5082daf4a6e7316717d3f8?utm_campaign=1067&utm_source=git)** | New York, New York, United States of America | On Site | Sep 20 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Sep 20 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9b6adeff87f571fc9ae43?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Sep 15 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa9acff28e24cb38513b51e?utm_campaign=1067&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 15 |
 | **[TCOM, L.P.](https://tcomlp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa97b4a6d0edc2d91b09d48?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 15 |
-| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9bccc3387a3d9b67d67b6?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 15 |
-| ↳ | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
+| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
+| ↳ | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9bccc3387a3d9b67d67b6?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 15 |
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2027 Spring/Summer Internship: Business Analytics Intern](https://jobright.ai/jobs/info/6a85c33e74e02153f1458340?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 15 |
 | **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97d8109ae03adcacdd8ef?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | **[Bellingham at West Chester](https://www.seniorlivingbellingham.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97c5f09ae03adcacdd8dd?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[鴻海精密工業股份有限公司](https://www.honhai.com/zh-tw/)** | **[2027 Fii Summer Internship – Business, IT & Operations Intern Roles](https://jobright.ai/jobs/info/6aa8a38658d9ccf2690b55a0?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
 | **[CAI](https://cai.io/)** | **[Business Tech Intern](https://jobright.ai/jobs/info/6aa8991da77a53f5a157a26c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
 | ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6aa8991a930bff471a2a8015?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Massachusetts](https://jobright.ai/jobs/info/6aa8ca933387a3d9b67d31c4?utm_campaign=1067&utm_source=git)** | Marlborough, MA, United States | Hybrid | Sep 14 |
-| ↳ | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6aa8ca8f3387a3d9b67d31c2?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 14 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6aa8ca8f3387a3d9b67d31c2?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Sep 14 |
+| ↳ | **[IT Analyst Intern- Massachusetts](https://jobright.ai/jobs/info/6aa8ca933387a3d9b67d31c4?utm_campaign=1067&utm_source=git)** | Marlborough, MA, United States | Hybrid | Sep 14 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | ↳ | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Sep 14 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 14 |
@@ -154,6 +155,4 @@ For a complete list, click the following sortable link below:
 | **[Vylor](https://www.linkedin.com/company/113824225)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa85fc5930bff471a2a6f25?utm_campaign=1067&utm_source=git)** | Johnston, IA, United States | On Site | Sep 14 |
 | **[Immersion](http://immersioninc.com)** | **[Intern](https://jobright.ai/jobs/info/6a580c2a8f51964c0404696e?utm_campaign=1067&utm_source=git)** | Annapolis, MD, United States | On Site | Sep 14 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Student, Business Analysis (Winter 2027)](https://jobright.ai/jobs/info/6aa80662a77a53f5a1576c3f?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Sep 14 |
-| **[JIRACOR](https://jiracor.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa8287da77a53f5a1577b1a?utm_campaign=1067&utm_source=git)** | Orlando, FL, United States | On Site | Sep 14 |
-| **[Enact Mortgage Insurance](https://enactmi.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6aa823ba82e82a31997c40e2?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | Hybrid | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
