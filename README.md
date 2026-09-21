@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Assured Guaranty](http://assuredguaranty.com/)** | **[Business Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ab15732d2a93d5a97eb9f82?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16f37f9692ca98b049897?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[KCC Companies](https://www.kccmfg.com/)** | **[Business Systems & Process Analyst Intern](https://jobright.ai/jobs/info/6ab160b8d2a93d5a97eba45c?utm_campaign=1067&utm_source=git)** | Louisville, KY, United States | On Site | Sep 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Sep 21 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ab15d2523005eee35459e29?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 21 |
-| **[Assured Guaranty](http://assuredguaranty.com/)** | **[Business Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ab15732d2a93d5a97eb9f82?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab14429191d8c340dbd9864?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Sep 21 |
 | **[Upbound Group](https://www.upbound.com)** | **[Technology Business Operations Intern](https://jobright.ai/jobs/info/6ab14c6bd2a93d5a97eb9ad7?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 21 |
 | **[RDV Corporation](https://rdvcareers.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/6a8dae35581f2d7bfdfe8535?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 21 |
@@ -68,10 +69,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ab1240ff9692ca98b047e5d?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 21 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/6ab0ff41d41d31254181050a?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 21 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Business Systems](https://jobright.ai/jobs/info/6a95106ba27a2d3c9848ff7d?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Sep 21 |
-| **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1556c191d8c340dbd9e3e?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 20 |
+| **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[2027 Summer Internship - Business Technology](https://jobright.ai/jobs/info/6ab16a1ad43eb922ca0beb3d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 20 |
+| **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1422fd2a93d5a97eb9804?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Intern Business Management](https://jobright.ai/jobs/info/6aad430d6956574eac8b4a2a?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 19 |
 | **[RTX](http://rtx.com/)** | **[Commercial Engines Business Intern (Summer 2027)](https://jobright.ai/jobs/info/6aaf5a9c3d96632d741b1fd9?utm_campaign=1067&utm_source=git)** | East Hartford, CT, United States | On Site | Sep 19 |
-| **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaedcd93d96632d741b17b8?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 19 |
 | **[Alstom](https://www.alstom.com/)** | **[VIE - Performance & Improvement Analyst (m/f) Job Details / Alstom](https://jobright.ai/jobs/info/6a61d6a3ab14335fc0f19e1d?utm_campaign=1067&utm_source=git)** | Saint-Bruno, California, United States | On Site | Sep 18 |
 | **[PPL Corporation](https://www.pplweb.com/)** | **[Business Intern, Energy Efficiency & Conservation, Summer 2027](https://jobright.ai/jobs/info/6aadc32d0ebc8fb2313eb6c3?utm_campaign=1067&utm_source=git)** | Allentown, PA, United States | Hybrid | Sep 18 |
@@ -149,7 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Mercury](https://www.mercuryeng.com/)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9e5d33387a3d9b67d7c60?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Sep 14 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Intern - Business Technology Analyst](https://jobright.ai/jobs/info/6aa434e9f7baf881567cdc2a?utm_campaign=1067&utm_source=git)** | Cayce, SC, United States | On Site | Sep 14 |
 | **[Emerging Tech](https://emergingtech.co)** | **[Business Analyst Intern - Florida Residents Only](https://jobright.ai/jobs/info/6a91e126c12c90443efc8a01?utm_campaign=1067&utm_source=git)** | Florida, United States | Remote | Sep 14 |
-| **[鴻海精密工業股份有限公司](https://www.honhai.com/zh-tw/)** | **[2027 Fii Summer Internship – Business, IT & Operations Intern Roles](https://jobright.ai/jobs/info/6aa8a38658d9ccf2690b55a0?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Sep 14 |
-| **[CAI](https://cai.io/)** | **[Business Tech Intern](https://jobright.ai/jobs/info/6aa8991da77a53f5a157a26c?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
-| ↳ | **[Business Operations Intern](https://jobright.ai/jobs/info/6aa8991a930bff471a2a8015?utm_campaign=1067&utm_source=git)** | United States | Remote | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
