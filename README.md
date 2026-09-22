@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Market Information and Data Analytics (MIDA) - Business Analytics -  Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2d2e3326574570a00358b?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
+| ↳ | **[Market Information and Data Analytics (MIDA) - Business Analytics -  Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2ce468254c44790e57793?utm_campaign=1067&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
+| **[Granicus](http://www.granicus.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ab2cad930340229a322fbf6?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | On Site | Sep 22 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 22 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Sep 22 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 22 |
@@ -64,7 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
-| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
+| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0dd191d8c340dbdd472?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ab15d2523005eee35459e29?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 21 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d249f9692ca98b04bedc?utm_campaign=1067&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 21 |
