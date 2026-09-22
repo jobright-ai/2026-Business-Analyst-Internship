@@ -59,9 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
-| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
+| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0dd191d8c340dbdd472?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ab15d2523005eee35459e29?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 21 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d249f9692ca98b04bedc?utm_campaign=1067&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 21 |
@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[TCOM, L.P.](https://tcomlp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa97b4a6d0edc2d91b09d48?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | ↳ | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9bccc3387a3d9b67d67b6?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | Hybrid | Sep 15 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97d8109ae03adcacdd8ef?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
