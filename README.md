@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0dd191d8c340dbdd472?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
+| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ab15d2523005eee35459e29?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 21 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d249f9692ca98b04bedc?utm_campaign=1067&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 21 |
@@ -67,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Puff Media](https://www.puffmedia.co/)** | **[Business Coordinator / Intern](https://jobright.ai/jobs/info/6ab1920632552369083e2fc2?utm_campaign=1067&utm_source=git)** | Brooklyn, NY, United States | On Site | Sep 21 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aad43073d96632d741acd05?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 21 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16f37f9692ca98b049897?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16ed4f9692ca98b049877?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[Business Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ab15732d2a93d5a97eb9f82?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Sep 21 |
 | **[KCC Companies](https://www.kccmfg.com/)** | **[Business Systems & Process Analyst Intern](https://jobright.ai/jobs/info/6ab160b8d2a93d5a97eba45c?utm_campaign=1067&utm_source=git)** | Louisville, KY, United States | On Site | Sep 21 |
@@ -142,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[The Clare](https://www.theclare.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9e87210b1cd4f41608c3d?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | **[StoneRidge Senior Living Community](https://stoneridgelcs.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9910910b1cd4f41606517?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
 | **[Cottage Grove Place](https://cottagegroveplace.com)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa99c3010b1cd4f41606cd2?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 15 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Sep 15 |
-| **[HF Sinclair](https://www.hfsinclair.com)** | **[Branded Fuels - Business Analytics Intern](https://jobright.ai/jobs/info/6aa9578328e24cb385139d1b?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
