@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granicus](http://www.granicus.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ab2d4041508734c1530c331?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | Remote | Sep 22 |
 | **[PwC](http://pwc.com)** | **[Market Information and Data Analytics (MIDA) - Business Analytics -  Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2d2e3326574570a00358b?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 22 |
 | ↳ | **[Market Information and Data Analytics (MIDA) - Business Analytics -  Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2ce468254c44790e57793?utm_campaign=1067&utm_source=git)** | Rosemont, IL, United States | On Site | Sep 22 |
 | **[Granicus](http://www.granicus.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ab2cad930340229a322fbf6?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | On Site | Sep 22 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Platform Analyst](https://jobright.ai/jobs/info/6ab2a66e1508734c1530ae08?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 21 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[Puff Media](https://www.puffmedia.co/)** | **[Business Coordinator / Intern](https://jobright.ai/jobs/info/6ab1920632552369083e2fc2?utm_campaign=1067&utm_source=git)** | Brooklyn, NY, United States | On Site | Sep 21 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aad43073d96632d741acd05?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 21 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aad43073d96632d741acd05?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 21 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16f37f9692ca98b049897?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[Uline](http://www.uline.com)** | **[Business Process Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6ab23b2880609792702580eb?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI, United States | On Site | Sep 21 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[Business Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ab15732d2a93d5a97eb9f82?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
@@ -132,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[HF Sinclair](https://www.hfsinclair.com)** | **[Branded Fuels - Business Analytics Intern Job Details / HF Sinclair](https://jobright.ai/jobs/info/6aaa5b45ff3ea6b00c7bb869?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Sep 16 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services General Business Undergraduate Intern](https://jobright.ai/jobs/info/6aa9374009ae03adcacdc374?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Sep 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 15 |
-| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Business Innovation & AI Products Intern](https://jobright.ai/jobs/info/6aa9e43328e24cb38513d0bf?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
