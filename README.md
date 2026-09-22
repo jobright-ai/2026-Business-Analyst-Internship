@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 22 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Sep 22 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 22 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
 | **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ab15d2523005eee35459e29?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 21 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 21 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Puff Media](https://www.puffmedia.co/)** | **[Business Coordinator / Intern](https://jobright.ai/jobs/info/6ab1920632552369083e2fc2?utm_campaign=1067&utm_source=git)** | Brooklyn, NY, United States | On Site | Sep 21 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aad43073d96632d741acd05?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 21 |
 | ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
-| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16ed4f9692ca98b049877?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
+| **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16f37f9692ca98b049897?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[Uline](http://www.uline.com)** | **[Business Process Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6ab23b2880609792702580eb?utm_campaign=1067&utm_source=git)** | Pleasant Prairie, WI, United States | On Site | Sep 21 |
 | **[Assured Guaranty](http://assuredguaranty.com/)** | **[Business Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ab15732d2a93d5a97eb9f82?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate Internship Summer 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a7cf5c5a346cb6c8d5f11d6?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | Hybrid | Sep 21 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Dell Technologies Services General Business Undergraduate Intern](https://jobright.ai/jobs/info/6aa9374009ae03adcacdc374?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Sep 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 15 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Business Innovation & AI Products Intern](https://jobright.ai/jobs/info/6aa9e43328e24cb38513d0bf?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
-| **[Vermont Mutual Insurance Group](http://vermontmutual.com)** | **[Business Internship - Summer 2027](https://jobright.ai/jobs/info/6aa0589ddbc0e60e37e0d0e1?utm_campaign=1067&utm_source=git)** | Montpelier, VT, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
