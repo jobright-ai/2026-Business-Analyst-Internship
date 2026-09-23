@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d249f9692ca98b04bedc?utm_campaign=1067&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 22 |
-| ↳ | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d244d2a93d5a97ebcf36?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 22 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Sep 23 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 23 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d244d2a93d5a97ebcf36?utm_campaign=1067&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 22 |
+| ↳ | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ab1d249f9692ca98b04bedc?utm_campaign=1067&utm_source=git)** | El Segundo, CA, United States | On Site | Sep 22 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ab30c9b326574570a004bcb?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Supply Chain - AI Business Analyst Intern - AZEK Job Details / James Hardie](https://jobright.ai/jobs/info/6ab325781508734c1530dd5c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 22 |
@@ -97,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/6ab0ff41d41d31254181050a?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 21 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2027 Intern - Business Systems](https://jobright.ai/jobs/info/6a95106ba27a2d3c9848ff7d?utm_campaign=1067&utm_source=git)** | Remote, United States | Remote | Sep 21 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[2027 Summer Internship - Business Technology](https://jobright.ai/jobs/info/6ab16a1ad43eb922ca0beb3d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 20 |
-| **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1556c191d8c340dbd9e3e?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 20 |
+| **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1422fd2a93d5a97eb9804?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 20 |
 | **[RTX](http://rtx.com/)** | **[Commercial Engines Business Intern (Summer 2027)](https://jobright.ai/jobs/info/6aaf5a9c3d96632d741b1fd9?utm_campaign=1067&utm_source=git)** | East Hartford, CT, United States | On Site | Sep 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Sep 19 |
 | **[Alstom](https://www.alstom.com/)** | **[VIE - Performance & Improvement Analyst (m/f) Job Details / Alstom](https://jobright.ai/jobs/info/6a61d6a3ab14335fc0f19e1d?utm_campaign=1067&utm_source=git)** | Saint-Bruno, California, United States | On Site | Sep 18 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst & Project Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aac2fec3d96632d741a9ae0?utm_campaign=1067&utm_source=git)** | Gallatin, TN, United States | On Site | Sep 17 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Business Systems Analysis](https://jobright.ai/jobs/info/6aac0f0895c707f49dfef355?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 17 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac3bf13dbb1f8967ce99d6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 17 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern – Business Analyst](https://jobright.ai/jobs/info/6aac415f2e757fcb5c8b4995?utm_campaign=1067&utm_source=git)** | Quebec, Quebec, Canada | Hybrid | Sep 17 |
-| ↳ | **[Intern – Business Analyst](https://jobright.ai/jobs/info/6aaab8fa4be87a72913a0ddb?utm_campaign=1067&utm_source=git)** | Quebec, QC, Canada | Hybrid | Sep 17 |
+| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern – Business Analyst](https://jobright.ai/jobs/info/6aaab8fa4be87a72913a0ddb?utm_campaign=1067&utm_source=git)** | Quebec, QC, Canada | Hybrid | Sep 17 |
+| ↳ | **[Intern – Business Analyst](https://jobright.ai/jobs/info/6aac415f2e757fcb5c8b4995?utm_campaign=1067&utm_source=git)** | Quebec, Quebec, Canada | Hybrid | Sep 17 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Business Support Center & Sustainability Summer Intern](https://jobright.ai/jobs/info/6aac2f2c95c707f49dfefffa?utm_campaign=1067&utm_source=git)** | Johns Creek, GA, United States | On Site | Sep 17 |
 | **[Perry's Ice Cream](https://www.perrysicecream.com/)** | **[Inventory Digitization & Process Improvement Intern](https://jobright.ai/jobs/info/6a748b1fbb6ca93ae560a85f?utm_campaign=1067&utm_source=git)** | Akron, New York, United States | On Site | Sep 17 |
 | **[Direct Agents](http://www.directagents.com)** | **[AI Business Strategy & Operations Intern](https://jobright.ai/jobs/info/6aac036f3d96632d741a8a6f?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 17 |
@@ -130,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Stagiaire analyste d'affaires en IA et automatisation / AI & Automation Business Analyst Intern](https://jobright.ai/jobs/info/6aaf42640ebc8fb2313ed92b?utm_campaign=1067&utm_source=git)** | Quebec, QC, Canada | On Site | Sep 16 |
 | **[BCI](https://www.bci.ca/)** | **[Client Performance & Analytics Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9ae0f6bd9d2d17c1ccab?utm_campaign=1067&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | On Site | Sep 16 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
