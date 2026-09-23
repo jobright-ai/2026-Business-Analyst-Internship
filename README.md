@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[BCI](https://www.bci.ca/)** | **[Client Performance & Analytics Co-op/Internship (Winter 2027)](https://jobright.ai/jobs/info/6aab9ae0f6bd9d2d17c1ccab?utm_campaign=1067&utm_source=git)** | Victoria, BC, Canada | Hybrid | Sep 16 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | On Site | Sep 16 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Sep 16 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6aaabbf0f6bd9d2d17c1915d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
