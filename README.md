@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMC Construction](http://imcconstruction.com)** | **[Intern/Co Op - Business Analytics-Intelligence](https://jobright.ai/jobs/info/6aa83365a77a53f5a1577e1d?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 28 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aba99177220f52e62ae7215?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 28 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Business Management Intern - MN, CO](https://jobright.ai/jobs/info/6a9e5440a7ba386c5d671c1f?utm_campaign=1067&utm_source=git)** | Roseville, MN, United States | Hybrid | Sep 28 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern Job Details / Qorvo](https://jobright.ai/jobs/info/6aba9c5dbe5f1e9325116619?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 28 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - TX, WI](https://jobright.ai/jobs/info/6a9e54742c964816f65ecb09?utm_campaign=1067&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 28 |
 | **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | Hybrid | Sep 28 |
@@ -68,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 28 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa9acff28e24cb38513b51e?utm_campaign=1067&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 28 |
 | **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Business Analyst Intern, NA Integrated Analytics (2027 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ab9f073ba1c25652c61576f?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 27 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Analyst Intern - McLean VA](https://jobright.ai/jobs/info/6aba83b2ad8589219ef7da48?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Sep 27 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Analyst Intern - McLean VA](https://jobright.ai/jobs/info/6aba62e17220f52e62ae6197?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Sep 27 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a9ce24fdacf777321a8eef2?utm_campaign=1067&utm_source=git)** | Garden Grove, CA, United States | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 26 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Sep 26 |
@@ -120,8 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 22 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
-| **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 21 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
+| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0dd191d8c340dbdd472?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
