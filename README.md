@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a9ce24fdacf777321a8eef2?utm_campaign=1067&utm_source=git)** | Garden Grove, CA, United States | On Site | Sep 27 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 27 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 27 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 27 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 27 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 26 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Sep 26 |
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/6a9af8e4fe45b8490f605eaf?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Sep 26 |
@@ -83,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git)** | Maryland Heights, MO, United States | On Site | Sep 24 |
 | **[Robinhood](https://www.robinhood.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec922ed333b4ea5cc5fd?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 24 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984af0def18223c854e7cb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 24 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 24 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 24 |
+| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 24 |
 | ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 24 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 24 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2027 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6a876440d34f700f87fc5255?utm_campaign=1067&utm_source=git)** | Brownsville, WI, United States | On Site | Sep 24 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027](https://jobright.ai/jobs/info/6a99cd6f8a8b765bc55f59ad?utm_campaign=1067&utm_source=git)** | West Fargo, ND, United States | On Site | Sep 24 |
 | **[Orbis Investments](https://www.orbis.com/Home)** | **[Business Internship](https://jobright.ai/jobs/info/6ab55803c6fe0dec811a0987?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Sep 23 |
@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[RDV Corporation](https://rdvcareers.com)** | **[Technology Business Intern](https://jobright.ai/jobs/info/6a8dae35581f2d7bfdfe8535?utm_campaign=1067&utm_source=git)** | Grand Rapids, MI, United States | On Site | Sep 21 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab12434f9692ca98b047e73?utm_campaign=1067&utm_source=git)** | Lititz, PA, United States | Remote | Sep 21 |
 | ↳ | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ab1240ff9692ca98b047e5d?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Sep 21 |
-| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[IT Business Analyst Internship](https://jobright.ai/jobs/info/6ab0ff41d41d31254181050a?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
