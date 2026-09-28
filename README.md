@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 28 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 28 |
+| **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Halifax](https://jobright.ai/jobs/info/6ab12fdf191d8c340dbd91ce?utm_campaign=1067&utm_source=git)** | Halifax, NS, Canada | On Site | Sep 28 |
+| ↳ | **[Business Analyst, RBC Amplify 2027, Toronto](https://jobright.ai/jobs/info/6ab12f8f23005eee35458d8d?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 28 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 28 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 28 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa9acff28e24cb38513b51e?utm_campaign=1067&utm_source=git)** | La Crosse, WI, United States | On Site | Sep 28 |
 | **[Munich Re](https://www.munichre.com/us-life/en.html)** | **[Business Analyst Intern, NA Integrated Analytics (2027 Summer - New York) Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ab9f073ba1c25652c61576f?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Sep 27 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6a9ce24fdacf777321a8eef2?utm_campaign=1067&utm_source=git)** | Garden Grove, CA, United States | On Site | Sep 27 |
@@ -113,15 +115,14 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 22 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Business Technology](https://jobright.ai/jobs/info/6a95aeda9fcec5442372e632?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Winter Co-op 2027 - Data & Analytics (8 Months)](https://jobright.ai/jobs/info/6a96060a4c22023a079379a5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
-| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a90802ea19886486676178b?utm_campaign=1067&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 22 |
+| ↳ | **[Summer Intern 2027 - Business Technology](https://jobright.ai/jobs/info/6a95c292c8763a3a87ffbe1b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Sep 22 |
 | **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Sep 21 |
 | **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2027 Spring Internship - Business Analyst (NYC)](https://jobright.ai/jobs/info/6aad40e90ebc8fb2313e8733?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
 | **[Park Place Technologies](http://www.parkplacetechnologies.com)** | **[Business Analysis Intern - Summer 2027](https://jobright.ai/jobs/info/6ab16f37f9692ca98b049897?utm_campaign=1067&utm_source=git)** | Highland Heights, OH, United States | On Site | Sep 21 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Sep 21 |
 | **[Puff Media](https://www.puffmedia.co/)** | **[Business Coordinator / Intern](https://jobright.ai/jobs/info/6ab1920632552369083e2fc2?utm_campaign=1067&utm_source=git)** | Brooklyn, NY, United States | On Site | Sep 21 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aad43073d96632d741acd05?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 21 |
-| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
-| **[Assured Guaranty](http://assuredguaranty.com/)** | **[Business Operations Intern - Summer 2027](https://jobright.ai/jobs/info/6ab15732d2a93d5a97eb9f82?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 21 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Sep 21 |
+| ↳ | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aad43073d96632d741acd05?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | Hybrid | Sep 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
