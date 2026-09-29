@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abb7a01de8f79e12427532d?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Sep 29 |
 | **[Cencora](http://www.cencora.com)** | **[Intern, Business Analyst](https://jobright.ai/jobs/info/6abaf684be5f1e93251184f7?utm_campaign=1067&utm_source=git)** | Conshohocken, PA, United States | Hybrid | Sep 28 |
 | **[Seaboard Overseas and Trading Group](https://www.seaboardoverseas.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6a95a43acabc9f6703e18d90?utm_campaign=1067&utm_source=git)** | Merriam, KS, United States | On Site | Sep 28 |
-| **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abb7a01de8f79e12427532d?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Sep 28 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[IT Financial Operations Intern](https://jobright.ai/jobs/info/6abb08ff7220f52e62ae951b?utm_campaign=1067&utm_source=git)** | Niles, IL, United States | On Site | Sep 28 |
 | **[Reyes Beverage Group](https://reyesbeveragegroup.com)** | **[IT Financial Operations Intern](https://jobright.ai/jobs/info/6abb081c1acb8fc6f09c29e0?utm_campaign=1067&utm_source=git)** | Niles, IL, United States | On Site | Sep 28 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926706360363009919634a?utm_campaign=1067&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a92670b9864261ccd2a0a9c?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670c360363009919634e?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670e9864261ccd2a0a9e?utm_campaign=1067&utm_source=git)** | Lebanon, VA, United States | On Site | Sep 28 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926710d18f75674827bd38?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb5b?utm_campaign=1067&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926710d18f75674827bd38?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670e9864261ccd2a0a9e?utm_campaign=1067&utm_source=git)** | Lebanon, VA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670c360363009919634e?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926706360363009919634a?utm_campaign=1067&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a92670b9864261ccd2a0a9c?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a9267afa27a2d3c9848bb76?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 28 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales & CRM Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ababeff1acb8fc6f09c14b1?utm_campaign=1067&utm_source=git)** | Farmington, CT, United States | Hybrid | Sep 28 |
 | **[IMC Construction](http://imcconstruction.com)** | **[Intern/Co Op - Business Analytics-Intelligence](https://jobright.ai/jobs/info/6aa83365a77a53f5a1577e1d?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 28 |
@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[James Hardie](https://www.jameshardie.com)** | **[Supply Chain - AI Business Analyst Intern - AZEK](https://jobright.ai/jobs/info/6ab2ec661e4847ddae9170e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 22 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ab316a430340229a32317d4?utm_campaign=1067&utm_source=git)** | Hazelwood, MO, United States | Hybrid | Sep 22 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Platform Analyst](https://jobright.ai/jobs/info/6ab2a66e1508734c1530ae08?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Sep 22 |
-| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
