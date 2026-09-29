@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Titan America](http://www.titanamerica.com/)** | **[Digitalization Intern](https://jobright.ai/jobs/info/6abbf9abb23c6fb2b81a4455?utm_campaign=1067&utm_source=git)** | Troutville, VA, United States | On Site | Sep 29 |
 | **[Duravant](http://www.duravant.com/)** | **[AI & Business Operations Intern](https://jobright.ai/jobs/info/6abbead67119e56191cea06d?utm_campaign=1067&utm_source=git)** | Montgomery, AL, United States | On Site | Sep 29 |
+| **[Titan America](http://www.titanamerica.com/)** | **[Digitalization Intern](https://jobright.ai/jobs/info/6abbf9abb23c6fb2b81a4455?utm_campaign=1067&utm_source=git)** | Troutville, VA, United States | On Site | Sep 29 |
 | **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/6abbba693217d1d13329aabf?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Sep 29 |
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Sep 29 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/6abbc67492b2612ef0f8ab7f?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 29 |
@@ -75,11 +75,11 @@ For a complete list, click the following sortable link below:
 | **[Reyes Beverage Group](https://reyesbeveragegroup.com)** | **[IT Financial Operations Intern](https://jobright.ai/jobs/info/6abb081c1acb8fc6f09c29e0?utm_campaign=1067&utm_source=git)** | Niles, IL, United States | On Site | Sep 28 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a9267afa27a2d3c9848bb76?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670e9864261ccd2a0a9e?utm_campaign=1067&utm_source=git)** | Lebanon, VA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb5b?utm_campaign=1067&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670c360363009919634e?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a92670b9864261ccd2a0a9c?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926710d18f75674827bd38?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb5b?utm_campaign=1067&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926706360363009919634a?utm_campaign=1067&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926710d18f75674827bd38?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670c360363009919634e?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 28 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales & CRM Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ababeff1acb8fc6f09c14b1?utm_campaign=1067&utm_source=git)** | Farmington, CT, United States | Hybrid | Sep 28 |
 | **[IMC Construction](http://imcconstruction.com)** | **[Intern/Co Op - Business Analytics-Intelligence](https://jobright.ai/jobs/info/6aa83365a77a53f5a1577e1d?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 28 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aba99177220f52e62ae7215?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 28 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[TCOM, L.P.](https://tcomlp.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa97b4a6d0edc2d91b09d48?utm_campaign=1067&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 24 |
 | **[Robinhood](https://www.robinhood.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec922ed333b4ea5cc5fd?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 24 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984af0def18223c854e7cb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Sep 24 |
-| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 24 |
-| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 24 |
+| **[L3Harris Technologies](https://www.l3harris.com)** | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720da246d697dcee038a5?utm_campaign=1067&utm_source=git)** | Rochester, NY, United States | On Site | Sep 24 |
+| ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cb246d697dcee0389d?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 24 |
 | ↳ | **[IT Business Analysis Intern](https://jobright.ai/jobs/info/6a9720cfb22f636c81416081?utm_campaign=1067&utm_source=git)** | Palm Bay, FL, United States | On Site | Sep 24 |
 | **[Michels Corporation](http://www.michels.us)** | **[Summer 2027 Internship: Business Related Degrees](https://jobright.ai/jobs/info/6a876440d34f700f87fc5255?utm_campaign=1067&utm_source=git)** | Brownsville, WI, United States | On Site | Sep 24 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027](https://jobright.ai/jobs/info/6a99cd6f8a8b765bc55f59ad?utm_campaign=1067&utm_source=git)** | West Fargo, ND, United States | On Site | Sep 24 |
@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 23 |
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Sep 23 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6a95035f9864261ccd2a4cd1?utm_campaign=1067&utm_source=git)** | Richardson, TX, United States | On Site | Sep 22 |
-| **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6ab7398481e327c4bf202fa8?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
