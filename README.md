@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6ac001e0064da25272e073b7?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Oct 02 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 02 |
 | ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abf77ad4ac55253f5d64fb5?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 02 |
 | **[CACI International Inc](https://www.caci.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfff6ad9621c5b28395bef?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 02 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Intern Business Management](https://jobright.ai/jobs/info/6abd87f28ff3fb9b3bc7132a?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern (GBS SMB) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3c5c45122f340d29cedb0d?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 01 |
 | **[CAI](https://cai.io/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abf02654ac55253f5d63e04?utm_campaign=1067&utm_source=git)** | Newark, DE, United States | Hybrid | Oct 01 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6ac001e0064da25272e073b7?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Oct 01 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Business Analyst Intern](https://jobright.ai/jobs/info/6ac014b94ac55253f5d676fe?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 01 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Business Analysis Student Co-op or Intern](https://jobright.ai/jobs/info/6abf0361064da25272e043aa?utm_campaign=1067&utm_source=git)** | New Bremen, OH, United States | On Site | Oct 01 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 - Business Systems Analyst Intern](https://jobright.ai/jobs/info/6abee0728ff3fb9b3bc7678b?utm_campaign=1067&utm_source=git)** | Tulsa, Oklahoma, United States | On Site | Oct 01 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst (Winter 2027)](https://jobright.ai/jobs/info/6abe9166d9621c5b283901e5?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, H4S 2A3, Canada | Hybrid | Oct 01 |
@@ -143,18 +144,17 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business Analyst, Winter 2027 (Co-op/Internship) - 8 month](https://jobright.ai/jobs/info/6abbd2d7b23c6fb2b81a32ae?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 28 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[IT Financial Operations Intern](https://jobright.ai/jobs/info/6abb08ff7220f52e62ae951b?utm_campaign=1067&utm_source=git)** | Niles, IL, United States | On Site | Sep 28 |
 | **[Reyes Beverage Group](https://reyesbeveragegroup.com)** | **[IT Financial Operations Intern](https://jobright.ai/jobs/info/6abb081c1acb8fc6f09c29e0?utm_campaign=1067&utm_source=git)** | Niles, IL, United States | On Site | Sep 28 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a9267afa27a2d3c9848bb76?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670c360363009919634e?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 28 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb5b?utm_campaign=1067&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670e9864261ccd2a0a9e?utm_campaign=1067&utm_source=git)** | Lebanon, VA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926706360363009919634a?utm_campaign=1067&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb5b?utm_campaign=1067&utm_source=git)** | Knoxville, TN, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926710d18f75674827bd38?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a926706360363009919634a?utm_campaign=1067&utm_source=git)** | Fairfax, VA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a92670b9864261ccd2a0a9c?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern - Summer Internship Program](https://jobright.ai/jobs/info/6a92670c360363009919634e?utm_campaign=1067&utm_source=git)** | Lafayette, LA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst Intern – Summer Internship Program](https://jobright.ai/jobs/info/6a9267afa27a2d3c9848bb76?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Sep 28 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales & CRM Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ababeff1acb8fc6f09c14b1?utm_campaign=1067&utm_source=git)** | Farmington, CT, United States | Hybrid | Sep 28 |
 | **[IMC Construction](http://imcconstruction.com)** | **[Intern/Co Op - Business Analytics-Intelligence](https://jobright.ai/jobs/info/6aa83365a77a53f5a1577e1d?utm_campaign=1067&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 28 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aba99177220f52e62ae7215?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Sep 28 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[IT Business Management Intern - MN, CO](https://jobright.ai/jobs/info/6a9e5440a7ba386c5d671c1f?utm_campaign=1067&utm_source=git)** | Roseville, MN, United States | Hybrid | Sep 28 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern Job Details / Qorvo](https://jobright.ai/jobs/info/6aba9c5dbe5f1e9325116619?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Sep 28 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst Intern - TX, WI](https://jobright.ai/jobs/info/6a9e54742c964816f65ecb09?utm_campaign=1067&utm_source=git)** | Eau Claire, WI, United States | Hybrid | Sep 28 |
-| **[Compeer Financial](https://compeer.com/)** | **[Intern Business Process](https://jobright.ai/jobs/info/6a95850cc8763a3a87ffa621?utm_campaign=1067&utm_source=git)** | Lakeville, MN, United States | Hybrid | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
