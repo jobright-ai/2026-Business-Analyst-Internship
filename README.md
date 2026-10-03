@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CACI International Inc](https://www.caci.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfff6ad9621c5b28395bef?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 03 |
-| ↳ | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfd09a064da25272e05f45?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 03 |
+| **[CACI International Inc](https://www.caci.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfd09a064da25272e05f45?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 03 |
+| ↳ | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfff6ad9621c5b28395bef?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 03 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ac0783c4ac55253f5d6908b?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 03 |
 | **[Nationwide](https://www.nationwide.com)** | **[Summer 2027 Personal Lines Business Insights Intern](https://jobright.ai/jobs/info/6aa47b471d92e2d05d114ea9?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Oct 03 |
 | **[RoShay Services](https://www.linkedin.com/company/109419302)** | **[Business Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6ac091bd064da25272e0976f?utm_campaign=1067&utm_source=git)** | Marysville, OH, United States | On Site | Oct 02 |
