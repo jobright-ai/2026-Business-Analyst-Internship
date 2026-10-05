@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af53372c01f6cd731829?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 05 |
+| **[Vulcan](http://www.vulcanequipment.com)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af4a064da25272e0ec02?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 05 |
 | **[Genworth](https://www.genworth.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6ac2a2a38ff3fb9b3bc80131?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 04 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Business Analyst Intern](https://jobright.ai/jobs/info/6ac014b94ac55253f5d676fe?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 04 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6aa4c41382e82a31997ba9ed?utm_campaign=1067&utm_source=git)** | Burlington, NC, United States | Hybrid | Oct 04 |
@@ -125,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 30 |
 | **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6abccbde8ff3fb9b3bc6d959?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Sep 30 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abe274a372c01f6cd722b2c?utm_campaign=1067&utm_source=git)** | Lexington, KY 40507, United States | On Site | Sep 29 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abe27498ff3fb9b3bc72dd2?utm_campaign=1067&utm_source=git)** | Lexington, KY 40507, United States | On Site | Sep 29 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Sep 29 |
 | **[Popular](https://www.popular.com)** | **[Business Specialized Summer Internship 2027](https://jobright.ai/jobs/info/6abc966862033c231d7811b1?utm_campaign=1067&utm_source=git)** | San Juan, PR, United States | On Site | Sep 29 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Digital Technology Business Analyst Intern](https://jobright.ai/jobs/info/6aaa03af09ae03adcace0b82?utm_campaign=1067&utm_source=git)** | Frederick, MD, United States | On Site | Sep 29 |
