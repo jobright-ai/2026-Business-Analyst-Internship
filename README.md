@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
-| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Oct 06 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
 | **[Primient](https://primient.com)** | **[Continuous Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6ac41c73372c01f6cd73409e?utm_campaign=1067&utm_source=git)** | Decatur, IL, United States | On Site | Oct 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analytics, Customer Response Center (CRC) - Winter 2027](https://jobright.ai/jobs/info/6ac3d6c64ac55253f5d6f61f?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, H4S 2A3, Canada | Hybrid | Oct 05 |
 | **[Travere Therapeutics](https://travere.com/)** | **[Commercial Insights & Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac3eee40e027c0f3b3a8430?utm_campaign=1067&utm_source=git)** | San Diego Metropolitan Area, United States | Hybrid | Oct 05 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Systems Analyst (Enterprise Portfolio Management Office)](https://jobright.ai/jobs/info/6ac02d2e064da25272e08351?utm_campaign=1067&utm_source=git)** | Midvale, UT, United States | On Site | Oct 02 |
 | **[SERVPRO](http://servpro.com)** | **[IT Business Analyst & Project Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aac2fec3d96632d741a9ae0?utm_campaign=1067&utm_source=git)** | Gallatin, TN, United States | On Site | Oct 02 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6ac001e0064da25272e073b7?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Oct 02 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abf77ad4ac55253f5d64fb5?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 02 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 02 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 02 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abf77ad4ac55253f5d64fb5?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 02 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6abfc83c8ff3fb9b3bc78c23?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2027 Summer Internship - Analyst](https://jobright.ai/jobs/info/6aa399925c11cce360365105?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Oct 02 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer Internship 2027 - Information Systems Business Analyst](https://jobright.ai/jobs/info/6abfe0cd064da25272e065de?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 02 |
@@ -125,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6aaabbf0f6bd9d2d17c1915d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 30 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Business Solutions Intern (Remote)](https://jobright.ai/jobs/info/6abcfc51d9621c5b283898ed?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 30 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
-| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
+| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abd728a0e027c0f3b395b08?utm_campaign=1067&utm_source=git)** | Lexington, KY, United States | On Site | Sep 30 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Sep 30 |
@@ -143,6 +144,4 @@ For a complete list, click the following sortable link below:
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[IT Business Analyst Student, Halifax – Winter 2027](https://jobright.ai/jobs/info/6ab55a1d4873fd3fd852923b?utm_campaign=1067&utm_source=git)** | Dartmouth, NS, Canada | On Site | Sep 29 |
 | **[Duravant](http://www.duravant.com/)** | **[AI & Business Operations Intern](https://jobright.ai/jobs/info/6abbead67119e56191cea06d?utm_campaign=1067&utm_source=git)** | Montgomery, AL, United States | On Site | Sep 29 |
 | **[Titan America](http://www.titanamerica.com/)** | **[Digitalization Intern](https://jobright.ai/jobs/info/6abbf9abb23c6fb2b81a4455?utm_campaign=1067&utm_source=git)** | Troutville, VA, United States | On Site | Sep 29 |
-| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/6abbba693217d1d13329aabf?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Sep 29 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
