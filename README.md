@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
+| ↳ | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Oct 06 |
 | **[Enact Mortgage Insurance](https://enactmi.com)** | **[Business Transformation Intern](https://jobright.ai/jobs/info/6aa823ba82e82a31997c40e2?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | Hybrid | Oct 06 |
 | **[Robinhood](https://www.robinhood.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec922ed333b4ea5cc5fd?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 06 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Oct 06 |
 | **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
 | ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern - San Diego CA](https://jobright.ai/jobs/info/6ac52f418ff3fb9b3bc88222?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst , Intern - Winter 2027](https://jobright.ai/jobs/info/6ac5270a0e027c0f3b3ad2b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 05 |
 | **[Primient](https://primient.com)** | **[Continuous Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6ac41c73372c01f6cd73409e?utm_campaign=1067&utm_source=git)** | Decatur, IL, United States | On Site | Oct 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analytics, Customer Response Center (CRC) - Winter 2027](https://jobright.ai/jobs/info/6ac3d6c64ac55253f5d6f61f?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, H4S 2A3, Canada | Hybrid | Oct 05 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6aaabbf0f6bd9d2d17c1915d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 30 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Business Solutions Intern (Remote)](https://jobright.ai/jobs/info/6abcfc51d9621c5b283898ed?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 30 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
-| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
+| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abd728a0e027c0f3b395b08?utm_campaign=1067&utm_source=git)** | Lexington, KY, United States | On Site | Sep 30 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Sep 30 |
@@ -142,6 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 30 |
 | **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6abccbde8ff3fb9b3bc6d959?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Sep 30 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abe27498ff3fb9b3bc72dd2?utm_campaign=1067&utm_source=git)** | Lexington, KY 40507, United States | On Site | Sep 29 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abe274a372c01f6cd722b2c?utm_campaign=1067&utm_source=git)** | Lexington, KY 40507, United States | On Site | Sep 29 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
