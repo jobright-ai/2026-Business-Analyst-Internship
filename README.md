@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
-| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
 | **[Primient](https://primient.com)** | **[Continuous Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6ac41c73372c01f6cd73409e?utm_campaign=1067&utm_source=git)** | Decatur, IL, United States | On Site | Oct 05 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analytics, Customer Response Center (CRC) - Winter 2027](https://jobright.ai/jobs/info/6ac3d6c64ac55253f5d6f61f?utm_campaign=1067&utm_source=git)** | Dorval, Quebec, H4S 2A3, Canada | Hybrid | Oct 05 |
 | **[Travere Therapeutics](https://travere.com/)** | **[Commercial Insights & Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac3eee40e027c0f3b3a8430?utm_campaign=1067&utm_source=git)** | San Diego Metropolitan Area, United States | Hybrid | Oct 05 |
@@ -125,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6aaabbf0f6bd9d2d17c1915d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 30 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Business Solutions Intern (Remote)](https://jobright.ai/jobs/info/6abcfc51d9621c5b283898ed?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 30 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
-| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
+| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
 | **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abd728a0e027c0f3b395b08?utm_campaign=1067&utm_source=git)** | Lexington, KY, United States | On Site | Sep 30 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Sep 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Sep 30 |
@@ -135,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 30 |
 | **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6abccbde8ff3fb9b3bc6d959?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Sep 30 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
-| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abe27498ff3fb9b3bc72dd2?utm_campaign=1067&utm_source=git)** | Lexington, KY 40507, United States | On Site | Sep 29 |
+| **[PPL Corporation](https://www.pplweb.com/)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abe274a372c01f6cd722b2c?utm_campaign=1067&utm_source=git)** | Lexington, KY 40507, United States | On Site | Sep 29 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Sep 29 |
 | **[Popular](https://www.popular.com)** | **[Business Specialized Summer Internship 2027](https://jobright.ai/jobs/info/6abc966862033c231d7811b1?utm_campaign=1067&utm_source=git)** | San Juan, PR, United States | On Site | Sep 29 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Digital Technology Business Analyst Intern](https://jobright.ai/jobs/info/6aaa03af09ae03adcace0b82?utm_campaign=1067&utm_source=git)** | Frederick, MD, United States | On Site | Sep 29 |
@@ -145,6 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Titan America](http://www.titanamerica.com/)** | **[Digitalization Intern](https://jobright.ai/jobs/info/6abbf9abb23c6fb2b81a4455?utm_campaign=1067&utm_source=git)** | Troutville, VA, United States | On Site | Sep 29 |
 | **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/6abbba693217d1d13329aabf?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Sep 29 |
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Sep 29 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/6abbc67492b2612ef0f8ab7f?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Sep 29 |
-| **[Activate Consulting](http://www.activate.com)** | **[2027 Summer Business Analyst](https://jobright.ai/jobs/info/6a96d609246d697dcee016da?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
