@@ -141,7 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst](https://jobright.ai/jobs/info/6aaabbf0f6bd9d2d17c1915d?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Sep 30 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Business Solutions Intern (Remote)](https://jobright.ai/jobs/info/6abcfc51d9621c5b283898ed?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Sep 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 30 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[PPI Business Intern](https://jobright.ai/jobs/info/6a9f5a87dacf777321a94b59?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
-| ↳ | **[PPI Business Intern](https://jobright.ai/jobs/info/6ab1db41d2a93d5a97ebd0de?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Sep 30 |
-| **[PPL Electric Utilities](https://pplelectric.com)** | **[R&D Business Intern - Spring 2027](https://jobright.ai/jobs/info/6abd728a0e027c0f3b395b08?utm_campaign=1067&utm_source=git)** | Lexington, KY, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
