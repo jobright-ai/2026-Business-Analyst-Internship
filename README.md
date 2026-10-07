@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Talcott Financial Group](https://talcott.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6ac5581c8ff3fb9b3bc8931c?utm_campaign=1067&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 06 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT SCM Business Analyst Intern](https://jobright.ai/jobs/info/6ac58014372c01f6cd73a17b?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 06 |
+| **[Talcott Financial Group](https://talcott.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6ac5581c8ff3fb9b3bc8931c?utm_campaign=1067&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 06 |
+| **[NKSFB](https://dwabiz.com)** | **[Summer 2027 Business Management Internship](https://jobright.ai/jobs/info/6aa1889a500b01124c77d1f2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
 | **[SEMI](http://semi.org/)** | **[Intern, Business Systems](https://jobright.ai/jobs/info/6ac5707e372c01f6cd739b4a?utm_campaign=1067&utm_source=git)** | Milpitas, CA, United States | On Site | Oct 06 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales & CRM Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ababeff1acb8fc6f09c14b1?utm_campaign=1067&utm_source=git)** | Farmington, CT, United States | Hybrid | Oct 06 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ac550020e027c0f3b3ae4e5?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA, United States | Remote | Oct 06 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Covestro](https://www.covestro.com)** | **[Business Internship](https://jobright.ai/jobs/info/6aa86b202ed333b4ea5cf556?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 06 |
 | **[Athene](https://www.athene.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6aa84df9a77a53f5a15788b7?utm_campaign=1067&utm_source=git)** | West Des Moines, IA, United States | On Site | Oct 06 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Oct 06 |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
-| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern - San Diego CA](https://jobright.ai/jobs/info/6ac52f418ff3fb9b3bc88222?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst , Intern - Winter 2027](https://jobright.ai/jobs/info/6ac5270a0e027c0f3b3ad2b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 05 |
 | **[Primient](https://primient.com)** | **[Continuous Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6ac41c73372c01f6cd73409e?utm_campaign=1067&utm_source=git)** | Decatur, IL, United States | On Site | Oct 05 |
@@ -124,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Group](http://www.bsh-group.com/)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/6abe8c9d064da25272e016bc?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 01 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 01 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Oct 01 |
-| **[NKSFB](https://dwabiz.com)** | **[Summer 2027 Business Management Internship](https://jobright.ai/jobs/info/6aa1889a500b01124c77d1f2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Business Management Intern Job Details / My Career Site](https://jobright.ai/jobs/info/6abe592f064da25272e004d6?utm_campaign=1067&utm_source=git)** | Placerville, CA, United States | On Site | Oct 01 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '27 Intern - Business Insights](https://jobright.ai/jobs/info/6aa17c6c2f936e4a53dabe61?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 01 |
 | **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Oct 01 |
