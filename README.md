@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Business Innovation & AI Products Intern](https://jobright.ai/jobs/info/6aa9e43328e24cb38513d0bf?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 07 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/6ac617700e027c0f3b3b1170?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Oct 07 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT SCM Business Analyst Intern](https://jobright.ai/jobs/info/6ac58014372c01f6cd73a17b?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 06 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales & CRM Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ababeff1acb8fc6f09c14b1?utm_campaign=1067&utm_source=git)** | Farmington, CT, United States | Hybrid | Oct 06 |
 | **[Cambridge International Systems, Inc.](https://cbridgeinc.com/)** | **[Business Writing Intern – Remote](https://jobright.ai/jobs/info/6ac550020e027c0f3b3ae4e5?utm_campaign=1067&utm_source=git)** | Virginia Beach, VA, United States | Remote | Oct 06 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/6ac53fafd9621c5b283a411c?utm_campaign=1067&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 06 |
-| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 06 |
-| ↳ | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 06 |
+| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 06 |
+| ↳ | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 06 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
 | ↳ | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
 | **[State Farm](https://www.statefarm.com)** | **[Summer 2027 Intern - Agency Services - Business Analyst-Agency](https://jobright.ai/jobs/info/6ab1a6db191d8c340dbdc232?utm_campaign=1067&utm_source=git)** | Bloomington, IL, United States | Hybrid | Oct 06 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Systems Analyst (Enterprise Portfolio Management Office)](https://jobright.ai/jobs/info/6ac02d2e064da25272e08351?utm_campaign=1067&utm_source=git)** | Midvale, UT, United States | On Site | Oct 02 |
 | **[SERVPRO](http://servpro.com)** | **[IT Business Analyst & Project Management Intern - Summer 2027](https://jobright.ai/jobs/info/6aac2fec3d96632d741a9ae0?utm_campaign=1067&utm_source=git)** | Gallatin, TN, United States | On Site | Oct 02 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6ac001e0064da25272e073b7?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Oct 02 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 02 |
-| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abf77ad4ac55253f5d64fb5?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 02 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abf77ad4ac55253f5d64fb5?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 02 |
+| ↳ | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6ab3234b1e4847ddae9185d0?utm_campaign=1067&utm_source=git)** | Greenwood Village, CO, United States | On Site | Oct 02 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6abfc83c8ff3fb9b3bc78c23?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Hybrid | Oct 02 |
 | **[Costa Farms](http://www.costafarms.com)** | **[2027 Summer Internship - Analyst](https://jobright.ai/jobs/info/6aa399925c11cce360365105?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Oct 02 |
 | **[Election Systems & Software](http://www.essvote.com/)** | **[Summer Internship 2027 - Information Systems Business Analyst](https://jobright.ai/jobs/info/6abfe0cd064da25272e065de?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 02 |
