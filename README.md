@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern - San Diego CA](https://jobright.ai/jobs/info/6ac52f418ff3fb9b3bc88222?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 07 |
 | **[Kearney](https://www.kearney.com/)** | **[PERLab Summer Business Analyst Intern 2027](https://jobright.ai/jobs/info/6ac702c20e027c0f3b3b51bd?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 07 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Supply Chain - AI Business Analyst Intern - AZEK Job Details / James Hardie](https://jobright.ai/jobs/info/6ab325781508734c1530dd5c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Oct 07 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ac6a8bb064da25272e1bacd?utm_campaign=1067&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 07 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Transformation (Milwaukee, WI Summer 2027)](https://jobright.ai/jobs/info/6ac6868d8ff3fb9b3bc8d91c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 07 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst , Intern - Winter 2027](https://jobright.ai/jobs/info/6ac5270a0e027c0f3b3ad2b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 07 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa96ecb3387a3d9b67d5230?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97d8109ae03adcacdd8ef?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
 | **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Oct 07 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 07 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1422fd2a93d5a97eb9804?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Oct 06 |
 | **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
 | ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern - San Diego CA](https://jobright.ai/jobs/info/6ac52f418ff3fb9b3bc88222?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 | **[American Family Insurance](http://www.amfam.com)** | **[Summer 2027 Intern - Business Analyst](https://jobright.ai/jobs/info/6ac5b2644ac55253f5d77f28?utm_campaign=1067&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 05 |
 | **[Primient](https://primient.com)** | **[Continuous Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6ac41c73372c01f6cd73409e?utm_campaign=1067&utm_source=git)** | Decatur, IL, United States | On Site | Oct 05 |
 | **[Travere Therapeutics](https://travere.com/)** | **[Commercial Insights & Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac3eee40e027c0f3b3a8430?utm_campaign=1067&utm_source=git)** | San Diego Metropolitan Area, United States | Hybrid | Oct 05 |
