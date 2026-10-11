@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 SF Fed Summer Internship - BUSINESS ANALYST Intern](https://jobright.ai/jobs/info/6aa7734ba77a53f5a1575596?utm_campaign=1067&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 05 |
 | **[EOSYS](https://eosysgroup.com)** | **[Summer Business Analyst (Intern) - ATL/CHI/NYC](https://jobright.ai/jobs/info/6a8c8e751d96e6541c8c1922?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 05 |
 | **[Vulcan](http://www.vulcanequipment.com)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af4a064da25272e0ec02?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 05 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business Systems Analyst Intern](https://jobright.ai/jobs/info/6ac3dd65372c01f6cd73294e?utm_campaign=1067&utm_source=git)** | Bedford, NH, United States | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
