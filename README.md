@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec922ed333b4ea5cc5fd?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | On Site | Oct 12 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6accdafde7a1d9333210ed01?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 12 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6acccc07d113c967e3c7ac35?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Oct 12 |
 | ↳ | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6acccbd5002e496d4beef28d?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 12 |
 | **[HSBC](http://www.hsbc.com)** | **[Business Analyst - Operations - Internship](https://jobright.ai/jobs/info/6acc31aed113c967e3c79b31?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 12 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Ededge Groups](https://www.ededgelearning.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6acc686dddd23cce28a0e9d0?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6aac27f63dbb1f8967ce9147?utm_campaign=1067&utm_source=git)** | Arlington, TX, United States | Hybrid | Oct 11 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 10 |
-| **[Robinhood](https://www.robinhood.com)** | **[Business Analyst Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa7ec922ed333b4ea5cc5fd?utm_campaign=1067&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 10 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Business Analytics & Digital Transformation Summer Internship Job Details / New York Life Insurance Co](https://jobright.ai/jobs/info/6acaa3cf3c831dc4086bc5fd?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 10 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Oct 10 |
@@ -97,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Transformation (Milwaukee, WI Summer 2027)](https://jobright.ai/jobs/info/6ac6868d8ff3fb9b3bc8d91c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 07 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst , Intern - Winter 2027](https://jobright.ai/jobs/info/6ac5270a0e027c0f3b3ad2b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 07 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9944409ae03adcacde148?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97d8109ae03adcacdd8ef?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
 | **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Oct 07 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 07 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1422fd2a93d5a97eb9804?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Vylor](https://www.vylor.com/en/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa85fc5930bff471a2a6f25?utm_campaign=1067&utm_source=git)** | Johnston, IA, United States | On Site | Oct 06 |
 | **[Covestro](https://www.covestro.com)** | **[Business Internship](https://jobright.ai/jobs/info/6aa86b202ed333b4ea5cf556?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 06 |
 | **[Freddie Mac](https://www.freddiemac.com/)** | **[Single-Family Business Intern- Summer 2027](https://jobright.ai/jobs/info/6a8c9015581f2d7bfdfe4659?utm_campaign=1067&utm_source=git)** | McLean, VA, United States | On Site | Oct 06 |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
-| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
+| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 05 |
 | **[American Family Insurance](http://www.amfam.com)** | **[Summer 2027 Intern - Business Analyst](https://jobright.ai/jobs/info/6ac5b2644ac55253f5d77f28?utm_campaign=1067&utm_source=git)** | Madison, WI, United States | Hybrid | Oct 05 |
 | **[Primient](https://primient.com)** | **[Continuous Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6ac41c73372c01f6cd73409e?utm_campaign=1067&utm_source=git)** | Decatur, IL, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
