@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 13 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab6fc103a2ec87116e24eb4?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 13 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6abbc6243217d1d13329af0a?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 13 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Summer Business Analyst](https://jobright.ai/jobs/info/6a96d609246d697dcee016da?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Oct 13 |
 | **[ADT](http://www.adt.com)** | **[IT Strategy, Business Analysis & Project Delivery Internship](https://jobright.ai/jobs/info/6acd243a002e496d4bef0d9a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Oct 12 |
 | **[The Toro Company](https://www.toro.com.au/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 12 |
+| **[Ditch Witch](https://ditchwitchworx.com/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace6b0a4f3229123da3beef?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration Intern](https://jobright.ai/jobs/info/6acd62463c831dc4086c212d?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Oct 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6acd4fa13c831dc4086c1b1e?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Oct 12 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern - Business Generalist](https://jobright.ai/jobs/info/6ac33c0a8ff3fb9b3bc80cf6?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Oct 12 |
