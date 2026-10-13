@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ace4545bb78de94580d51e9?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab6fc103a2ec87116e24eb4?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 13 |
 | **[ADT](http://www.adt.com)** | **[IT Strategy, Business Analysis & Project Delivery Internship](https://jobright.ai/jobs/info/6acd243a002e496d4bef0d9a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Oct 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration Intern](https://jobright.ai/jobs/info/6acd62463c831dc4086c212d?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Oct 12 |
@@ -101,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Transformation (Milwaukee, WI Summer 2027)](https://jobright.ai/jobs/info/6ac6868d8ff3fb9b3bc8d91c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 07 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
 | **[McKesson](http://www.mckesson.com)** | **[Business Analyst , Intern - Winter 2027](https://jobright.ai/jobs/info/6ac5270a0e027c0f3b3ad2b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 07 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9944409ae03adcacde148?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa99c2e3387a3d9b67d5d79?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
 | **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Oct 07 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 07 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1422fd2a93d5a97eb9804?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 07 |
@@ -112,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[C&S Wholesale Grocers](http://www.cswg.com)** | **[IS Internship - Business Applications](https://jobright.ai/jobs/info/6ac6c75a4ac55253f5d7c11e?utm_campaign=1067&utm_source=git)** | Keene, NH, United States | Hybrid | Oct 06 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT SCM Business Analyst Intern](https://jobright.ai/jobs/info/6ac58014372c01f6cd73a17b?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 06 |
 | **[Talcott Financial Group](https://talcott.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6ac5581c8ff3fb9b3bc8931c?utm_campaign=1067&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 06 |
-| **[NKSFB](https://dwabiz.com)** | **[Summer 2027 Business Management Internship](https://jobright.ai/jobs/info/6aa1889a500b01124c77d1f2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
