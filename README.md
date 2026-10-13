@@ -115,8 +115,4 @@ For a complete list, click the following sortable link below:
 | **[NKSFB](https://dwabiz.com)** | **[Summer 2027 Business Management Internship](https://jobright.ai/jobs/info/6aa1889a500b01124c77d1f2?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 06 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Sales & CRM Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ababeff1acb8fc6f09c14b1?utm_campaign=1067&utm_source=git)** | Farmington, CT, United States | Hybrid | Oct 06 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Business Analyst](https://jobright.ai/jobs/info/6ac53fafd9621c5b283a411c?utm_campaign=1067&utm_source=git)** | Ottawa, ON, Canada | Hybrid | Oct 06 |
-| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 06 |
-| ↳ | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 06 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Transformation Intern - MN, CO](https://jobright.ai/jobs/info/6aa873642ed333b4ea5cf898?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
-| ↳ | **[Residential Energy Product Strategy Intern - MN, WI](https://jobright.ai/jobs/info/6aa84925930bff471a2a651b?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
