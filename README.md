@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Oct 14 |
+| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 14 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[ServiceNow Business Analyst Intern](https://jobright.ai/jobs/info/6acdb6bc77057049843fffae?utm_campaign=1067&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Oct 14 |
 | **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ab2f30830340229a3230914?utm_campaign=1067&utm_source=git)** | Hazelwood, MO, United States | Hybrid | Oct 14 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 14 |
