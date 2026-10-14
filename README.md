@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[ServiceNow Business Analyst Intern](https://jobright.ai/jobs/info/6acdb6bc77057049843fffae?utm_campaign=1067&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Oct 14 |
+| **[bioMérieux](https://www.biomerieux.it)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ab2f30830340229a3230914?utm_campaign=1067&utm_source=git)** | Hazelwood, MO, United States | Hybrid | Oct 14 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 14 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Business and Data Analyst (Full time, Paid Intern) - Special Projects Department](https://jobright.ai/jobs/info/6ace7a13bb78de94580d63bf?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analysis (Supplier Relations), Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ace73824391691a335ac90f?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6acccc07d113c967e3c7ac35?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Oct 12 |
 | **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Summer Business Analyst Intern](https://jobright.ai/jobs/info/6abbba693217d1d13329aabf?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Oct 12 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6acefcb3ba99f15ef412775b?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 11 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[ServiceNow Business Analyst Intern](https://jobright.ai/jobs/info/6acdb6bc77057049843fffae?utm_campaign=1067&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Oct 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/6aac27f63dbb1f8967ce9147?utm_campaign=1067&utm_source=git)** | Arlington, TX, United States | Hybrid | Oct 11 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aaab743f6bd9d2d17c18e3f?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Oct 10 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Oct 10 |
@@ -105,8 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Intern Business Management](https://jobright.ai/jobs/info/6ac7a4a8fcdafb60c6a44de1?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 07 |
 | **[CAI](https://cai.io/)** | **[Business Tech Intern](https://jobright.ai/jobs/info/6aa8991da77a53f5a157a26c?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 07 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ac6a8bb064da25272e1bacd?utm_campaign=1067&utm_source=git)** | Santa Clara, CA, United States | On Site | Oct 07 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Business Transformation (Milwaukee, WI Summer 2027)](https://jobright.ai/jobs/info/6ac6868d8ff3fb9b3bc8d91c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Oct 07 |
-| **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
-| **[McKesson](http://www.mckesson.com)** | **[Business Analyst , Intern - Winter 2027](https://jobright.ai/jobs/info/6ac5270a0e027c0f3b3ad2b1?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 07 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9944409ae03adcacde148?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
