@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6aaaf18f8e1bf0f764af7719?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Oct 14 |
+| **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 14 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Oct 14 |
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Platform Analyst](https://jobright.ai/jobs/info/6ab2a66e1508734c1530ae08?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 14 |
 | **[Celina Insurance Group](http://celinainsurance.com)** | **[Business Analyst Intern - On site - Summer 2027](https://jobright.ai/jobs/info/6acfac66c0dd9da253cf3dd7?utm_campaign=1067&utm_source=git)** | Celina, OH, United States | On Site | Oct 14 |
@@ -67,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[CHS Inc.](https://www.chsinc.com)** | **[ServiceNow Business Analyst Intern](https://jobright.ai/jobs/info/6acdb6bc77057049843fffae?utm_campaign=1067&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Oct 14 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 14 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Business and Data Analyst (Full time, Paid Intern) - Special Projects Department](https://jobright.ai/jobs/info/6ace7a13bb78de94580d63bf?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 13 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Business Analyst Intern](https://jobright.ai/jobs/info/6acfc71212303667b98a038b?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | Hybrid | Oct 13 |
+| **[American Bankers Association](http://www.aba.com)** | **[Intern, Salesforce Business Analyst](https://jobright.ai/jobs/info/6acfc10f2cc4e9d17e90a317?utm_campaign=1067&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 13 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Data Analysis (Supplier Relations), Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/6ace73824391691a335ac90f?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 13 |
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Columbus, OH](https://jobright.ai/jobs/info/6ac7a4a7fe8f33a85d4fc4a3?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Oct 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 13 |
