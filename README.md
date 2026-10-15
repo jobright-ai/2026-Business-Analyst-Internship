@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Veltrana Group](veltranagroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad0f871ae21edea94fd241f?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Oct 15 |
+| **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 15 |
 | **[CACI International Inc](https://www.caci.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfd09a064da25272e05f45?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 15 |
 | ↳ | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6abfff6ad9621c5b28395bef?utm_campaign=1067&utm_source=git)** | Ashburn, VA, United States | Hybrid | Oct 15 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Winter/Spring 2027 Internship](https://jobright.ai/jobs/info/6a96ced0e4e60e4b8da5a09f?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Oct 15 |
