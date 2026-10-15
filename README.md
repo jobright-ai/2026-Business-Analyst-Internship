@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 14 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[IT Intern - IT Strategy, Governance and Innovation (2027)](https://jobright.ai/jobs/info/6acfee45c9f40bec907fefda?utm_campaign=1067&utm_source=git)** | Libertyville, IL, United States | Hybrid | Oct 14 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 14 |
-| **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 14 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 14 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Salesforce Business Analyst](https://jobright.ai/jobs/info/6acfc10f2cc4e9d17e90a317?utm_campaign=1067&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 14 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 14 |
@@ -67,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Platform Analyst](https://jobright.ai/jobs/info/6ab2a66e1508734c1530ae08?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 14 |
 | **[Celina Insurance Group](http://celinainsurance.com)** | **[Business Analyst Intern - On site - Summer 2027](https://jobright.ai/jobs/info/6acfac66c0dd9da253cf3dd7?utm_campaign=1067&utm_source=git)** | Celina, OH, United States | On Site | Oct 14 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Summer 2027 Business Optimization Internship](https://jobright.ai/jobs/info/6acf9107fe7a9bd5a6b98a64?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 14 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 14 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 14 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Oct 14 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 14 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[ServiceNow Business Analyst Intern](https://jobright.ai/jobs/info/6acdb6bc77057049843fffae?utm_campaign=1067&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Oct 14 |
