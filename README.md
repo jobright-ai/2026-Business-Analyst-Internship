@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984af0def18223c854e7cb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 15 |
+| **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - OPS Business Analyst](https://jobright.ai/jobs/info/6a8dfddca5639a4810328ed8?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | Hybrid | Oct 15 |
+| ↳ | **[Intern - OPS Business Analyst](https://jobright.ai/jobs/info/6a8df47125fc4e7ae3dbec9b?utm_campaign=1067&utm_source=git)** | Worcester, MA, United States | On Site | Oct 15 |
 | **[The Toro Company](https://www.toro.com.au/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ad05bb2614121de7d947142?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 14 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 14 |
@@ -69,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Platform Analyst](https://jobright.ai/jobs/info/6ab2a66e1508734c1530ae08?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 14 |
 | **[Celina Insurance Group](http://celinainsurance.com)** | **[Business Analyst Intern - On site - Summer 2027](https://jobright.ai/jobs/info/6acfac66c0dd9da253cf3dd7?utm_campaign=1067&utm_source=git)** | Celina, OH, United States | On Site | Oct 14 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Summer 2027 Business Optimization Internship](https://jobright.ai/jobs/info/6acf9107fe7a9bd5a6b98a64?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 14 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 14 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 14 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Oct 14 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 14 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[ServiceNow Business Analyst Intern](https://jobright.ai/jobs/info/6acdb6bc77057049843fffae?utm_campaign=1067&utm_source=git)** | Saint Paul, MN, United States | Hybrid | Oct 14 |
@@ -108,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[NYSTRS](https://www.nystrs.org)** | **[Business Analysis Intern](https://jobright.ai/jobs/info/6ac8f4bdaf788e6ad3b590e0?utm_campaign=1067&utm_source=git)** | Albany, New York, United States | Hybrid | Oct 08 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Richmond, VA](https://jobright.ai/jobs/info/6ac9448ffe8f33a85d503118?utm_campaign=1067&utm_source=git)** | Richmond, Virginia, United States | On Site | Oct 08 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2027 Business Analytics Intern](https://jobright.ai/jobs/info/6ac7ad54a444ac5d36f852bb?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 08 |
-| **[Wawa, Inc.](https://www.wawa.com)** | **[Fuel Internship](https://jobright.ai/jobs/info/6ac7ca39fcdafb60c6a45c19?utm_campaign=1067&utm_source=git)** | Media, PA, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
