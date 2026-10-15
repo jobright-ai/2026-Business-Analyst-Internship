@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.toro.com.au/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ad05bb2614121de7d947142?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 14 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 14 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[IT Intern - IT Strategy, Governance and Innovation (2027)](https://jobright.ai/jobs/info/6acfee45c9f40bec907fefda?utm_campaign=1067&utm_source=git)** | Libertyville, IL, United States | Hybrid | Oct 14 |
@@ -82,9 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 13 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6abbc6243217d1d13329af0a?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 13 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Oct 13 |
-| **[Geronimo Power](https://www.geronimopower.com)** | **[Asset Management Performance Analyst Intern](https://jobright.ai/jobs/info/6ace839d680c80c8753bd454?utm_campaign=1067&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 13 |
+| **[Geronimo Power](https://www.geronimopower.com)** | **[Asset Management Performance Analyst Intern](https://jobright.ai/jobs/info/6ace818abb78de94580d698a?utm_campaign=1067&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 13 |
 | **[ADT](http://www.adt.com)** | **[IT Strategy, Business Analysis & Project Delivery Internship](https://jobright.ai/jobs/info/6acd243a002e496d4bef0d9a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Oct 12 |
-| **[The Toro Company](https://www.toro.com.au/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 12 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace6b0a4f3229123da3beef?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration Intern](https://jobright.ai/jobs/info/6acd62463c831dc4086c212d?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Oct 12 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6acd4fa13c831dc4086c1b1e?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Oct 12 |
