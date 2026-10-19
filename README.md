@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Reporting (Summer 2027)](https://jobright.ai/jobs/info/6ad5962ef04335fc70ede08b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 18 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad5412483ada13a9da0dd8c?utm_campaign=1067&utm_source=git)** | Kansas City, KS, United States | On Site | Oct 18 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Oct 18 |
@@ -71,10 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/6ab73c0cd7fde2c08ec8b4e0?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abb04a07220f52e62ae9476?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 17 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 16 |
-| **[TSP Talent](https://www.linkedin.com/company/109390681)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad2aaaef04335fc70ed6e7c?utm_campaign=1067&utm_source=git)** | Conshohocken, PA, United States | On Site | Oct 16 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Oct 16 |
-| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0d93c18608b6f36f7f3c5?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0e9b018608b6f36f7fd18?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0e9e0a4f99fef819402db?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | **[FreshCut Paper](https://freshcutpaper.com)** | **[Business Insights & Analytics Co-op / Intern (Jan 2027)](https://jobright.ai/jobs/info/6ad25a55f04335fc70ed5056?utm_campaign=1067&utm_source=git)** | Concord, Massachusetts, United States | Hybrid | Oct 16 |
 | **[CIBC](https://www.cibc.com)** | **[Global Markets, Business Management, Winter 2027 Co-op](https://jobright.ai/jobs/info/6ad23d06c4290cef1412931b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
@@ -119,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Geronimo Power](https://www.geronimopower.com)** | **[Asset Management Performance Analyst Intern](https://jobright.ai/jobs/info/6ace839d680c80c8753bd454?utm_campaign=1067&utm_source=git)** | Bloomington, MN, United States | On Site | Oct 13 |
 | **[ADT](http://www.adt.com)** | **[IT Strategy, Business Analysis & Project Delivery Internship](https://jobright.ai/jobs/info/6acd243a002e496d4bef0d9a?utm_campaign=1067&utm_source=git)** | Boca Raton, FL, United States | Hybrid | Oct 12 |
 | **[Ditch Witch](https://ditchwitchworx.com/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace6b0a4f3229123da3beef?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 12 |
-| **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration Intern](https://jobright.ai/jobs/info/6acd62463c831dc4086c212d?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Oct 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
