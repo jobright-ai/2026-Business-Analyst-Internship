@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Reporting (Summer 2027)](https://jobright.ai/jobs/info/6ad5962ef04335fc70ede08b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 18 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad5412483ada13a9da0dd8c?utm_campaign=1067&utm_source=git)** | Kansas City, KS, United States | On Site | Oct 18 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Oct 18 |
@@ -90,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[E.W. Wylie, LLC](http://wylietrucking.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad1130aa4f99fef819417c5?utm_campaign=1067&utm_source=git)** | Fargo, ND, United States | On Site | Oct 15 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 15 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3e9ead2f5fbd604be048b?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 15 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984b68dd171c7285791478?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 15 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Technology Business Analyst & Project Coordination](https://jobright.ai/jobs/info/6a984af0def18223c854e7cb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 15 |
 | **[The Toro Company](https://www.toro.com.au/)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Oct 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Technology Business Analyst Intern](https://jobright.ai/jobs/info/6ad05bb2614121de7d947142?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 14 |
 | **[Hollister Incorporated](https://www.hollister.com)** | **[IT Intern - IT Strategy, Governance and Innovation (2027)](https://jobright.ai/jobs/info/6acfee45c9f40bec907fefda?utm_campaign=1067&utm_source=git)** | Libertyville, IL, United States | Hybrid | Oct 14 |
