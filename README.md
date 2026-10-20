@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Veltrana Group](veltranagroup.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad6ff4e950ef68d5183dd0c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | Remote | Oct 19 |
+| **[Patriot Industrial Partners](https://patriotindustrialpartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad6d6a9e4b94611ab842059?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/6ab73c0cd7fde2c08ec8b4e0?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
 | **[CIBC](https://www.cibc.com)** | **[Business Systems Analyst Co-op (Winter 2027), Capital Markets Technology](https://jobright.ai/jobs/info/6ad6cedd67bec1d0d9c72058?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst - Customer Support in Fleet Operation (Winter 2027)](https://jobright.ai/jobs/info/6ad6bbc252aa6152bb6980dc?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Remote | Oct 19 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 16 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Oct 16 |
-| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0e9b018608b6f36f7fd18?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
-| ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0d937256e49282e650592?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0d93c18608b6f36f7f3c5?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0e9e0a4f99fef819402db?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | **[FreshCut Paper](https://freshcutpaper.com)** | **[Business Insights & Analytics Co-op / Intern (Jan 2027)](https://jobright.ai/jobs/info/6ad25a55f04335fc70ed5056?utm_campaign=1067&utm_source=git)** | Concord, Massachusetts, United States | Hybrid | Oct 16 |
 | **[CIBC](https://www.cibc.com)** | **[Global Markets, Business Management, Winter 2027 Co-op](https://jobright.ai/jobs/info/6ad23d06c4290cef1412931b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6ab586b9c6fe0dec811a1a04?utm_campaign=1067&utm_source=git)** | Dayton, OH, United States | On Site | Oct 16 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Business and Data Analyst (Full time, Paid Intern) - Special Projects Department](https://jobright.ai/jobs/info/6ace9ee5ba99f15ef4126032?utm_campaign=1067&utm_source=git)** | Salt Lake City, UT, United States | On Site | Oct 13 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 13 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6abbc6243217d1d13329af0a?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 13 |
-| **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
