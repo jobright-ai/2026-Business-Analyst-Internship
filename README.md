@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RoboNexis](joinrobonexis.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad7855b3dc655658d8ed0af?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 20 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aba99177220f52e62ae7215?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 20 |
 | **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abb7a01de8f79e12427532d?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Oct 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abb04a07220f52e62ae9476?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 20 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 16 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Oct 16 |
-| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0e9b018608b6f36f7fd18?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0d93c18608b6f36f7f3c5?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0d937256e49282e650592?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | **[FreshCut Paper](https://freshcutpaper.com)** | **[Business Insights & Analytics Co-op / Intern (Jan 2027)](https://jobright.ai/jobs/info/6ad25a55f04335fc70ed5056?utm_campaign=1067&utm_source=git)** | Concord, Massachusetts, United States | Hybrid | Oct 16 |
 | **[CIBC](https://www.cibc.com)** | **[Global Markets, Business Management, Winter 2027 Co-op](https://jobright.ai/jobs/info/6ad23d06c4290cef1412931b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
