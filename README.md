@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Supply Chain Business Analytics Intern](https://jobright.ai/jobs/info/6ad7d82554bbabbab0702f60?utm_campaign=1067&utm_source=git)** | Greater St. Louis | Remote | Oct 20 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 20 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aba99177220f52e62ae7215?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 20 |
@@ -66,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/6ab73c0cd7fde2c08ec8b4e0?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
 | **[CIBC](https://www.cibc.com)** | **[Business Systems Analyst Co-op (Winter 2027), Capital Markets Technology](https://jobright.ai/jobs/info/6ad6cedd67bec1d0d9c72058?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst - Customer Support in Fleet Operation (Winter 2027)](https://jobright.ai/jobs/info/6ad6bbc252aa6152bb6980dc?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Remote | Oct 19 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad78eba67bec1d0d9c764d5?utm_campaign=1067&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Oct 19 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[SIOP Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6ad6af5e67bec1d0d9c71562?utm_campaign=1067&utm_source=git)** | Tulsa Metropolitan Area, United States | On Site | Oct 19 |
 | **[Tokio Marine North America Services](https://tmnas.com)** | **[Business Analyst Intern - Hybrid, Bala Cynwyd, PA](https://jobright.ai/jobs/info/6ad7cc4454bbabbab07025c2?utm_campaign=1067&utm_source=git)** | Bala Cynwyd, PA, United States | Hybrid | Oct 19 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad78eba67bec1d0d9c764d5?utm_campaign=1067&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Oct 19 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Intern Business Management](https://jobright.ai/jobs/info/6ad7986d54bbabbab06fffd5?utm_campaign=1067&utm_source=git)** | Melbourne, FL, United States | On Site | Oct 19 |
 | **[First Insurance Company of Hawaii](https://www.ficoh.com/)** | **[Business Analyst Intern - Hybrid, Bala Cynwyd, PA](https://jobright.ai/jobs/info/6ad7d7a0e4b94611ab8496dd?utm_campaign=1067&utm_source=git)** | Bala Cynwyd, PA, United States | Hybrid | Oct 19 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad76fafe4b94611ab844f09?utm_campaign=1067&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Oct 19 |
@@ -94,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Oct 16 |
 | **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0e9b018608b6f36f7fd18?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
-| ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0d937256e49282e650592?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0e9e0a4f99fef819402db?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | **[FreshCut Paper](https://freshcutpaper.com)** | **[Business Insights & Analytics Co-op / Intern (Jan 2027)](https://jobright.ai/jobs/info/6ad25a55f04335fc70ed5056?utm_campaign=1067&utm_source=git)** | Concord, Massachusetts, United States | Hybrid | Oct 16 |
 | **[CIBC](https://www.cibc.com)** | **[Global Markets, Business Management, Winter 2027 Co-op](https://jobright.ai/jobs/info/6ad23d06c4290cef1412931b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6ab586b9c6fe0dec811a1a04?utm_campaign=1067&utm_source=git)** | Dayton, OH, United States | On Site | Oct 16 |
@@ -122,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Oct 14 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 14 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 14 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b7e9f9692ca98b04b8fc?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
