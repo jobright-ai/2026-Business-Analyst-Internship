@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad80b5b3dc655658d8f29b6?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Supply Chain Business Analytics Intern](https://jobright.ai/jobs/info/6ad7d82554bbabbab0702f60?utm_campaign=1067&utm_source=git)** | Greater St. Louis | Remote | Oct 20 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 16 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Oct 16 |
-| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0d93c18608b6f36f7f3c5?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
-| ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0e9e0a4f99fef819402db?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| **[Boeing](https://www.boeing.com)** | **[Analytics Business Operations Intern (Government Services)](https://jobright.ai/jobs/info/6ad0e9b018608b6f36f7fd18?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
+| ↳ | **[Analytics Business Operations Intern (Commercial Services)](https://jobright.ai/jobs/info/6ad0d937256e49282e650592?utm_campaign=1067&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Oct 16 |
 | **[FreshCut Paper](https://freshcutpaper.com)** | **[Business Insights & Analytics Co-op / Intern (Jan 2027)](https://jobright.ai/jobs/info/6ad25a55f04335fc70ed5056?utm_campaign=1067&utm_source=git)** | Concord, Massachusetts, United States | Hybrid | Oct 16 |
 | **[CIBC](https://www.cibc.com)** | **[Global Markets, Business Management, Winter 2027 Co-op](https://jobright.ai/jobs/info/6ad23d06c4290cef1412931b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 16 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6ab586b9c6fe0dec811a1a04?utm_campaign=1067&utm_source=git)** | Dayton, OH, United States | On Site | Oct 16 |
@@ -120,8 +121,7 @@ For a complete list, click the following sortable link below:
 | **[GuideStone Financial Resources](https://www.guidestone.org/)** | **[Summer Intern - Platform Analyst](https://jobright.ai/jobs/info/6ab2a66e1508734c1530ae08?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 14 |
 | **[Celina Insurance Group](http://celinainsurance.com)** | **[Business Analyst Intern - On site - Summer 2027](https://jobright.ai/jobs/info/6acfac66c0dd9da253cf3dd7?utm_campaign=1067&utm_source=git)** | Celina, OH, United States | On Site | Oct 14 |
 | **[Keeley Construction Group](https://www.keeleyconstruction.com/)** | **[Summer 2027 Business Optimization Internship](https://jobright.ai/jobs/info/6acf9107fe7a9bd5a6b98a64?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 14 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 14 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 14 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Oct 14 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6ab2b50c78c69ff506c4018e?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 14 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6a978e2b246d697dcee05c66?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
