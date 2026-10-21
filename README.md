@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ad8e158950ef68d5184af8c?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Oct 21 |
 | **[Grainger](https://www.grainger.com)** | **[Business Analyst Intern - Summer 2027 Job Details / Grainger Businesses](https://jobright.ai/jobs/info/6ad8b3ff950ef68d51849827?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | Hybrid | Oct 21 |
 | **[Duravant](http://www.duravant.com/)** | **[AI & Business Operations Intern](https://jobright.ai/jobs/info/6abbead67119e56191cea06d?utm_campaign=1067&utm_source=git)** | Montgomery, AL, United States | On Site | Oct 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abb04a07220f52e62ae9476?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 21 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6abbc67492b2612ef0f8ab7f?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
+| **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad8e19054bbabbab070982a?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 21 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad80b5c950ef68d5184666e?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7fafb67bec1d0d9c7b1a9?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 20 |
+| **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 20 |
+| ↳ | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ad8d9c3950ef68d5184ac5f?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 20 |
+| ↳ | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Oct 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Supply Chain Business Analytics Intern](https://jobright.ai/jobs/info/6ad7d82554bbabbab0702f60?utm_campaign=1067&utm_source=git)** | Greater St. Louis | Remote | Oct 20 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 20 |
