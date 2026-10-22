@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Oct 22 |
+| ↳ | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Oct 22 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6ad9b8d35ded0e353ea6a4d1?utm_campaign=1067&utm_source=git)** | Richardson, TX, United States | On Site | Oct 22 |
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6ad9b8d267bec1d0d9c87336?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 22 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 21 |
@@ -78,7 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad8e19054bbabbab070982a?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 21 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7f2d252aa6152bb6a1570?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad80b5c950ef68d5184666e?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 20 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern](https://jobright.ai/jobs/info/6ad928ff950ef68d5184ec0a?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 20 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6ad9289554bbabbab070d542?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Oct 20 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Baylor Scott & White Institute for Rehabilitation](https://www.bswrehab.com)** | **[2027 Summer Internship - IT Business Specialist Intern](https://jobright.ai/jobs/info/6ad6575b3dc655658d8e4e5d?utm_campaign=1067&utm_source=git)** | Mechanicsburg, PA, United States | On Site | Oct 19 |
 | **[Investment Management Corporation of Ontario (IMCO)](http://www.imcoinvest.com)** | **[Intern, Performance and Analytics, Reporting (Summer 2027)](https://jobright.ai/jobs/info/6ad5962ef04335fc70ede08b?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 19 |
 | ↳ | **[Intern, Performance and Analytics, Projects (Summer 2027)](https://jobright.ai/jobs/info/6ad6423252aa6152bb692fb5?utm_campaign=1067&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Oct 19 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6ad5412483ada13a9da0dd8c?utm_campaign=1067&utm_source=git)** | Kansas City, KS, United States | On Site | Oct 18 |
 | **[FlightSafety International](https://www.flightsafety.com/)** | **[SIOP Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6ad729a53dc655658d8eab9d?utm_campaign=1067&utm_source=git)** | Broken Arrow, OK, United States | On Site | Oct 18 |
 | **[CIBC](https://www.cibc.com)** | **[Business Systems Analyst Co-op (Winter 2027), Capital Markets Technology](https://jobright.ai/jobs/info/6ad6d25c54bbabbab06fb5c1?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 18 |
