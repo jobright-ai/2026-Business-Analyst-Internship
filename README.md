@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern Job Details / Gulfstream Aerospace Corporation](https://jobright.ai/jobs/info/6ad96109e4b94611ab8557fb?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 21 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Oct 21 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 21 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 21 |
@@ -75,8 +76,9 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad8e19054bbabbab070982a?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 21 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad80b5b3dc655658d8f29b6?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7fafb67bec1d0d9c7b1a9?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 20 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern](https://jobright.ai/jobs/info/6ad928ff950ef68d5184ec0a?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 20 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern- Minnesota](https://jobright.ai/jobs/info/6ad9289554bbabbab070d542?utm_campaign=1067&utm_source=git)** | Arden Hills, MN, United States | Hybrid | Oct 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Supply Chain Business Analytics Intern](https://jobright.ai/jobs/info/6ad7d82554bbabbab0702f60?utm_campaign=1067&utm_source=git)** | Greater St. Louis | Remote | Oct 20 |
