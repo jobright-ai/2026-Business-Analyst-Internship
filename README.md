@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/6adab69503d2da7528917acd?utm_campaign=1067&utm_source=git)** | Boise, ID, United States | On Site | Oct 23 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Oct 23 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Oct 23 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '27 Intern - Business Insights](https://jobright.ai/jobs/info/6aa17c6c2f936e4a53dabe61?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Oct 23 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6adb2b3c5dc7953215a31645?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 23 |
@@ -84,13 +87,12 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ada543e54bbabbab0714eca?utm_campaign=1067&utm_source=git)** | Beavercreek, OH, United States | On Site | Oct 21 |
 | ↳ | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ada544454bbabbab0714ecd?utm_campaign=1067&utm_source=git)** | Clearfield, UT, United States | On Site | Oct 21 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/6adab69503d2da7528917acd?utm_campaign=1067&utm_source=git)** | Boise, ID, United States | On Site | Oct 21 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Oct 21 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Oct 21 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 21 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 21 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 21 |
-| ↳ | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Oct 21 |
 | ↳ | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ad8d9c3950ef68d5184ac5f?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 21 |
+| ↳ | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Oct 21 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Business Analyst](https://jobright.ai/jobs/info/6ad9049354bbabbab070b5bd?utm_campaign=1067&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Oct 21 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 21 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ad8e158950ef68d5184af8c?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
