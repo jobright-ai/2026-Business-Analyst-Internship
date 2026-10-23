@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Oct 23 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6adb2b3c5dc7953215a31645?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abf77ad4ac55253f5d64fb5?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 23 |
 | **[Markondo](https://www.markondo.com)** | **[Business Operation Intern](https://jobright.ai/jobs/info/6adb0b4591f93f4b057163ac?utm_campaign=1067&utm_source=git)** | Surfside, FL, United States | On Site | Oct 23 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 21 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 21 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Oct 21 |
-| ↳ | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ad8d9c3950ef68d5184ac5f?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 21 |
 | ↳ | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Oct 21 |
+| ↳ | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ad8d9c3950ef68d5184ac5f?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 21 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2027 Summer Internship (US) - Business Analyst](https://jobright.ai/jobs/info/6ad9049354bbabbab070b5bd?utm_campaign=1067&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Oct 21 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 21 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ad8e158950ef68d5184af8c?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
@@ -101,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad8e19054bbabbab070982a?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 21 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7fb01e4b94611ab84ae2e?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7fafb67bec1d0d9c7b1a9?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 20 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern](https://jobright.ai/jobs/info/6ad928ff950ef68d5184ec0a?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
@@ -136,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9bccc3387a3d9b67d67b6?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | Hybrid | Oct 18 |
 | **[Presto](https://www.prestocharging.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad43d69ebd52f378af8d6a3?utm_campaign=1067&utm_source=git)** | San Mateo, CA, United States | Remote | Oct 17 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 16 |
-| **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
