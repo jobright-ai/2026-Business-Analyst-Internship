@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Encompass Health](http://www.encompasshealth.com/)** | **[Business Process Analyst- Intern](https://jobright.ai/jobs/info/6adbd369c5c64fa3d9cb1c36?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
 | **[Heli America](https://www.heliforkliftamerica.com)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6adbd4e646a8cabdc1ff5537?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| **[Encompass Health](http://www.encompasshealth.com/)** | **[Business Process Analyst- Intern](https://jobright.ai/jobs/info/6adbd36a389e06bb41ad4664?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
 | **[PROPWR](https://propwr.com)** | **[Business Optimization Intern](https://jobright.ai/jobs/info/6adba6af0a4cc7090f974099?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Oct 23 |
 | **[Emory Healthcare](http://www.emoryhealthcare.org/)** | **[Business Process Analyst- Intern](https://jobright.ai/jobs/info/6adbcecd389e06bb41ad45a3?utm_campaign=1067&utm_source=git)** | Land O' Lakes, FL, United States | On Site | Oct 23 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ad8e19054bbabbab070982a?utm_campaign=1067&utm_source=git)** | Beaver Falls, PA, United States | On Site | Oct 23 |
@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6ad9b8d267bec1d0d9c87336?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 22 |
 | **[MIT Lincoln Laboratory](http://www.ll.mit.edu)** | **[Business/Systems Analyst Co-Op, Compliance & Data (January - June 2027) - Group 16-40](https://jobright.ai/jobs/info/6ada6d5903d2da7528914f3b?utm_campaign=1067&utm_source=git)** | Lexington, MA, United States | On Site | Oct 21 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 21 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern Job Details / Gulfstream Aerospace Corporation](https://jobright.ai/jobs/info/6ad96109e4b94611ab8557fb?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 21 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ada543e54bbabbab0714eca?utm_campaign=1067&utm_source=git)** | Beavercreek, OH, United States | On Site | Oct 21 |
 | ↳ | **[2027 Business Management Intern](https://jobright.ai/jobs/info/6ada544454bbabbab0714ecd?utm_campaign=1067&utm_source=git)** | Clearfield, UT, United States | On Site | Oct 21 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Oct 21 |
@@ -116,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6abbc67492b2612ef0f8ab7f?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 21 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7f2d252aa6152bb6a1570?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad80b5b3dc655658d8f29b6?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Oct 20 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern](https://jobright.ai/jobs/info/6ad928ff950ef68d5184ec0a?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 20 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
