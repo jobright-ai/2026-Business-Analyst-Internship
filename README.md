@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Technology Intern](https://jobright.ai/jobs/info/6ae0292b065c4e77efafe372?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 26 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6adfd6d30a4cc7090f983bfe?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 26 |
 | **[Linde](https://www.linde.com/)** | **[2027 Business/ Information Technology Internship](https://jobright.ai/jobs/info/6adfcf9d065c4e77efafbc6a?utm_campaign=1067&utm_source=git)** | Tonawanda, NY, United States | On Site | Oct 26 |
 | ↳ | **[2027 Business/ Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 26 |
@@ -131,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Nasdaq](https://www.nasdaq.com)** | **[Business Analyst Intern - 2027 Summer Internship](https://jobright.ai/jobs/info/6ad8e158950ef68d5184af8c?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 21 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Oct 21 |
 | **[Duravant](http://www.duravant.com/)** | **[AI & Business Operations Intern](https://jobright.ai/jobs/info/6abbead67119e56191cea06d?utm_campaign=1067&utm_source=git)** | Montgomery, AL, United States | On Site | Oct 21 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern: Business Analyst](https://jobright.ai/jobs/info/6abb04a07220f52e62ae9476?utm_campaign=1067&utm_source=git)** | Sandy Springs, GA, United States | On Site | Oct 21 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6abbc67492b2612ef0f8ab7f?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a302fe1093df201d07affd0?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Oct 21 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 21 |
@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Oct 20 |
 | **[Advantage Solutions](https://advantagesolutions.net)** | **[Supply Chain Business Analytics Intern](https://jobright.ai/jobs/info/6ad7d82554bbabbab0702f60?utm_campaign=1067&utm_source=git)** | Greater St. Louis | Remote | Oct 20 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 20 |
-| **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Life Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aba99177220f52e62ae7215?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
