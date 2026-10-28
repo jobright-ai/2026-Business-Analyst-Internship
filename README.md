@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6ae12bae1f9d9308370a84c6?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
+| ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae1298e6679108488c419ad?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
+| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Administrator - Academic Part Time Intern](https://jobright.ai/jobs/info/6ae0e5b2de23f466ec8ba08e?utm_campaign=1067&utm_source=git)** | Pasadena, California, United States | On Site | Oct 27 |
 | **[Titan America](http://www.titanamerica.com/)** | **[Digitalization Intern](https://jobright.ai/jobs/info/6ae1136467c31ab3489a0570?utm_campaign=1067&utm_source=git)** | Troutville, VA, United States | On Site | Oct 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analytics, Customer Response Center (CRC) - Winter 2027](https://jobright.ai/jobs/info/6ae0f0c61f9d9308370a5e27?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 27 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Internship - IT Business Analyst Summer 2027](https://jobright.ai/jobs/info/6adf7b105dc7953215a3f3d4?utm_campaign=1067&utm_source=git)** | Muscatine, IA, United States | On Site | Oct 27 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - OAS Business Analyst](https://jobright.ai/jobs/info/6adfa3339a8c91d5c3587997?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 27 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Business Technology Intern](https://jobright.ai/jobs/info/6ae0292b065c4e77efafe372?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | On Site | Oct 26 |
-| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Administrator - Academic Part Time Intern](https://jobright.ai/jobs/info/6ae0e5b2de23f466ec8ba08e?utm_campaign=1067&utm_source=git)** | Pasadena, California, United States | On Site | Oct 26 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae11e4005a39c3e2c71034d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 26 |
 | **[BMO](http://www.bmo.com)** | **[Business Technology Analyst, Winter 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6ae10c8f6679108488c40748?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6adfd6d30a4cc7090f983bfe?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 26 |
