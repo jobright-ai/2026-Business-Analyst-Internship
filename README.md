@@ -57,13 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://jhannahco.com)** | **[2027 Summer Intern - Process Analyst](https://jobright.ai/jobs/info/6ae20e9dde23f466ec8c22fa?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | Hybrid | Oct 28 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae2306c6679108488c48b66?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 28 |
+| **[CACI International Inc](https://www.caci.com)** | **[International Business Intern - Spring 2027](https://jobright.ai/jobs/info/6ae227ad1f9d9308370aec84?utm_campaign=1067&utm_source=git)** | Norfolk, VA, United States | Hybrid | Oct 28 |
+| ↳ | **[International Business Intern - Spring 2027](https://jobright.ai/jobs/info/6ae22472829a3bada160183c?utm_campaign=1067&utm_source=git)** | Norfolk, VA, United States | Hybrid | Oct 28 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ac0783c4ac55253f5d6908b?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 28 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ab1422fd2a93d5a97eb9804?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[Textron](http://textron.com)** | **[2027 Summer Intern - Business Analyst - Johnson City, TN](https://jobright.ai/jobs/info/6a97eb65def18223c854cef1?utm_campaign=1067&utm_source=git)** | Piney Flats, TN, United States | On Site | Oct 28 |
-| **[State Farm](https://jhannahco.com)** | **[2027 Summer Intern - Process Analyst](https://jobright.ai/jobs/info/6ae20e9dde23f466ec8c22fa?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | Hybrid | Oct 28 |
 | **[Mutual Group](https://www.mutual.group)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae20787eb7e8f715a6093a2?utm_campaign=1067&utm_source=git)** | Westlake Village, CA, United States | On Site | Oct 28 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/6ac617700e027c0f3b3b1170?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT SCM Business Analyst Intern](https://jobright.ai/jobs/info/6ac58014372c01f6cd73a17b?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 28 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae11e4005a39c3e2c71034d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 27 |
+| **[McKesson](http://www.mckesson.com)** | **[Business Analyst Intern - Winter 2027](https://jobright.ai/jobs/info/6ae2223c6679108488c47dbd?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Oct 27 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae225ce1f9d9308370aea0e?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 27 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6ae1300e6679108488c41dab?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6ae12bae1f9d9308370a84c6?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae1298e6679108488c419ad?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
