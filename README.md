@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oceaneering](http://www.oceaneering.com/)** | **[IT SCM Business Analyst Intern](https://jobright.ai/jobs/info/6ac58014372c01f6cd73a17b?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 28 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae11e4005a39c3e2c71034d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 27 |
 | **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Process Integration Intern](https://jobright.ai/jobs/info/6ae1300e6679108488c41dab?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
 | ↳ | **[Sourcing Business Analyst Intern](https://jobright.ai/jobs/info/6ae12bae1f9d9308370a84c6?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
@@ -83,9 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/6ae00919065c4e77efafdb33?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 26 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Oct 26 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 26 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern Job Details / Gulfstream Aerospace Corporation](https://jobright.ai/jobs/info/6ad96109e4b94611ab8557fb?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 26 |
-| **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Toronto](https://jobright.ai/jobs/info/6adf66e75dc7953215a3e876?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
-| ↳ | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6adf66ebc5c64fa3d9cbb425?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 26 |
+| **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6adf66ebc5c64fa3d9cbb425?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 26 |
+| ↳ | **[Business Analyst, RBC Amplify 2027, Toronto](https://jobright.ai/jobs/info/6adf66e75dc7953215a3e876?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6adf006d9e3e874dbfbaa20d?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 26 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ac03f44d9621c5b28397191?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6adc30d7c5c64fa3d9cb2d9c?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Oct 21 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Oct 21 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Oct 21 |
-| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
