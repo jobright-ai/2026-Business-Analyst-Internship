@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 31 |
+| **[Talcott Financial Group](https://talcott.com)** | **[Technical Business Analyst Internship](https://jobright.ai/jobs/info/6ae50209c3139b475b5b80a7?utm_campaign=1067&utm_source=git)** | Hartford, CT, United States | Hybrid | Oct 31 |
+| **[BrilliaCore](https://www.linkedin.com/company/102371702)** | **[Business Internship](https://jobright.ai/jobs/info/6ae5f13ceab1f96730982850?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Remote | Oct 31 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51058eab1f9673097f6c6?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2027 Business Analytics Intern](https://jobright.ai/jobs/info/6ae4cfbd77c09cb3bd4af135?utm_campaign=1067&utm_source=git)** | Greenville, NC, United States | On Site | Oct 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Process Optimization, Indirect Procurement (Winter 2027)](https://jobright.ai/jobs/info/6ac91c6bfcdafb60c6a4ad79?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 30 |
@@ -112,7 +115,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae1298e6679108488c419ad?utm_campaign=1067&utm_source=git)** | Greensboro, NC, United States | On Site | Oct 27 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Administrator - Academic Part Time Intern](https://jobright.ai/jobs/info/6ae0e5b2de23f466ec8ba08e?utm_campaign=1067&utm_source=git)** | Pasadena, California, United States | On Site | Oct 27 |
 | **[Titan America](http://www.titanamerica.com/)** | **[Digitalization Intern](https://jobright.ai/jobs/info/6ae1136467c31ab3489a0570?utm_campaign=1067&utm_source=git)** | Troutville, VA, United States | On Site | Oct 27 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Oct 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analytics, Customer Response Center (CRC) - Winter 2027](https://jobright.ai/jobs/info/6ae0f0c61f9d9308370a5e27?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 27 |
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 27 |
 | **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
