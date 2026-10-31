@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6ae545e7d7424a2a828eca84?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Remote | Oct 30 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51058eab1f9673097f6c6?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2027 Business Analytics Intern](https://jobright.ai/jobs/info/6ae4cfbd77c09cb3bd4af135?utm_campaign=1067&utm_source=git)** | Greenville, NC, United States | On Site | Oct 30 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Process Optimization, Indirect Procurement (Winter 2027)](https://jobright.ai/jobs/info/6ac91c6bfcdafb60c6a4ad79?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 30 |
@@ -95,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 28 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Oct 28 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa99c2e3387a3d9b67d5d79?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9944409ae03adcacde148?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | ↳ | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 28 |
@@ -128,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Business/ Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 26 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement](https://jobright.ai/jobs/info/6ae00919065c4e77efafdb33?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 26 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer 2027 - Business Technology - Collegiate Associate Intern Job Details / Gulfstream Aerospace Corporation](https://jobright.ai/jobs/info/6ad96109e4b94611ab8557fb?utm_campaign=1067&utm_source=git)** | Savannah, GA, United States | On Site | Oct 26 |
-| **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6adf66ebc5c64fa3d9cbb425?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 26 |
-| ↳ | **[Business Analyst, RBC Amplify 2027, Toronto](https://jobright.ai/jobs/info/6adf66e75dc7953215a3e876?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
+| **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Toronto](https://jobright.ai/jobs/info/6adf66e75dc7953215a3e876?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 26 |
+| ↳ | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6adf66ebc5c64fa3d9cbb425?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 26 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst Intern - Atlanta, GA](https://jobright.ai/jobs/info/6ad2284f83ada13a9da037a2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 26 |
 | **[Cboe Global Markets](https://fx.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ac03f44d9621c5b28397191?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Oct 24 |
 | **[TSI Titanium](https://tsititanium.com)** | **[STS Business Analytics Intern- Summer 2027](https://jobright.ai/jobs/info/6adca7ee9e3e874dbfba4e26?utm_campaign=1067&utm_source=git)** | Derry, PA, United States | On Site | Oct 24 |
