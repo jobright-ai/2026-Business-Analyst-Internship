@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 02 |
 | **[Horizon Air](https://careers.alaskaair.com)** | **[Intern - Business Transformation (Summer 2027)](https://jobright.ai/jobs/info/6ae8489603f4a1104b253040?utm_campaign=1067&utm_source=git)** | SeaTac, Washington, United States | On Site | Nov 02 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - Business Transformation (Summer 2027)](https://jobright.ai/jobs/info/6ae8608afb2cd420ace65f15?utm_campaign=1067&utm_source=git)** | SeaTac, WA, United States | On Site | Nov 02 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 01 |
@@ -101,9 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern: Business Analytics](https://jobright.ai/jobs/info/6ae274391f9d9308370b23d0?utm_campaign=1067&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 28 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 28 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ae39effd7424a2a828e17ae?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 28 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 28 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 28 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97d8109ae03adcacdd8ef?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9944409ae03adcacde148?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | ↳ | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 28 |
