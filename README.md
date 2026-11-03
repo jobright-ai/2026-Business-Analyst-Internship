@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Constellation](https://www.constellationenergy.com/)** | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 03 |
+| **[Altec](https://www.altec.com/altec-capital/)** | **[Intern - Business Analyst/ Supply Chain](https://jobright.ai/jobs/info/6aea10b9913589212b1f3061?utm_campaign=1067&utm_source=git)** | Duluth, MN, United States | On Site | Nov 03 |
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/6ae8facb03f4a1104b258924?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Nov 03 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 - Business Systems Analyst Intern](https://jobright.ai/jobs/info/6abee0728ff3fb9b3bc7678b?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 02 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6aea0eb21ba298c77776ebb1?utm_campaign=1067&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Nov 02 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6ae9fe3c4f991d64376c90e8?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 02 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Business Analyst Eastern Region - Spring 2027](https://jobright.ai/jobs/info/6ae914236c51033758f4612b?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae8cf76a2a252e219429a61?utm_campaign=1067&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
@@ -111,13 +114,12 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 28 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ae39effd7424a2a828e17ae?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 28 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 28 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa97d8109ae03adcacdd8ef?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
-| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
-| ↳ | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6ad79a4be4b94611ab846a2f?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
+| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
+| ↳ | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 28 |
 | **[CACI International Inc](https://www.caci.com)** | **[International Business Intern - Spring 2027](https://jobright.ai/jobs/info/6ae227ad1f9d9308370aec84?utm_campaign=1067&utm_source=git)** | Norfolk, VA, United States | Hybrid | Oct 28 |
 | **[New York Life](https://www.newyorklife.com/)** | **[2027 Business Analytics & Digital Transformation Summer Internship](https://jobright.ai/jobs/info/6ac617700e027c0f3b3b1170?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Hybrid | Oct 28 |
 | **[Mutual Group](https://www.mutual.group)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae5534afb2cd420ace5e051?utm_campaign=1067&utm_source=git)** | Westlake Village, CA, United States | On Site | Oct 28 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[IT SCM Business Analyst Intern](https://jobright.ai/jobs/info/6ac58014372c01f6cd73a17b?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Oct 28 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae11e4005a39c3e2c71034d?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
