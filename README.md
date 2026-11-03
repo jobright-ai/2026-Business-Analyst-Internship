@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 - Business Systems Analyst Intern](https://jobright.ai/jobs/info/6abee0728ff3fb9b3bc7678b?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 02 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Business Analyst Eastern Region - Spring 2027](https://jobright.ai/jobs/info/6ae914236c51033758f4612b?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae8cf76a2a252e219429a61?utm_campaign=1067&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ae8d5c76c51033758f43483?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Nov 02 |
@@ -88,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac3bf13dbb1f8967ce99d6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Oct 30 |
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Business/Insurance Intern](https://jobright.ai/jobs/info/6ad214d983ada13a9da0311d?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer Business 2027 Internship](https://jobright.ai/jobs/info/6a8f7606d96ad228f125dd36?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 30 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 29 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Commercial Business Process Improvement](https://jobright.ai/jobs/info/6ae4000aeab1f96730978d27?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 29 |
@@ -109,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2027 Business & Technology Enablement Intern](https://jobright.ai/jobs/info/6ad0057112303667b98a194d?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 28 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ae39effd7424a2a828e17ae?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Oct 28 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2027 Business Analyst Intern](https://jobright.ai/jobs/info/6abd4511d9621c5b2838b324?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 28 |
-| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa9944409ae03adcacde148?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
+| **[LCS](https://www.lcsnet.com/)** | **[Business Applications Intern](https://jobright.ai/jobs/info/6aa99c2e3387a3d9b67d5d79?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 28 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c2e8254c44790e5565b?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | ↳ | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Oct 28 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Enablement Intern Summer 2027](https://jobright.ai/jobs/info/6a8ce3512f736c304f2a8439?utm_campaign=1067&utm_source=git)** | Winnipeg, MB, Canada | On Site | Oct 28 |
@@ -129,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Oct 27 |
 | **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Oct 27 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af53372c01f6cd731829?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Oct 27 |
-| **[Meta](https://www.meta.com)** | **[Business Analytics Intern (2027), Reality Labs Devices Operations](https://jobright.ai/jobs/info/6adfb287065c4e77efafa7d1?utm_campaign=1067&utm_source=git)** | Menlo Park, CA, United States | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
