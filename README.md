@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 04 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 04 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab6fc103a2ec87116e24eb4?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 04 |
 | **[Centene Corporation](http://centene.com)** | **[AI Business Strategy Intern (Undergraduate Summer 2027)](https://jobright.ai/jobs/info/6aeb524c65311d97105b734f?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Nov 04 |
@@ -102,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac3bf13dbb1f8967ce99d6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Oct 30 |
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Business/Insurance Intern](https://jobright.ai/jobs/info/6ad214d983ada13a9da0311d?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer Business 2027 Internship](https://jobright.ai/jobs/info/6a8f7606d96ad228f125dd36?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 30 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 29 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Intern, Commercial Business Process Improvement](https://jobright.ai/jobs/info/6ae4000aeab1f96730978d27?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 29 |
@@ -114,8 +115,5 @@ For a complete list, click the following sortable link below:
 | **[Laya healthcare](https://www.layahealthcare.ie)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae354e5d7424a2a828ded10?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[AXA Health](https://www.axahealth.co.uk/)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae35c34fb2cd420ace502a7?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
 | **[AXA](https://www.axa.com/)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae35920d7424a2a828def28?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Oct 29 |
-| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Oct 29 |
-| **[CACI International Inc](https://www.caci.com)** | **[International Business Intern - Spring 2027](https://jobright.ai/jobs/info/6ae22472829a3bada160183c?utm_campaign=1067&utm_source=git)** | Norfolk, VA, United States | Hybrid | Oct 29 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ccbda33a3dfa7359328f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 28 |
-| ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ca64d52406f6fbf738a2?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Oct 28 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9b6adeff87f571fc9ae43?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
