@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celestica](https://www.celestica.com)** | **[Student Intern,  Corporate Sustainability](https://jobright.ai/jobs/info/6aeb9f50765815f7d74624bf?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 04 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6aebafd0f40efa43f4a19d2a?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 04 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 04 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Systems Analyst Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6ada565e4c3adc437cecbd0f?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 03 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea50474f991d64376cce9c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 03 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Intern - Business Analyst/ Supply Chain](https://jobright.ai/jobs/info/6aea10b9913589212b1f3061?utm_campaign=1067&utm_source=git)** | Duluth, MN, United States | On Site | Nov 03 |
-| **[Celestica](https://www.celestica.com)** | **[Student Intern,  Corporate Sustainability](https://jobright.ai/jobs/info/6aeb9f50765815f7d74624bf?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 03 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern- Information Technology](https://jobright.ai/jobs/info/6ae8c24203f4a1104b2560b7?utm_campaign=1067&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6acd4fa13c831dc4086c1b1e?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Nov 03 |
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/6ae8facb03f4a1104b258924?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Nov 03 |
