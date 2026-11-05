@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business  Analyst  Intern](https://jobright.ai/jobs/info/6aebf4e7090951b6811b75cd?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern,  Corporate Sustainability](https://jobright.ai/jobs/info/6aeb9f50765815f7d74624bf?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 04 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6aebafd0f40efa43f4a19d2a?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 04 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
