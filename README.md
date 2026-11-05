@@ -110,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Business/Insurance Intern](https://jobright.ai/jobs/info/6ad214d983ada13a9da0311d?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer Business 2027 Internship](https://jobright.ai/jobs/info/6a8f7606d96ad228f125dd36?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 30 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 29 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Intern, Commercial Business Process Improvement](https://jobright.ai/jobs/info/6ae4000aeab1f96730978d27?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
