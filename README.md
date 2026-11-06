@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Powerex](https://powerex.com)** | **[Business Analyst IT (Co-op)](https://jobright.ai/jobs/info/6ae4cff6c3139b475b5b62ad?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 30 |
-| **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac3bf13dbb1f8967ce99d6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
