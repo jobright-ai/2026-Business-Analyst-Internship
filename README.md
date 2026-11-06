@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6ab586b9c6fe0dec811a1a04?utm_campaign=1067&utm_source=git)** | Dayton, OH, United States | On Site | Nov 06 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Nov 06 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Administrator - Academic Part Time Intern](https://jobright.ai/jobs/info/6ae0e5b2de23f466ec8ba08e?utm_campaign=1067&utm_source=git)** | Pasadena, California, United States | On Site | Nov 05 |
@@ -109,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Business Systems Analysis](https://jobright.ai/jobs/info/6aac0f0895c707f49dfef355?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 31 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Oct 31 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51058eab1f9673097f6c6?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2027 Business Analytics Intern](https://jobright.ai/jobs/info/6ae4cfbd77c09cb3bd4af135?utm_campaign=1067&utm_source=git)** | Greenville, NC, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
