@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Nov 06 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Administrator - Academic Part Time Intern](https://jobright.ai/jobs/info/6ae0e5b2de23f466ec8ba08e?utm_campaign=1067&utm_source=git)** | Pasadena, California, United States | On Site | Nov 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 05 |
@@ -96,9 +97,7 @@ For a complete list, click the following sortable link below:
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/6ae8facb03f4a1104b258924?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Nov 03 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 - Business Systems Analyst Intern](https://jobright.ai/jobs/info/6abee0728ff3fb9b3bc7678b?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 02 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6aea0eb21ba298c77776ebb1?utm_campaign=1067&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Nov 02 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6ae9fe3c4f991d64376c90e8?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 02 |
 | **[Rockland Trust](http://www.rocklandtrust.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6ae8cf76a2a252e219429a61?utm_campaign=1067&utm_source=git)** | Rockland, MA, United States | On Site | Nov 02 |
-| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ae8d5c76c51033758f43483?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Nov 02 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/6ac82a070e573df8adc7663a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 02 |
 | **[Travere Therapeutics](https://travere.com/)** | **[Commercial Insights & Operations Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac3eee40e027c0f3b3a8430?utm_campaign=1067&utm_source=git)** | San Diego Metropolitan Area, United States | Hybrid | Nov 02 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[2027 Technical Business Analyst Summer Internship](https://jobright.ai/jobs/info/6ae889826c51033758f40855?utm_campaign=1067&utm_source=git)** | Alaska, United States | Remote | Nov 02 |
@@ -113,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2027 Business Analytics Intern](https://jobright.ai/jobs/info/6ae4cfbd77c09cb3bd4af135?utm_campaign=1067&utm_source=git)** | Greenville, NC, United States | On Site | Oct 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 30 |
-| **[Powerex](https://powerex.com)** | **[Business Analyst IT (Co-op)](https://jobright.ai/jobs/info/6ae4cff6c3139b475b5b62ad?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 30 |
-| **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
