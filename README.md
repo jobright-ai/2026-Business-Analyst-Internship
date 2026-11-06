@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin (Academic Part Time Intern)](https://jobright.ai/jobs/info/6aed0ceaa2661405dc2c8cad?utm_campaign=1067&utm_source=git)** | Pasadena, CA, United States | On Site | Nov 05 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed045c3967d67f635a1c59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '27 Intern - Business Insights](https://jobright.ai/jobs/info/6aa17c6c2f936e4a53dabe61?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Nov 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 05 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 05 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8073967d67f6359efed?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Nov 05 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51058eab1f9673097f6c6?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Management Intern – Summer 2027](https://jobright.ai/jobs/info/6ac885cdd4a5a0370740ea46?utm_campaign=1067&utm_source=git)** | Montreal, QC, Canada | On Site | Oct 30 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Summer 2027 Business Analytics Intern](https://jobright.ai/jobs/info/6ae4cfbd77c09cb3bd4af135?utm_campaign=1067&utm_source=git)** | Greenville, NC, United States | On Site | Oct 30 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Process Optimization, Indirect Procurement (Winter 2027)](https://jobright.ai/jobs/info/6ac91c6bfcdafb60c6a4ad79?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa3e8b4422289703bd64019?utm_campaign=1067&utm_source=git)** | Lincoln, NE, United States | On Site | Oct 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Powerex](https://powerex.com)** | **[Business Analyst IT (Co-op)](https://jobright.ai/jobs/info/6ae4cff6c3139b475b5b62ad?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | On Site | Oct 30 |
@@ -113,6 +115,6 @@ For a complete list, click the following sortable link below:
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac3bf13dbb1f8967ce99d6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Oct 30 |
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Business/Insurance Intern](https://jobright.ai/jobs/info/6ad214d983ada13a9da0311d?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer Business 2027 Internship](https://jobright.ai/jobs/info/6a8f7606d96ad228f125dd36?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
