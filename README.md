@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aed28afa2661405dc2c9933?utm_campaign=1067&utm_source=git)** | Hayward, CA, United States | On Site | Nov 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 05 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Business Intern, Canada Gas Operations](https://jobright.ai/jobs/info/6aeccc79465e3d2371381c72?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | Hybrid | Nov 05 |
 | **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Global Business Services Intern](https://jobright.ai/jobs/info/6aed0daca2661405dc2c8d36?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 05 |
