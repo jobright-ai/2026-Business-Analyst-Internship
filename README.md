@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
+| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Administrator - Academic Part Time Intern](https://jobright.ai/jobs/info/6ae0e5b2de23f466ec8ba08e?utm_campaign=1067&utm_source=git)** | Pasadena, California, United States | On Site | Nov 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 05 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aed28afa2661405dc2c9933?utm_campaign=1067&utm_source=git)** | Hayward, CA, United States | On Site | Nov 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 05 |
@@ -115,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Oct 30 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac3bf13dbb1f8967ce99d6?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 30 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Oct 30 |
-| **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Business/Insurance Intern](https://jobright.ai/jobs/info/6ad214d983ada13a9da0311d?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | On Site | Oct 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
