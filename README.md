@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Undergraduate Intern – Business Analysis Focus](https://jobright.ai/jobs/info/6ae78ecba2a252e219423d5c?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 01 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin (Academic Part Time Intern)](https://jobright.ai/jobs/info/6ae8bea9061d6d7ff3d7c964?utm_campaign=1067&utm_source=git)** | Pasadena, CA, United States | On Site | Nov 01 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Business Systems Analysis](https://jobright.ai/jobs/info/6aac0f0895c707f49dfef355?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Oct 31 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Graduate Business](https://jobright.ai/jobs/info/6a9736f1455eaf6a08c1b5c1?utm_campaign=1067&utm_source=git)** | Poway, CA, United States | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
