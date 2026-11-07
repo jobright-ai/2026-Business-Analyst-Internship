@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aef39ff7bf8e8b9eaf7e4cd?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Remote | Nov 07 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Nov 07 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2027 Summer Business Internship](https://jobright.ai/jobs/info/6a8f8a6aa19886486675de04?utm_campaign=1067&utm_source=git)** | Itasca, IL, United States | On Site | Nov 07 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 06 |
@@ -83,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Content Bloom](http://www.contentbloom.com)** | **[Junior Business Associate / Co-op / Winter 2027](https://jobright.ai/jobs/info/6aec7921465e3d237137f13a?utm_campaign=1067&utm_source=git)** | Halifax, NS, Canada | On Site | Nov 05 |
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 05 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Salesforce Business Analyst](https://jobright.ai/jobs/info/6acfc10f2cc4e9d17e90a317?utm_campaign=1067&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 05 |
-| **[Ededge Learning](https://www.linkedin.com/company/107043449)** | **[Business  Analyst  Intern](https://jobright.ai/jobs/info/6aebf4e7090951b6811b75cd?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 04 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Business Analyst Eastern Region - Spring 2027](https://jobright.ai/jobs/info/6ae914236c51033758f4612b?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Nov 04 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern,  Corporate Sustainability](https://jobright.ai/jobs/info/6aeb9f50765815f7d74624bf?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 04 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6aebafd0f40efa43f4a19d2a?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 04 |
