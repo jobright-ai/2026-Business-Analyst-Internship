@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Business Graduate Summer -  Business & Competitive Intelligence, Onsite](https://jobright.ai/jobs/info/6aee30e5c7498922fe0c9bef?utm_campaign=1067&utm_source=git)** | Albuquerque, NM, United States | On Site | Nov 06 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
