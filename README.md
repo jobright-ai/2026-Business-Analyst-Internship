@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Nov 07 |
+| **[Enovation Controls](http://www.enovationcontrols.com/)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6af020420fe787d00ed1d675?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 07 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2027 Summer Business Internship](https://jobright.ai/jobs/info/6a8f8a6aa19886486675de04?utm_campaign=1067&utm_source=git)** | Itasca, IL, United States | On Site | Nov 07 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 06 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 06 |
