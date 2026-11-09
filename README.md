@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
+| **[Brixenta](brixenta.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af1c6511116f6f0a0762925?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 09 |
-| **[Synerga Partners](synergapartners.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6af19f858cbcfef4a59d50b5?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 08 |
