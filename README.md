@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1eeda1116f6f0a0763849?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 09 |
 | **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
-| **[Brixenta](brixenta.net)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af1c6511116f6f0a0762925?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 09 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6acd4fa13c831dc4086c1b1e?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Nov 03 |
 | **[NetJets](https://www.netjets.com/)** | **[Business Insights & Analytics Intern (NJUS)](https://jobright.ai/jobs/info/6ae8facb03f4a1104b258924?utm_campaign=1067&utm_source=git)** | Columbus, OH, United States | On Site | Nov 03 |
 | **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 - Business Systems Analyst Intern](https://jobright.ai/jobs/info/6abee0728ff3fb9b3bc7678b?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 02 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6aea0eb21ba298c77776ebb1?utm_campaign=1067&utm_source=git)** | Bloomfield, CT, United States | Hybrid | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
