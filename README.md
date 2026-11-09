@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 08 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 08 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 08 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 08 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6af0b57e9f8e479a8bd010f3?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 07 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Inventory Management Internship (Summer 2027)](https://jobright.ai/jobs/info/6a99d34e1388387060590ab9?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | On Site | Nov 07 |
 | **[Enovation Controls](http://www.enovationcontrols.com/)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6af020420fe787d00ed1d675?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 07 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2027 Summer Business Internship](https://jobright.ai/jobs/info/6a8f8a6aa19886486675de04?utm_campaign=1067&utm_source=git)** | Itasca, IL, United States | On Site | Nov 07 |
@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Business Analyst Eastern Region - Spring 2027](https://jobright.ai/jobs/info/6ae914236c51033758f4612b?utm_campaign=1067&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Nov 04 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern,  Corporate Sustainability](https://jobright.ai/jobs/info/6aeb9f50765815f7d74624bf?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 04 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6aebafd0f40efa43f4a19d2a?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 04 |
-| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 04 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 04 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 04 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 04 |
