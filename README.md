@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af24376905985ccaa40b1ff?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Remote | Nov 09 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6af2005b1116f6f0a07644e9?utm_campaign=1067&utm_source=git)** | Covington, LA, United States | On Site | Nov 09 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 09 |
 | **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af1eefc1116f6f0a076385d?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 09 |
