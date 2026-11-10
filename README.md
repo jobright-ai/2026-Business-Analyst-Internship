@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6af26f241aaffa49f7384955?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 09 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6af222221116f6f0a07668f4?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Nov 09 |
 | **[MIT Lincoln Laboratory](http://www.ll.mit.edu)** | **[Business/Systems Analyst Co-Op, Compliance & Data (January - June 2027) - Group 16-40 Job Details / MIT Lincoln Laboratory](https://jobright.ai/jobs/info/6adcac64389e06bb41ad70d4?utm_campaign=1067&utm_source=git)** | Lexington, MA, United States | On Site | Nov 09 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6af2005b1116f6f0a07644e9?utm_campaign=1067&utm_source=git)** | Covington, LA, United States | On Site | Nov 09 |
