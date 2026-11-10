@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af3117e769e9374033c2bf4?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 10 |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 10 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/6ad6cb9b52aa6152bb698481?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK, United States | On Site | Nov 10 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6af26f241aaffa49f7384955?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 09 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6af222221116f6f0a07668f4?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Nov 09 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af1eefc1116f6f0a076385d?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 09 |
 | **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 09 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
