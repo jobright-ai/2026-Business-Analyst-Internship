@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/6ad6cb9b52aa6152bb698481?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK, United States | On Site | Nov 10 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6af26f241aaffa49f7384955?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 09 |
 | **[Merchants Capital](https://www.merchantscapital.com/)** | **[Business Technology Intern - Summer 2027](https://jobright.ai/jobs/info/6af222221116f6f0a07668f4?utm_campaign=1067&utm_source=git)** | Carmel, IN, United States | On Site | Nov 09 |
 | **[MIT Lincoln Laboratory](http://www.ll.mit.edu)** | **[Business/Systems Analyst Co-Op, Compliance & Data (January - June 2027) - Group 16-40 Job Details / MIT Lincoln Laboratory](https://jobright.ai/jobs/info/6adcac64389e06bb41ad70d4?utm_campaign=1067&utm_source=git)** | Lexington, MA, United States | On Site | Nov 09 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea50474f991d64376cce9c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 03 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Intern - Business Analyst/ Supply Chain](https://jobright.ai/jobs/info/6aea10b9913589212b1f3061?utm_campaign=1067&utm_source=git)** | Duluth, MN, United States | On Site | Nov 03 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Corporate Intern- Information Technology](https://jobright.ai/jobs/info/6ae8c24203f4a1104b2560b7?utm_campaign=1067&utm_source=git)** | Orlando, FL, United States | Hybrid | Nov 03 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6acd4fa13c831dc4086c1b1e?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
