@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Business Analytics Internship](https://jobright.ai/jobs/info/6af38716f6053e296fc7d8ae?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Remote | Nov 10 |
+| ↳ | **[Business Analytics Internship](https://jobright.ai/jobs/info/6af387067c81de7a524c0949?utm_campaign=1067&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 10 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Summer Business Analyst](https://jobright.ai/jobs/info/6a96d609246d697dcee016da?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af35a2480020ca3a8974c18?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 10 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst - Customer Support in Fleet Operation (Winter 2027)](https://jobright.ai/jobs/info/6af34b0580020ca3a8974179?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Remote | Nov 10 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Nov 04 |
 | **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Operations Business Analyst](https://jobright.ai/jobs/info/6aea32fbfc85f3a394331580?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 04 |
 | **[Dell Technologies](https://www.dell.com)** | **[Dell Technologies Services General Business Undergraduate Intern](https://jobright.ai/jobs/info/6aa9374009ae03adcacdc374?utm_campaign=1067&utm_source=git)** | Texas, United States | On Site | Nov 04 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Systems Analyst Undergraduate Intern - Summer 2027](https://jobright.ai/jobs/info/6ada565e4c3adc437cecbd0f?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
