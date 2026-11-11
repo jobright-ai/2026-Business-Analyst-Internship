@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af4680b9144106c56a1e0a3?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Summer Business Analyst](https://jobright.ai/jobs/info/6a96d609246d697dcee016da?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af35a2480020ca3a8974c18?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 10 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst - Customer Support in Fleet Operation (Winter 2027)](https://jobright.ai/jobs/info/6af34b0580020ca3a8974179?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Remote | Nov 10 |
@@ -105,5 +106,4 @@ For a complete list, click the following sortable link below:
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 05 |
 | **[Celestica](https://www.celestica.com)** | **[Student Intern,  Corporate Sustainability](https://jobright.ai/jobs/info/6aeb9f50765815f7d74624bf?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 04 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6aebafd0f40efa43f4a19d2a?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 04 |
-| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
