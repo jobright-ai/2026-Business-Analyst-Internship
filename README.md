@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7fb01e4b94611ab84ae2e?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Nov 11 |
+| **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7f2d252aa6152bb6a1570?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Nov 11 |
 | **[TechMendra Systems](techmendrasystems.com)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6af484fd1b2c5dcbbcd618df?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 11 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af35a2480020ca3a8974c18?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 10 |
