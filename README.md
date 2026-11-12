@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6af4f15f9144106c56a22fa2?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 12 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5b32080054650a5e78504?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 12 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea50474f991d64376cce9c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 11 |
