@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed045c3967d67f635a1c59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 05 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8073967d67f6359efed?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Nov 05 |
-| **[BAE Systems](http://www.baesystems.com)** | **[Business Analyst Intern III, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6aaaf18f8e1bf0f764af7719?utm_campaign=1067&utm_source=git)** | Endicott, NY, United States | Remote | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
