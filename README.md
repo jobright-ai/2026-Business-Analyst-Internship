@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6af517671b2c5dcbbcd669ce?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af359a410c7aed77861995f?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 11 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2027 Summer Intern: Business Analyst Intern RC&S](https://jobright.ai/jobs/info/6af4bcaecbd2ee75d155cb86?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 11 |
