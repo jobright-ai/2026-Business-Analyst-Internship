@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5dd8080054650a5e79802?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 12 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6af5d3618cc703bba47ad28d?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
 | **[Valorantum Capital](valorantumcapital.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5d2f180054650a5e792f5?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 12 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5c40280054650a5e78bd2?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Nov 12 |
+| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Business Intern - Fresh Graduates](https://jobright.ai/jobs/info/6af5e11f323c531f31e2d91d?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6af4f15f9144106c56a22fa2?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 12 |
@@ -105,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Nov 06 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aed28afa2661405dc2c9933?utm_campaign=1067&utm_source=git)** | Hayward, CA, United States | On Site | Nov 05 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
