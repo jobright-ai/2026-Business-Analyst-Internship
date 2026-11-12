@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af359a410c7aed77861995f?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 11 |
+| **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2027 Summer Intern: Business Analyst Intern RC&S](https://jobright.ai/jobs/info/6af4bcaecbd2ee75d155cb86?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 11 |
 | **[Ryan](http://ryan.com)** | **[Summer 2027 Intern, Business Solutions](https://jobright.ai/jobs/info/6ad7e52854bbabbab07038eb?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Nov 11 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 11 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6ad8f24f950ef68d5184bc6a?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af359a410c7aed77861995f?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 10 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Business Analyst - Customer Support in Fleet Operation (Winter 2027)](https://jobright.ai/jobs/info/6af34b0580020ca3a8974179?utm_campaign=1067&utm_source=git)** | Dorval, QC, Canada | Remote | Nov 10 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Salesforce Business Analyst](https://jobright.ai/jobs/info/6acfc10f2cc4e9d17e90a317?utm_campaign=1067&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 10 |
 | **[CIBC](https://www.cibc.com)** | **[Business Systems Analyst Co-op (Winter 2027), Capital Markets Technology](https://jobright.ai/jobs/info/6ad6cedd67bec1d0d9c72058?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
