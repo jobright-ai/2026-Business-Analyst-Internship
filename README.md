@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 12 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea50474f991d64376cce9c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 11 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6af517671b2c5dcbbcd669ce?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 11 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/6aed0da83a3fa7f03ea8bab7?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 05 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin (Academic Part Time Intern)](https://jobright.ai/jobs/info/6aed0ceaa2661405dc2c8cad?utm_campaign=1067&utm_source=git)** | Pasadena, CA, United States | On Site | Nov 05 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed045c3967d67f635a1c59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
