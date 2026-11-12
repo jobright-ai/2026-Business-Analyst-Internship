@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5c14780054650a5e78af1?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 12 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6af5d3618cc703bba47ad28d?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
+| **[Valorantum Capital](valorantumcapital.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5d2f180054650a5e792f5?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 12 |
+| **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 12 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af5c40280054650a5e78bd2?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Nov 12 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6af4f15f9144106c56a22fa2?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 12 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 | **[Red Hat](http://www.redhat.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aa011a05b2d5633ef3bc2fa?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 12 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea50474f991d64376cce9c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 11 |
@@ -83,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[boisei labs](https://www.boisei.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6af39faff6053e296fc7ec1f?utm_campaign=1067&utm_source=git)** | State College, PA, United States | On Site | Nov 09 |
 | **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af544fb3a9a26aee70a3a9b?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6af2070e905985ccaa407c3e?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 08 |
@@ -102,8 +106,4 @@ For a complete list, click the following sortable link below:
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Global Trade (Winter/Spring 2027)](https://jobright.ai/jobs/info/6aed28afa2661405dc2c9933?utm_campaign=1067&utm_source=git)** | Hayward, CA, United States | On Site | Nov 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 05 |
-| **[Daiichi Sankyo](https://daiichisankyo.us)** | **[Global Business Services Intern](https://jobright.ai/jobs/info/6aed0daca2661405dc2c8d36?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 05 |
-| ↳ | **[Global Business Process Management Intern](https://jobright.ai/jobs/info/6aed0da83a3fa7f03ea8bab7?utm_campaign=1067&utm_source=git)** | Basking Ridge, NJ, United States | On Site | Nov 05 |
-| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin (Academic Part Time Intern)](https://jobright.ai/jobs/info/6aed0ceaa2661405dc2c8cad?utm_campaign=1067&utm_source=git)** | Pasadena, CA, United States | On Site | Nov 05 |
-| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed045c3967d67f635a1c59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
