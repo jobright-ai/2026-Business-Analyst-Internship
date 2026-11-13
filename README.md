@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Vortexion Labs](vortexionlabs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af6ff80c7349029d7091bdd?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 13 |
-| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa182922f936e4a53dabfb9?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 13 |
+| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start](https://jobright.ai/jobs/info/6a765d1abb6ca93ae561240a?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | ↳ | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | **[EQT Corporation](https://www.eqt.com)** | **[Midstream Services Intern](https://jobright.ai/jobs/info/6ada0b9803d2da7528911475?utm_campaign=1067&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 13 |
@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[boisei labs](https://www.boisei.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6af39faff6053e296fc7ec1f?utm_campaign=1067&utm_source=git)** | State College, PA, United States | On Site | Nov 09 |
 | **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af544fb3a9a26aee70a3a9b?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
 | **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af5442f2278454e18c3b796?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Enovation Controls](http://www.enovationcontrols.com/)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6af020420fe787d00ed1d675?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 07 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2027 Summer Business Internship](https://jobright.ai/jobs/info/6a8f8a6aa19886486675de04?utm_campaign=1067&utm_source=git)** | Itasca, IL, United States | On Site | Nov 07 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Vancouver](https://jobright.ai/jobs/info/6af1e3f28cbcfef4a59d631e?utm_campaign=1067&utm_source=git)** | Vancouver, BC, Canada | On Site | Nov 06 |
-| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
