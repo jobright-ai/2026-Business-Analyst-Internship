@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vortexion Labs](vortexionlabs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af6ff80c7349029d7091bdd?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 13 |
-| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 13 |
+| **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
+| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa182922f936e4a53dabfb9?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start](https://jobright.ai/jobs/info/6a765d1abb6ca93ae561240a?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | ↳ | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | **[EQT Corporation](https://www.eqt.com)** | **[Midstream Services Intern](https://jobright.ai/jobs/info/6ada0b9803d2da7528911475?utm_campaign=1067&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 13 |
