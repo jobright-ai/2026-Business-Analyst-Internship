@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vortexion Labs](vortexionlabs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af6ff80c7349029d7091bdd?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 13 |
+| **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa182922f936e4a53dabfb9?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analysis and Strategy Project Intern (TikTok Shop - Operations Center) - 2026 Start](https://jobright.ai/jobs/info/6a765d1abb6ca93ae561240a?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | ↳ | **[Business Analysis and Strategy Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a73f27ce55c73319eb19c7c?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 13 |
 | **[EQT Corporation](https://www.eqt.com)** | **[Midstream Services Intern](https://jobright.ai/jobs/info/6ada0b9803d2da7528911475?utm_campaign=1067&utm_source=git)** | Canonsburg, PA, United States | On Site | Nov 13 |
@@ -75,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ae39effd7424a2a828e17ae?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Nov 12 |
 | ↳ | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 12 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 12 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Nov 12 |
@@ -101,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[boisei labs](https://www.boisei.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6af39faff6053e296fc7ec1f?utm_campaign=1067&utm_source=git)** | State College, PA, United States | On Site | Nov 09 |
 | **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af544fb3a9a26aee70a3a9b?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
 | **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af5442f2278454e18c3b796?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
