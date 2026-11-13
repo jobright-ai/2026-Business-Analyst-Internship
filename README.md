@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analysis & Project Coordination (8 Months)](https://jobright.ai/jobs/info/6af75ed241166cab7564aced?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 13 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af75c2f824228640064479f?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
 | **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6af72c0fd0eefb7d11b89830?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 13 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[boisei labs](https://www.boisei.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6af39faff6053e296fc7ec1f?utm_campaign=1067&utm_source=git)** | State College, PA, United States | On Site | Nov 09 |
 | **[Confidential](www.confidential.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af1cd128cbcfef4a59d5ab7?utm_campaign=1067&utm_source=git)** | Canada | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[SPX Technologies](http://www.spx.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af544fb3a9a26aee70a3a9b?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
 | **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af5442f2278454e18c3b796?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
