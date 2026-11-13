@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6ab4033955e9168cf5ea3cbf?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 06 |
 | **[Dayton Freight Lines, Inc.](https://www.daytonfreight.com/)** | **[IT Business Analyst Intern](https://jobright.ai/jobs/info/6ab586b9c6fe0dec811a1a04?utm_campaign=1067&utm_source=git)** | Dayton, OH, United States | On Site | Nov 06 |
 | **[Enovation Controls](http://www.enovationcontrols.com/)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6aee2a62e0c9de7b05f8b50e?utm_campaign=1067&utm_source=git)** | Tulsa, OK, United States | On Site | Nov 06 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
