@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af740138242286400643272?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 13 |
+| **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
+| **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6af72c0fd0eefb7d11b89830?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 13 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Business Solutions Intern (Remote)](https://jobright.ai/jobs/info/6abcfc51d9621c5b283898ed?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 13 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 | **[Allison Transmission](http://www.allisontransmission.com)** | **[Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6aea50474f991d64376cce9c?utm_campaign=1067&utm_source=git)** | Indianapolis, IN, United States | On Site | Nov 11 |
 | **[Medpace](http://www.medpace.com)** | **[Business Systems Analyst Internship - Summer 2027](https://jobright.ai/jobs/info/6af517671b2c5dcbbcd669ce?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 11 |
-| **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 11 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2027 Business Analytics & Reporting Internship](https://jobright.ai/jobs/info/6af359a410c7aed77861995f?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 11 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2027 Summer Intern: Business Analyst Intern RC&S](https://jobright.ai/jobs/info/6af4bcaecbd2ee75d155cb86?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 11 |
