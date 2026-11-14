@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af8225e34e2d29dcb75317d?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 14 |
+| **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 14 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern – Business Process Analyst](https://jobright.ai/jobs/info/6adab69503d2da7528917acd?utm_campaign=1067&utm_source=git)** | Boise, ID, United States | On Site | Nov 14 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6af72d4cd0eefb7d11b898e1?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825882422864006461c4?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6af79a7041166cab7564d6dd?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analysis & Project Coordination (8 Months)](https://jobright.ai/jobs/info/6af75ed241166cab7564aced?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Nov 13 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Nov 13 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825782422864006461c1?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6abe91120e027c0f3b399953?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Intern](https://jobright.ai/jobs/info/6aebbe5d65311d97105bb954?utm_campaign=1067&utm_source=git)** | Connecticut, United States | Remote | Nov 13 |
-| **[CIBC](https://www.cibc.com)** | **[Business Enablement Analyst co-op](https://jobright.ai/jobs/info/6adaa79a54bbabbab07182c5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
+| **[CIBC](https://www.cibc.com)** | **[Business Enablement Analyst co-op](https://jobright.ai/jobs/info/6ada785e03d2da7528915c7c?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
 | **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6af72c0fd0eefb7d11b89830?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 13 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[First Insurance Company of Hawaii](https://www.ficoh.com/)** | **[Business Analyst Intern - Hybrid, Bala Cynwyd, PA](https://jobright.ai/jobs/info/6af35565f6053e296fc7b901?utm_campaign=1067&utm_source=git)** | Bala Cynwyd, PA, United States | Hybrid | Nov 09 |
 | **[boisei labs](https://www.boisei.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6af39faff6053e296fc7ec1f?utm_campaign=1067&utm_source=git)** | State College, PA, United States | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
 | **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af81f8b42ae65e2c8f3adae?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
