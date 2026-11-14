@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 14 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6abfc83c8ff3fb9b3bc78c23?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 14 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 14 |
 | **[Spectrum](https://www.spectrum.com)** | **[2027 Summer Intern:  Business Systems Analyst (Customer Operations)](https://jobright.ai/jobs/info/6adaa88a54bbabbab071833d?utm_campaign=1067&utm_source=git)** | Stamford, CT, United States | On Site | Nov 14 |
@@ -67,9 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825882422864006461c4?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6af79a7041166cab7564d6dd?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analysis & Project Coordination (8 Months)](https://jobright.ai/jobs/info/6af75ed241166cab7564aced?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 13 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Nov 13 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Nov 13 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825782422864006461c1?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6abe91120e027c0f3b399953?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Intern](https://jobright.ai/jobs/info/6aebbe5d65311d97105bb954?utm_campaign=1067&utm_source=git)** | Connecticut, United States | Remote | Nov 13 |
@@ -120,5 +120,5 @@ For a complete list, click the following sortable link below:
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
-| **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6af81f8b42ae65e2c8f3adae?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
+| **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af81f8b42ae65e2c8f3adae?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
