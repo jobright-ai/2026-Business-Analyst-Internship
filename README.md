@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af7b03e8242286400647b38?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 13 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6af72d4cd0eefb7d11b898e1?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825882422864006461c4?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6af79a7041166cab7564d6dd?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analysis & Project Coordination (8 Months)](https://jobright.ai/jobs/info/6af75ed241166cab7564aced?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 13 |
@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/6ac82a070e573df8adc7663a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6af77b4f8242286400645cac?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 12 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6af72d4cd0eefb7d11b898e1?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 12 |
 | **[Textron](http://textron.com)** | **[2027 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/6af64f878cc703bba47b1fa5?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 12 |
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 12 |
 | **[Kendall Electric](https://www.kendallelectric.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6af60e18f10ae27369e162bc?utm_campaign=1067&utm_source=git)** | Portage, MI, United States | On Site | Nov 12 |
