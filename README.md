@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af9a94d9501ee962015eeaa?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
@@ -72,11 +73,11 @@ For a complete list, click the following sortable link below:
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6af79a7041166cab7564d6dd?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Business Analysis & Project Coordination (8 Months)](https://jobright.ai/jobs/info/6af75ed241166cab7564aced?utm_campaign=1067&utm_source=git)** | North Vancouver, BC, Canada | On Site | Nov 13 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aaab76ff6bd9d2d17c18e83?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Nov 13 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6abd35c8d9621c5b2838a905?utm_campaign=1067&utm_source=git)** | Olathe, KS, United States | On Site | Nov 13 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825782422864006461c1?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6abe91120e027c0f3b399953?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Intern](https://jobright.ai/jobs/info/6aebbe5d65311d97105bb954?utm_campaign=1067&utm_source=git)** | Connecticut, United States | Remote | Nov 13 |
-| **[CIBC](https://www.cibc.com)** | **[Business Enablement Analyst co-op](https://jobright.ai/jobs/info/6ada785e03d2da7528915c7c?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
+| **[CIBC](https://www.cibc.com)** | **[Business Enablement Analyst co-op](https://jobright.ai/jobs/info/6adaa79a54bbabbab07182c5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
 | **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6af72c0fd0eefb7d11b89830?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 13 |
