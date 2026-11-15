@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af8c2505c0a9086f36135ad?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Remote | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/6abe8da68ff3fb9b3bc746ce?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 14 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 14 |
