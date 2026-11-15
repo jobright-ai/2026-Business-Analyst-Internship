@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Synerga Partners](synergapartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af9b3ddf015f35e7418dcf9?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
@@ -126,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
 | **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
-| **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af81f8b42ae65e2c8f3adae?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
