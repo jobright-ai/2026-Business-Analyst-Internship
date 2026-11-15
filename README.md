@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af9a94d9501ee962015eeaa?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 15 |
+| **[Costa Farms](http://www.costafarms.com)** | **[2027 Summer Internship - Analyst](https://jobright.ai/jobs/info/6aa3bb8d4238ea18d430dcc2?utm_campaign=1067&utm_source=git)** | Miami, FL 33170, United States | On Site | Nov 15 |
+| **[Synerga Partners](synergapartners.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6af9b3ddf015f35e7418dcf9?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
@@ -77,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825782422864006461c1?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6abe91120e027c0f3b399953?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Intern](https://jobright.ai/jobs/info/6aebbe5d65311d97105bb954?utm_campaign=1067&utm_source=git)** | Connecticut, United States | Remote | Nov 13 |
-| **[CIBC](https://www.cibc.com)** | **[Business Enablement Analyst co-op](https://jobright.ai/jobs/info/6adaa79a54bbabbab07182c5?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
+| **[CIBC](https://www.cibc.com)** | **[Business Enablement Analyst co-op](https://jobright.ai/jobs/info/6ada785e03d2da7528915c7c?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
 | **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6af72c0fd0eefb7d11b89830?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 13 |
@@ -124,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[First Insurance Company of Hawaii](https://www.ficoh.com/)** | **[Business Analyst Intern - Hybrid, Bala Cynwyd, PA](https://jobright.ai/jobs/info/6af35565f6053e296fc7b901?utm_campaign=1067&utm_source=git)** | Bala Cynwyd, PA, United States | Hybrid | Nov 09 |
 | **[boisei labs](https://www.boisei.com/)** | **[Internship - Business Analyst](https://jobright.ai/jobs/info/6af39faff6053e296fc7ec1f?utm_campaign=1067&utm_source=git)** | State College, PA, United States | On Site | Nov 09 |
 | **[Greystar](http://greystar.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6ab553e19d4843569fe491c4?utm_campaign=1067&utm_source=git)** | South Carolina, United States | Remote | Nov 09 |
-| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
-| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| **[Oracle](https://www.oracle.com/)** | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a68f8f43b549b0b531d316e?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
+| ↳ | **[GDI Business Analyst Intern - OVIP](https://jobright.ai/jobs/info/6a365f66ce501060b5cf6a53?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 09 |
 | **[RBC](https://www.rbc.com)** | **[Business Analyst, RBC Amplify 2027, Calgary](https://jobright.ai/jobs/info/6af1e3f0905985ccaa4067ac?utm_campaign=1067&utm_source=git)** | Calgary, AB, Canada | On Site | Nov 08 |
 | **[CUES Inc.](http://cuesinc.com)** | **[Business Analytics Intern Job Details / our team](https://jobright.ai/jobs/info/6af81f8b42ae65e2c8f3adae?utm_campaign=1067&utm_source=git)** | Burr Ridge, IL, United States | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
