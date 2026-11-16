@@ -50,6 +50,12 @@ For a complete list, click the following sortable link below:
 </div>
 
 ---
+
+## Related Canada resource
+
+- [Hanzilla Jobs — Canadian business and analyst internships](https://jobs.hanzilla.co/business/) - free daily-updated Canadian student and recent-grad jobs board for business analyst, product, operations, finance, consulting, co-op, internship, new-grad, junior, and entry-level roles across Canada.
+
+---
 ## Daily Job List  🌐 🧭 🏆
 
 
