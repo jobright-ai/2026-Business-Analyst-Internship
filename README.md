@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc472707bef169f5000191?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
+| **[Meta](https://www.meta.com)** | **[Business Analytics Intern, RL Devices Operations](https://jobright.ai/jobs/info/6adfb287065c4e77efafa7d1?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 17 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc2ae27df9c4ceafeb8a9c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 17 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6afc2a301e98d304ea7ef5ca?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 17 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Process Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6afc4ca407bef169f5000348?utm_campaign=1067&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 16 |
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Corporate IT Sourcing](https://jobright.ai/jobs/info/6afb75b0b2e06df25797485f?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Commonwealth Financial Network](http://www.commonwealth.com)** | **[Business Transition Intern](https://jobright.ai/jobs/info/6afb2d6804af1c9f075c4ad3?utm_campaign=1067&utm_source=git)** | Waltham, MA, United States | On Site | Nov 16 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/6abe8da68ff3fb9b3bc746ce?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 14 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 14 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/6aa380274238ea18d430c0bc?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 14 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6abfc83c8ff3fb9b3bc78c23?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825882422864006461c4?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
