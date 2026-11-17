@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc013f1c71d952627f0383?utm_campaign=1067&utm_source=git)** | New York, NY, United States | Remote | Nov 16 |
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Corporate IT Sourcing](https://jobright.ai/jobs/info/6afb75b0b2e06df25797485f?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Commonwealth Financial Network](http://www.commonwealth.com)** | **[Business Transition Intern](https://jobright.ai/jobs/info/6afb2d6804af1c9f075c4ad3?utm_campaign=1067&utm_source=git)** | Waltham, MA, United States | On Site | Nov 16 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb117d7d1820d918c26044?utm_campaign=1067&utm_source=git)** | Troy Hills, NJ, United States | On Site | Nov 16 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6af72d4cd0eefb7d11b898e1?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 15 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1985484fef921e0478c6?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
+| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1d0f04af1c9f075c3ff4?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ae5387dfb2cd420ace5d90c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
