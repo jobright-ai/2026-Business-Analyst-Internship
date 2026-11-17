@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc472707bef169f5000191?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 17 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc2ae27df9c4ceafeb8a9c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 17 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6afc2a301e98d304ea7ef5ca?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 17 |
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Centennial, CO](https://jobright.ai/jobs/info/6ae39effd7424a2a828e17ae?utm_campaign=1067&utm_source=git)** | Centennial, CO, United States | On Site | Nov 12 |
 | **[HF Sinclair](https://www.hfsinclair.com)** | **[Branded Fuels - Business Analytics Intern](https://jobright.ai/jobs/info/6af876facb5a5d4a77fcc527?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Charlotte, NC](https://jobright.ai/jobs/info/6ad8d98239284cd524280db5?utm_campaign=1067&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Nov 12 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8ff0a950ef68d5184c91b?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
+| **[WSFS Bank](http://www.wsfsbank.com/)** | **[2027 Summer Internship - Business Systems Analyst](https://jobright.ai/jobs/info/6ad8f70067bec1d0d9c811e7?utm_campaign=1067&utm_source=git)** | Wilmington, DE, United States | On Site | Nov 12 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 12 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Nov 12 |
