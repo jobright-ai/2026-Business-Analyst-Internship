@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| ↳ | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| **[Linde](https://www.linde.com/)** | **[2027 Business / Information Technology Internship](https://jobright.ai/jobs/info/6adfcf9d065c4e77efafbc6a?utm_campaign=1067&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 17 |
+| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc6dc129e5a8844e658499?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Remote | Nov 17 |
+| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afc6bee07bef169f50010e5?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 17 |
 | **[Linde](https://www.linde.com/)** | **[2027 Business / Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
 | **[Meta](https://www.meta.com)** | **[Business Analytics Intern, RL Devices Operations](https://jobright.ai/jobs/info/6adfb287065c4e77efafa7d1?utm_campaign=1067&utm_source=git)** | Sunnyvale, CA, United States | On Site | Nov 17 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6afc2a301e98d304ea7ef5ca?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 17 |
@@ -65,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Corporate IT Sourcing](https://jobright.ai/jobs/info/6afb75b0b2e06df25797485f?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Commonwealth Financial Network](http://www.commonwealth.com)** | **[Business Transition Intern](https://jobright.ai/jobs/info/6afb2d6804af1c9f075c4ad3?utm_campaign=1067&utm_source=git)** | Waltham, MA, United States | On Site | Nov 16 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb117d7d1820d918c26044?utm_campaign=1067&utm_source=git)** | Troy Hills, NJ, United States | On Site | Nov 16 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1d0f04af1c9f075c3ff4?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
+| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb12717f9ead6668e9de86?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ae5387dfb2cd420ace5d90c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
@@ -84,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[NAND Development Business Operations Intern](https://jobright.ai/jobs/info/6abe91120e027c0f3b399953?utm_campaign=1067&utm_source=git)** | Rancho Cordova, CA, United States | On Site | Nov 13 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Intern](https://jobright.ai/jobs/info/6aebbe5d65311d97105bb954?utm_campaign=1067&utm_source=git)** | Connecticut, United States | Remote | Nov 13 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 13 |
-| **[CareSource](https://www.caresource.com/)** | **[2027 Summer Internship Program - Clinical Operations Business Analyst](https://jobright.ai/jobs/info/6af617b080054650a5e7bda5?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 13 |
 | **[Moog Inc.](http://www.moog.com)** | **[Intern, Business](https://jobright.ai/jobs/info/6af72c0fd0eefb7d11b89830?utm_campaign=1067&utm_source=git)** | Blacksburg, VA, United States | On Site | Nov 13 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 Business Solutions Intern (Remote)](https://jobright.ai/jobs/info/6abcfc51d9621c5b283898ed?utm_campaign=1067&utm_source=git)** | Virginia, United States | Remote | Nov 13 |
 | **[VLS Environmental Solutions, LLC](http://vlses.com)** | **[Operations Business Analyst Intern](https://jobright.ai/jobs/info/6aa084693b5aa83237b09a74?utm_campaign=1067&utm_source=git)** | Lancaster, PA, United States | On Site | Nov 13 |
