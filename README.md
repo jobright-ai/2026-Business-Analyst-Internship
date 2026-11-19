@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Business Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6afe3a6a0324c008a17e5973?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 18 |
+| ↳ | **[Agile Center of Excellence, Summer 2027 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6afe3a4f0cde47528ec1304b?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 18 |
+| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern - Connected Warfare](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 18 |
 | **[Commonwealth Financial Network](http://www.commonwealth.com)** | **[Business Transitions Intern](https://jobright.ai/jobs/info/6afe0fb50324c008a17e3f2a?utm_campaign=1067&utm_source=git)** | Waltham, MA, United States | On Site | Nov 18 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Business Analyst (CCL)](https://jobright.ai/jobs/info/6afdf401f170d82b3966fe11?utm_campaign=1067&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
@@ -81,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 17 |
 | ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 17 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 17 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af53372c01f6cd731829?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 17 |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af4a064da25272e0ec02?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 17 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
 | ↳ | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
 | **[Linde](https://www.linde.com/)** | **[2027 Business / Information Technology Internship](https://jobright.ai/jobs/info/6adfcf9d065c4e77efafbc6a?utm_campaign=1067&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 17 |
 | ↳ | **[2027 Business / Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
@@ -97,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/6abe8da68ff3fb9b3bc746ce?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 14 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 14 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/6aa380274238ea18d430c0bc?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 14 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6abfc83c8ff3fb9b3bc78c23?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 14 |
 | **[Princess Cruises](http://www.princess.com)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af7825882422864006461c4?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 13 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 13 |
@@ -130,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[SouthState Bank](https://southstatebank.com)** | **[Summer 2027 IT Business Office Intern (Columbia-Hybrid)](https://jobright.ai/jobs/info/6abc28bb7119e56191cebd5a?utm_campaign=1067&utm_source=git)** | Columbia, South Carolina, United States | Remote | Nov 12 |
 | **[Chatham Financial](https://cf.com)** | **[2027 Business Intern- Kennett Square, PA](https://jobright.ai/jobs/info/6ad8d989b0725dc268dd674b?utm_campaign=1067&utm_source=git)** | Kennett Square, PA, United States | On Site | Nov 12 |
 | **[Ericsson](https://www.ericsson.com)** | **[Operational Sourcing Intern](https://jobright.ai/jobs/info/6af4f15f9144106c56a22fa2?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | Hybrid | Nov 12 |
-| **[HF Sinclair](https://www.hfsinclair.com)** | **[Branded Fuels - Business Analytics Intern Job Details / HF Sinclair](https://jobright.ai/jobs/info/6af974e248f3528e5a72f488?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
