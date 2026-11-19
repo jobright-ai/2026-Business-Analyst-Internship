@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aff067297dcc4fc8dca7ec2?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 19 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 18 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern - Connected Warfare](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 18 |
@@ -91,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6afc2a301e98d304ea7ef5ca?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 17 |
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb117d7d1820d918c26044?utm_campaign=1067&utm_source=git)** | Troy Hills, NJ, United States | On Site | Nov 16 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1d0f04af1c9f075c3ff4?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ac03f44d9621c5b28397191?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
+| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1985484fef921e0478c6?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ae5387dfb2cd420ace5d90c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
@@ -118,6 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2027 Data Analytics & Business Operations Spring Co-Op or Summer Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/6ac82a070e573df8adc7663a?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
-| **[NetApp](http://netapp.com)** | **[Intern - Business Analyst](https://jobright.ai/jobs/info/6af8958634e2d29dcb755b61?utm_campaign=1067&utm_source=git)** | Research Triangle Park, NC, United States | On Site | Nov 12 |
-| **[Textron](http://textron.com)** | **[2027 Internship - Business Analyst-Cust Svc](https://jobright.ai/jobs/info/6af64f878cc703bba47b1fa5?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
