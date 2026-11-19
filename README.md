@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6aff314897dcc4fc8dca9c00?utm_campaign=1067&utm_source=git)** | Atlanta | On Site | Nov 19 |
+| **[Marvell Technology](https://www.marvell.com)** | **[Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ac6a8bb064da25272e1bacd?utm_campaign=1067&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 19 |
+| **[Laya healthcare](https://www.layahealthcare.ie)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae354e5d7424a2a828ded10?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ccbda33a3dfa7359328f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ca64d52406f6fbf738a2?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 18 |
@@ -86,14 +88,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 17 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 17 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af4a064da25272e0ec02?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 17 |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
-| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| ↳ | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
 | **[Linde](https://www.linde.com/)** | **[2027 Business / Information Technology Internship](https://jobright.ai/jobs/info/6adfcf9d065c4e77efafbc6a?utm_campaign=1067&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 17 |
 | ↳ | **[2027 Business / Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Business Process Improvement (Summer 2027)](https://jobright.ai/jobs/info/6afc2a301e98d304ea7ef5ca?utm_campaign=1067&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 17 |
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb117d7d1820d918c26044?utm_campaign=1067&utm_source=git)** | Troy Hills, NJ, United States | On Site | Nov 16 |
-| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1985484fef921e0478c6?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
+| **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1d0f04af1c9f075c3ff4?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ac03f44d9621c5b28397191?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
@@ -118,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analyst & Self-Service Adoption Intern](https://jobright.ai/jobs/info/6ada647e950ef68d51856da3?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Global Customer Experience Business Analytics Project Intern (TikTok Shop-Governance and Experience) - 2026 Start](https://jobright.ai/jobs/info/6aa0e1b3a2266b538d2327a4?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | On Site | Nov 13 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2027 Business Analyst Intern](https://jobright.ai/jobs/info/6a8fa9f90bd89e205d247619?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Business Analyst Project Intern(TikTok- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a560d73e9b77f668bd61080?utm_campaign=1067&utm_source=git)** | Los Angeles, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
