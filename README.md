@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Meridien Labs](meridienlabs.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6afea0f60fe3ac852ce529e7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | Remote | Nov 18 |
 | **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Summer 2027 Global Business Strategy Development Intern](https://jobright.ai/jobs/info/6ab3ea04ef911c35dffa21b2?utm_campaign=1067&utm_source=git)** | Fort Wayne, IN, United States | On Site | Nov 18 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Business Operations Intern - Connected Warfare](https://jobright.ai/jobs/info/6ad930db39284cd52428532a?utm_campaign=1067&utm_source=git)** | Costa Mesa, CA, United States | On Site | Nov 18 |
@@ -84,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 17 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 17 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af53372c01f6cd731829?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 17 |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
 | ↳ | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
 | **[Linde](https://www.linde.com/)** | **[2027 Business / Information Technology Internship](https://jobright.ai/jobs/info/6adfcf9d065c4e77efafbc6a?utm_campaign=1067&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 17 |
 | ↳ | **[2027 Business / Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
@@ -92,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb117d7d1820d918c26044?utm_campaign=1067&utm_source=git)** | Troy Hills, NJ, United States | On Site | Nov 16 |
 | **[Zoetis](https://www.zoetis.com)** | **[Commercial Operations Business Analyst Intern](https://jobright.ai/jobs/info/6afb1d0f04af1c9f075c3ff4?utm_campaign=1067&utm_source=git)** | Parsippany, NJ, United States | On Site | Nov 15 |
-| **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ac03f44d9621c5b28397191?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ae5387dfb2cd420ace5d90c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
 | **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
@@ -123,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 12 |
 | **[Kendall Electric](https://www.kendallelectric.com)** | **[Business Process Intern](https://jobright.ai/jobs/info/6af60e18f10ae27369e162bc?utm_campaign=1067&utm_source=git)** | Portage, MI, United States | On Site | Nov 12 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2027 Business Analysis and AI enGen Undergraduate Intern](https://jobright.ai/jobs/info/6af5ed7f80054650a5e7a2de?utm_campaign=1067&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Nov 12 |
-| **[Koch Engineered Solutions](http://www.kochengineeredsolutions.com/)** | **[Summer 2027 - Business Systems Analyst Intern](https://jobright.ai/jobs/info/6abee0728ff3fb9b3bc7678b?utm_campaign=1067&utm_source=git)** | Wichita, KS, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
