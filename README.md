@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b008007dfa58e4c244dbc5f?utm_campaign=1067&utm_source=git)** | Atlanta | On Site | Nov 20 |
+| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Business Intern](https://jobright.ai/jobs/info/6b008bc73a9a0230ab0283b9?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 20 |
+| **[Honeywell Technologies](http://www.honeywell.com)** | **[Future IT Leaders - Summer 2027 Intern (US Person Required)](https://jobright.ai/jobs/info/6a8f9bd98ffa38557e6c9d3f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 20 |
+| ↳ | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 20 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern - Business Transformation Analyst](https://jobright.ai/jobs/info/6b00888f3a9a0230ab0281ee?utm_campaign=1067&utm_source=git)** | Frisco, TX, United States | On Site | Nov 20 |
 | **[EQ Bank](https://www.eqbank.ca)** | **[Intern, Business Analyst (PC Insurance), Winter 2027](https://jobright.ai/jobs/info/6aac39773dbb1f8967ce98fd?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 20 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs – Business Analyst Intern – AI and Data Science](https://jobright.ai/jobs/info/6affab051126e09fee091e53?utm_campaign=1067&utm_source=git)** | Milpitas, CA, United States | Hybrid | Nov 19 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Systems Analyst Undergraduate Intern - 2027](https://jobright.ai/jobs/info/6ada90f154bbabbab07179ea?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 19 |
@@ -75,7 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8073967d67f6359efed?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Nov 19 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ac6a8bb064da25272e1bacd?utm_campaign=1067&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 19 |
 | **[Laya healthcare](https://www.layahealthcare.ie)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae354e5d7424a2a828ded10?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9b6adeff87f571fc9ae43?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ccbda33a3dfa7359328f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ca64d52406f6fbf738a2?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aff8a751126e09fee091340?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 18 |
@@ -114,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[Intern - Business Analysis](https://jobright.ai/jobs/info/6abe8da68ff3fb9b3bc746ce?utm_campaign=1067&utm_source=git)** | Mississauga, ON, Canada | Hybrid | Nov 14 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[Housekeeping Operations and Analytics Intern](https://jobright.ai/jobs/info/6af795938242286400646fa8?utm_campaign=1067&utm_source=git)** | Seattle, WA, United States | Hybrid | Nov 14 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Coordinator (Year-Round)](https://jobright.ai/jobs/info/6aa380274238ea18d430c0bc?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 14 |
-| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
-| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
+| **[Autoliv](http://autoliv.com)** | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a55bcc6ef22935f2e3f66b5?utm_campaign=1067&utm_source=git)** | Auburn Hills, MI, United States | On Site | Nov 14 |
+| ↳ | **[Business Analyst / PMO Intern](https://jobright.ai/jobs/info/6a078310a203b1052e43bafd?utm_campaign=1067&utm_source=git)** | 1320 Pacific Dr, Auburn Hills, Autoliv Americas - AAM, 48326, US | On Site | Nov 14 |
 | **[Emerson](http://www.emerson.com)** | **[Business Operations Intern](https://jobright.ai/jobs/info/6abfc83c8ff3fb9b3bc78c23?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
