@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b015f2aaf6fea8c089b6ef6?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs – Business Analyst Intern – AI and Data Science](https://jobright.ai/jobs/info/6affab051126e09fee091e53?utm_campaign=1067&utm_source=git)** | Milpitas, CA, United States | Hybrid | Nov 20 |
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/6b00cc7edf73191d2e6aeb8c?utm_campaign=1067&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 | **[Centene Corporation](http://centene.com)** | **[Business Technical Analyst Undergraduate Summer Intern](https://jobright.ai/jobs/info/6b00bc4cd1fe3bc162e3e7a6?utm_campaign=1067&utm_source=git)** | Remote, MO, United States | Remote | Nov 20 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Transit Business Analyst Intern](https://jobright.ai/jobs/info/6aa83da52ed333b4ea5ce149?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Nov 19 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ac6a8bb064da25272e1bacd?utm_campaign=1067&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 19 |
 | **[Laya healthcare](https://www.layahealthcare.ie)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae354e5d7424a2a828ded10?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9b6adeff87f571fc9ae43?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ccbda33a3dfa7359328f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ca64d52406f6fbf738a2?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Intern) United States](https://jobright.ai/jobs/info/6aff8a751126e09fee091340?utm_campaign=1067&utm_source=git)** | San Jose, CA, United States | Hybrid | Nov 18 |
@@ -118,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Technical Business Analyst Intern](https://jobright.ai/jobs/info/6ae5387dfb2cd420ace5d90c?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 15 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Integrated Solutions Intern - Summer 2027](https://jobright.ai/jobs/info/6aa9c69b10b1cd4f41607ce7?utm_campaign=1067&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 15 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af8ecdd5c0a9086f3613fdf?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 14 |
-| **[NetApp](http://netapp.com)** | **[Intern - Business Analyst Job Details / NetApp, Inc.](https://jobright.ai/jobs/info/6af8620c35427cce9bb2d70c?utm_campaign=1067&utm_source=git)** | Morrisville, NC, United States | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
