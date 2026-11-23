@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 23 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Business Services Focus](https://jobright.ai/jobs/info/6ae78ecefb2cd420ace63371?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
 | ↳ | **[Undergraduate Intern – Business Analysis Focus](https://jobright.ai/jobs/info/6ae78ecba2a252e219423d5c?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - Business Systems Analysis](https://jobright.ai/jobs/info/6aac0f0895c707f49dfef355?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 22 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/6b00cc7edf73191d2e6aeb8c?utm_campaign=1067&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 | **[Centene Corporation](http://centene.com)** | **[Business Technical Analyst Undergraduate Summer Intern](https://jobright.ai/jobs/info/6b00bc4cd1fe3bc162e3e7a6?utm_campaign=1067&utm_source=git)** | Remote, MO, United States | Remote | Nov 20 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Business Improvement Internship (Summer 2027)](https://jobright.ai/jobs/info/6b00a61ad1fe3bc162e3d8da?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | Hybrid | Nov 20 |
-| **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 20 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2027](https://jobright.ai/jobs/info/6b0002e980dbbb90153930aa?utm_campaign=1067&utm_source=git)** | Burlington, Vermont, United States | Hybrid | Nov 20 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Business Intern](https://jobright.ai/jobs/info/6b008bc73a9a0230ab0283b9?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst, Summer 2027](https://jobright.ai/jobs/info/6ac6e26a0e027c0f3b3b4bba?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 20 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 17 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 17 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af4a064da25272e0ec02?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 17 |
-| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac444388ff3fb9b3bc8522d?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
-| ↳ | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| **[UCB](http://www.ucb.com)** | **[Business Excellence Intern Job Details / UCB](https://jobright.ai/jobs/info/6af70662e3d8d612bf41f9f6?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
+| ↳ | **[Business Excellence Intern](https://jobright.ai/jobs/info/6ac44a174ac55253f5d720d7?utm_campaign=1067&utm_source=git)** | Oakville, ON, Canada | Hybrid | Nov 17 |
 | **[Linde](https://www.linde.com/)** | **[2027 Business / Information Technology Internship](https://jobright.ai/jobs/info/6adfcf9d065c4e77efafbc6a?utm_campaign=1067&utm_source=git)** | Tonawanda, NY, United States | On Site | Nov 17 |
 | ↳ | **[2027 Business / Finance Internship](https://jobright.ai/jobs/info/6adfcfa99e3e874dbfbb06fb?utm_campaign=1067&utm_source=git)** | Tempe, AZ, United States | On Site | Nov 17 |
 | **[Four Hands](https://fourhands.com)** | **[Business Operations Analyst Intern](https://jobright.ai/jobs/info/6ad680ed3dc655658d8e6ccd?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 16 |
