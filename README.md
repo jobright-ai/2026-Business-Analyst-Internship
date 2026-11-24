@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 23 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Business Systems Intern](https://jobright.ai/jobs/info/6b04ad3058147eafa299514f?utm_campaign=1067&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6b04d1c013646880439e5b50?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 23 |
 | **[Centene Corporation](http://centene.com)** | **[Business Analyst Graduate Summer Intern](https://jobright.ai/jobs/info/6b04a5632d88b678f1178591?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Nov 23 |
@@ -65,8 +64,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern -- Summer Internship Program](https://jobright.ai/jobs/info/6b046af4526905eb2bcf6bc5?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Business Analytics Summer 2027 Intern](https://jobright.ai/jobs/info/6a9702b9246d697dcee02b86?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 23 |
-| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
-| ↳ | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
+| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 23 |
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 23 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Business Services Focus](https://jobright.ai/jobs/info/6ae78ecefb2cd420ace63371?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
@@ -82,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/6b00cc7edf73191d2e6aeb8c?utm_campaign=1067&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Business Improvement Internship (Summer 2027)](https://jobright.ai/jobs/info/6b00a61ad1fe3bc162e3d8da?utm_campaign=1067&utm_source=git)** | Dublin, OH, United States | Hybrid | Nov 20 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2027](https://jobright.ai/jobs/info/6b0002e980dbbb90153930aa?utm_campaign=1067&utm_source=git)** | Burlington, Vermont, United States | Hybrid | Nov 20 |
-| **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Business Intern](https://jobright.ai/jobs/info/6b008bc73a9a0230ab0283b9?utm_campaign=1067&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst, Summer 2027](https://jobright.ai/jobs/info/6ac6e26a0e027c0f3b3b4bba?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 20 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 20 |
