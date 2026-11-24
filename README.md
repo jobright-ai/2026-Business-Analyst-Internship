@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KBX Logistics](http://www.kbx.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1f0df191d8c340dbdd47a?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 23 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[2027 Business Systems Intern](https://jobright.ai/jobs/info/6b04ad3058147eafa299514f?utm_campaign=1067&utm_source=git)** | Hanover, MD, United States | Hybrid | Nov 23 |
 | **[Badger Meter](http://badgermeter.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6b04d1c013646880439e5b50?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 23 |
 | **[Centene Corporation](http://centene.com)** | **[Business Analyst Graduate Summer Intern](https://jobright.ai/jobs/info/6b04a5632d88b678f1178591?utm_campaign=1067&utm_source=git)** | Missouri, United States | Remote | Nov 23 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Pepco](www.pepco.com)** | **[ComEd Business Analyst (GIS) Intern](https://jobright.ai/jobs/info/6afca22ae0cdcfc91142e2cc?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Nov 17 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[ComEd Business Analyst (GIS) Intern](https://jobright.ai/jobs/info/6afc963d693f8cfb490ae14b?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL, United States | Hybrid | Nov 17 |
 | **[Pepco Holdings](https://www.pepco.com/)** | **[ComEd Business Analyst (GIS) Intern](https://jobright.ai/jobs/info/6afc962c71a21a7b1375f32c?utm_campaign=1067&utm_source=git)** | Oakbrook Terrace, IL, United States | On Site | Nov 17 |
-| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[2027 Summer Internship- Enterprise Business Solutions](https://jobright.ai/jobs/info/6ac3af4a064da25272e0ec02?utm_campaign=1067&utm_source=git)** | Birmingham, AL, United States | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
