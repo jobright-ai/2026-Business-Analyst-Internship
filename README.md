@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6b0714ac08b131a5c65778a0?utm_campaign=1067&utm_source=git)** | Rock Hill, SC, United States | On Site | Nov 25 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b071d4508b131a5c6577d7a?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 25 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6b07157508b131a5c657797b?utm_campaign=1067&utm_source=git)** | Rock Hill, SC, United States | On Site | Nov 25 |
 | **[HUB International](https://www.hubinternational.com)** | **[Associate Business Analyst Intern](https://jobright.ai/jobs/info/6b0612f1dbad4c4bd25040f7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[Allianz](https://www.allianz.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b05ffc1460ce5352ae3d60d?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Assistant Business Manager Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6b0710202c2b1d2eebe11a0b?utm_campaign=1067&utm_source=git)** | New London, CT, United States | On Site | Nov 24 |
@@ -110,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8073967d67f6359efed?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Nov 19 |
 | **[Marvell Technology](https://www.marvell.com)** | **[Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027](https://jobright.ai/jobs/info/6ac6a8bb064da25272e1bacd?utm_campaign=1067&utm_source=git)** | Santa Clara, CA, United States | On Site | Nov 19 |
 | **[Laya healthcare](https://www.layahealthcare.ie)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae354e5d7424a2a828ded10?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9b6adeff87f571fc9ae43?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ccbda33a3dfa7359328f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ca64d52406f6fbf738a2?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
