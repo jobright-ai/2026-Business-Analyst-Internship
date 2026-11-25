@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Opal Nest](https://www.linkedin.com/company/98648381)** | **[Business Analyst Internship](https://jobright.ai/jobs/info/6b06a68739133b8734a9ecea?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 25 |
 | **[HUB International](https://www.hubinternational.com)** | **[Associate Business Analyst Intern](https://jobright.ai/jobs/info/6b0612f1dbad4c4bd25040f7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[Allianz](https://www.allianz.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b05ffc1460ce5352ae3d60d?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Associate Business Systems Analyst Intern](https://jobright.ai/jobs/info/6b062165460ce5352ae3e881?utm_campaign=1067&utm_source=git)** | Wakefield, MA, United States | On Site | Nov 24 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 23 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Business Analytics & Automation Intern (Full Year 2027)](https://jobright.ai/jobs/info/6b04ab017bec27df08f933f9?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern -- Summer Internship Program](https://jobright.ai/jobs/info/6b046af4526905eb2bcf6bc5?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
-| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
-| ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
+| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 23 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Business Services Focus](https://jobright.ai/jobs/info/6ae78ecefb2cd420ace63371?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
 | ↳ | **[Undergraduate Intern – Business Analysis Focus](https://jobright.ai/jobs/info/6ae78ecba2a252e219423d5c?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
