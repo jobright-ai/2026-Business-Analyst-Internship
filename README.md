@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lucid Motors](http://lucidmotors.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b08510c03dd5bd15ba46fd4?utm_campaign=1067&utm_source=git)** | Amsterdam, New Hampshire, United States | On Site | Nov 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab6fc103a2ec87116e24eb4?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 26 |
 | **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/6b083988cc765a1208d9ba26?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 23 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Business Analytics & Automation Intern (Full Year 2027)](https://jobright.ai/jobs/info/6b04ab017bec27df08f933f9?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern -- Summer Internship Program](https://jobright.ai/jobs/info/6b046af4526905eb2bcf6bc5?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
-| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
-| ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
+| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 23 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Business Services Focus](https://jobright.ai/jobs/info/6ae78ecefb2cd420ace63371?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
 | ↳ | **[Undergraduate Intern – Business Analysis Focus](https://jobright.ai/jobs/info/6ae78ecba2a252e219423d5c?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
@@ -115,8 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 20 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Systems Analyst Undergraduate Intern - 2027](https://jobright.ai/jobs/info/6ada90f154bbabbab07179ea?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 20 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Process Improvement Intern - Summer 2027](https://jobright.ai/jobs/info/6afc4ca407bef169f5000348?utm_campaign=1067&utm_source=git)** | Huntsville, AL, United States | On Site | Nov 19 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Business Operations & Data Analytics Intern](https://jobright.ai/jobs/info/6aff90851126e09fee09163e?utm_campaign=1067&utm_source=git)** | Plano, TX, United States | On Site | Nov 19 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Systems Analyst Undergraduate Intern - 2027](https://jobright.ai/jobs/info/6aff8f03dd029d798066d7ae?utm_campaign=1067&utm_source=git)** | Livermore, CA, United States | Hybrid | Nov 19 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Business Systems Analyst](https://jobright.ai/jobs/info/6aff6a9a6f4ca73dfeb440e4?utm_campaign=1067&utm_source=git)** | Canada | Remote | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
