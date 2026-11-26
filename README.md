@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern, Hair Professional – Summer/Fall 2027](https://jobright.ai/jobs/info/6b075ce7b624dcc57de7991b?utm_campaign=1067&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2027 Business Analytics Intern](https://jobright.ai/jobs/info/6b07551c08b131a5c6579ad2?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b07548908b131a5c6579aa4?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 25 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Assistant Business Manager Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6b074ce708b131a5c657981f?utm_campaign=1067&utm_source=git)** | New London, CT, United States | On Site | Nov 25 |
 | **[Tombras](http://tombras.com)** | **[Business Affairs Intern](https://jobright.ai/jobs/info/6b0744b66c5083822fdc8464?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 25 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[HPE Labs – Business Analyst Intern – AI and Data Science](https://jobright.ai/jobs/info/6affab051126e09fee091e53?utm_campaign=1067&utm_source=git)** | Milpitas, CA, United States | Hybrid | Nov 25 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Transformation](https://jobright.ai/jobs/info/6b075cbe6c5083822fdc8eb9?utm_campaign=1067&utm_source=git)** | Newtown Square, PA, United States | On Site | Nov 25 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Business Systems Intern](https://jobright.ai/jobs/info/6b07157508b131a5c657797b?utm_campaign=1067&utm_source=git)** | Rock Hill, SC, United States | On Site | Nov 25 |
 | **[HUB International](https://www.hubinternational.com)** | **[Associate Business Analyst Intern](https://jobright.ai/jobs/info/6b0612f1dbad4c4bd25040f7?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 24 |
 | **[Allianz](https://www.allianz.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b05ffc1460ce5352ae3d60d?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | Hybrid | Nov 24 |
 | **[Pennsylvania Turnpike Commission](https://www.paturnpike.com/)** | **[Summer Business Intern](https://jobright.ai/jobs/info/6b074c272c2b1d2eebe13efc?utm_campaign=1067&utm_source=git)** | Middletown, PA, United States | On Site | Nov 24 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Assistant Business Manager Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6b0710202c2b1d2eebe11a0b?utm_campaign=1067&utm_source=git)** | New London, CT, United States | On Site | Nov 24 |
+| **[BMO](http://www.bmo.com)** | **[Junior Business Analysis, Winter 2027 (Co-op/Internship) - 8 months](https://jobright.ai/jobs/info/6b07630908b131a5c657a053?utm_campaign=1067&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 24 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Associate Business Systems Analyst Intern](https://jobright.ai/jobs/info/6b062165460ce5352ae3e881?utm_campaign=1067&utm_source=git)** | Wakefield, MA, United States | On Site | Nov 24 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Business Analyst Intern-Summer 2027](https://jobright.ai/jobs/info/6b060e4145a65b5da366dd9c?utm_campaign=1067&utm_source=git)** | Madison, WI, United States | Remote | Nov 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst Intern – Summer 2027](https://jobright.ai/jobs/info/6ac966606355f8776ff18e40?utm_campaign=1067&utm_source=git)** | Bellevue, WA, United States | On Site | Nov 24 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed045c3967d67f635a1c59?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Intern Job Details / Hatch](https://jobright.ai/jobs/info/6aecb8073967d67f6359efed?utm_campaign=1067&utm_source=git)** | Denver, CO, United States | On Site | Nov 19 |
 | **[Laya healthcare](https://www.layahealthcare.ie)** | **[Underwriting Data & Analytics Intern](https://jobright.ai/jobs/info/6ae354e5d7424a2a828ded10?utm_campaign=1067&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6abc217fb23c6fb2b81a54f0?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
+| **[Mercury Systems](http://www.mrcy.com)** | **[2027 IT Business Systems Intern](https://jobright.ai/jobs/info/6aa9b6adeff87f571fc9ae43?utm_campaign=1067&utm_source=git)** | Andover, MA, United States | On Site | Nov 19 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ccbda33a3dfa7359328f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 | ↳ | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6ae2ca64d52406f6fbf738a2?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
