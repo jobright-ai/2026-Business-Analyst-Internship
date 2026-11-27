@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b08b291aa59d5ea1da521ca?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b08510c03dd5bd15ba46fd4?utm_campaign=1067&utm_source=git)** | Amsterdam, New Hampshire, United States | On Site | Nov 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 26 |
