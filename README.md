@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b091c7cecb44182f0ee3fc8?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 26 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b08510c03dd5bd15ba46fd4?utm_campaign=1067&utm_source=git)** | Amsterdam, New Hampshire, United States | On Site | Nov 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 26 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/6b083988cc765a1208d9ba26?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Nov 26 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern, Hair Professional – Summer/Fall 2027](https://jobright.ai/jobs/info/6b075ce7b624dcc57de7991b?utm_campaign=1067&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
@@ -115,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst Intern - Store Operations —Summer 2027](https://jobright.ai/jobs/info/6b0002e980dbbb90153930aa?utm_campaign=1067&utm_source=git)** | Burlington, Vermont, United States | Hybrid | Nov 20 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Intern - IT Business Analyst, Summer 2027](https://jobright.ai/jobs/info/6ac6e26a0e027c0f3b3b4bba?utm_campaign=1067&utm_source=git)** | St. Louis, MO, United States | Hybrid | Nov 20 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Business Management – Summer 2027 Intern](https://jobright.ai/jobs/info/6a90a6140bd89e205d24ba1f?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 20 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[IT Business Systems Intern - Summer 2027](https://jobright.ai/jobs/info/6ae365a0c3139b475b5acad6?utm_campaign=1067&utm_source=git)** | Northbrook, IL, United States | Hybrid | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
