@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b09e0a562c6023db3022ee0?utm_campaign=1067&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 27 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 27 |
@@ -66,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b08510c03dd5bd15ba46fd4?utm_campaign=1067&utm_source=git)** | Amsterdam, New Hampshire, United States | On Site | Nov 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 26 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/6b083988cc765a1208d9ba26?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Nov 26 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern, Hair Professional – Summer/Fall 2027](https://jobright.ai/jobs/info/6b075ce7b624dcc57de7991b?utm_campaign=1067&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[American Electric Power](http://aep.com)** | **[Business Intern - Spring 2027](https://jobright.ai/jobs/info/6af60ced79862a378dcf0469?utm_campaign=1067&utm_source=git)** | Corpus Christi, TX, United States | On Site | Nov 23 |
 | **[Fort Washington Investment Advisors, Inc.](http://www.fortwashington.com)** | **[Business Analytics & Automation Intern (Full Year 2027)](https://jobright.ai/jobs/info/6b04ab017bec27df08f933f9?utm_campaign=1067&utm_source=git)** | Cincinnati, OH, United States | On Site | Nov 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst Intern -- Summer Internship Program](https://jobright.ai/jobs/info/6b046af4526905eb2bcf6bc5?utm_campaign=1067&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 23 |
-| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
-| ↳ | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
+| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Business Performance & Analytics Intern (Houston, TX)](https://jobright.ai/jobs/info/6aa3d0a09b7684dd0b92df72?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | Hybrid | Nov 23 |
+| ↳ | **[2027 Summer Commercial Business Solutions Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6ab4189dd2f5fbd604be18ba?utm_campaign=1067&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
 | ↳ | **[2027 Business Manager Intern - Geysers](https://jobright.ai/jobs/info/6aea13c6897466e69e31b480?utm_campaign=1067&utm_source=git)** | Middletown, CA, United States | On Site | Nov 23 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Undergraduate Intern – Business Services Focus](https://jobright.ai/jobs/info/6ae78ecefb2cd420ace63371?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
 | ↳ | **[Undergraduate Intern – Business Analysis Focus](https://jobright.ai/jobs/info/6ae78ecba2a252e219423d5c?utm_campaign=1067&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 23 |
@@ -115,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Business Transformation (Milwaukee, WI Summer 2027)](https://jobright.ai/jobs/info/6ac6868d8ff3fb9b3bc8d91c?utm_campaign=1067&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Nov 21 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Federal Reserve Summer Business 2027 Internship](https://jobright.ai/jobs/info/6a8f7606d96ad228f125dd36?utm_campaign=1067&utm_source=git)** | Richmond, VA, United States | On Site | Nov 21 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[IT Business Analyst Intern - Summer 2027](https://jobright.ai/jobs/info/6ae51058eab1f9673097f6c6?utm_campaign=1067&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
-| **[Centier Bank](https://centier.com)** | **[Business Planning & Analysis Intern](https://jobright.ai/jobs/info/6b00cc7edf73191d2e6aeb8c?utm_campaign=1067&utm_source=git)** | Merrillville, IN, United States | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
