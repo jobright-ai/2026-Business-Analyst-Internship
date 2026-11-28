@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vortexion Labs](vortexionlabs.com)** | **[Business Summer Intern](https://jobright.ai/jobs/info/6b0ad21e2baa9fb07ea4a555?utm_campaign=1067&utm_source=git)** | Austin, TX, United States | On Site | Nov 28 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[2027 Summer Business Internship](https://jobright.ai/jobs/info/6a8f8a6aa19886486675de04?utm_campaign=1067&utm_source=git)** | Itasca, IL, United States | On Site | Nov 28 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Improvement Intern](https://jobright.ai/jobs/info/6b0aba7a5f0c27a3a3ceedc2?utm_campaign=1067&utm_source=git)** | Red Dog Mine, AK, United States | On Site | Nov 28 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IT Business Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/6ace5f664f3229123da3bab4?utm_campaign=1067&utm_source=git)** | Perry, OK, United States | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern-Stage Business Analyst - Commercial and Supply Chain - Analyste d'affaires - Commercial et chaîne d'approvisionnement](https://jobright.ai/jobs/info/6b0a621b5f0c27a3a3cee7b5?utm_campaign=1067&utm_source=git)** | Quebec, Canada | Hybrid | Nov 27 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Business Systems Analyst Internship Summer 2027](https://jobright.ai/jobs/info/6ababf971acb8fc6f09c14e8?utm_campaign=1067&utm_source=git)** | Chicago, IL, United States | On Site | Nov 26 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/6b08510c03dd5bd15ba46fd4?utm_campaign=1067&utm_source=git)** | Amsterdam, New Hampshire, United States | On Site | Nov 26 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2027 Business Analytics & Insights Intern](https://jobright.ai/jobs/info/6ab1b985d2a93d5a97ebc9bd?utm_campaign=1067&utm_source=git)** | Green Bay, WI, United States | On Site | Nov 26 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6abbe37d7119e56191ce9a92?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
+| **[Scoular](http://www.scoular.com/)** | **[IT Intern - Summer 2027](https://jobright.ai/jobs/info/6a96e3ffd13b4819f39dd8eb?utm_campaign=1067&utm_source=git)** | Omaha, NE, United States | On Site | Nov 26 |
 | **[Ededge Groups](https://ededgelearning.com)** | **[Business Analyst  Intern](https://jobright.ai/jobs/info/6b083988cc765a1208d9ba26?utm_campaign=1067&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Heartland Business Systems](https://www.hbs.net)** | **[Commercial Business Associate - Summer 2027 Internship Program](https://jobright.ai/jobs/info/6a96cecf246d697dcee01545?utm_campaign=1067&utm_source=git)** | Little Chute, WI, United States | On Site | Nov 26 |
 | **[Henkel](http://www.henkel.com)** | **[Business Analytics Intern, Hair Professional – Summer/Fall 2027](https://jobright.ai/jobs/info/6b075ce7b624dcc57de7991b?utm_campaign=1067&utm_source=git)** | Culver City, CA, United States | On Site | Nov 25 |
