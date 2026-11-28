@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CN](http://www.cn.ca)** | **[Intern-Stage Business Analyst - SAP Foundation - Analyste d'affaires - Fondations SAP](https://jobright.ai/jobs/info/6b0a108faaf0c31c7c970f85?utm_campaign=1067&utm_source=git)** | Quebec, Canada | Hybrid | Nov 27 |
+| **[CN](http://www.cn.ca)** | **[Intern-Stage Business Analyst - Commercial and Supply Chain - Analyste d'affaires - Commercial et chaîne d'approvisionnement](https://jobright.ai/jobs/info/6b0a621b5f0c27a3a3cee7b5?utm_campaign=1067&utm_source=git)** | Quebec, Canada | Hybrid | Nov 27 |
+| ↳ | **[Intern-Stage Business Analyst - SAP Foundation - Analyste d'affaires - Fondations SAP](https://jobright.ai/jobs/info/6b0a108faaf0c31c7c970f85?utm_campaign=1067&utm_source=git)** | Quebec, Canada | Hybrid | Nov 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6af753143ba46d7b6c1656cc?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 27 |
 | **[Hays Electrical Services](https://www.hayselectrical.com)** | **[Intern - Business Systems](https://jobright.ai/jobs/info/6af722bb41166cab75648408?utm_campaign=1067&utm_source=git)** | Houston, TX, United States | On Site | Nov 27 |
 | **[General Atomics](http://www.ga.com)** | **[Intern - Undergraduate (business)](https://jobright.ai/jobs/info/6aed5628c3da5933b8136a1f?utm_campaign=1067&utm_source=git)** | San Diego, CA, United States | On Site | Nov 27 |
